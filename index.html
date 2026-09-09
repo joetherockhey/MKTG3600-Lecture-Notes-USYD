@@ -299,10 +299,11 @@ details.fold.viz[open] summary{border-bottom:1px solid var(--rule)}
 .foot{max-width:var(--maxw);margin:0 auto;padding:32px 24px 60px;border-top:1px solid var(--rule);color:var(--ink-3);font-size:13px}
 
 @media(max-width:900px){
-  .wk-body{grid-template-columns:1fr;gap:0}
-  nav.toc{position:static;margin-bottom:30px;border-bottom:1px solid var(--rule);padding-bottom:20px}
-  nav.toc .tocwrap{display:flex;gap:8px;overflow-x:auto;padding-bottom:4px}
-  nav.toc a{border-left:none;border-bottom:1.5px solid var(--rule);white-space:nowrap;padding:5px 10px}
+  .wk-body{grid-template-columns:minmax(0,1fr);gap:0}
+  nav.toc{position:static;min-width:0;margin-bottom:30px;border-bottom:1px solid var(--rule);padding-bottom:20px}
+  nav.toc .tocwrap{display:flex;gap:8px;overflow-x:auto;padding-bottom:6px;scrollbar-width:none;-webkit-overflow-scrolling:touch;overscroll-behavior-x:contain}
+  nav.toc .tocwrap::-webkit-scrollbar{display:none}
+  nav.toc a{border-left:none;border-bottom:1.5px solid var(--rule);white-space:nowrap;padding:5px 10px;flex:0 0 auto}
   nav.toc a.active{border-left:none;border-bottom-color:var(--ox)}
   .spine{grid-template-columns:repeat(6,1fr);gap:14px 0}
   .spine::before{display:none}
