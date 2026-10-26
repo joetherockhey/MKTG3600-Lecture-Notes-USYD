@@ -141,6 +141,8 @@ main{max-width:var(--maxw);margin:0 auto;padding:0 24px 120px}
 }
 .avatar img{width:100%;height:100%;object-fit:cover}
 .avatar.empty{background:transparent;border-style:dashed;color:var(--ink-3);font-family:var(--mono);font-size:16px}
+.avs{display:flex;flex-shrink:0}
+.avs .avatar+.avatar{margin-left:-12px;box-shadow:0 0 0 2px var(--card)}
 .sp-name{font-weight:500;font-size:15.5px;line-height:1.3}
 .sp-org{font-size:13px;color:var(--ink-3);margin-top:2px}
 .wc-topic{font-family:var(--display);font-size:19px;font-weight:600;line-height:1.28;letter-spacing:-.01em;margin:0}
@@ -3468,7 +3470,9 @@ Future Demand — James Hurman. The distinction between the two sets of hands; a
     <nav class="toc" data-for="w11"><span class="lbl">On this page</span><div class="tocwrap"></div></nav>
     <article id="art-w11">
 
-<div class="box pet"><span class="bl">Who is speaking</span><p>This week had two speakers from the media-agency side of the industry. <strong>Ali Coysh</strong>, National Head of Strategy at Initiative, covered how media strategy works (sections 01&#8211;05). <strong>Geoff Clarke</strong>, Chief Operating Officer of IPG Mediabrands Australia, who sits on AI councils, covered automation and AI in agencies (sections 06&#8211;11).</p></div>
+<div class="box pet"><span class="bl">Who is speaking</span><p>This week had two speakers from the media-agency side of the industry.</p>
+<p><strong>Ali Coysh</strong>, National Head of Strategy at Initiative Australia, covered how media strategy works (sections 01&#8211;05). He leads strategy for clients including Netflix, Volvo, Pernod, Dulux, HelloFresh and Pizza Hut. He has more than 16 years in the media industry across London and Sydney, and has delivered award-winning work for some of the world&#8217;s biggest brands.</p>
+<p><strong>Geoff Clarke</strong>, Chief Operating Officer of IPG Mediabrands Australia, covered automation and AI in agencies (sections 06&#8211;11). He has more than 30 years in media agencies, in roles from Investment Director and Chief Investment Officer to Client Partner, Managing Director and COO. As COO of both Mediabrands and Initiative Australia since 2015, he led the transformation that made Initiative a top-ranked national agency. He also built the company&#8217;s Robotic Process Automation (RPA) program from scratch. He now leads the operational integration of the Mediabrands portfolio and sits on AI councils.</p></div>
 
 <h2 id="w11-1"><span class="num">01</span>The agency landscape</h2>
 
@@ -3722,6 +3726,7 @@ const WEEKS = [
    contributors:["Danielle","Eliza","Emi","Joe","Ken","Mattie","Vy","Zea"]},
   {n:11, status:"live", id:"w11", speaker:"Ali Coysh & Geoff Clarke", org:"Initiative and IPG Mediabrands Australia",
    topic:"Inside a media agency: strategy, automation and AI", initials:"AC",
+   speaker2:{id:"w11b", name:"Geoff Clarke", initials:"GC"},
    contributors:["Giselle","Rose"]},
   {n:12, status:"pending"}, {n:13, status:"pending"}
 ];
@@ -3751,7 +3756,8 @@ WEEKS.forEach(w=>{
     c.innerHTML =
       '<div class="wc-top"><span class="wc-wk">Week '+String(w.n).padStart(2,'0')+'</span>'+
       '<span class="pill up">Notes up</span></div>'+
-      '<div class="speaker"><div class="avatar empty" data-speaker="'+w.id+'" data-name="'+w.speaker+'">'+w.initials+'</div>'+
+      '<div class="speaker"><div class="avs"><div class="avatar empty" data-speaker="'+w.id+'" data-name="'+w.speaker+'">'+w.initials+'</div>'+
+      (w.speaker2?'<div class="avatar empty" data-speaker="'+w.speaker2.id+'" data-name="'+w.speaker2.name+'">'+w.speaker2.initials+'</div>':'')+'</div>'+
       '<div><div class="sp-name">'+w.speaker+'</div><div class="sp-org">'+w.org+'</div></div></div>'+
       '<p class="wc-topic">'+w.topic+'</p>'+
       '<div class="wc-foot"><span class="lbl">Notes by</span><div class="chips">'+
