@@ -1,0 +1,155 @@
+{
+  "week": 7,
+  "chrome": "Tim Collier · Cummins & Partners",
+  "scenes": [
+    {
+      "type": "title",
+      "say": "Week seven. Strategy in a creative agency, with Tim Collier from Cummins and Partners.",
+      "eyebrow": "Week 7 · Guest lecture",
+      "title": "Strategy in a creative agency",
+      "speaker": "Tim Collier",
+      "org": "Cummins & Partners",
+      "photo": "w7.jpg"
+    },
+    {
+      "type": "flow",
+      "kicker": "What a planner does",
+      "say": "The planner sits in the middle. The client has a business problem. Strategy asks how it affects the audience. Creative makes something people remember.",
+      "steps": [
+        {
+          "cue": "client",
+          "text": "Client",
+          "sub": "What’s the problem?",
+          "tone": "ink"
+        },
+        {
+          "cue": "strategy",
+          "text": "Strategy",
+          "sub": "How does it affect the audience?",
+          "tone": "ox"
+        },
+        {
+          "cue": "creative",
+          "text": "Creative",
+          "sub": "What entertains and gets remembered?",
+          "tone": "petrol"
+        }
+      ]
+    },
+    {
+      "type": "skit",
+      "kicker": "The first job is subtraction",
+      "say": "A client hands you a five page brief with everything in it. Your first job is subtraction: get it down to one line a creative team can use.",
+      "cast": [
+        {
+          "name": "Client",
+          "look": 2
+        },
+        {
+          "name": "Strategist",
+          "look": 0
+        }
+      ],
+      "beats": [
+        {
+          "who": 0,
+          "cue": "five",
+          "text": "Here’s our *five-page* brief."
+        },
+        {
+          "who": 1,
+          "cue": "subtraction",
+          "kind": "think",
+          "text": "Make it *one line*."
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "kicker": "Discover",
+      "title": "The 5Cs",
+      "cols": 2,
+      "say": "To discover, use the five C's. Company, culture, category, connections, and consumer.",
+      "items": [
+        {
+          "cue": "company",
+          "head": "Company"
+        },
+        {
+          "cue": "culture",
+          "head": "Culture"
+        },
+        {
+          "cue": "category",
+          "head": "Category"
+        },
+        {
+          "cue": "connections",
+          "head": "Connections"
+        },
+        {
+          "cue": "consumer",
+          "head": "Consumer"
+        }
+      ]
+    },
+    {
+      "type": "statement",
+      "kicker": "Get / Who / To / By",
+      "say": "Frame it with get, who, to, by. And remember, the single minded proposition is an invitation, not a claim.",
+      "lines": [
+        {
+          "cue": "get",
+          "text": "*Get* [audience] *who* [insight] *to* [action] *by* [message]."
+        },
+        {
+          "cue": "single",
+          "text": "The single-minded proposition is an *invitation*, not a claim.",
+          "tone": "petrol"
+        }
+      ]
+    },
+    {
+      "type": "flow",
+      "kicker": "The strategist’s four steps",
+      "say": "The strategist's four steps: discover, synthesise, plan, instruct. And the Effie is the award that proves the work drove profit.",
+      "steps": [
+        {
+          "cue": "discover",
+          "text": "Discover"
+        },
+        {
+          "cue": "synth",
+          "text": "Synthesis"
+        },
+        {
+          "cue": "plan",
+          "text": "Plan"
+        },
+        {
+          "cue": "instruct",
+          "text": "Instruct"
+        }
+      ],
+      "note": {
+        "cue": "effie",
+        "text": "The *Effie*: proof the work worked."
+      }
+    },
+    {
+      "type": "outro",
+      "say": "His advice? Be curious, and be opinionated. The world changes a lot. People don't.",
+      "lines": [
+        {
+          "cue": "curious",
+          "text": "Be curious. Be *opinionated*."
+        },
+        {
+          "cue": "world",
+          "text": "The world changes a lot. *People don’t.*"
+        }
+      ],
+      "footAt": 4.5
+    }
+  ]
+}

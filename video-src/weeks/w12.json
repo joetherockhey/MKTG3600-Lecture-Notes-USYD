@@ -1,0 +1,145 @@
+{
+  "week": 12,
+  "chrome": "Nicky Barton · Mutinex",
+  "scenes": [
+    {
+      "type": "title",
+      "say": "Week twelve. Measuring what matters, with Nicky Barton from Mutinex.",
+      "eyebrow": "Week 12 · Guest lecture",
+      "title": "Measuring what matters",
+      "speaker": "Nicky Barton",
+      "org": "Head of Marketing Science, Mutinex",
+      "photo": "w12.jpg"
+    },
+    {
+      "type": "skit",
+      "kicker": "Last touch",
+      "say": "Last-click attribution gives the final click all the credit. It's like a group assignment where whoever hits submit gets the whole mark.",
+      "cast": [
+        {
+          "name": "Did the research",
+          "look": 1
+        },
+        {
+          "name": "Hit submit",
+          "look": 3
+        }
+      ],
+      "beats": [
+        {
+          "who": 1,
+          "cue": "submit",
+          "text": "I’ll take the *100%*, thanks."
+        },
+        {
+          "who": 0,
+          "cue": "whole",
+          "kind": "think",
+          "text": "Hang on…"
+        }
+      ]
+    },
+    {
+      "type": "statement",
+      "kicker": "Crediting only the bottom of the funnel",
+      "say": "Crediting only the bottom of the funnel starves the brand. Then privacy changes broke individual tracking. Ask every platform what it sold, and the answers add up to more than a hundred percent.",
+      "lines": [
+        {
+          "cue": "starves",
+          "text": "Crediting only the last touch *starves the brand*."
+        },
+        {
+          "cue": "privacy",
+          "size": "s",
+          "text": "Then Safari limits, GDPR and Apple’s “ask app not to track” broke individual tracking."
+        },
+        {
+          "cue": "ask",
+          "size": "s",
+          "text": "Ask every platform what it sold: the answers add up to *more than 100%*."
+        }
+      ]
+    },
+    {
+      "type": "flow",
+      "kicker": "Marketing mix modelling",
+      "say": "Marketing mix modelling reads the whole market: sales, spend, price, seasonality and competitors. It shows what drove sales, and where the next dollar should go.",
+      "steps": [
+        {
+          "cue": "sales",
+          "text": "Inputs",
+          "sub": "Sales, spend, price, season, economy, competitors",
+          "tone": "petrol"
+        },
+        {
+          "cue": "shows",
+          "text": "MMM",
+          "sub": "Probabilistic, privacy safe",
+          "tone": "ink"
+        },
+        {
+          "cue": "next",
+          "text": "Outputs",
+          "sub": "What drove sales, ROI, the next dollar",
+          "tone": "ox"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "kicker": "How the model thinks",
+      "cols": 2,
+      "say": "It thinks in pictures. A café on a busy corner is your baseline. A song stuck in your head: ads keep working. And the fifth slice of pizza: diminishing returns.",
+      "items": [
+        {
+          "cue": "caf",
+          "head": "Café on a busy corner",
+          "sub": "Baseline"
+        },
+        {
+          "cue": "song",
+          "head": "Song stuck in your head",
+          "sub": "Ads keep working",
+          "tone": "petrol"
+        },
+        {
+          "cue": "fifth",
+          "head": "The fifth slice of pizza",
+          "sub": "Diminishing returns",
+          "tone": "amber"
+        }
+      ]
+    },
+    {
+      "type": "statement",
+      "kicker": "Across 83 AU and NZ brands",
+      "say": "Across eighty three brands, those that kept their brand muscle grew most. If you can't add budget, don't add channels.",
+      "lines": [
+        {
+          "cue": "kept",
+          "text": "Brands that kept their *brand muscle* grew most."
+        },
+        {
+          "cue": "can't",
+          "text": "Can’t add budget? Don’t add *channels*.",
+          "tone": "petrol"
+        }
+      ]
+    },
+    {
+      "type": "outro",
+      "say": "The takeaway? Judgement becomes the job. Always ask: how do we know it worked?",
+      "lines": [
+        {
+          "cue": "judgement",
+          "text": "Judgement becomes the *job*."
+        },
+        {
+          "cue": "how",
+          "text": "Always ask: *how do we know it worked?*"
+        }
+      ],
+      "footAt": 4
+    }
+  ]
+}

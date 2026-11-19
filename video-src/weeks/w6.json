@@ -1,0 +1,143 @@
+{
+  "week": 6,
+  "chrome": "Libby Hogson · UNICEF Australia",
+  "scenes": [
+    {
+      "type": "title",
+      "say": "Week six. Managing a brand for social purpose, with Libby Hogson from UNICEF Australia.",
+      "eyebrow": "Week 6 · Guest lecture",
+      "title": "Managing a brand for social purpose",
+      "speaker": "Libby Hogson",
+      "org": "UNICEF Australia",
+      "photo": "w6.png"
+    },
+    {
+      "type": "stats",
+      "kicker": "A saturated, contracting market",
+      "say": "There are over sixty thousand Australian charities. One for every four hundred and thirty nine people. And fewer donors are giving more.",
+      "stats": [
+        {
+          "cue": "sixty",
+          "value": 60000,
+          "suffix": "+",
+          "label": "Australian charities"
+        },
+        {
+          "cue": "one",
+          "value": 439,
+          "prefix": "1 per ",
+          "label": "people",
+          "tone": "petrol"
+        }
+      ],
+      "note": {
+        "cue": "fewer",
+        "text": "Fewer donors, giving *more*."
+      }
+    },
+    {
+      "type": "bars",
+      "kicker": "The money was in the wrong place",
+      "max": 100,
+      "say": "In twenty twenty UNICEF had zero unprompted awareness. Yet about ninety five percent of spend went on conversion, and five percent on awareness. The top of the funnel was empty.",
+      "bars": [
+        {
+          "cue": "ninety",
+          "label": "Conversion & retention",
+          "value": 95,
+          "display": "~95%",
+          "tone": "ink"
+        },
+        {
+          "cue": "awareness",
+          "label": "Awareness",
+          "value": 5,
+          "display": "~5%",
+          "tone": "ox"
+        }
+      ],
+      "note": {
+        "cue": "empty",
+        "text": "Optimising a funnel whose *top was empty*."
+      }
+    },
+    {
+      "type": "stats",
+      "kicker": "Mental availability",
+      "say": "Top of mind, donation intent is nineteen percent. Only prompted, it's seven. Mental availability nearly triples intent.",
+      "stats": [
+        {
+          "cue": "nineteen",
+          "value": 19,
+          "suffix": "%",
+          "label": "intent when *top of mind*"
+        },
+        {
+          "cue": "seven",
+          "value": 7,
+          "suffix": "%",
+          "label": "intent when only prompted",
+          "tone": "ink"
+        }
+      ],
+      "note": {
+        "cue": "triples",
+        "text": "Mental availability nearly *triples* intent."
+      }
+    },
+    {
+      "type": "statement",
+      "kicker": "The positioning",
+      "say": "So the positioning: UNICEF inspires Australians with the determination it takes to protect every child, no matter what. Then say it again and again.",
+      "lines": [
+        {
+          "cue": "unicef",
+          "text": "UNICEF inspires Australians with the *determination* it takes to protect every child, no matter what."
+        },
+        {
+          "cue": "again",
+          "size": "s",
+          "text": "Consistency is the place you hold in people’s minds, said again and again."
+        }
+      ]
+    },
+    {
+      "type": "flow",
+      "kicker": "The measurement chain",
+      "say": "Then measure the chain. Ad awareness and share of voice drive unprompted awareness, then donation intent, then market share.",
+      "steps": [
+        {
+          "cue": "ad",
+          "text": "Ad awareness + share of voice"
+        },
+        {
+          "cue": "unprompted",
+          "text": "Unprompted awareness"
+        },
+        {
+          "cue": "donation",
+          "text": "Donation intent"
+        },
+        {
+          "cue": "market",
+          "text": "Market share"
+        }
+      ]
+    },
+    {
+      "type": "outro",
+      "say": "The takeaway? Brand building in a charity is brand building. Stay the course, and measure everything.",
+      "lines": [
+        {
+          "cue": "brand",
+          "text": "Brand building in a charity *is* brand building."
+        },
+        {
+          "cue": "stay",
+          "text": "Stay the course. *Measure everything.*"
+        }
+      ],
+      "footAt": 5
+    }
+  ]
+}

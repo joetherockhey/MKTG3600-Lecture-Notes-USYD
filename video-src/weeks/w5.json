@@ -1,0 +1,150 @@
+{
+  "week": 5,
+  "chrome": "Shannon Wright · Nestlé Oceania",
+  "scenes": [
+    {
+      "type": "title",
+      "say": "Week five. Managing the evolution of brands, with Shannon Wright from Nestlé. Two brands, two paths: KitKat and Allen's.",
+      "eyebrow": "Week 5 · Guest lecture",
+      "title": "Managing the evolution of brands",
+      "speaker": "Shannon Wright",
+      "org": "Nestlé Oceania",
+      "photo": "w5.png"
+    },
+    {
+      "type": "flow",
+      "kicker": "KitKat · the consistency path",
+      "title": "KitKat stands for *a break*",
+      "say": "KitKat stands for a break, and three truths line up. The brand believes breaks are good. Everyone needs a break. And the bar is made to be broken.",
+      "steps": [
+        {
+          "cue": "brand",
+          "text": "Brand belief",
+          "sub": "Breaks are good"
+        },
+        {
+          "cue": "everyone",
+          "text": "Audience truth",
+          "sub": "Everyone needs a break"
+        },
+        {
+          "cue": "bar",
+          "text": "Product truth",
+          "sub": "Made to be broken"
+        }
+      ]
+    },
+    {
+      "type": "skit",
+      "kicker": "The most dangerous person in marketing",
+      "say": "The most dangerous person in marketing is the bored brand manager, who changes what didn't need changing. Consistency isn't limiting. It's a superpower.",
+      "cast": [
+        {
+          "name": "Bored brand manager",
+          "look": 4
+        },
+        {
+          "name": "Strategist",
+          "look": 1
+        }
+      ],
+      "beats": [
+        {
+          "who": 0,
+          "cue": "bored",
+          "text": "Let’s change the *logo*!"
+        },
+        {
+          "who": 1,
+          "cue": "consistency",
+          "kind": "think",
+          "text": "Consistency is a *superpower*."
+        }
+      ]
+    },
+    {
+      "type": "stats",
+      "kicker": "The need is unchanged; the tension evolved",
+      "say": "For Gen Z, sixty three percent say they need a break, but sixty four percent can't switch off. So the job is the emotional break.",
+      "stats": [
+        {
+          "cue": "sixty",
+          "value": 63,
+          "suffix": "%",
+          "label": "of Gen Z say they need a break",
+          "tone": "petrol"
+        },
+        {
+          "cue": "sixty",
+          "value": 64,
+          "suffix": "%",
+          "label": "can’t switch off"
+        }
+      ],
+      "note": {
+        "cue": "emotional",
+        "text": "The job is the *emotional* break."
+      }
+    },
+    {
+      "type": "stats",
+      "kicker": "Cultural relevance is a currency",
+      "say": "A debate about your brand is a jackpot. The argument over how to eat a KitKat drew twenty seven million engagements. Fan the flames.",
+      "stats": [
+        {
+          "cue": "twenty",
+          "value": 27,
+          "suffix": "M",
+          "label": "engagements from the *how do you eat it?* debate"
+        }
+      ],
+      "note": {
+        "cue": "fan",
+        "text": "Fan the flames. Don’t shut it down."
+      }
+    },
+    {
+      "type": "flow",
+      "kicker": "Allen’s · the long-term path",
+      "title": "Mapping a brand stretch",
+      "say": "Allen's wants to be a playground, not a museum. Stretch is mapped from core, to near adjacency, to credible stretch, to the exception.",
+      "steps": [
+        {
+          "cue": "core",
+          "text": "Core",
+          "tone": "petrol"
+        },
+        {
+          "cue": "near",
+          "text": "Near adjacency",
+          "tone": "petrol"
+        },
+        {
+          "cue": "credible",
+          "text": "Credible stretch",
+          "tone": "amber"
+        },
+        {
+          "cue": "exception",
+          "text": "Exception",
+          "tone": "ox"
+        }
+      ]
+    },
+    {
+      "type": "outro",
+      "say": "The takeaway? Consistency, not sameness. Protect your assets. Use them or lose them.",
+      "lines": [
+        {
+          "cue": "consistency",
+          "text": "Consistency, not *sameness*."
+        },
+        {
+          "cue": "use",
+          "text": "Use your assets or *lose* them."
+        }
+      ],
+      "footAt": 4.5
+    }
+  ]
+}

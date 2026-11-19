@@ -1,0 +1,173 @@
+{
+  "week": 11,
+  "chrome": "Ali Coysh · Geoff Clarke",
+  "scenes": [
+    {
+      "type": "title",
+      "say": "Week eleven. Inside a media agency, with Ali Coysh from Initiative and Geoff Clarke from I.P.G. Mediabrands.",
+      "eyebrow": "Week 11 · Guest lecture",
+      "title": "Inside a media agency: strategy, automation and AI",
+      "speaker": "Ali Coysh & Geoff Clarke",
+      "org": "Initiative · IPG Mediabrands Australia",
+      "photos": [
+        "w11.png",
+        "w11b.png"
+      ]
+    },
+    {
+      "type": "versus",
+      "kicker": "Media’s job has grown",
+      "say": "Media used to mean planning and buying paid space. Now it orchestrates whole customer experiences, across owned, earned, shared and paid.",
+      "left": {
+        "cue": "planning",
+        "label": "Then",
+        "tone": "ink",
+        "items": [
+          {
+            "text": "Plan, buy, report"
+          },
+          {
+            "text": "Paid media only"
+          }
+        ]
+      },
+      "right": {
+        "cue": "orchestrates",
+        "label": "Now",
+        "tone": "petrol",
+        "items": [
+          {
+            "text": "Orchestrate customer experiences"
+          },
+          {
+            "cue": "owned",
+            "text": "Owned · earned · shared · paid"
+          }
+        ]
+      }
+    },
+    {
+      "type": "flow",
+      "kicker": "Ali’s logic flow",
+      "say": "Ali's logic flow runs from the journey stage, to the bond or barrier, to media role, channel, platform, and environment.",
+      "steps": [
+        {
+          "cue": "journey",
+          "text": "Journey stage"
+        },
+        {
+          "cue": "bond",
+          "text": "Bond or barrier"
+        },
+        {
+          "cue": "role",
+          "text": "Media role"
+        },
+        {
+          "cue": "channel",
+          "text": "Channel"
+        },
+        {
+          "cue": "platform",
+          "text": "Platform"
+        },
+        {
+          "cue": "environment",
+          "text": "Environment"
+        }
+      ]
+    },
+    {
+      "type": "stats",
+      "kicker": "Case · NRMA “Help our highway”",
+      "say": "For NRMA in Queensland, that meant the highest non-customer consideration in six years, and a four hundred and sixty seven million dollar commitment to fix the Bruce Highway.",
+      "stats": [
+        {
+          "cue": "highest",
+          "text": "6 yrs",
+          "value": 6,
+          "label": "highest non-customer consideration",
+          "tone": "petrol"
+        },
+        {
+          "cue": "four",
+          "value": 467,
+          "prefix": "$",
+          "suffix": "M",
+          "label": "committed to fix the Bruce Highway"
+        }
+      ]
+    },
+    {
+      "type": "skit",
+      "kicker": "Geoff · bots are an invisible police force",
+      "say": "Geoff's point: seventy percent of agency work is downstream, and still manual. Bots now handle setup, tracking and makegoods, saving two hundred and seven thousand hours.",
+      "cast": [
+        {
+          "name": "Media buyer",
+          "look": 3
+        },
+        {
+          "name": "Ops lead",
+          "look": 2
+        }
+      ],
+      "beats": [
+        {
+          "who": 0,
+          "cue": "manual",
+          "text": "Seventy percent of this is *manual*?"
+        },
+        {
+          "who": 1,
+          "cue": "bots",
+          "text": "The *bots* have it now."
+        }
+      ],
+      "chips": [
+        {
+          "cue": "hundred",
+          "text": "207,000 hours saved",
+          "tone": "petrol"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "kicker": "Skills needed now",
+      "title": "What sets people apart",
+      "say": "So the skills that matter are data driven thinking, creative and strategic thinking, and adaptability, with lifelong learning.",
+      "items": [
+        {
+          "cue": "data",
+          "head": "Data-driven thinking"
+        },
+        {
+          "cue": "creative",
+          "head": "Creative and strategic thinking",
+          "tone": "petrol"
+        },
+        {
+          "cue": "adaptability",
+          "head": "Adaptability and lifelong learning",
+          "tone": "amber"
+        }
+      ]
+    },
+    {
+      "type": "outro",
+      "say": "The takeaway? It's creative and media now. The lasting differentiator is the craft of your people.",
+      "lines": [
+        {
+          "cue": "creative",
+          "text": "It’s creative *and* media now."
+        },
+        {
+          "cue": "craft",
+          "text": "The lasting differentiator: the *craft* of your people."
+        }
+      ],
+      "footAt": 4.5
+    }
+  ]
+}

@@ -1,0 +1,190 @@
+{
+  "week": 10,
+  "chrome": "Bryce Coombe · Hypetap",
+  "scenes": [
+    {
+      "type": "title",
+      "say": "Week ten. Inside the world of influencer marketing, with Bryce Coombe from Hypetap.",
+      "eyebrow": "Week 10 · Guest lecture",
+      "title": "Inside the world of influencer marketing",
+      "speaker": "Bryce Coombe",
+      "org": "Managing Director, Hypetap",
+      "photo": "w10.png"
+    },
+    {
+      "type": "stats",
+      "kicker": "The audience is huge",
+      "say": "Australians spend twenty nine and a half hours a month on TikTok. And eighty percent are there mainly for creator content.",
+      "stats": [
+        {
+          "cue": "twenty",
+          "value": 29.5,
+          "decimals": 1,
+          "suffix": "h",
+          "label": "a month on TikTok, per Australian user"
+        },
+        {
+          "cue": "eighty",
+          "value": 80,
+          "suffix": "%",
+          "label": "there mainly for influencer content",
+          "tone": "petrol"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "kicker": "Why it works",
+      "title": "I expect it. I trust it. I buy on it.",
+      "say": "Seventy five percent have acted on something they saw in their feed. And social is now search: nearly half of US consumers use TikTok as a search engine.",
+      "items": [
+        {
+          "cue": "seventy",
+          "head": "75% have acted on a product in their feed",
+          "mark": "✓"
+        },
+        {
+          "cue": "social",
+          "head": "Social is now *search*",
+          "sub": "~50% of US consumers search on TikTok; AI models learn from creators",
+          "mark": "✓",
+          "tone": "petrol"
+        }
+      ]
+    },
+    {
+      "type": "skit",
+      "kicker": "Value exchange",
+      "say": "A creator showing the product in real life, like a recipe, gets positive sentiment. Strict brand scripts get neutral at best.",
+      "cast": [
+        {
+          "name": "Creator",
+          "look": 1,
+          "prop": "phone"
+        },
+        {
+          "name": "Viewer",
+          "look": 0
+        }
+      ],
+      "beats": [
+        {
+          "who": 0,
+          "cue": "recipe",
+          "text": "Here’s what I actually *cook* with it."
+        },
+        {
+          "who": 1,
+          "cue": "positive",
+          "kind": "think",
+          "text": "Love this. *Saving it.*"
+        }
+      ],
+      "chips": [
+        {
+          "cue": "strict",
+          "text": "Scripted brand ad → neutral",
+          "tone": "ink"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "kicker": "Risk",
+      "title": "The brand is *liable*, not the influencer",
+      "mark": "!",
+      "say": "And the brand is liable, not the influencer. A free product counts as paid, so disclose it. And never trust a screen grab.",
+      "items": [
+        {
+          "cue": "free",
+          "head": "Free product = paid advertising",
+          "sub": "Disclose it"
+        },
+        {
+          "cue": "never",
+          "head": "Never trust a screen grab",
+          "sub": "Check reach, deleted posts, fit"
+        }
+      ]
+    },
+    {
+      "type": "versus",
+      "kicker": "Measure growth, not just attention",
+      "say": "Views and engagement explain attention, not growth. Measure mental availability, share of voice, perception, and behaviour change.",
+      "left": {
+        "cue": "views",
+        "label": "Attention",
+        "tone": "ink",
+        "items": [
+          {
+            "text": "Views"
+          },
+          {
+            "text": "Engagement"
+          }
+        ]
+      },
+      "right": {
+        "cue": "mental",
+        "label": "Growth",
+        "tone": "ox",
+        "items": [
+          {
+            "text": "Mental availability"
+          },
+          {
+            "cue": "share",
+            "text": "Share of voice"
+          },
+          {
+            "cue": "perception",
+            "text": "Perception and behaviour change"
+          }
+        ]
+      }
+    },
+    {
+      "type": "list",
+      "kicker": "Know your brand’s eye level",
+      "title": "One demographic does not fit all",
+      "say": "Know your brand's eye level. A leader brand uses experts. An eye to eye brand uses creators who are just like you. A subservient brand does the work for people.",
+      "items": [
+        {
+          "cue": "leader",
+          "head": "Leader brand",
+          "sub": "Uses experts",
+          "mark": "↑"
+        },
+        {
+          "cue": "eye",
+          "head": "Eye-to-eye brand",
+          "sub": "“I’m just like you” creators",
+          "mark": "→",
+          "tone": "petrol"
+        },
+        {
+          "cue": "subservient",
+          "head": "Subservient brand",
+          "sub": "Does the work for people",
+          "mark": "↓",
+          "tone": "amber"
+        }
+      ]
+    },
+    {
+      "type": "outro",
+      "say": "The takeaway? Treat influencer as a specialist discipline, and measure growth.",
+      "lines": [
+        {
+          "cue": "specialist",
+          "text": "Influencer is a *specialist discipline*."
+        },
+        {
+          "cue": "measure",
+          "text": "Measure *growth*."
+        }
+      ],
+      "footAt": 4
+    }
+  ]
+}

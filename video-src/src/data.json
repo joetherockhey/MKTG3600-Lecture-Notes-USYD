@@ -1,0 +1,9836 @@
+{
+ "w2": {
+  "week": 2,
+  "chrome": "Estelle Gohil · Fiftyfive5",
+  "scenes": [
+   {
+    "type": "title",
+    "say": "Week two. Market research and consumer insights, with Estelle Gohil from Fiftyfive5.",
+    "eyebrow": "Week 2 · Guest lecture",
+    "title": "Market research and consumer insights",
+    "speaker": "Estelle Gohil",
+    "org": "Fiftyfive5, a qualitative research agency",
+    "photo": "w2.jpg",
+    "audio": "audio/w2-00.mp3",
+    "leadIn": 0.35,
+    "seconds": 6.416,
+    "words": [
+     {
+      "w": "Week",
+      "t": 0.4
+     },
+     {
+      "w": "two",
+      "t": 0.746
+     },
+     {
+      "w": "Market",
+      "t": 1.449
+     },
+     {
+      "w": "research",
+      "t": 1.84
+     },
+     {
+      "w": "and",
+      "t": 2.308
+     },
+     {
+      "w": "consumer",
+      "t": 2.454
+     },
+     {
+      "w": "insights",
+      "t": 2.889
+     },
+     {
+      "w": "with",
+      "t": 3.659
+     },
+     {
+      "w": "Estelle",
+      "t": 3.815
+     },
+     {
+      "w": "Gohil",
+      "t": 4.15
+     },
+     {
+      "w": "from",
+      "t": 4.563
+     },
+     {
+      "w": "Fiftyfive5",
+      "t": 4.741
+     }
+    ]
+   },
+   {
+    "type": "versus",
+    "say": "Behavioural data tells you what happened. Qualitative research tells you why. And the why decides what the business does next.",
+    "kicker": "What vs why",
+    "left": {
+     "cue": "behavioural",
+     "label": "What",
+     "big": true,
+     "title": "Behavioural data",
+     "items": [
+      {
+       "text": "Sales, CRMs, dashboards"
+      },
+      {
+       "text": "“People are drinking less”"
+      }
+     ],
+     "at": 0.4
+    },
+    "right": {
+     "cue": "qualitative",
+     "label": "Why",
+     "big": true,
+     "title": "Qualitative research",
+     "items": [
+      {
+       "text": "Talking and watching"
+      },
+      {
+       "text": "The reason behind the number"
+      }
+     ],
+     "at": 2.599
+    },
+    "verdict": {
+     "cue": "decides",
+     "text": "The *why* decides what the business does.",
+     "at": 5.221
+    },
+    "audio": "audio/w2-01.mp3",
+    "leadIn": 0.35,
+    "seconds": 7.712,
+    "words": [
+     {
+      "w": "Behavioural",
+      "t": 0.4
+     },
+     {
+      "w": "data",
+      "t": 0.947
+     },
+     {
+      "w": "tells",
+      "t": 1.304
+     },
+     {
+      "w": "you",
+      "t": 1.616
+     },
+     {
+      "w": "what",
+      "t": 1.695
+     },
+     {
+      "w": "happened",
+      "t": 1.806
+     },
+     {
+      "w": "Qualitative",
+      "t": 2.599
+     },
+     {
+      "w": "research",
+      "t": 3.179
+     },
+     {
+      "w": "tells",
+      "t": 3.681
+     },
+     {
+      "w": "you",
+      "t": 3.949
+     },
+     {
+      "w": "why",
+      "t": 4.027
+     },
+     {
+      "w": "And",
+      "t": 4.719
+     },
+     {
+      "w": "the",
+      "t": 4.909
+     },
+     {
+      "w": "why",
+      "t": 4.987
+     },
+     {
+      "w": "decides",
+      "t": 5.221
+     },
+     {
+      "w": "what",
+      "t": 5.724
+     },
+     {
+      "w": "the",
+      "t": 5.88
+     },
+     {
+      "w": "business",
+      "t": 5.947
+     },
+     {
+      "w": "does",
+      "t": 6.337
+     },
+     {
+      "w": "next",
+      "t": 6.538
+     }
+    ]
+   },
+   {
+    "type": "skit",
+    "say": "Say is not do. A shopper says, I want something cheaper. Keep asking why, and the real driver might be value, convenience, or saving time.",
+    "kicker": "Say is not do",
+    "cast": [
+     {
+      "name": "Shopper",
+      "look": 1
+     },
+     {
+      "name": "Researcher",
+      "look": 0,
+      "prop": "clipboard"
+     }
+    ],
+    "beats": [
+     {
+      "who": 0,
+      "cue": "I want",
+      "text": "I want something *cheaper*.",
+      "at": 2.978
+     },
+     {
+      "who": 1,
+      "cue": "keep",
+      "kind": "think",
+      "text": "But why?",
+      "at": 4.351
+     }
+    ],
+    "chips": [
+     {
+      "cue": "value",
+      "text": "Value for money",
+      "at": 6.594
+     },
+     {
+      "cue": "convenience",
+      "text": "Convenience",
+      "at": 7.197
+     },
+     {
+      "cue": "saving",
+      "text": "Saving time",
+      "at": 8.123
+     }
+    ],
+    "audio": "audio/w2-02.mp3",
+    "leadIn": 0.35,
+    "seconds": 9.632,
+    "words": [
+     {
+      "w": "Say",
+      "t": 0.4
+     },
+     {
+      "w": "is",
+      "t": 0.824
+     },
+     {
+      "w": "not",
+      "t": 1.036
+     },
+     {
+      "w": "do",
+      "t": 1.259
+     },
+     {
+      "w": "A",
+      "t": 1.929
+     },
+     {
+      "w": "shopper",
+      "t": 2.029
+     },
+     {
+      "w": "says",
+      "t": 2.353
+     },
+     {
+      "w": "I",
+      "t": 2.978
+     },
+     {
+      "w": "want",
+      "t": 3.067
+     },
+     {
+      "w": "something",
+      "t": 3.291
+     },
+     {
+      "w": "cheaper",
+      "t": 3.625
+     },
+     {
+      "w": "Keep",
+      "t": 4.351
+     },
+     {
+      "w": "asking",
+      "t": 4.596
+     },
+     {
+      "w": "why",
+      "t": 4.92
+     },
+     {
+      "w": "and",
+      "t": 5.556
+     },
+     {
+      "w": "the",
+      "t": 5.679
+     },
+     {
+      "w": "real",
+      "t": 5.757
+     },
+     {
+      "w": "driver",
+      "t": 5.991
+     },
+     {
+      "w": "might",
+      "t": 6.293
+     },
+     {
+      "w": "be",
+      "t": 6.494
+     },
+     {
+      "w": "value",
+      "t": 6.594
+     },
+     {
+      "w": "convenience",
+      "t": 7.197
+     },
+     {
+      "w": "or",
+      "t": 8.012
+     },
+     {
+      "w": "saving",
+      "t": 8.123
+     },
+     {
+      "w": "time",
+      "t": 8.492
+     }
+    ]
+   },
+   {
+    "type": "flow",
+    "say": "Research drives growth three ways. Identify where to play. Execute, through positioning, pricing and creative. Then evaluate performance.",
+    "kicker": "Three ways research drives growth",
+    "steps": [
+     {
+      "cue": "identify",
+      "text": "Identify",
+      "sub": "Where to play: segments, demand, sizing",
+      "at": 2.643
+     },
+     {
+      "cue": "execute",
+      "text": "Execute",
+      "sub": "Positioning, pricing, creative, CX",
+      "at": 4.362
+     },
+     {
+      "cue": "evaluate",
+      "text": "Evaluate",
+      "sub": "Brand, category and comms tracking",
+      "at": 8.157
+     }
+    ],
+    "audio": "audio/w2-03.mp3",
+    "leadIn": 0.35,
+    "seconds": 10.088,
+    "words": [
+     {
+      "w": "Research",
+      "t": 0.4
+     },
+     {
+      "w": "drives",
+      "t": 0.936
+     },
+     {
+      "w": "growth",
+      "t": 1.326
+     },
+     {
+      "w": "three",
+      "t": 1.616
+     },
+     {
+      "w": "ways",
+      "t": 1.862
+     },
+     {
+      "w": "Identify",
+      "t": 2.643
+     },
+     {
+      "w": "where",
+      "t": 3.313
+     },
+     {
+      "w": "to",
+      "t": 3.514
+     },
+     {
+      "w": "play",
+      "t": 3.614
+     },
+     {
+      "w": "Execute",
+      "t": 4.362
+     },
+     {
+      "w": "through",
+      "t": 5.177
+     },
+     {
+      "w": "positioning",
+      "t": 5.422
+     },
+     {
+      "w": "pricing",
+      "t": 6.192
+     },
+     {
+      "w": "and",
+      "t": 6.817
+     },
+     {
+      "w": "creative",
+      "t": 6.962
+     },
+     {
+      "w": "Then",
+      "t": 7.866
+     },
+     {
+      "w": "evaluate",
+      "t": 8.157
+     },
+     {
+      "w": "performance",
+      "t": 8.715
+     }
+    ]
+   },
+   {
+    "type": "versus",
+    "say": "The toolkit has two modes. Talking: discussion groups, consumer juries, cognitive interviews. And watching: shopping safaris, or body cameras on baristas.",
+    "kicker": "The toolkit",
+    "left": {
+     "cue": "talking",
+     "label": "Talking",
+     "tone": "petrol",
+     "items": [
+      {
+       "cue": "discussion",
+       "text": "Discussion groups of 6 to 10",
+       "at": 2.933
+      },
+      {
+       "cue": "juries",
+       "text": "Consumer juries",
+       "at": 4.407
+      },
+      {
+       "cue": "cognitive",
+       "text": "Cognitive interviewing",
+       "at": 5.132
+      }
+     ],
+     "at": 2.141
+    },
+    "right": {
+     "cue": "watching",
+     "label": "Watching",
+     "tone": "amber",
+     "items": [
+      {
+       "cue": "safaris",
+       "text": "Shopping safaris",
+       "at": 7.8
+      },
+      {
+       "cue": "body",
+       "text": "Body cameras on baristas",
+       "at": 8.648
+      },
+      {
+       "text": "Mobile ethnography"
+      }
+     ],
+     "at": 6.695
+    },
+    "audio": "audio/w2-04.mp3",
+    "leadIn": 0.35,
+    "seconds": 10.784,
+    "words": [
+     {
+      "w": "The",
+      "t": 0.4
+     },
+     {
+      "w": "toolkit",
+      "t": 0.556
+     },
+     {
+      "w": "has",
+      "t": 0.947
+     },
+     {
+      "w": "two",
+      "t": 1.17
+     },
+     {
+      "w": "modes",
+      "t": 1.349
+     },
+     {
+      "w": "Talking",
+      "t": 2.141
+     },
+     {
+      "w": "discussion",
+      "t": 2.933
+     },
+     {
+      "w": "groups",
+      "t": 3.38
+     },
+     {
+      "w": "consumer",
+      "t": 3.983
+     },
+     {
+      "w": "juries",
+      "t": 4.407
+     },
+     {
+      "w": "cognitive",
+      "t": 5.132
+     },
+     {
+      "w": "interviews",
+      "t": 5.612
+     },
+     {
+      "w": "And",
+      "t": 6.483
+     },
+     {
+      "w": "watching",
+      "t": 6.695
+     },
+     {
+      "w": "shopping",
+      "t": 7.398
+     },
+     {
+      "w": "safaris",
+      "t": 7.8
+     },
+     {
+      "w": "or",
+      "t": 8.547
+     },
+     {
+      "w": "body",
+      "t": 8.648
+     },
+     {
+      "w": "cameras",
+      "t": 8.949
+     },
+     {
+      "w": "on",
+      "t": 9.306
+     },
+     {
+      "w": "baristas",
+      "t": 9.429
+     }
+    ]
+   },
+   {
+    "type": "list",
+    "say": "Gen AI helps, but it can't close three gaps. Human and cultural understanding. Data that doesn't exist yet. And the analysis itself. Keep a human in the lead.",
+    "kicker": "AI is a tool, not a replacement",
+    "title": "Three gaps gen AI *cannot* close",
+    "mark": "x",
+    "items": [
+     {
+      "cue": "human and",
+      "head": "Human and cultural understanding",
+      "at": 3.458
+     },
+     {
+      "cue": "data that",
+      "head": "Data that does not exist yet",
+      "at": 5.579
+     },
+     {
+      "cue": "analysis",
+      "head": "The analysis itself",
+      "sub": "Human in the lead, human in the loop",
+      "at": 7.855
+     }
+    ],
+    "audio": "audio/w2-05.mp3",
+    "leadIn": 0.35,
+    "seconds": 11.336,
+    "words": [
+     {
+      "w": "Gen",
+      "t": 0.4
+     },
+     {
+      "w": "AI",
+      "t": 0.791
+     },
+     {
+      "w": "helps",
+      "t": 1.07
+     },
+     {
+      "w": "but",
+      "t": 1.773
+     },
+     {
+      "w": "it",
+      "t": 1.862
+     },
+     {
+      "w": "can't",
+      "t": 1.962
+     },
+     {
+      "w": "close",
+      "t": 2.219
+     },
+     {
+      "w": "three",
+      "t": 2.532
+     },
+     {
+      "w": "gaps",
+      "t": 2.733
+     },
+     {
+      "w": "Human",
+      "t": 3.458
+     },
+     {
+      "w": "and",
+      "t": 3.949
+     },
+     {
+      "w": "cultural",
+      "t": 4.139
+     },
+     {
+      "w": "understanding",
+      "t": 4.585
+     },
+     {
+      "w": "Data",
+      "t": 5.579
+     },
+     {
+      "w": "that",
+      "t": 5.958
+     },
+     {
+      "w": "doesn't",
+      "t": 6.148
+     },
+     {
+      "w": "exist",
+      "t": 6.46
+     },
+     {
+      "w": "yet",
+      "t": 6.817
+     },
+     {
+      "w": "And",
+      "t": 7.465
+     },
+     {
+      "w": "the",
+      "t": 7.688
+     },
+     {
+      "w": "analysis",
+      "t": 7.855
+     },
+     {
+      "w": "itself",
+      "t": 8.391
+     },
+     {
+      "w": "Keep",
+      "t": 9.228
+     },
+     {
+      "w": "a",
+      "t": 9.507
+     },
+     {
+      "w": "human",
+      "t": 9.563
+     },
+     {
+      "w": "in",
+      "t": 9.942
+     },
+     {
+      "w": "the",
+      "t": 10.099
+     },
+     {
+      "w": "lead",
+      "t": 10.143
+     }
+    ]
+   },
+   {
+    "type": "outro",
+    "say": "The takeaway? Understand people, don't just collect data. An insight only counts when it enables a decision.",
+    "lines": [
+     {
+      "cue": "understand",
+      "text": "Understand people, don’t just *collect data*.",
+      "at": 1.527
+     },
+     {
+      "cue": "insight",
+      "text": "An insight only counts when it enables a *decision*.",
+      "at": 4.284
+     }
+    ],
+    "footAt": 5,
+    "audio": "audio/w2-06.mp3",
+    "leadIn": 0.35,
+    "seconds": 7.544,
+    "words": [
+     {
+      "w": "The",
+      "t": 0.4
+     },
+     {
+      "w": "takeaway",
+      "t": 0.601
+     },
+     {
+      "w": "Understand",
+      "t": 1.527
+     },
+     {
+      "w": "people",
+      "t": 2.041
+     },
+     {
+      "w": "don't",
+      "t": 2.677
+     },
+     {
+      "w": "just",
+      "t": 2.889
+     },
+     {
+      "w": "collect",
+      "t": 3.134
+     },
+     {
+      "w": "data",
+      "t": 3.425
+     },
+     {
+      "w": "An",
+      "t": 4.128
+     },
+     {
+      "w": "insight",
+      "t": 4.284
+     },
+     {
+      "w": "only",
+      "t": 4.842
+     },
+     {
+      "w": "counts",
+      "t": 5.099
+     },
+     {
+      "w": "when",
+      "t": 5.489
+     },
+     {
+      "w": "it",
+      "t": 5.612
+     },
+     {
+      "w": "enables",
+      "t": 5.724
+     },
+     {
+      "w": "a",
+      "t": 6.204
+     },
+     {
+      "w": "decision",
+      "t": 6.237
+     }
+    ]
+   }
+  ],
+  "id": "w2",
+  "total": 63.51
+ },
+ "w7": {
+  "week": 7,
+  "chrome": "Tim Collier · Cummins & Partners",
+  "scenes": [
+   {
+    "type": "title",
+    "say": "Week seven. Strategy in a creative agency, with Tim Collier from Cummins and Partners.",
+    "eyebrow": "Week 7 · Guest lecture",
+    "title": "Strategy in a creative agency",
+    "speaker": "Tim Collier",
+    "org": "Cummins & Partners",
+    "photo": "w7.jpg",
+    "audio": "audio/w7-00.mp3",
+    "leadIn": 0.35,
+    "seconds": 6.272,
+    "words": [
+     {
+      "w": "Week",
+      "t": 0.4
+     },
+     {
+      "w": "seven",
+      "t": 0.735
+     },
+     {
+      "w": "Strategy",
+      "t": 1.505
+     },
+     {
+      "w": "in",
+      "t": 2.152
+     },
+     {
+      "w": "a",
+      "t": 2.241
+     },
+     {
+      "w": "creative",
+      "t": 2.286
+     },
+     {
+      "w": "agency",
+      "t": 2.688
+     },
+     {
+      "w": "with",
+      "t": 3.503
+     },
+     {
+      "w": "Tim",
+      "t": 3.704
+     },
+     {
+      "w": "Collier",
+      "t": 3.916
+     },
+     {
+      "w": "from",
+      "t": 4.262
+     },
+     {
+      "w": "Cummins",
+      "t": 4.451
+     },
+     {
+      "w": "and",
+      "t": 4.797
+     },
+     {
+      "w": "Partners",
+      "t": 4.942
+     }
+    ]
+   },
+   {
+    "type": "flow",
+    "kicker": "What a planner does",
+    "say": "The planner sits in the middle. The client has a business problem. Strategy asks how it affects the audience. Creative makes something people remember.",
+    "steps": [
+     {
+      "cue": "client",
+      "text": "Client",
+      "sub": "What’s the problem?",
+      "tone": "ink",
+      "at": 2.186
+     },
+     {
+      "cue": "strategy",
+      "text": "Strategy",
+      "sub": "How does it affect the audience?",
+      "tone": "ox",
+      "at": 3.938
+     },
+     {
+      "cue": "creative",
+      "text": "Creative",
+      "sub": "What entertains and gets remembered?",
+      "tone": "petrol",
+      "at": 6.416
+     }
+    ],
+    "audio": "audio/w7-01.mp3",
+    "leadIn": 0.35,
+    "seconds": 9.2,
+    "words": [
+     {
+      "w": "The",
+      "t": 0.4
+     },
+     {
+      "w": "planner",
+      "t": 0.567
+     },
+     {
+      "w": "sits",
+      "t": 0.925
+     },
+     {
+      "w": "in",
+      "t": 1.237
+     },
+     {
+      "w": "the",
+      "t": 1.326
+     },
+     {
+      "w": "middle",
+      "t": 1.36
+     },
+     {
+      "w": "The",
+      "t": 2.052
+     },
+     {
+      "w": "client",
+      "t": 2.186
+     },
+     {
+      "w": "has",
+      "t": 2.587
+     },
+     {
+      "w": "a",
+      "t": 2.788
+     },
+     {
+      "w": "business",
+      "t": 2.844
+     },
+     {
+      "w": "problem",
+      "t": 3.19
+     },
+     {
+      "w": "Strategy",
+      "t": 3.938
+     },
+     {
+      "w": "asks",
+      "t": 4.585
+     },
+     {
+      "w": "how",
+      "t": 4.931
+     },
+     {
+      "w": "it",
+      "t": 5.11
+     },
+     {
+      "w": "affects",
+      "t": 5.154
+     },
+     {
+      "w": "the",
+      "t": 5.512
+     },
+     {
+      "w": "audience",
+      "t": 5.634
+     },
+     {
+      "w": "Creative",
+      "t": 6.416
+     },
+     {
+      "w": "makes",
+      "t": 7.007
+     },
+     {
+      "w": "something",
+      "t": 7.241
+     },
+     {
+      "w": "people",
+      "t": 7.632
+     },
+     {
+      "w": "remember",
+      "t": 7.945
+     }
+    ]
+   },
+   {
+    "type": "skit",
+    "kicker": "The first job is subtraction",
+    "say": "A client hands you a five page brief with everything in it. Your first job is subtraction: get it down to one line a creative team can use.",
+    "cast": [
+     {
+      "name": "Client",
+      "look": 2
+     },
+     {
+      "name": "Strategist",
+      "look": 0
+     }
+    ],
+    "beats": [
+     {
+      "who": 0,
+      "cue": "five",
+      "text": "Here’s our *five-page* brief.",
+      "at": 1.248
+     },
+     {
+      "who": 1,
+      "cue": "subtraction",
+      "kind": "think",
+      "text": "Make it *one line*.",
+      "at": 4.262
+     }
+    ],
+    "audio": "audio/w7-02.mp3",
+    "leadIn": 0.35,
+    "seconds": 8.144,
+    "words": [
+     {
+      "w": "A",
+      "t": 0.4
+     },
+     {
+      "w": "client",
+      "t": 0.512
+     },
+     {
+      "w": "hands",
+      "t": 0.891
+     },
+     {
+      "w": "you",
+      "t": 1.114
+     },
+     {
+      "w": "a",
+      "t": 1.215
+     },
+     {
+      "w": "five",
+      "t": 1.248
+     },
+     {
+      "w": "page",
+      "t": 1.583
+     },
+     {
+      "w": "brief",
+      "t": 1.862
+     },
+     {
+      "w": "with",
+      "t": 2.152
+     },
+     {
+      "w": "everything",
+      "t": 2.375
+     },
+     {
+      "w": "in",
+      "t": 2.733
+     },
+     {
+      "w": "it",
+      "t": 2.811
+     },
+     {
+      "w": "Your",
+      "t": 3.324
+     },
+     {
+      "w": "first",
+      "t": 3.57
+     },
+     {
+      "w": "job",
+      "t": 3.882
+     },
+     {
+      "w": "is",
+      "t": 4.139
+     },
+     {
+      "w": "subtraction",
+      "t": 4.262
+     },
+     {
+      "w": "get",
+      "t": 5.143
+     },
+     {
+      "w": "it",
+      "t": 5.266
+     },
+     {
+      "w": "down",
+      "t": 5.355
+     },
+     {
+      "w": "to",
+      "t": 5.579
+     },
+     {
+      "w": "one",
+      "t": 5.657
+     },
+     {
+      "w": "line",
+      "t": 5.891
+     },
+     {
+      "w": "a",
+      "t": 6.159
+     },
+     {
+      "w": "creative",
+      "t": 6.192
+     },
+     {
+      "w": "team",
+      "t": 6.616
+     },
+     {
+      "w": "can",
+      "t": 6.84
+     },
+     {
+      "w": "use",
+      "t": 6.974
+     }
+    ]
+   },
+   {
+    "type": "list",
+    "kicker": "Discover",
+    "title": "The 5Cs",
+    "cols": 2,
+    "say": "To discover, use the five C's. Company, culture, category, connections, and consumer.",
+    "items": [
+     {
+      "cue": "company",
+      "head": "Company",
+      "at": 2.777
+     },
+     {
+      "cue": "culture",
+      "head": "Culture",
+      "at": 3.525
+     },
+     {
+      "cue": "category",
+      "head": "Category",
+      "at": 4.262
+     },
+     {
+      "cue": "connections",
+      "head": "Connections",
+      "at": 5.021
+     },
+     {
+      "cue": "consumer",
+      "head": "Consumer",
+      "at": 6.014
+     }
+    ],
+    "audio": "audio/w7-03.mp3",
+    "leadIn": 0.35,
+    "seconds": 7.352,
+    "words": [
+     {
+      "w": "To",
+      "t": 0.4
+     },
+     {
+      "w": "discover",
+      "t": 0.534
+     },
+     {
+      "w": "use",
+      "t": 1.259
+     },
+     {
+      "w": "the",
+      "t": 1.561
+     },
+     {
+      "w": "five",
+      "t": 1.65
+     },
+     {
+      "w": "C's",
+      "t": 1.951
+     },
+     {
+      "w": "Company",
+      "t": 2.777
+     },
+     {
+      "w": "culture",
+      "t": 3.525
+     },
+     {
+      "w": "category",
+      "t": 4.262
+     },
+     {
+      "w": "connections",
+      "t": 5.021
+     },
+     {
+      "w": "and",
+      "t": 5.846
+     },
+     {
+      "w": "consumer",
+      "t": 6.014
+     }
+    ]
+   },
+   {
+    "type": "statement",
+    "kicker": "Get / Who / To / By",
+    "say": "Frame it with get, who, to, by. And remember, the single minded proposition is an invitation, not a claim.",
+    "lines": [
+     {
+      "cue": "get",
+      "text": "*Get* [audience] *who* [insight] *to* [action] *by* [message].",
+      "at": 1.025
+     },
+     {
+      "cue": "single",
+      "text": "The single-minded proposition is an *invitation*, not a claim.",
+      "tone": "petrol",
+      "at": 4.105
+     }
+    ],
+    "audio": "audio/w7-04.mp3",
+    "leadIn": 0.35,
+    "seconds": 7.856,
+    "words": [
+     {
+      "w": "Frame",
+      "t": 0.4
+     },
+     {
+      "w": "it",
+      "t": 0.768
+     },
+     {
+      "w": "with",
+      "t": 0.869
+     },
+     {
+      "w": "get",
+      "t": 1.025
+     },
+     {
+      "w": "who",
+      "t": 1.494
+     },
+     {
+      "w": "to",
+      "t": 1.962
+     },
+     {
+      "w": "by",
+      "t": 2.387
+     },
+     {
+      "w": "And",
+      "t": 3.09
+     },
+     {
+      "w": "remember",
+      "t": 3.279
+     },
+     {
+      "w": "the",
+      "t": 4.016
+     },
+     {
+      "w": "single",
+      "t": 4.105
+     },
+     {
+      "w": "minded",
+      "t": 4.418
+     },
+     {
+      "w": "proposition",
+      "t": 4.741
+     },
+     {
+      "w": "is",
+      "t": 5.333
+     },
+     {
+      "w": "an",
+      "t": 5.456
+     },
+     {
+      "w": "invitation",
+      "t": 5.534
+     },
+     {
+      "w": "not",
+      "t": 6.382
+     },
+     {
+      "w": "a",
+      "t": 6.605
+     },
+     {
+      "w": "claim",
+      "t": 6.639
+     }
+    ]
+   },
+   {
+    "type": "flow",
+    "kicker": "The strategist’s four steps",
+    "say": "The strategist's four steps: discover, synthesise, plan, instruct. And the Effie is the award that proves the work drove profit.",
+    "steps": [
+     {
+      "cue": "discover",
+      "text": "Discover",
+      "at": 2.141
+     },
+     {
+      "cue": "synth",
+      "text": "Synthesis",
+      "at": 2.844
+     },
+     {
+      "cue": "plan",
+      "text": "Plan",
+      "at": 3.804
+     },
+     {
+      "cue": "instruct",
+      "text": "Instruct",
+      "at": 4.474
+     }
+    ],
+    "note": {
+     "cue": "effie",
+     "text": "The *Effie*: proof the work worked.",
+     "at": 5.735
+    },
+    "audio": "audio/w7-05.mp3",
+    "leadIn": 0.35,
+    "seconds": 8.936,
+    "words": [
+     {
+      "w": "The",
+      "t": 0.4
+     },
+     {
+      "w": "strategist's",
+      "t": 0.534
+     },
+     {
+      "w": "four",
+      "t": 1.137
+     },
+     {
+      "w": "steps",
+      "t": 1.349
+     },
+     {
+      "w": "discover",
+      "t": 2.141
+     },
+     {
+      "w": "synthesise",
+      "t": 2.844
+     },
+     {
+      "w": "plan",
+      "t": 3.804
+     },
+     {
+      "w": "instruct",
+      "t": 4.474
+     },
+     {
+      "w": "And",
+      "t": 5.389
+     },
+     {
+      "w": "the",
+      "t": 5.579
+     },
+     {
+      "w": "Effie",
+      "t": 5.735
+     },
+     {
+      "w": "is",
+      "t": 6.07
+     },
+     {
+      "w": "the",
+      "t": 6.192
+     },
+     {
+      "w": "award",
+      "t": 6.293
+     },
+     {
+      "w": "that",
+      "t": 6.65
+     },
+     {
+      "w": "proves",
+      "t": 6.762
+     },
+     {
+      "w": "the",
+      "t": 7.085
+     },
+     {
+      "w": "work",
+      "t": 7.175
+     },
+     {
+      "w": "drove",
+      "t": 7.454
+     },
+     {
+      "w": "profit",
+      "t": 7.71
+     }
+    ]
+   },
+   {
+    "type": "outro",
+    "say": "His advice? Be curious, and be opinionated. The world changes a lot. People don't.",
+    "lines": [
+     {
+      "cue": "curious",
+      "text": "Be curious. Be *opinionated*.",
+      "at": 1.683
+     },
+     {
+      "cue": "world",
+      "text": "The world changes a lot. *People don’t.*",
+      "at": 3.949
+     }
+    ],
+    "footAt": 4.5,
+    "audio": "audio/w7-06.mp3",
+    "leadIn": 0.35,
+    "seconds": 6.968,
+    "words": [
+     {
+      "w": "His",
+      "t": 0.4
+     },
+     {
+      "w": "advice",
+      "t": 0.657
+     },
+     {
+      "w": "Be",
+      "t": 1.527
+     },
+     {
+      "w": "curious",
+      "t": 1.683
+     },
+     {
+      "w": "and",
+      "t": 2.454
+     },
+     {
+      "w": "be",
+      "t": 2.61
+     },
+     {
+      "w": "opinionated",
+      "t": 2.777
+     },
+     {
+      "w": "The",
+      "t": 3.804
+     },
+     {
+      "w": "world",
+      "t": 3.949
+     },
+     {
+      "w": "changes",
+      "t": 4.306
+     },
+     {
+      "w": "a",
+      "t": 4.708
+     },
+     {
+      "w": "lot",
+      "t": 4.741
+     },
+     {
+      "w": "People",
+      "t": 5.4
+     },
+     {
+      "w": "don't",
+      "t": 5.768
+     }
+    ]
+   }
+  ],
+  "id": "w7",
+  "total": 54.73
+ },
+ "w8": {
+  "week": 8,
+  "chrome": "Andrew Baxter · Chair, Australian Pork",
+  "scenes": [
+   {
+    "type": "title",
+    "say": "Week eight. Creating advertising that works, with Andrew Baxter, after twenty six years running agencies.",
+    "eyebrow": "Week 8 · Guest lecture",
+    "title": "Creating advertising that works",
+    "speaker": "Andrew Baxter",
+    "org": "Chair, Australian Pork Limited",
+    "photo": "w8.jpg",
+    "audio": "audio/w8-00.mp3",
+    "leadIn": 0.35,
+    "seconds": 6.92,
+    "words": [
+     {
+      "w": "Week",
+      "t": 0.4
+     },
+     {
+      "w": "eight",
+      "t": 0.757
+     },
+     {
+      "w": "Creating",
+      "t": 1.393
+     },
+     {
+      "w": "advertising",
+      "t": 1.862
+     },
+     {
+      "w": "that",
+      "t": 2.442
+     },
+     {
+      "w": "works",
+      "t": 2.576
+     },
+     {
+      "w": "with",
+      "t": 3.134
+     },
+     {
+      "w": "Andrew",
+      "t": 3.291
+     },
+     {
+      "w": "Baxter",
+      "t": 3.625
+     },
+     {
+      "w": "after",
+      "t": 4.295
+     },
+     {
+      "w": "twenty",
+      "t": 4.552
+     },
+     {
+      "w": "six",
+      "t": 4.797
+     },
+     {
+      "w": "years",
+      "t": 5.043
+     },
+     {
+      "w": "running",
+      "t": 5.3
+     },
+     {
+      "w": "agencies",
+      "t": 5.545
+     }
+    ]
+   },
+   {
+    "type": "list",
+    "kicker": "Advertising is simple",
+    "title": "The right…",
+    "cols": 2,
+    "say": "Advertising is simple. The right message, to the right person, in the right place, at the right time.",
+    "items": [
+     {
+      "cue": "message",
+      "head": "Message",
+      "mark": "✓",
+      "at": 2.353
+     },
+     {
+      "cue": "person",
+      "head": "Person",
+      "mark": "✓",
+      "at": 3.369
+     },
+     {
+      "cue": "place",
+      "head": "Place",
+      "mark": "✓",
+      "at": 4.407
+     },
+     {
+      "cue": "time",
+      "head": "Time",
+      "mark": "✓",
+      "at": 5.411
+     }
+    ],
+    "audio": "audio/w8-01.mp3",
+    "leadIn": 0.35,
+    "seconds": 6.584,
+    "words": [
+     {
+      "w": "Advertising",
+      "t": 0.4
+     },
+     {
+      "w": "is",
+      "t": 1.07
+     },
+     {
+      "w": "simple",
+      "t": 1.204
+     },
+     {
+      "w": "The",
+      "t": 1.962
+     },
+     {
+      "w": "right",
+      "t": 2.108
+     },
+     {
+      "w": "message",
+      "t": 2.353
+     },
+     {
+      "w": "to",
+      "t": 2.989
+     },
+     {
+      "w": "the",
+      "t": 3.079
+     },
+     {
+      "w": "right",
+      "t": 3.157
+     },
+     {
+      "w": "person",
+      "t": 3.369
+     },
+     {
+      "w": "in",
+      "t": 4.016
+     },
+     {
+      "w": "the",
+      "t": 4.117
+     },
+     {
+      "w": "right",
+      "t": 4.183
+     },
+     {
+      "w": "place",
+      "t": 4.407
+     },
+     {
+      "w": "at",
+      "t": 4.987
+     },
+     {
+      "w": "the",
+      "t": 5.11
+     },
+     {
+      "w": "right",
+      "t": 5.188
+     },
+     {
+      "w": "time",
+      "t": 5.411
+     }
+    ]
+   },
+   {
+    "type": "flow",
+    "kicker": "Four steps",
+    "say": "It runs in four steps: strategy, the idea, making it, and placing it.",
+    "steps": [
+     {
+      "cue": "strategy",
+      "text": "Strategy",
+      "sub": "The message",
+      "at": 1.974
+     },
+     {
+      "cue": "idea",
+      "text": "Idea",
+      "at": 2.867
+     },
+     {
+      "cue": "making",
+      "text": "Make it",
+      "at": 3.514
+     },
+     {
+      "cue": "placing",
+      "text": "Place it",
+      "sub": "Which media, when",
+      "at": 4.317
+     }
+    ],
+    "audio": "audio/w8-02.mp3",
+    "leadIn": 0.35,
+    "seconds": 5.648,
+    "words": [
+     {
+      "w": "It",
+      "t": 0.4
+     },
+     {
+      "w": "runs",
+      "t": 0.59
+     },
+     {
+      "w": "in",
+      "t": 0.869
+     },
+     {
+      "w": "four",
+      "t": 0.98
+     },
+     {
+      "w": "steps",
+      "t": 1.181
+     },
+     {
+      "w": "strategy",
+      "t": 1.974
+     },
+     {
+      "w": "the",
+      "t": 2.744
+     },
+     {
+      "w": "idea",
+      "t": 2.867
+     },
+     {
+      "w": "making",
+      "t": 3.514
+     },
+     {
+      "w": "it",
+      "t": 3.893
+     },
+     {
+      "w": "and",
+      "t": 4.195
+     },
+     {
+      "w": "placing",
+      "t": 4.317
+     },
+     {
+      "w": "it",
+      "t": 4.686
+     }
+    ]
+   },
+   {
+    "type": "skit",
+    "kicker": "One message per ad",
+    "say": "A billboard gets a two second glance, so use fifteen words or fewer. One message per ad, like Kraft's hunger blaster.",
+    "cast": [
+     {
+      "name": "Driver",
+      "look": 3,
+      "prop": "phone"
+     },
+     {
+      "name": "Copywriter",
+      "look": 2
+     }
+    ],
+    "beats": [
+     {
+      "who": 1,
+      "cue": "fifteen",
+      "text": "Fifteen words or *fewer*.",
+      "at": 2.699
+     },
+     {
+      "who": 0,
+      "cue": "hunger",
+      "kind": "think",
+      "text": "Hunger blaster. *Got it.*",
+      "at": 6.215
+     }
+    ],
+    "audio": "audio/w8-03.mp3",
+    "leadIn": 0.35,
+    "seconds": 7.664,
+    "words": [
+     {
+      "w": "A",
+      "t": 0.4
+     },
+     {
+      "w": "billboard",
+      "t": 0.512
+     },
+     {
+      "w": "gets",
+      "t": 0.991
+     },
+     {
+      "w": "a",
+      "t": 1.17
+     },
+     {
+      "w": "two",
+      "t": 1.226
+     },
+     {
+      "w": "second",
+      "t": 1.416
+     },
+     {
+      "w": "glance",
+      "t": 1.717
+     },
+     {
+      "w": "so",
+      "t": 2.32
+     },
+     {
+      "w": "use",
+      "t": 2.487
+     },
+     {
+      "w": "fifteen",
+      "t": 2.699
+     },
+     {
+      "w": "words",
+      "t": 3.079
+     },
+     {
+      "w": "or",
+      "t": 3.469
+     },
+     {
+      "w": "fewer",
+      "t": 3.536
+     },
+     {
+      "w": "One",
+      "t": 4.262
+     },
+     {
+      "w": "message",
+      "t": 4.552
+     },
+     {
+      "w": "per",
+      "t": 4.853
+     },
+     {
+      "w": "ad",
+      "t": 5.065
+     },
+     {
+      "w": "like",
+      "t": 5.623
+     },
+     {
+      "w": "Kraft's",
+      "t": 5.846
+     },
+     {
+      "w": "hunger",
+      "t": 6.215
+     },
+     {
+      "w": "blaster",
+      "t": 6.404
+     }
+    ]
+   },
+   {
+    "type": "flow",
+    "kicker": "The funnel",
+    "say": "The funnel runs from awareness, to knowledge, liking, preference, conviction, and purchase. Reach about sixty five percent, at least three times.",
+    "steps": [
+     {
+      "cue": "awareness",
+      "text": "Awareness",
+      "at": 1.204
+     },
+     {
+      "cue": "knowledge",
+      "text": "Knowledge",
+      "at": 2.052
+     },
+     {
+      "cue": "liking",
+      "text": "Liking",
+      "at": 2.721
+     },
+     {
+      "cue": "preference",
+      "text": "Preference",
+      "at": 3.447
+     },
+     {
+      "cue": "conviction",
+      "text": "Conviction",
+      "at": 4.195
+     },
+     {
+      "cue": "purchase",
+      "text": "Purchase",
+      "at": 5.087
+     }
+    ],
+    "note": {
+     "cue": "sixty",
+     "text": "Reach ~65% of the audience, *3+ times*.",
+     "at": 6.494
+    },
+    "audio": "audio/w8-04.mp3",
+    "leadIn": 0.35,
+    "seconds": 9.608,
+    "words": [
+     {
+      "w": "The",
+      "t": 0.4
+     },
+     {
+      "w": "funnel",
+      "t": 0.534
+     },
+     {
+      "w": "runs",
+      "t": 0.858
+     },
+     {
+      "w": "from",
+      "t": 1.092
+     },
+     {
+      "w": "awareness",
+      "t": 1.204
+     },
+     {
+      "w": "to",
+      "t": 1.94
+     },
+     {
+      "w": "knowledge",
+      "t": 2.052
+     },
+     {
+      "w": "liking",
+      "t": 2.721
+     },
+     {
+      "w": "preference",
+      "t": 3.447
+     },
+     {
+      "w": "conviction",
+      "t": 4.195
+     },
+     {
+      "w": "and",
+      "t": 4.931
+     },
+     {
+      "w": "purchase",
+      "t": 5.087
+     },
+     {
+      "w": "Reach",
+      "t": 5.958
+     },
+     {
+      "w": "about",
+      "t": 6.259
+     },
+     {
+      "w": "sixty",
+      "t": 6.494
+     },
+     {
+      "w": "five",
+      "t": 6.806
+     },
+     {
+      "w": "percent",
+      "t": 7.029
+     },
+     {
+      "w": "at",
+      "t": 7.643
+     },
+     {
+      "w": "least",
+      "t": 7.788
+     },
+     {
+      "w": "three",
+      "t": 8.101
+     },
+     {
+      "w": "times",
+      "t": 8.346
+     }
+    ]
+   },
+   {
+    "type": "stats",
+    "kicker": "What the most effective advertising is",
+    "say": "The best ads are famous and emotional. John Lewis's Monty the Penguin returned eight to one.",
+    "stats": [
+     {
+      "cue": "famous",
+      "value": 72,
+      "suffix": "%",
+      "label": "of *famous* campaigns outsell competitors",
+      "at": 1.159
+     },
+     {
+      "cue": "emotional",
+      "value": 62,
+      "suffix": "%",
+      "label": "success rate for *emotional* work",
+      "tone": "petrol",
+      "at": 1.773
+     },
+     {
+      "cue": "eight",
+      "text": "8:1",
+      "value": 8,
+      "label": "ROI, Monty the Penguin",
+      "tone": "amber",
+      "at": 4.563
+     }
+    ],
+    "audio": "audio/w8-05.mp3",
+    "leadIn": 0.35,
+    "seconds": 5.912,
+    "words": [
+     {
+      "w": "The",
+      "t": 0.4
+     },
+     {
+      "w": "best",
+      "t": 0.534
+     },
+     {
+      "w": "ads",
+      "t": 0.813
+     },
+     {
+      "w": "are",
+      "t": 1.114
+     },
+     {
+      "w": "famous",
+      "t": 1.159
+     },
+     {
+      "w": "and",
+      "t": 1.628
+     },
+     {
+      "w": "emotional",
+      "t": 1.773
+     },
+     {
+      "w": "John",
+      "t": 2.621
+     },
+     {
+      "w": "Lewis's",
+      "t": 2.911
+     },
+     {
+      "w": "Monty",
+      "t": 3.279
+     },
+     {
+      "w": "the",
+      "t": 3.592
+     },
+     {
+      "w": "Penguin",
+      "t": 3.692
+     },
+     {
+      "w": "returned",
+      "t": 4.094
+     },
+     {
+      "w": "eight",
+      "t": 4.563
+     },
+     {
+      "w": "to",
+      "t": 4.697
+     },
+     {
+      "w": "one",
+      "t": 4.786
+     }
+    ]
+   },
+   {
+    "type": "list",
+    "kicker": "The strongest brand driver",
+    "title": "Differentiation comes *first*",
+    "say": "And differentiation is the most important brand driver, ahead of relevance, esteem and knowledge. A successful campaign now averages ten channels, measured by mix modelling.",
+    "items": [
+     {
+      "cue": "differentiation",
+      "head": "Differentiation",
+      "mark": "1",
+      "at": 0.59
+     },
+     {
+      "cue": "relevance",
+      "head": "Relevance",
+      "mark": "2",
+      "tone": "ink",
+      "at": 3.503
+     },
+     {
+      "cue": "esteem",
+      "head": "Esteem",
+      "mark": "3",
+      "tone": "ink",
+      "at": 4.161
+     },
+     {
+      "cue": "knowledge",
+      "head": "Knowledge",
+      "mark": "4",
+      "tone": "ink",
+      "at": 4.909
+     }
+    ],
+    "cols": 2,
+    "audio": "audio/w8-06.mp3",
+    "leadIn": 0.35,
+    "seconds": 10.304,
+    "words": [
+     {
+      "w": "And",
+      "t": 0.4
+     },
+     {
+      "w": "differentiation",
+      "t": 0.59
+     },
+     {
+      "w": "is",
+      "t": 1.416
+     },
+     {
+      "w": "the",
+      "t": 1.527
+     },
+     {
+      "w": "most",
+      "t": 1.583
+     },
+     {
+      "w": "important",
+      "t": 1.817
+     },
+     {
+      "w": "brand",
+      "t": 2.264
+     },
+     {
+      "w": "driver",
+      "t": 2.487
+     },
+     {
+      "w": "ahead",
+      "t": 3.168
+     },
+     {
+      "w": "of",
+      "t": 3.413
+     },
+     {
+      "w": "relevance",
+      "t": 3.503
+     },
+     {
+      "w": "esteem",
+      "t": 4.161
+     },
+     {
+      "w": "and",
+      "t": 4.775
+     },
+     {
+      "w": "knowledge",
+      "t": 4.909
+     },
+     {
+      "w": "A",
+      "t": 5.701
+     },
+     {
+      "w": "successful",
+      "t": 5.813
+     },
+     {
+      "w": "campaign",
+      "t": 6.271
+     },
+     {
+      "w": "now",
+      "t": 6.739
+     },
+     {
+      "w": "averages",
+      "t": 6.996
+     },
+     {
+      "w": "ten",
+      "t": 7.431
+     },
+     {
+      "w": "channels",
+      "t": 7.632
+     },
+     {
+      "w": "measured",
+      "t": 8.358
+     },
+     {
+      "w": "by",
+      "t": 8.726
+     },
+     {
+      "w": "mix",
+      "t": 8.86
+     },
+     {
+      "w": "modelling",
+      "t": 9.105
+     }
+    ]
+   },
+   {
+    "type": "outro",
+    "say": "And about ninety five percent of purchases are intuitive. We buy, then post-rationalise. Create famous work that works.",
+    "lines": [
+     {
+      "cue": "ninety",
+      "text": "~95% of purchases are *intuitive*.",
+      "at": 0.813
+     },
+     {
+      "cue": "famous",
+      "text": "Create *famous* work that works.",
+      "at": 6.159
+     }
+    ],
+    "footAt": 6,
+    "audio": "audio/w8-07.mp3",
+    "leadIn": 0.35,
+    "seconds": 8.168,
+    "words": [
+     {
+      "w": "And",
+      "t": 0.4
+     },
+     {
+      "w": "about",
+      "t": 0.567
+     },
+     {
+      "w": "ninety",
+      "t": 0.813
+     },
+     {
+      "w": "five",
+      "t": 1.092
+     },
+     {
+      "w": "percent",
+      "t": 1.315
+     },
+     {
+      "w": "of",
+      "t": 1.616
+     },
+     {
+      "w": "purchases",
+      "t": 1.695
+     },
+     {
+      "w": "are",
+      "t": 2.253
+     },
+     {
+      "w": "intuitive",
+      "t": 2.465
+     },
+     {
+      "w": "We",
+      "t": 3.38
+     },
+     {
+      "w": "buy",
+      "t": 3.648
+     },
+     {
+      "w": "then",
+      "t": 4.239
+     },
+     {
+      "w": "post-rationalise",
+      "t": 4.462
+     },
+     {
+      "w": "Create",
+      "t": 5.724
+     },
+     {
+      "w": "famous",
+      "t": 6.159
+     },
+     {
+      "w": "work",
+      "t": 6.561
+     },
+     {
+      "w": "that",
+      "t": 6.806
+     },
+     {
+      "w": "works",
+      "t": 6.94
+     }
+    ]
+   }
+  ],
+  "id": "w8",
+  "total": 60.81
+ },
+ "w9": {
+  "week": 9,
+  "chrome": "Brendan Willenberg · Executive Creative Director",
+  "scenes": [
+   {
+    "type": "title",
+    "say": "Week nine. Creativity, the last remaining commercial superpower, with creative director Brendan Willenberg.",
+    "eyebrow": "Week 9 · Guest lecture",
+    "title": "Creativity: the last remaining commercial superpower",
+    "speaker": "Brendan Willenberg",
+    "org": "Executive Creative Director",
+    "photo": "w9.jpg",
+    "audio": "audio/w9-00.mp3",
+    "leadIn": 0.35,
+    "seconds": 7.16,
+    "words": [
+     {
+      "w": "Week",
+      "t": 0.4
+     },
+     {
+      "w": "nine",
+      "t": 0.746
+     },
+     {
+      "w": "Creativity",
+      "t": 1.494
+     },
+     {
+      "w": "the",
+      "t": 2.398
+     },
+     {
+      "w": "last",
+      "t": 2.487
+     },
+     {
+      "w": "remaining",
+      "t": 2.8
+     },
+     {
+      "w": "commercial",
+      "t": 3.201
+     },
+     {
+      "w": "superpower",
+      "t": 3.57
+     },
+     {
+      "w": "with",
+      "t": 4.462
+     },
+     {
+      "w": "creative",
+      "t": 4.619
+     },
+     {
+      "w": "director",
+      "t": 5.076
+     },
+     {
+      "w": "Brendan",
+      "t": 5.411
+     },
+     {
+      "w": "Willenberg",
+      "t": 5.779
+     }
+    ]
+   },
+   {
+    "type": "statement",
+    "kicker": "Commercial creativity is cheating",
+    "say": "Commercial creativity is cheating. Same inputs as everyone else, but an unfair business advantage. And it's a method, not a gift.",
+    "lines": [
+     {
+      "cue": "same",
+      "text": "Same inputs. An *unfair* business advantage.",
+      "at": 2.587
+     },
+     {
+      "cue": "method",
+      "text": "Creativity is a *method*, not a gift.",
+      "tone": "petrol",
+      "at": 6.784
+     }
+    ],
+    "audio": "audio/w9-01.mp3",
+    "leadIn": 0.35,
+    "seconds": 8.912,
+    "words": [
+     {
+      "w": "Commercial",
+      "t": 0.4
+     },
+     {
+      "w": "creativity",
+      "t": 0.925
+     },
+     {
+      "w": "is",
+      "t": 1.616
+     },
+     {
+      "w": "cheating",
+      "t": 1.784
+     },
+     {
+      "w": "Same",
+      "t": 2.587
+     },
+     {
+      "w": "inputs",
+      "t": 2.967
+     },
+     {
+      "w": "as",
+      "t": 3.391
+     },
+     {
+      "w": "everyone",
+      "t": 3.514
+     },
+     {
+      "w": "else",
+      "t": 3.837
+     },
+     {
+      "w": "but",
+      "t": 4.451
+     },
+     {
+      "w": "an",
+      "t": 4.552
+     },
+     {
+      "w": "unfair",
+      "t": 4.675
+     },
+     {
+      "w": "business",
+      "t": 5.132
+     },
+     {
+      "w": "advantage",
+      "t": 5.5
+     },
+     {
+      "w": "And",
+      "t": 6.416
+     },
+     {
+      "w": "it's",
+      "t": 6.628
+     },
+     {
+      "w": "a",
+      "t": 6.75
+     },
+     {
+      "w": "method",
+      "t": 6.784
+     },
+     {
+      "w": "not",
+      "t": 7.454
+     },
+     {
+      "w": "a",
+      "t": 7.688
+     },
+     {
+      "w": "gift",
+      "t": 7.744
+     }
+    ]
+   },
+   {
+    "type": "flow",
+    "kicker": "Creativity is fancy problem solving",
+    "say": "Step one is solving the real problem. Go from the brief, past the expected response, to the real problem, then the solution.",
+    "steps": [
+     {
+      "cue": "brief",
+      "text": "The brief",
+      "tone": "ink",
+      "at": 3.123
+     },
+     {
+      "cue": "expected",
+      "text": "Expected response",
+      "tone": "ink",
+      "at": 4.183
+     },
+     {
+      "cue": "real",
+      "text": "The real problem",
+      "tone": "petrol",
+      "at": 5.467
+     },
+     {
+      "cue": "solution",
+      "text": "The solution",
+      "tone": "ox",
+      "at": 6.527
+     }
+    ],
+    "audio": "audio/w9-02.mp3",
+    "leadIn": 0.35,
+    "seconds": 7.856,
+    "words": [
+     {
+      "w": "Step",
+      "t": 0.4
+     },
+     {
+      "w": "one",
+      "t": 0.791
+     },
+     {
+      "w": "is",
+      "t": 1.058
+     },
+     {
+      "w": "solving",
+      "t": 1.204
+     },
+     {
+      "w": "the",
+      "t": 1.639
+     },
+     {
+      "w": "real",
+      "t": 1.706
+     },
+     {
+      "w": "problem",
+      "t": 1.929
+     },
+     {
+      "w": "Go",
+      "t": 2.688
+     },
+     {
+      "w": "from",
+      "t": 2.911
+     },
+     {
+      "w": "the",
+      "t": 3.079
+     },
+     {
+      "w": "brief",
+      "t": 3.123
+     },
+     {
+      "w": "past",
+      "t": 3.771
+     },
+     {
+      "w": "the",
+      "t": 4.072
+     },
+     {
+      "w": "expected",
+      "t": 4.183
+     },
+     {
+      "w": "response",
+      "t": 4.585
+     },
+     {
+      "w": "to",
+      "t": 5.288
+     },
+     {
+      "w": "the",
+      "t": 5.378
+     },
+     {
+      "w": "real",
+      "t": 5.467
+     },
+     {
+      "w": "problem",
+      "t": 5.668
+     },
+     {
+      "w": "then",
+      "t": 6.271
+     },
+     {
+      "w": "the",
+      "t": 6.471
+     },
+     {
+      "w": "solution",
+      "t": 6.527
+     }
+    ]
+   },
+   {
+    "type": "skit",
+    "kicker": "Extra gum · the Bad Breath Index",
+    "say": "Extra's problem: shoppers don't notice gum at the checkout, because they're on their phones. So the Bad Breath Index put a gum prompt into the checkout itself.",
+    "cast": [
+     {
+      "name": "Shopper",
+      "look": 4,
+      "prop": "phone"
+     },
+     {
+      "name": "Checkout",
+      "look": 1
+     }
+    ],
+    "beats": [
+     {
+      "who": 0,
+      "cue": "phones",
+      "kind": "think",
+      "text": "*scrolling*…",
+      "at": 4.005
+     },
+     {
+      "who": 1,
+      "cue": "bad",
+      "text": "Bad Breath Index: *high*. Gum?",
+      "at": 5.143
+     }
+    ],
+    "audio": "audio/w9-03.mp3",
+    "leadIn": 0.35,
+    "seconds": 8.552,
+    "words": [
+     {
+      "w": "Extra's",
+      "t": 0.4
+     },
+     {
+      "w": "problem",
+      "t": 0.779
+     },
+     {
+      "w": "shoppers",
+      "t": 1.46
+     },
+     {
+      "w": "don't",
+      "t": 1.873
+     },
+     {
+      "w": "notice",
+      "t": 2.085
+     },
+     {
+      "w": "gum",
+      "t": 2.364
+     },
+     {
+      "w": "at",
+      "t": 2.554
+     },
+     {
+      "w": "the",
+      "t": 2.61
+     },
+     {
+      "w": "checkout",
+      "t": 2.677
+     },
+     {
+      "w": "because",
+      "t": 3.346
+     },
+     {
+      "w": "they're",
+      "t": 3.614
+     },
+     {
+      "w": "on",
+      "t": 3.815
+     },
+     {
+      "w": "their",
+      "t": 3.927
+     },
+     {
+      "w": "phones",
+      "t": 4.005
+     },
+     {
+      "w": "So",
+      "t": 4.842
+     },
+     {
+      "w": "the",
+      "t": 5.065
+     },
+     {
+      "w": "Bad",
+      "t": 5.143
+     },
+     {
+      "w": "Breath",
+      "t": 5.366
+     },
+     {
+      "w": "Index",
+      "t": 5.579
+     },
+     {
+      "w": "put",
+      "t": 5.936
+     },
+     {
+      "w": "a",
+      "t": 6.081
+     },
+     {
+      "w": "gum",
+      "t": 6.125
+     },
+     {
+      "w": "prompt",
+      "t": 6.36
+     },
+     {
+      "w": "into",
+      "t": 6.65
+     },
+     {
+      "w": "the",
+      "t": 6.851
+     },
+     {
+      "w": "checkout",
+      "t": 6.929
+     },
+     {
+      "w": "itself",
+      "t": 7.286
+     }
+    ]
+   },
+   {
+    "type": "list",
+    "kicker": "Cases",
+    "title": "Creativity thrives on *constraint*",
+    "say": "Creativity thrives on constraint. Rexona couldn't buy media, so it earned it with Pitvertising. And V called out the whole energy drink category instead of copying Red Bull.",
+    "items": [
+     {
+      "cue": "rexona",
+      "head": "Rexona · Pitvertising",
+      "sub": "Can’t buy media? Earn it.",
+      "at": 2.565
+     },
+     {
+      "cue": "called",
+      "head": "V Energy",
+      "sub": "Can’t out-Red Bull Red Bull, so call out the category.",
+      "tone": "petrol",
+      "at": 6.639
+     }
+    ],
+    "audio": "audio/w9-04.mp3",
+    "leadIn": 0.35,
+    "seconds": 10.4,
+    "words": [
+     {
+      "w": "Creativity",
+      "t": 0.4
+     },
+     {
+      "w": "thrives",
+      "t": 1.058
+     },
+     {
+      "w": "on",
+      "t": 1.527
+     },
+     {
+      "w": "constraint",
+      "t": 1.695
+     },
+     {
+      "w": "Rexona",
+      "t": 2.565
+     },
+     {
+      "w": "couldn't",
+      "t": 3.157
+     },
+     {
+      "w": "buy",
+      "t": 3.458
+     },
+     {
+      "w": "media",
+      "t": 3.57
+     },
+     {
+      "w": "so",
+      "t": 4.25
+     },
+     {
+      "w": "it",
+      "t": 4.485
+     },
+     {
+      "w": "earned",
+      "t": 4.63
+     },
+     {
+      "w": "it",
+      "t": 4.797
+     },
+     {
+      "w": "with",
+      "t": 4.92
+     },
+     {
+      "w": "Pitvertising",
+      "t": 5.043
+     },
+     {
+      "w": "And",
+      "t": 6.17
+     },
+     {
+      "w": "V",
+      "t": 6.371
+     },
+     {
+      "w": "called",
+      "t": 6.639
+     },
+     {
+      "w": "out",
+      "t": 6.873
+     },
+     {
+      "w": "the",
+      "t": 7.041
+     },
+     {
+      "w": "whole",
+      "t": 7.108
+     },
+     {
+      "w": "energy",
+      "t": 7.409
+     },
+     {
+      "w": "drink",
+      "t": 7.677
+     },
+     {
+      "w": "category",
+      "t": 7.866
+     },
+     {
+      "w": "instead",
+      "t": 8.268
+     },
+     {
+      "w": "of",
+      "t": 8.614
+     },
+     {
+      "w": "copying",
+      "t": 8.715
+     },
+     {
+      "w": "Red",
+      "t": 9.117
+     },
+     {
+      "w": "Bull",
+      "t": 9.284
+     }
+    ]
+   },
+   {
+    "type": "versus",
+    "kicker": "AI",
+    "say": "AI can speed-run the process. But on its own it gives similar, cheap ideas. Use it as your antagonist, not your assistant.",
+    "left": {
+     "cue": "antagonist",
+     "label": "Antagonist",
+     "tone": "petrol",
+     "items": [
+      {
+       "text": "Challenges your ideas"
+      },
+      {
+       "text": "No ego, never tired"
+      }
+     ],
+     "at": 6.148
+    },
+    "right": {
+     "cue": "assistant",
+     "label": "Assistant",
+     "tone": "ink",
+     "items": [
+      {
+       "text": "Similar, cheap ideas"
+      },
+      {
+       "text": "Same as everyone else"
+      }
+     ],
+     "at": 7.442
+    },
+    "audio": "audio/w9-05.mp3",
+    "leadIn": 0.35,
+    "seconds": 8.72,
+    "words": [
+     {
+      "w": "AI",
+      "t": 0.4
+     },
+     {
+      "w": "can",
+      "t": 0.846
+     },
+     {
+      "w": "speed-run",
+      "t": 1.025
+     },
+     {
+      "w": "the",
+      "t": 1.55
+     },
+     {
+      "w": "process",
+      "t": 1.594
+     },
+     {
+      "w": "But",
+      "t": 2.487
+     },
+     {
+      "w": "on",
+      "t": 2.666
+     },
+     {
+      "w": "its",
+      "t": 2.811
+     },
+     {
+      "w": "own",
+      "t": 2.945
+     },
+     {
+      "w": "it",
+      "t": 3.201
+     },
+     {
+      "w": "gives",
+      "t": 3.369
+     },
+     {
+      "w": "similar",
+      "t": 3.558
+     },
+     {
+      "w": "cheap",
+      "t": 4.217
+     },
+     {
+      "w": "ideas",
+      "t": 4.485
+     },
+     {
+      "w": "Use",
+      "t": 5.344
+     },
+     {
+      "w": "it",
+      "t": 5.679
+     },
+     {
+      "w": "as",
+      "t": 5.835
+     },
+     {
+      "w": "your",
+      "t": 6.014
+     },
+     {
+      "w": "antagonist",
+      "t": 6.148
+     },
+     {
+      "w": "not",
+      "t": 7.029
+     },
+     {
+      "w": "your",
+      "t": 7.297
+     },
+     {
+      "w": "assistant",
+      "t": 7.442
+     }
+    ]
+   },
+   {
+    "type": "outro",
+    "say": "The takeaway? Be simple, not just smart. It's not creative if it's not commercial.",
+    "lines": [
+     {
+      "cue": "simple",
+      "text": "Be *simple*, not just smart.",
+      "at": 1.683
+     },
+     {
+      "cue": "not creative",
+      "text": "It’s not creative if it’s not *commercial*.",
+      "at": 3.837
+     }
+    ],
+    "footAt": 4.5,
+    "audio": "audio/w9-06.mp3",
+    "leadIn": 0.35,
+    "seconds": 6.392,
+    "words": [
+     {
+      "w": "The",
+      "t": 0.4
+     },
+     {
+      "w": "takeaway",
+      "t": 0.601
+     },
+     {
+      "w": "Be",
+      "t": 1.527
+     },
+     {
+      "w": "simple",
+      "t": 1.683
+     },
+     {
+      "w": "not",
+      "t": 2.364
+     },
+     {
+      "w": "just",
+      "t": 2.632
+     },
+     {
+      "w": "smart",
+      "t": 2.867
+     },
+     {
+      "w": "It's",
+      "t": 3.637
+     },
+     {
+      "w": "not",
+      "t": 3.837
+     },
+     {
+      "w": "creative",
+      "t": 4.038
+     },
+     {
+      "w": "if",
+      "t": 4.552
+     },
+     {
+      "w": "it's",
+      "t": 4.708
+     },
+     {
+      "w": "not",
+      "t": 4.864
+     },
+     {
+      "w": "commercial",
+      "t": 5.076
+     }
+    ]
+   }
+  ],
+  "id": "w9",
+  "total": 57.99
+ },
+ "w10": {
+  "week": 10,
+  "chrome": "Bryce Coombe · Hypetap",
+  "scenes": [
+   {
+    "type": "title",
+    "say": "Week ten. Inside the world of influencer marketing, with Bryce Coombe from Hypetap.",
+    "eyebrow": "Week 10 · Guest lecture",
+    "title": "Inside the world of influencer marketing",
+    "speaker": "Bryce Coombe",
+    "org": "Managing Director, Hypetap",
+    "photo": "w10.png",
+    "audio": "audio/w10-00.mp3",
+    "leadIn": 0.35,
+    "seconds": 5.72,
+    "words": [
+     {
+      "w": "Week",
+      "t": 0.4
+     },
+     {
+      "w": "ten",
+      "t": 0.735
+     },
+     {
+      "w": "Inside",
+      "t": 1.449
+     },
+     {
+      "w": "the",
+      "t": 1.929
+     },
+     {
+      "w": "world",
+      "t": 1.996
+     },
+     {
+      "w": "of",
+      "t": 2.253
+     },
+     {
+      "w": "influencer",
+      "t": 2.32
+     },
+     {
+      "w": "marketing",
+      "t": 2.822
+     },
+     {
+      "w": "with",
+      "t": 3.514
+     },
+     {
+      "w": "Bryce",
+      "t": 3.681
+     },
+     {
+      "w": "Coombe",
+      "t": 3.994
+     },
+     {
+      "w": "from",
+      "t": 4.25
+     },
+     {
+      "w": "Hypetap",
+      "t": 4.418
+     }
+    ]
+   },
+   {
+    "type": "stats",
+    "kicker": "The audience is huge",
+    "say": "Australians spend twenty nine and a half hours a month on TikTok. And eighty percent are there mainly for creator content.",
+    "stats": [
+     {
+      "cue": "twenty",
+      "value": 29.5,
+      "decimals": 1,
+      "suffix": "h",
+      "label": "a month on TikTok, per Australian user",
+      "at": 1.337
+     },
+     {
+      "cue": "eighty",
+      "value": 80,
+      "suffix": "%",
+      "label": "there mainly for influencer content",
+      "tone": "petrol",
+      "at": 4.05
+     }
+    ],
+    "audio": "audio/w10-01.mp3",
+    "leadIn": 0.35,
+    "seconds": 7.04,
+    "words": [
+     {
+      "w": "Australians",
+      "t": 0.4
+     },
+     {
+      "w": "spend",
+      "t": 1.036
+     },
+     {
+      "w": "twenty",
+      "t": 1.337
+     },
+     {
+      "w": "nine",
+      "t": 1.572
+     },
+     {
+      "w": "and",
+      "t": 1.806
+     },
+     {
+      "w": "a",
+      "t": 1.862
+     },
+     {
+      "w": "half",
+      "t": 1.907
+     },
+     {
+      "w": "hours",
+      "t": 2.163
+     },
+     {
+      "w": "a",
+      "t": 2.442
+     },
+     {
+      "w": "month",
+      "t": 2.476
+     },
+     {
+      "w": "on",
+      "t": 2.777
+     },
+     {
+      "w": "TikTok",
+      "t": 2.945
+     },
+     {
+      "w": "And",
+      "t": 3.771
+     },
+     {
+      "w": "eighty",
+      "t": 4.05
+     },
+     {
+      "w": "percent",
+      "t": 4.217
+     },
+     {
+      "w": "are",
+      "t": 4.675
+     },
+     {
+      "w": "there",
+      "t": 4.741
+     },
+     {
+      "w": "mainly",
+      "t": 4.887
+     },
+     {
+      "w": "for",
+      "t": 5.3
+     },
+     {
+      "w": "creator",
+      "t": 5.422
+     },
+     {
+      "w": "content",
+      "t": 5.779
+     }
+    ]
+   },
+   {
+    "type": "list",
+    "kicker": "Why it works",
+    "title": "I expect it. I trust it. I buy on it.",
+    "say": "Seventy five percent have acted on something they saw in their feed. And social is now search: nearly half of US consumers use TikTok as a search engine.",
+    "items": [
+     {
+      "cue": "seventy",
+      "head": "75% have acted on a product in their feed",
+      "mark": "✓",
+      "at": 0.4
+     },
+     {
+      "cue": "social",
+      "head": "Social is now *search*",
+      "sub": "~50% of US consumers search on TikTok; AI models learn from creators",
+      "mark": "✓",
+      "tone": "petrol",
+      "at": 4.005
+     }
+    ],
+    "audio": "audio/w10-02.mp3",
+    "leadIn": 0.35,
+    "seconds": 9.176,
+    "words": [
+     {
+      "w": "Seventy",
+      "t": 0.4
+     },
+     {
+      "w": "five",
+      "t": 0.802
+     },
+     {
+      "w": "percent",
+      "t": 1.025
+     },
+     {
+      "w": "have",
+      "t": 1.382
+     },
+     {
+      "w": "acted",
+      "t": 1.516
+     },
+     {
+      "w": "on",
+      "t": 1.918
+     },
+     {
+      "w": "something",
+      "t": 2.085
+     },
+     {
+      "w": "they",
+      "t": 2.431
+     },
+     {
+      "w": "saw",
+      "t": 2.543
+     },
+     {
+      "w": "in",
+      "t": 2.889
+     },
+     {
+      "w": "their",
+      "t": 2.967
+     },
+     {
+      "w": "feed",
+      "t": 3.056
+     },
+     {
+      "w": "And",
+      "t": 3.826
+     },
+     {
+      "w": "social",
+      "t": 4.005
+     },
+     {
+      "w": "is",
+      "t": 4.462
+     },
+     {
+      "w": "now",
+      "t": 4.585
+     },
+     {
+      "w": "search",
+      "t": 4.753
+     },
+     {
+      "w": "nearly",
+      "t": 5.534
+     },
+     {
+      "w": "half",
+      "t": 5.824
+     },
+     {
+      "w": "of",
+      "t": 6.103
+     },
+     {
+      "w": "US",
+      "t": 6.192
+     },
+     {
+      "w": "consumers",
+      "t": 6.471
+     },
+     {
+      "w": "use",
+      "t": 6.974
+     },
+     {
+      "w": "TikTok",
+      "t": 7.186
+     },
+     {
+      "w": "as",
+      "t": 7.587
+     },
+     {
+      "w": "a",
+      "t": 7.733
+     },
+     {
+      "w": "search",
+      "t": 7.766
+     },
+     {
+      "w": "engine",
+      "t": 8.045
+     }
+    ]
+   },
+   {
+    "type": "skit",
+    "kicker": "Value exchange",
+    "say": "A creator showing the product in real life, like a recipe, gets positive sentiment. Strict brand scripts get neutral at best.",
+    "cast": [
+     {
+      "name": "Creator",
+      "look": 1,
+      "prop": "phone"
+     },
+     {
+      "name": "Viewer",
+      "look": 0
+     }
+    ],
+    "beats": [
+     {
+      "who": 0,
+      "cue": "recipe",
+      "text": "Here’s what I actually *cook* with it.",
+      "at": 2.822
+     },
+     {
+      "who": 1,
+      "cue": "positive",
+      "kind": "think",
+      "text": "Love this. *Saving it.*",
+      "at": 3.681
+     }
+    ],
+    "chips": [
+     {
+      "cue": "strict",
+      "text": "Scripted brand ad → neutral",
+      "tone": "ink",
+      "at": 4.875
+     }
+    ],
+    "audio": "audio/w10-03.mp3",
+    "leadIn": 0.35,
+    "seconds": 7.784,
+    "words": [
+     {
+      "w": "A",
+      "t": 0.4
+     },
+     {
+      "w": "creator",
+      "t": 0.512
+     },
+     {
+      "w": "showing",
+      "t": 0.902
+     },
+     {
+      "w": "the",
+      "t": 1.192
+     },
+     {
+      "w": "product",
+      "t": 1.259
+     },
+     {
+      "w": "in",
+      "t": 1.639
+     },
+     {
+      "w": "real",
+      "t": 1.75
+     },
+     {
+      "w": "life",
+      "t": 1.951
+     },
+     {
+      "w": "like",
+      "t": 2.576
+     },
+     {
+      "w": "a",
+      "t": 2.777
+     },
+     {
+      "w": "recipe",
+      "t": 2.822
+     },
+     {
+      "w": "gets",
+      "t": 3.503
+     },
+     {
+      "w": "positive",
+      "t": 3.681
+     },
+     {
+      "w": "sentiment",
+      "t": 4.083
+     },
+     {
+      "w": "Strict",
+      "t": 4.875
+     },
+     {
+      "w": "brand",
+      "t": 5.266
+     },
+     {
+      "w": "scripts",
+      "t": 5.59
+     },
+     {
+      "w": "get",
+      "t": 5.947
+     },
+     {
+      "w": "neutral",
+      "t": 6.114
+     },
+     {
+      "w": "at",
+      "t": 6.516
+     },
+     {
+      "w": "best",
+      "t": 6.605
+     }
+    ]
+   },
+   {
+    "type": "list",
+    "kicker": "Risk",
+    "title": "The brand is *liable*, not the influencer",
+    "mark": "!",
+    "say": "And the brand is liable, not the influencer. A free product counts as paid, so disclose it. And never trust a screen grab.",
+    "items": [
+     {
+      "cue": "free",
+      "head": "Free product = paid advertising",
+      "sub": "Disclose it",
+      "at": 3.257
+     },
+     {
+      "cue": "never",
+      "head": "Never trust a screen grab",
+      "sub": "Check reach, deleted posts, fit",
+      "at": 6.159
+     }
+    ],
+    "audio": "audio/w10-04.mp3",
+    "leadIn": 0.35,
+    "seconds": 8.384,
+    "words": [
+     {
+      "w": "And",
+      "t": 0.4
+     },
+     {
+      "w": "the",
+      "t": 0.579
+     },
+     {
+      "w": "brand",
+      "t": 0.646
+     },
+     {
+      "w": "is",
+      "t": 0.958
+     },
+     {
+      "w": "liable",
+      "t": 1.081
+     },
+     {
+      "w": "not",
+      "t": 1.773
+     },
+     {
+      "w": "the",
+      "t": 2.052
+     },
+     {
+      "w": "influencer",
+      "t": 2.253
+     },
+     {
+      "w": "A",
+      "t": 3.146
+     },
+     {
+      "w": "free",
+      "t": 3.257
+     },
+     {
+      "w": "product",
+      "t": 3.514
+     },
+     {
+      "w": "counts",
+      "t": 3.849
+     },
+     {
+      "w": "as",
+      "t": 4.128
+     },
+     {
+      "w": "paid",
+      "t": 4.217
+     },
+     {
+      "w": "so",
+      "t": 4.82
+     },
+     {
+      "w": "disclose",
+      "t": 5.032
+     },
+     {
+      "w": "it",
+      "t": 5.433
+     },
+     {
+      "w": "And",
+      "t": 5.947
+     },
+     {
+      "w": "never",
+      "t": 6.159
+     },
+     {
+      "w": "trust",
+      "t": 6.516
+     },
+     {
+      "w": "a",
+      "t": 6.84
+     },
+     {
+      "w": "screen",
+      "t": 6.873
+     },
+     {
+      "w": "grab",
+      "t": 7.197
+     }
+    ]
+   },
+   {
+    "type": "versus",
+    "kicker": "Measure growth, not just attention",
+    "say": "Views and engagement explain attention, not growth. Measure mental availability, share of voice, perception, and behaviour change.",
+    "left": {
+     "cue": "views",
+     "label": "Attention",
+     "tone": "ink",
+     "items": [
+      {
+       "text": "Views"
+      },
+      {
+       "text": "Engagement"
+      }
+     ],
+     "at": 0.4
+    },
+    "right": {
+     "cue": "mental",
+     "label": "Growth",
+     "tone": "ox",
+     "items": [
+      {
+       "text": "Mental availability"
+      },
+      {
+       "cue": "share",
+       "text": "Share of voice",
+       "at": 5.177
+      },
+      {
+       "cue": "perception",
+       "text": "Perception and behaviour change",
+       "at": 6.181
+      }
+     ],
+     "at": 4.061
+    },
+    "audio": "audio/w10-05.mp3",
+    "leadIn": 0.35,
+    "seconds": 8.72,
+    "words": [
+     {
+      "w": "Views",
+      "t": 0.4
+     },
+     {
+      "w": "and",
+      "t": 0.824
+     },
+     {
+      "w": "engagement",
+      "t": 0.991
+     },
+     {
+      "w": "explain",
+      "t": 1.561
+     },
+     {
+      "w": "attention",
+      "t": 1.918
+     },
+     {
+      "w": "not",
+      "t": 2.643
+     },
+     {
+      "w": "growth",
+      "t": 2.911
+     },
+     {
+      "w": "Measure",
+      "t": 3.681
+     },
+     {
+      "w": "mental",
+      "t": 4.061
+     },
+     {
+      "w": "availability",
+      "t": 4.34
+     },
+     {
+      "w": "share",
+      "t": 5.177
+     },
+     {
+      "w": "of",
+      "t": 5.489
+     },
+     {
+      "w": "voice",
+      "t": 5.556
+     },
+     {
+      "w": "perception",
+      "t": 6.181
+     },
+     {
+      "w": "and",
+      "t": 6.94
+     },
+     {
+      "w": "behaviour",
+      "t": 7.074
+     },
+     {
+      "w": "change",
+      "t": 7.487
+     }
+    ]
+   },
+   {
+    "type": "list",
+    "kicker": "Know your brand’s eye level",
+    "title": "One demographic does not fit all",
+    "say": "Know your brand's eye level. A leader brand uses experts. An eye to eye brand uses creators who are just like you. A subservient brand does the work for people.",
+    "items": [
+     {
+      "cue": "leader",
+      "head": "Leader brand",
+      "sub": "Uses experts",
+      "mark": "↑",
+      "at": 2.175
+     },
+     {
+      "cue": "eye",
+      "head": "Eye-to-eye brand",
+      "sub": "“I’m just like you” creators",
+      "mark": "→",
+      "tone": "petrol",
+      "at": 4.44
+     },
+     {
+      "cue": "subservient",
+      "head": "Subservient brand",
+      "sub": "Does the work for people",
+      "mark": "↓",
+      "tone": "amber",
+      "at": 7.375
+     }
+    ],
+    "audio": "audio/w10-06.mp3",
+    "leadIn": 0.35,
+    "seconds": 10.232,
+    "words": [
+     {
+      "w": "Know",
+      "t": 0.4
+     },
+     {
+      "w": "your",
+      "t": 0.679
+     },
+     {
+      "w": "brand's",
+      "t": 0.88
+     },
+     {
+      "w": "eye",
+      "t": 1.259
+     },
+     {
+      "w": "level",
+      "t": 1.349
+     },
+     {
+      "w": "A",
+      "t": 2.063
+     },
+     {
+      "w": "leader",
+      "t": 2.175
+     },
+     {
+      "w": "brand",
+      "t": 2.476
+     },
+     {
+      "w": "uses",
+      "t": 2.889
+     },
+     {
+      "w": "experts",
+      "t": 3.268
+     },
+     {
+      "w": "An",
+      "t": 4.183
+     },
+     {
+      "w": "eye",
+      "t": 4.44
+     },
+     {
+      "w": "to",
+      "t": 4.596
+     },
+     {
+      "w": "eye",
+      "t": 4.775
+     },
+     {
+      "w": "brand",
+      "t": 4.875
+     },
+     {
+      "w": "uses",
+      "t": 5.244
+     },
+     {
+      "w": "creators",
+      "t": 5.556
+     },
+     {
+      "w": "who",
+      "t": 6.047
+     },
+     {
+      "w": "are",
+      "t": 6.192
+     },
+     {
+      "w": "just",
+      "t": 6.215
+     },
+     {
+      "w": "like",
+      "t": 6.494
+     },
+     {
+      "w": "you",
+      "t": 6.695
+     },
+     {
+      "w": "A",
+      "t": 7.264
+     },
+     {
+      "w": "subservient",
+      "t": 7.375
+     },
+     {
+      "w": "brand",
+      "t": 8.034
+     },
+     {
+      "w": "does",
+      "t": 8.458
+     },
+     {
+      "w": "the",
+      "t": 8.603
+     },
+     {
+      "w": "work",
+      "t": 8.681
+     },
+     {
+      "w": "for",
+      "t": 8.938
+     },
+     {
+      "w": "people",
+      "t": 9.05
+     }
+    ]
+   },
+   {
+    "type": "outro",
+    "say": "The takeaway? Treat influencer as a specialist discipline, and measure growth.",
+    "lines": [
+     {
+      "cue": "specialist",
+      "text": "Influencer is a *specialist discipline*.",
+      "at": 2.632
+     },
+     {
+      "cue": "measure",
+      "text": "Measure *growth*.",
+      "at": 4.005
+     }
+    ],
+    "footAt": 4,
+    "audio": "audio/w10-07.mp3",
+    "leadIn": 0.35,
+    "seconds": 5.48,
+    "words": [
+     {
+      "w": "The",
+      "t": 0.4
+     },
+     {
+      "w": "takeaway",
+      "t": 0.601
+     },
+     {
+      "w": "Treat",
+      "t": 1.527
+     },
+     {
+      "w": "influencer",
+      "t": 1.817
+     },
+     {
+      "w": "as",
+      "t": 2.442
+     },
+     {
+      "w": "a",
+      "t": 2.587
+     },
+     {
+      "w": "specialist",
+      "t": 2.632
+     },
+     {
+      "w": "discipline",
+      "t": 3.134
+     },
+     {
+      "w": "and",
+      "t": 3.837
+     },
+     {
+      "w": "measure",
+      "t": 4.005
+     },
+     {
+      "w": "growth",
+      "t": 4.284
+     }
+    ]
+   }
+  ],
+  "id": "w10",
+  "total": 62.54
+ },
+ "w11": {
+  "week": 11,
+  "chrome": "Ali Coysh · Geoff Clarke",
+  "scenes": [
+   {
+    "type": "title",
+    "say": "Week eleven. Inside a media agency, with Ali Coysh from Initiative and Geoff Clarke from I.P.G. Mediabrands.",
+    "eyebrow": "Week 11 · Guest lecture",
+    "title": "Inside a media agency: strategy, automation and AI",
+    "speaker": "Ali Coysh & Geoff Clarke",
+    "org": "Initiative · IPG Mediabrands Australia",
+    "photos": [
+     "w11.png",
+     "w11b.png"
+    ],
+    "audio": "audio/w11-00.mp3",
+    "leadIn": 0.35,
+    "seconds": 7.4,
+    "words": [
+     {
+      "w": "Week",
+      "t": 0.4
+     },
+     {
+      "w": "eleven",
+      "t": 0.757
+     },
+     {
+      "w": "Inside",
+      "t": 1.55
+     },
+     {
+      "w": "a",
+      "t": 1.951
+     },
+     {
+      "w": "media",
+      "t": 1.974
+     },
+     {
+      "w": "agency",
+      "t": 2.32
+     },
+     {
+      "w": "with",
+      "t": 3.056
+     },
+     {
+      "w": "Ali",
+      "t": 3.224
+     },
+     {
+      "w": "Coysh",
+      "t": 3.503
+     },
+     {
+      "w": "from",
+      "t": 3.815
+     },
+     {
+      "w": "Initiative",
+      "t": 3.96
+     },
+     {
+      "w": "and",
+      "t": 4.418
+     },
+     {
+      "w": "Geoff",
+      "t": 4.596
+     },
+     {
+      "w": "Clarke",
+      "t": 4.808
+     },
+     {
+      "w": "from",
+      "t": 5.166
+     },
+     {
+      "w": "I.P.G.",
+      "t": 5.422
+     },
+     {
+      "w": "Mediabrands",
+      "t": 5.869
+     }
+    ]
+   },
+   {
+    "type": "versus",
+    "kicker": "Media’s job has grown",
+    "say": "Media used to mean planning and buying paid space. Now it orchestrates whole customer experiences, across owned, earned, shared and paid.",
+    "left": {
+     "cue": "planning",
+     "label": "Then",
+     "tone": "ink",
+     "items": [
+      {
+       "text": "Plan, buy, report"
+      },
+      {
+       "text": "Paid media only"
+      }
+     ],
+     "at": 1.293
+    },
+    "right": {
+     "cue": "orchestrates",
+     "label": "Now",
+     "tone": "petrol",
+     "items": [
+      {
+       "text": "Orchestrate customer experiences"
+      },
+      {
+       "cue": "owned",
+       "text": "Owned · earned · shared · paid",
+       "at": 5.991
+      }
+     ],
+     "at": 3.581
+    },
+    "audio": "audio/w11-01.mp3",
+    "leadIn": 0.35,
+    "seconds": 8.984,
+    "words": [
+     {
+      "w": "Media",
+      "t": 0.4
+     },
+     {
+      "w": "used",
+      "t": 0.802
+     },
+     {
+      "w": "to",
+      "t": 1.058
+     },
+     {
+      "w": "mean",
+      "t": 1.114
+     },
+     {
+      "w": "planning",
+      "t": 1.293
+     },
+     {
+      "w": "and",
+      "t": 1.706
+     },
+     {
+      "w": "buying",
+      "t": 1.851
+     },
+     {
+      "w": "paid",
+      "t": 2.197
+     },
+     {
+      "w": "space",
+      "t": 2.431
+     },
+     {
+      "w": "Now",
+      "t": 3.19
+     },
+     {
+      "w": "it",
+      "t": 3.503
+     },
+     {
+      "w": "orchestrates",
+      "t": 3.581
+     },
+     {
+      "w": "whole",
+      "t": 4.094
+     },
+     {
+      "w": "customer",
+      "t": 4.295
+     },
+     {
+      "w": "experiences",
+      "t": 4.663
+     },
+     {
+      "w": "across",
+      "t": 5.59
+     },
+     {
+      "w": "owned",
+      "t": 5.991
+     },
+     {
+      "w": "earned",
+      "t": 6.65
+     },
+     {
+      "w": "shared",
+      "t": 7.197
+     },
+     {
+      "w": "and",
+      "t": 7.621
+     },
+     {
+      "w": "paid",
+      "t": 7.766
+     }
+    ]
+   },
+   {
+    "type": "flow",
+    "kicker": "Ali’s logic flow",
+    "say": "Ali's logic flow runs from the journey stage, to the bond or barrier, to media role, channel, platform, and environment.",
+    "steps": [
+     {
+      "cue": "journey",
+      "text": "Journey stage",
+      "at": 1.873
+     },
+     {
+      "cue": "bond",
+      "text": "Bond or barrier",
+      "at": 2.978
+     },
+     {
+      "cue": "role",
+      "text": "Media role",
+      "at": 4.418
+     },
+     {
+      "cue": "channel",
+      "text": "Channel",
+      "at": 4.92
+     },
+     {
+      "cue": "platform",
+      "text": "Platform",
+      "at": 5.512
+     },
+     {
+      "cue": "environment",
+      "text": "Environment",
+      "at": 6.382
+     }
+    ],
+    "audio": "audio/w11-02.mp3",
+    "leadIn": 0.35,
+    "seconds": 7.736,
+    "words": [
+     {
+      "w": "Ali's",
+      "t": 0.4
+     },
+     {
+      "w": "logic",
+      "t": 0.779
+     },
+     {
+      "w": "flow",
+      "t": 1.058
+     },
+     {
+      "w": "runs",
+      "t": 1.416
+     },
+     {
+      "w": "from",
+      "t": 1.706
+     },
+     {
+      "w": "the",
+      "t": 1.817
+     },
+     {
+      "w": "journey",
+      "t": 1.873
+     },
+     {
+      "w": "stage",
+      "t": 2.152
+     },
+     {
+      "w": "to",
+      "t": 2.822
+     },
+     {
+      "w": "the",
+      "t": 2.911
+     },
+     {
+      "w": "bond",
+      "t": 2.978
+     },
+     {
+      "w": "or",
+      "t": 3.268
+     },
+     {
+      "w": "barrier",
+      "t": 3.335
+     },
+     {
+      "w": "to",
+      "t": 4.005
+     },
+     {
+      "w": "media",
+      "t": 4.094
+     },
+     {
+      "w": "role",
+      "t": 4.418
+     },
+     {
+      "w": "channel",
+      "t": 4.92
+     },
+     {
+      "w": "platform",
+      "t": 5.512
+     },
+     {
+      "w": "and",
+      "t": 6.248
+     },
+     {
+      "w": "environment",
+      "t": 6.382
+     }
+    ]
+   },
+   {
+    "type": "stats",
+    "kicker": "Case · NRMA “Help our highway”",
+    "say": "For NRMA in Queensland, that meant the highest non-customer consideration in six years, and a four hundred and sixty seven million dollar commitment to fix the Bruce Highway.",
+    "stats": [
+     {
+      "cue": "highest",
+      "text": "6 yrs",
+      "value": 6,
+      "label": "highest non-customer consideration",
+      "tone": "petrol",
+      "at": 2.71
+     },
+     {
+      "cue": "four",
+      "value": 467,
+      "prefix": "$",
+      "suffix": "M",
+      "label": "committed to fix the Bruce Highway",
+      "at": 5.467
+     }
+    ],
+    "audio": "audio/w11-03.mp3",
+    "leadIn": 0.35,
+    "seconds": 9.2,
+    "words": [
+     {
+      "w": "For",
+      "t": 0.4
+     },
+     {
+      "w": "NRMA",
+      "t": 0.802
+     },
+     {
+      "w": "in",
+      "t": 1.404
+     },
+     {
+      "w": "Queensland",
+      "t": 1.505
+     },
+     {
+      "w": "that",
+      "t": 2.275
+     },
+     {
+      "w": "meant",
+      "t": 2.476
+     },
+     {
+      "w": "the",
+      "t": 2.643
+     },
+     {
+      "w": "highest",
+      "t": 2.71
+     },
+     {
+      "w": "non-customer",
+      "t": 3.112
+     },
+     {
+      "w": "consideration",
+      "t": 3.637
+     },
+     {
+      "w": "in",
+      "t": 4.295
+     },
+     {
+      "w": "six",
+      "t": 4.429
+     },
+     {
+      "w": "years",
+      "t": 4.686
+     },
+     {
+      "w": "and",
+      "t": 5.322
+     },
+     {
+      "w": "a",
+      "t": 5.433
+     },
+     {
+      "w": "four",
+      "t": 5.467
+     },
+     {
+      "w": "hundred",
+      "t": 5.69
+     },
+     {
+      "w": "and",
+      "t": 5.88
+     },
+     {
+      "w": "sixty",
+      "t": 5.913
+     },
+     {
+      "w": "seven",
+      "t": 6.181
+     },
+     {
+      "w": "million",
+      "t": 6.449
+     },
+     {
+      "w": "dollar",
+      "t": 6.75
+     },
+     {
+      "w": "commitment",
+      "t": 6.929
+     },
+     {
+      "w": "to",
+      "t": 7.331
+     },
+     {
+      "w": "fix",
+      "t": 7.42
+     },
+     {
+      "w": "the",
+      "t": 7.688
+     },
+     {
+      "w": "Bruce",
+      "t": 7.766
+     },
+     {
+      "w": "Highway",
+      "t": 7.989
+     }
+    ]
+   },
+   {
+    "type": "skit",
+    "kicker": "Geoff · bots are an invisible police force",
+    "say": "Geoff's point: seventy percent of agency work is downstream, and still manual. Bots now handle setup, tracking and makegoods, saving two hundred and seven thousand hours.",
+    "cast": [
+     {
+      "name": "Media buyer",
+      "look": 3
+     },
+     {
+      "name": "Ops lead",
+      "look": 2
+     }
+    ],
+    "beats": [
+     {
+      "who": 0,
+      "cue": "manual",
+      "text": "Seventy percent of this is *manual*?",
+      "at": 4.094
+     },
+     {
+      "who": 1,
+      "cue": "bots",
+      "text": "The *bots* have it now.",
+      "at": 4.887
+     }
+    ],
+    "chips": [
+     {
+      "cue": "hundred",
+      "text": "207,000 hours saved",
+      "tone": "petrol",
+      "at": 8.201
+     }
+    ],
+    "audio": "audio/w11-04.mp3",
+    "leadIn": 0.35,
+    "seconds": 10.184,
+    "words": [
+     {
+      "w": "Geoff's",
+      "t": 0.4
+     },
+     {
+      "w": "point",
+      "t": 0.668
+     },
+     {
+      "w": "seventy",
+      "t": 1.315
+     },
+     {
+      "w": "percent",
+      "t": 1.695
+     },
+     {
+      "w": "of",
+      "t": 2.007
+     },
+     {
+      "w": "agency",
+      "t": 2.163
+     },
+     {
+      "w": "work",
+      "t": 2.543
+     },
+     {
+      "w": "is",
+      "t": 2.766
+     },
+     {
+      "w": "downstream",
+      "t": 2.878
+     },
+     {
+      "w": "and",
+      "t": 3.681
+     },
+     {
+      "w": "still",
+      "t": 3.815
+     },
+     {
+      "w": "manual",
+      "t": 4.094
+     },
+     {
+      "w": "Bots",
+      "t": 4.887
+     },
+     {
+      "w": "now",
+      "t": 5.166
+     },
+     {
+      "w": "handle",
+      "t": 5.366
+     },
+     {
+      "w": "setup",
+      "t": 5.634
+     },
+     {
+      "w": "tracking",
+      "t": 6.248
+     },
+     {
+      "w": "and",
+      "t": 6.683
+     },
+     {
+      "w": "makegoods",
+      "t": 6.806
+     },
+     {
+      "w": "saving",
+      "t": 7.61
+     },
+     {
+      "w": "two",
+      "t": 8.0
+     },
+     {
+      "w": "hundred",
+      "t": 8.201
+     },
+     {
+      "w": "and",
+      "t": 8.38
+     },
+     {
+      "w": "seven",
+      "t": 8.425
+     },
+     {
+      "w": "thousand",
+      "t": 8.704
+     },
+     {
+      "w": "hours",
+      "t": 9.005
+     }
+    ]
+   },
+   {
+    "type": "list",
+    "kicker": "Skills needed now",
+    "title": "What sets people apart",
+    "say": "So the skills that matter are data driven thinking, creative and strategic thinking, and adaptability, with lifelong learning.",
+    "items": [
+     {
+      "cue": "data",
+      "head": "Data-driven thinking",
+      "at": 1.561
+     },
+     {
+      "cue": "creative",
+      "head": "Creative and strategic thinking",
+      "tone": "petrol",
+      "at": 2.721
+     },
+     {
+      "cue": "adaptability",
+      "head": "Adaptability and lifelong learning",
+      "tone": "amber",
+      "at": 4.574
+     }
+    ],
+    "audio": "audio/w11-05.mp3",
+    "leadIn": 0.35,
+    "seconds": 7.208,
+    "words": [
+     {
+      "w": "So",
+      "t": 0.4
+     },
+     {
+      "w": "the",
+      "t": 0.612
+     },
+     {
+      "w": "skills",
+      "t": 0.69
+     },
+     {
+      "w": "that",
+      "t": 1.036
+     },
+     {
+      "w": "matter",
+      "t": 1.148
+     },
+     {
+      "w": "are",
+      "t": 1.494
+     },
+     {
+      "w": "data",
+      "t": 1.561
+     },
+     {
+      "w": "driven",
+      "t": 1.884
+     },
+     {
+      "w": "thinking",
+      "t": 2.141
+     },
+     {
+      "w": "creative",
+      "t": 2.721
+     },
+     {
+      "w": "and",
+      "t": 3.235
+     },
+     {
+      "w": "strategic",
+      "t": 3.38
+     },
+     {
+      "w": "thinking",
+      "t": 3.86
+     },
+     {
+      "w": "and",
+      "t": 4.44
+     },
+     {
+      "w": "adaptability",
+      "t": 4.574
+     },
+     {
+      "w": "with",
+      "t": 5.456
+     },
+     {
+      "w": "lifelong",
+      "t": 5.623
+     },
+     {
+      "w": "learning",
+      "t": 6.058
+     }
+    ]
+   },
+   {
+    "type": "outro",
+    "say": "The takeaway? It's creative and media now. The lasting differentiator is the craft of your people.",
+    "lines": [
+     {
+      "cue": "creative",
+      "text": "It’s creative *and* media now.",
+      "at": 1.728
+     },
+     {
+      "cue": "craft",
+      "text": "The lasting differentiator: the *craft* of your people.",
+      "at": 4.931
+     }
+    ],
+    "footAt": 4.5,
+    "audio": "audio/w11-06.mp3",
+    "leadIn": 0.35,
+    "seconds": 6.704,
+    "words": [
+     {
+      "w": "The",
+      "t": 0.4
+     },
+     {
+      "w": "takeaway",
+      "t": 0.601
+     },
+     {
+      "w": "It's",
+      "t": 1.527
+     },
+     {
+      "w": "creative",
+      "t": 1.728
+     },
+     {
+      "w": "and",
+      "t": 2.264
+     },
+     {
+      "w": "media",
+      "t": 2.442
+     },
+     {
+      "w": "now",
+      "t": 2.777
+     },
+     {
+      "w": "The",
+      "t": 3.447
+     },
+     {
+      "w": "lasting",
+      "t": 3.592
+     },
+     {
+      "w": "differentiator",
+      "t": 4.038
+     },
+     {
+      "w": "is",
+      "t": 4.708
+     },
+     {
+      "w": "the",
+      "t": 4.842
+     },
+     {
+      "w": "craft",
+      "t": 4.931
+     },
+     {
+      "w": "of",
+      "t": 5.333
+     },
+     {
+      "w": "your",
+      "t": 5.4
+     },
+     {
+      "w": "people",
+      "t": 5.478
+     }
+    ]
+   }
+  ],
+  "id": "w11",
+  "total": 57.42
+ },
+ "w12": {
+  "week": 12,
+  "chrome": "Nicky Barton · Mutinex",
+  "scenes": [
+   {
+    "type": "title",
+    "say": "Week twelve. Measuring what matters, with Nicky Barton from Mutinex.",
+    "eyebrow": "Week 12 · Guest lecture",
+    "title": "Measuring what matters",
+    "speaker": "Nicky Barton",
+    "org": "Head of Marketing Science, Mutinex",
+    "photo": "w12.jpg",
+    "audio": "audio/w12-00.mp3",
+    "leadIn": 0.35,
+    "seconds": 5.288,
+    "words": [
+     {
+      "w": "Week",
+      "t": 0.4
+     },
+     {
+      "w": "twelve",
+      "t": 0.757
+     },
+     {
+      "w": "Measuring",
+      "t": 1.594
+     },
+     {
+      "w": "what",
+      "t": 2.096
+     },
+     {
+      "w": "matters",
+      "t": 2.264
+     },
+     {
+      "w": "with",
+      "t": 2.945
+     },
+     {
+      "w": "Nicky",
+      "t": 3.134
+     },
+     {
+      "w": "Barton",
+      "t": 3.436
+     },
+     {
+      "w": "from",
+      "t": 3.826
+     },
+     {
+      "w": "Mutinex",
+      "t": 3.971
+     }
+    ]
+   },
+   {
+    "type": "skit",
+    "kicker": "Last touch",
+    "say": "Last-click attribution gives the final click all the credit. It's like a group assignment where whoever hits submit gets the whole mark.",
+    "cast": [
+     {
+      "name": "Did the research",
+      "look": 1
+     },
+     {
+      "name": "Hit submit",
+      "look": 3
+     }
+    ],
+    "beats": [
+     {
+      "who": 1,
+      "cue": "submit",
+      "text": "I’ll take the *100%*, thanks.",
+      "at": 5.288
+     },
+     {
+      "who": 0,
+      "cue": "whole",
+      "kind": "think",
+      "text": "Hang on…",
+      "at": 5.969
+     }
+    ],
+    "audio": "audio/w12-01.mp3",
+    "leadIn": 0.35,
+    "seconds": 7.28,
+    "words": [
+     {
+      "w": "Last-click",
+      "t": 0.4
+     },
+     {
+      "w": "attribution",
+      "t": 0.958
+     },
+     {
+      "w": "gives",
+      "t": 1.55
+     },
+     {
+      "w": "the",
+      "t": 1.75
+     },
+     {
+      "w": "final",
+      "t": 1.829
+     },
+     {
+      "w": "click",
+      "t": 2.186
+     },
+     {
+      "w": "all",
+      "t": 2.465
+     },
+     {
+      "w": "the",
+      "t": 2.654
+     },
+     {
+      "w": "credit",
+      "t": 2.721
+     },
+     {
+      "w": "It's",
+      "t": 3.458
+     },
+     {
+      "w": "like",
+      "t": 3.648
+     },
+     {
+      "w": "a",
+      "t": 3.837
+     },
+     {
+      "w": "group",
+      "t": 3.882
+     },
+     {
+      "w": "assignment",
+      "t": 4.117
+     },
+     {
+      "w": "where",
+      "t": 4.585
+     },
+     {
+      "w": "whoever",
+      "t": 4.741
+     },
+     {
+      "w": "hits",
+      "t": 5.076
+     },
+     {
+      "w": "submit",
+      "t": 5.288
+     },
+     {
+      "w": "gets",
+      "t": 5.69
+     },
+     {
+      "w": "the",
+      "t": 5.891
+     },
+     {
+      "w": "whole",
+      "t": 5.969
+     },
+     {
+      "w": "mark",
+      "t": 6.125
+     }
+    ]
+   },
+   {
+    "type": "statement",
+    "kicker": "Crediting only the bottom of the funnel",
+    "say": "Crediting only the bottom of the funnel starves the brand. Then privacy changes broke individual tracking. Ask every platform what it sold, and the answers add up to more than a hundred percent.",
+    "lines": [
+     {
+      "cue": "starves",
+      "text": "Crediting only the last touch *starves the brand*.",
+      "at": 2.052
+     },
+     {
+      "cue": "privacy",
+      "size": "s",
+      "text": "Then Safari limits, GDPR and Apple’s “ask app not to track” broke individual tracking.",
+      "at": 3.659
+     },
+     {
+      "cue": "ask",
+      "size": "s",
+      "text": "Ask every platform what it sold: the answers add up to *more than 100%*.",
+      "at": 6.036
+     }
+    ],
+    "audio": "audio/w12-02.mp3",
+    "leadIn": 0.35,
+    "seconds": 10.952,
+    "words": [
+     {
+      "w": "Crediting",
+      "t": 0.4
+     },
+     {
+      "w": "only",
+      "t": 0.925
+     },
+     {
+      "w": "the",
+      "t": 1.17
+     },
+     {
+      "w": "bottom",
+      "t": 1.248
+     },
+     {
+      "w": "of",
+      "t": 1.583
+     },
+     {
+      "w": "the",
+      "t": 1.661
+     },
+     {
+      "w": "funnel",
+      "t": 1.728
+     },
+     {
+      "w": "starves",
+      "t": 2.052
+     },
+     {
+      "w": "the",
+      "t": 2.465
+     },
+     {
+      "w": "brand",
+      "t": 2.532
+     },
+     {
+      "w": "Then",
+      "t": 3.302
+     },
+     {
+      "w": "privacy",
+      "t": 3.659
+     },
+     {
+      "w": "changes",
+      "t": 4.038
+     },
+     {
+      "w": "broke",
+      "t": 4.451
+     },
+     {
+      "w": "individual",
+      "t": 4.73
+     },
+     {
+      "w": "tracking",
+      "t": 5.255
+     },
+     {
+      "w": "Ask",
+      "t": 6.036
+     },
+     {
+      "w": "every",
+      "t": 6.393
+     },
+     {
+      "w": "platform",
+      "t": 6.661
+     },
+     {
+      "w": "what",
+      "t": 7.108
+     },
+     {
+      "w": "it",
+      "t": 7.219
+     },
+     {
+      "w": "sold",
+      "t": 7.297
+     },
+     {
+      "w": "and",
+      "t": 8.0
+     },
+     {
+      "w": "the",
+      "t": 8.123
+     },
+     {
+      "w": "answers",
+      "t": 8.257
+     },
+     {
+      "w": "add",
+      "t": 8.637
+     },
+     {
+      "w": "up",
+      "t": 8.826
+     },
+     {
+      "w": "to",
+      "t": 8.971
+     },
+     {
+      "w": "more",
+      "t": 9.05
+     },
+     {
+      "w": "than",
+      "t": 9.273
+     },
+     {
+      "w": "a",
+      "t": 9.384
+     },
+     {
+      "w": "hundred",
+      "t": 9.418
+     },
+     {
+      "w": "percent",
+      "t": 9.73
+     }
+    ]
+   },
+   {
+    "type": "flow",
+    "kicker": "Marketing mix modelling",
+    "say": "Marketing mix modelling reads the whole market: sales, spend, price, seasonality and competitors. It shows what drove sales, and where the next dollar should go.",
+    "steps": [
+     {
+      "cue": "sales",
+      "text": "Inputs",
+      "sub": "Sales, spend, price, season, economy, competitors",
+      "tone": "petrol",
+      "at": 2.632
+     },
+     {
+      "cue": "shows",
+      "text": "MMM",
+      "sub": "Probabilistic, privacy safe",
+      "tone": "ink",
+      "at": 6.706
+     },
+     {
+      "cue": "next",
+      "text": "Outputs",
+      "sub": "What drove sales, ROI, the next dollar",
+      "tone": "ox",
+      "at": 8.547
+     }
+    ],
+    "audio": "audio/w12-03.mp3",
+    "leadIn": 0.35,
+    "seconds": 10.28,
+    "words": [
+     {
+      "w": "Marketing",
+      "t": 0.4
+     },
+     {
+      "w": "mix",
+      "t": 0.891
+     },
+     {
+      "w": "modelling",
+      "t": 1.081
+     },
+     {
+      "w": "reads",
+      "t": 1.449
+     },
+     {
+      "w": "the",
+      "t": 1.706
+     },
+     {
+      "w": "whole",
+      "t": 1.773
+     },
+     {
+      "w": "market",
+      "t": 1.94
+     },
+     {
+      "w": "sales",
+      "t": 2.632
+     },
+     {
+      "w": "spend",
+      "t": 3.38
+     },
+     {
+      "w": "price",
+      "t": 4.117
+     },
+     {
+      "w": "seasonality",
+      "t": 4.753
+     },
+     {
+      "w": "and",
+      "t": 5.445
+     },
+     {
+      "w": "competitors",
+      "t": 5.59
+     },
+     {
+      "w": "It",
+      "t": 6.55
+     },
+     {
+      "w": "shows",
+      "t": 6.706
+     },
+     {
+      "w": "what",
+      "t": 7.029
+     },
+     {
+      "w": "drove",
+      "t": 7.186
+     },
+     {
+      "w": "sales",
+      "t": 7.42
+     },
+     {
+      "w": "and",
+      "t": 8.168
+     },
+     {
+      "w": "where",
+      "t": 8.324
+     },
+     {
+      "w": "the",
+      "t": 8.48
+     },
+     {
+      "w": "next",
+      "t": 8.547
+     },
+     {
+      "w": "dollar",
+      "t": 8.815
+     },
+     {
+      "w": "should",
+      "t": 8.983
+     },
+     {
+      "w": "go",
+      "t": 9.161
+     }
+    ]
+   },
+   {
+    "type": "list",
+    "kicker": "How the model thinks",
+    "cols": 2,
+    "say": "It thinks in pictures. A café on a busy corner is your baseline. A song stuck in your head: ads keep working. And the fifth slice of pizza: diminishing returns.",
+    "items": [
+     {
+      "cue": "caf",
+      "head": "Café on a busy corner",
+      "sub": "Baseline",
+      "at": 1.974
+     },
+     {
+      "cue": "song",
+      "head": "Song stuck in your head",
+      "sub": "Ads keep working",
+      "tone": "petrol",
+      "at": 4.529
+     },
+     {
+      "cue": "fifth",
+      "head": "The fifth slice of pizza",
+      "sub": "Diminishing returns",
+      "tone": "amber",
+      "at": 7.364
+     }
+    ],
+    "audio": "audio/w12-04.mp3",
+    "leadIn": 0.35,
+    "seconds": 10.664,
+    "words": [
+     {
+      "w": "It",
+      "t": 0.4
+     },
+     {
+      "w": "thinks",
+      "t": 0.601
+     },
+     {
+      "w": "in",
+      "t": 0.891
+     },
+     {
+      "w": "pictures",
+      "t": 1.003
+     },
+     {
+      "w": "A",
+      "t": 1.862
+     },
+     {
+      "w": "café",
+      "t": 1.974
+     },
+     {
+      "w": "on",
+      "t": 2.431
+     },
+     {
+      "w": "a",
+      "t": 2.554
+     },
+     {
+      "w": "busy",
+      "t": 2.599
+     },
+     {
+      "w": "corner",
+      "t": 2.867
+     },
+     {
+      "w": "is",
+      "t": 3.235
+     },
+     {
+      "w": "your",
+      "t": 3.38
+     },
+     {
+      "w": "baseline",
+      "t": 3.48
+     },
+     {
+      "w": "A",
+      "t": 4.418
+     },
+     {
+      "w": "song",
+      "t": 4.529
+     },
+     {
+      "w": "stuck",
+      "t": 4.808
+     },
+     {
+      "w": "in",
+      "t": 5.099
+     },
+     {
+      "w": "your",
+      "t": 5.177
+     },
+     {
+      "w": "head",
+      "t": 5.277
+     },
+     {
+      "w": "ads",
+      "t": 5.936
+     },
+     {
+      "w": "keep",
+      "t": 6.159
+     },
+     {
+      "w": "working",
+      "t": 6.371
+     },
+     {
+      "w": "And",
+      "t": 7.108
+     },
+     {
+      "w": "the",
+      "t": 7.297
+     },
+     {
+      "w": "fifth",
+      "t": 7.364
+     },
+     {
+      "w": "slice",
+      "t": 7.61
+     },
+     {
+      "w": "of",
+      "t": 7.933
+     },
+     {
+      "w": "pizza",
+      "t": 8.023
+     },
+     {
+      "w": "diminishing",
+      "t": 8.782
+     },
+     {
+      "w": "returns",
+      "t": 9.284
+     }
+    ]
+   },
+   {
+    "type": "statement",
+    "kicker": "Across 83 AU and NZ brands",
+    "say": "Across eighty three brands, those that kept their brand muscle grew most. If you can't add budget, don't add channels.",
+    "lines": [
+     {
+      "cue": "kept",
+      "text": "Brands that kept their *brand muscle* grew most.",
+      "at": 2.353
+     },
+     {
+      "cue": "can't",
+      "text": "Can’t add budget? Don’t add *channels*.",
+      "tone": "petrol",
+      "at": 4.507
+     }
+    ],
+    "audio": "audio/w12-05.mp3",
+    "leadIn": 0.35,
+    "seconds": 7.304,
+    "words": [
+     {
+      "w": "Across",
+      "t": 0.4
+     },
+     {
+      "w": "eighty",
+      "t": 0.891
+     },
+     {
+      "w": "three",
+      "t": 1.081
+     },
+     {
+      "w": "brands",
+      "t": 1.271
+     },
+     {
+      "w": "those",
+      "t": 1.985
+     },
+     {
+      "w": "that",
+      "t": 2.23
+     },
+     {
+      "w": "kept",
+      "t": 2.353
+     },
+     {
+      "w": "their",
+      "t": 2.587
+     },
+     {
+      "w": "brand",
+      "t": 2.688
+     },
+     {
+      "w": "muscle",
+      "t": 3.012
+     },
+     {
+      "w": "grew",
+      "t": 3.335
+     },
+     {
+      "w": "most",
+      "t": 3.503
+     },
+     {
+      "w": "If",
+      "t": 4.25
+     },
+     {
+      "w": "you",
+      "t": 4.418
+     },
+     {
+      "w": "can't",
+      "t": 4.507
+     },
+     {
+      "w": "add",
+      "t": 4.753
+     },
+     {
+      "w": "budget",
+      "t": 4.909
+     },
+     {
+      "w": "don't",
+      "t": 5.567
+     },
+     {
+      "w": "add",
+      "t": 5.802
+     },
+     {
+      "w": "channels",
+      "t": 6.036
+     }
+    ]
+   },
+   {
+    "type": "outro",
+    "say": "The takeaway? Judgement becomes the job. Always ask: how do we know it worked?",
+    "lines": [
+     {
+      "cue": "judgement",
+      "text": "Judgement becomes the *job*.",
+      "at": 1.527
+     },
+     {
+      "cue": "how",
+      "text": "Always ask: *how do we know it worked?*",
+      "at": 4.317
+     }
+    ],
+    "footAt": 4,
+    "audio": "audio/w12-06.mp3",
+    "leadIn": 0.35,
+    "seconds": 6.128,
+    "words": [
+     {
+      "w": "The",
+      "t": 0.4
+     },
+     {
+      "w": "takeaway",
+      "t": 0.601
+     },
+     {
+      "w": "Judgement",
+      "t": 1.527
+     },
+     {
+      "w": "becomes",
+      "t": 2.029
+     },
+     {
+      "w": "the",
+      "t": 2.442
+     },
+     {
+      "w": "job",
+      "t": 2.521
+     },
+     {
+      "w": "Always",
+      "t": 3.257
+     },
+     {
+      "w": "ask",
+      "t": 3.659
+     },
+     {
+      "w": "how",
+      "t": 4.317
+     },
+     {
+      "w": "do",
+      "t": 4.529
+     },
+     {
+      "w": "we",
+      "t": 4.585
+     },
+     {
+      "w": "know",
+      "t": 4.697
+     },
+     {
+      "w": "it",
+      "t": 4.875
+     },
+     {
+      "w": "worked",
+      "t": 4.931
+     }
+    ]
+   }
+  ],
+  "id": "w12",
+  "total": 57.9
+ },
+ "w13": {
+  "week": 13,
+  "chrome": "Exam briefing",
+  "scenes": [
+   {
+    "type": "title",
+    "say": "Week thirteen. What the final exam looks like.",
+    "eyebrow": "Week 13 · Exam briefing",
+    "title": "What the exam looks like",
+    "speaker": "Unit coordinator Q&A",
+    "org": "Plus Teresa’s email to the class",
+    "badge": "13",
+    "audio": "audio/w13-00.mp3",
+    "leadIn": 0.35,
+    "seconds": 4.088,
+    "words": [
+     {
+      "w": "Week",
+      "t": 0.4
+     },
+     {
+      "w": "thirteen",
+      "t": 0.746
+     },
+     {
+      "w": "What",
+      "t": 1.661
+     },
+     {
+      "w": "the",
+      "t": 1.962
+     },
+     {
+      "w": "final",
+      "t": 2.029
+     },
+     {
+      "w": "exam",
+      "t": 2.387
+     },
+     {
+      "w": "looks",
+      "t": 2.755
+     },
+     {
+      "w": "like",
+      "t": 2.989
+     }
+    ]
+   },
+   {
+    "type": "stats",
+    "kicker": "Format",
+    "say": "Five short scenario questions, worth six marks each. Thirty marks in total, all on the guest lectures.",
+    "stats": [
+     {
+      "cue": "five",
+      "value": 5,
+      "label": "scenario questions",
+      "at": 0.4
+     },
+     {
+      "cue": "six",
+      "value": 6,
+      "label": "marks each",
+      "tone": "petrol",
+      "at": 2.498
+     },
+     {
+      "cue": "thirty",
+      "value": 30,
+      "label": "marks in total",
+      "tone": "amber",
+      "at": 3.704
+     }
+    ],
+    "audio": "audio/w13-01.mp3",
+    "leadIn": 0.35,
+    "seconds": 6.968,
+    "words": [
+     {
+      "w": "Five",
+      "t": 0.4
+     },
+     {
+      "w": "short",
+      "t": 0.757
+     },
+     {
+      "w": "scenario",
+      "t": 1.014
+     },
+     {
+      "w": "questions",
+      "t": 1.438
+     },
+     {
+      "w": "worth",
+      "t": 2.23
+     },
+     {
+      "w": "six",
+      "t": 2.498
+     },
+     {
+      "w": "marks",
+      "t": 2.8
+     },
+     {
+      "w": "each",
+      "t": 3.067
+     },
+     {
+      "w": "Thirty",
+      "t": 3.704
+     },
+     {
+      "w": "marks",
+      "t": 4.038
+     },
+     {
+      "w": "in",
+      "t": 4.317
+     },
+     {
+      "w": "total",
+      "t": 4.407
+     },
+     {
+      "w": "all",
+      "t": 5.099
+     },
+     {
+      "w": "on",
+      "t": 5.322
+     },
+     {
+      "w": "the",
+      "t": 5.433
+     },
+     {
+      "w": "guest",
+      "t": 5.478
+     },
+     {
+      "w": "lectures",
+      "t": 5.735
+     }
+    ]
+   },
+   {
+    "type": "list",
+    "kicker": "Logistics",
+    "title": "Monday 23 November, 1pm",
+    "say": "It's Monday the twenty third of November at one p.m. Check your own venue. Bring your phone for the passcode, and a laptop with Respondus lockdown installed. Do the practice test first.",
+    "items": [
+     {
+      "cue": "check",
+      "head": "Check your own venue",
+      "sub": "Timetable and the exams office email (look in junk)",
+      "at": 2.822
+     },
+     {
+      "cue": "phone",
+      "head": "Phone + laptop with Respondus",
+      "sub": "Install it before the day",
+      "at": 4.496
+     },
+     {
+      "cue": "practice",
+      "head": "Do the practice test",
+      "at": 8.737
+     }
+    ],
+    "audio": "audio/w13-02.mp3",
+    "leadIn": 0.35,
+    "seconds": 10.664,
+    "words": [
+     {
+      "w": "It's",
+      "t": 0.4
+     },
+     {
+      "w": "Monday",
+      "t": 0.612
+     },
+     {
+      "w": "the",
+      "t": 0.969
+     },
+     {
+      "w": "twenty",
+      "t": 1.081
+     },
+     {
+      "w": "third",
+      "t": 1.315
+     },
+     {
+      "w": "of",
+      "t": 1.516
+     },
+     {
+      "w": "November",
+      "t": 1.594
+     },
+     {
+      "w": "at",
+      "t": 2.074
+     },
+     {
+      "w": "one",
+      "t": 2.253
+     },
+     {
+      "w": "p.m.",
+      "t": 2.454
+     },
+     {
+      "w": "Check",
+      "t": 2.822
+     },
+     {
+      "w": "your",
+      "t": 3.056
+     },
+     {
+      "w": "own",
+      "t": 3.224
+     },
+     {
+      "w": "venue",
+      "t": 3.425
+     },
+     {
+      "w": "Bring",
+      "t": 4.161
+     },
+     {
+      "w": "your",
+      "t": 4.396
+     },
+     {
+      "w": "phone",
+      "t": 4.496
+     },
+     {
+      "w": "for",
+      "t": 4.797
+     },
+     {
+      "w": "the",
+      "t": 4.875
+     },
+     {
+      "w": "passcode",
+      "t": 4.942
+     },
+     {
+      "w": "and",
+      "t": 5.802
+     },
+     {
+      "w": "a",
+      "t": 5.936
+     },
+     {
+      "w": "laptop",
+      "t": 5.969
+     },
+     {
+      "w": "with",
+      "t": 6.449
+     },
+     {
+      "w": "Respondus",
+      "t": 6.594
+     },
+     {
+      "w": "lockdown",
+      "t": 7.119
+     },
+     {
+      "w": "installed",
+      "t": 7.543
+     },
+     {
+      "w": "Do",
+      "t": 8.413
+     },
+     {
+      "w": "the",
+      "t": 8.625
+     },
+     {
+      "w": "practice",
+      "t": 8.737
+     },
+     {
+      "w": "test",
+      "t": 9.15
+     },
+     {
+      "w": "first",
+      "t": 9.418
+     }
+    ]
+   },
+   {
+    "type": "skit",
+    "kicker": "Transfer is the big skill",
+    "say": "Transfer is the big skill. A concept shown with Telstra might be asked about Qantas. Know the concept, not just the example.",
+    "cast": [
+     {
+      "name": "Exam question",
+      "look": 2
+     },
+     {
+      "name": "You",
+      "look": 0
+     }
+    ],
+    "beats": [
+     {
+      "who": 0,
+      "cue": "qantas",
+      "text": "Apply it to *Qantas*.",
+      "at": 4.507
+     },
+     {
+      "who": 1,
+      "cue": "concept",
+      "kind": "think",
+      "text": "Same concept, new brand.",
+      "at": 5.724
+     }
+    ],
+    "audio": "audio/w13-03.mp3",
+    "leadIn": 0.35,
+    "seconds": 8.36,
+    "words": [
+     {
+      "w": "Transfer",
+      "t": 0.4
+     },
+     {
+      "w": "is",
+      "t": 1.003
+     },
+     {
+      "w": "the",
+      "t": 1.192
+     },
+     {
+      "w": "big",
+      "t": 1.293
+     },
+     {
+      "w": "skill",
+      "t": 1.527
+     },
+     {
+      "w": "A",
+      "t": 2.286
+     },
+     {
+      "w": "concept",
+      "t": 2.409
+     },
+     {
+      "w": "shown",
+      "t": 2.8
+     },
+     {
+      "w": "with",
+      "t": 3.079
+     },
+     {
+      "w": "Telstra",
+      "t": 3.212
+     },
+     {
+      "w": "might",
+      "t": 3.614
+     },
+     {
+      "w": "be",
+      "t": 3.849
+     },
+     {
+      "w": "asked",
+      "t": 3.994
+     },
+     {
+      "w": "about",
+      "t": 4.295
+     },
+     {
+      "w": "Qantas",
+      "t": 4.507
+     },
+     {
+      "w": "Know",
+      "t": 5.355
+     },
+     {
+      "w": "the",
+      "t": 5.646
+     },
+     {
+      "w": "concept",
+      "t": 5.724
+     },
+     {
+      "w": "not",
+      "t": 6.471
+     },
+     {
+      "w": "just",
+      "t": 6.717
+     },
+     {
+      "w": "the",
+      "t": 6.962
+     },
+     {
+      "w": "example",
+      "t": 7.074
+     }
+    ]
+   },
+   {
+    "type": "versus",
+    "kicker": "Answering",
+    "say": "Aim for three to four hundred words an answer, and answer every part. Concepts are tested. Dates and career paths are not.",
+    "left": {
+     "cue": "three",
+     "label": "Do",
+     "tone": "petrol",
+     "items": [
+      {
+       "text": "300–400 words, 500 max"
+      },
+      {
+       "cue": "every",
+       "text": "Answer every part: (a), (b)…",
+       "at": 3.346
+      },
+      {
+       "cue": "concepts",
+       "text": "Apply the speaker’s models",
+       "at": 4.34
+      }
+     ],
+     "at": 0.824
+    },
+    "right": {
+     "cue": "dates",
+     "label": "Skip",
+     "tone": "ink",
+     "items": [
+      {
+       "text": "Exact dates"
+      },
+      {
+       "text": "Speakers’ career paths"
+      },
+      {
+       "text": "Media plans"
+      }
+     ],
+     "at": 5.813
+    },
+    "audio": "audio/w13-04.mp3",
+    "leadIn": 0.35,
+    "seconds": 8.144,
+    "words": [
+     {
+      "w": "Aim",
+      "t": 0.4
+     },
+     {
+      "w": "for",
+      "t": 0.69
+     },
+     {
+      "w": "three",
+      "t": 0.824
+     },
+     {
+      "w": "to",
+      "t": 1.103
+     },
+     {
+      "w": "four",
+      "t": 1.192
+     },
+     {
+      "w": "hundred",
+      "t": 1.393
+     },
+     {
+      "w": "words",
+      "t": 1.639
+     },
+     {
+      "w": "an",
+      "t": 1.907
+     },
+     {
+      "w": "answer",
+      "t": 1.962
+     },
+     {
+      "w": "and",
+      "t": 2.643
+     },
+     {
+      "w": "answer",
+      "t": 2.9
+     },
+     {
+      "w": "every",
+      "t": 3.346
+     },
+     {
+      "w": "part",
+      "t": 3.625
+     },
+     {
+      "w": "Concepts",
+      "t": 4.34
+     },
+     {
+      "w": "are",
+      "t": 4.887
+     },
+     {
+      "w": "tested",
+      "t": 4.987
+     },
+     {
+      "w": "Dates",
+      "t": 5.813
+     },
+     {
+      "w": "and",
+      "t": 6.159
+     },
+     {
+      "w": "career",
+      "t": 6.326
+     },
+     {
+      "w": "paths",
+      "t": 6.628
+     },
+     {
+      "w": "are",
+      "t": 6.996
+     },
+     {
+      "w": "not",
+      "t": 7.018
+     }
+    ]
+   },
+   {
+    "type": "versus",
+    "kicker": "Reading the question",
+    "say": "Read the question carefully. Why did X do this wants the speaker's reasoning. Could Y do it too wants your own justified view. And model questions want the model applied accurately, tied to the outcome.",
+    "left": {
+     "cue": "why",
+     "label": "“Why did X…?”",
+     "tone": "ox",
+     "items": [
+      {
+       "text": "The *speaker’s* reasoning"
+      }
+     ],
+     "at": 2.085
+    },
+    "right": {
+     "cue": "could",
+     "label": "“Could Y…?”",
+     "tone": "petrol",
+     "items": [
+      {
+       "text": "*Your* justified view"
+      }
+     ],
+     "at": 4.786
+    },
+    "verdict": {
+     "cue": "model",
+     "text": "Models: apply them accurately, tied to the *outcome*.",
+     "at": 7.833
+    },
+    "audio": "audio/w13-05.mp3",
+    "leadIn": 0.35,
+    "seconds": 11.984,
+    "words": [
+     {
+      "w": "Read",
+      "t": 0.4
+     },
+     {
+      "w": "the",
+      "t": 0.735
+     },
+     {
+      "w": "question",
+      "t": 0.824
+     },
+     {
+      "w": "carefully",
+      "t": 1.237
+     },
+     {
+      "w": "Why",
+      "t": 2.085
+     },
+     {
+      "w": "did",
+      "t": 2.398
+     },
+     {
+      "w": "X",
+      "t": 2.666
+     },
+     {
+      "w": "do",
+      "t": 2.9
+     },
+     {
+      "w": "this",
+      "t": 3.09
+     },
+     {
+      "w": "wants",
+      "t": 3.313
+     },
+     {
+      "w": "the",
+      "t": 3.536
+     },
+     {
+      "w": "speaker's",
+      "t": 3.603
+     },
+     {
+      "w": "reasoning",
+      "t": 3.994
+     },
+     {
+      "w": "Could",
+      "t": 4.786
+     },
+     {
+      "w": "Y",
+      "t": 4.976
+     },
+     {
+      "w": "do",
+      "t": 5.21
+     },
+     {
+      "w": "it",
+      "t": 5.389
+     },
+     {
+      "w": "too",
+      "t": 5.467
+     },
+     {
+      "w": "wants",
+      "t": 5.757
+     },
+     {
+      "w": "your",
+      "t": 6.014
+     },
+     {
+      "w": "own",
+      "t": 6.192
+     },
+     {
+      "w": "justified",
+      "t": 6.46
+     },
+     {
+      "w": "view",
+      "t": 6.962
+     },
+     {
+      "w": "And",
+      "t": 7.643
+     },
+     {
+      "w": "model",
+      "t": 7.833
+     },
+     {
+      "w": "questions",
+      "t": 8.079
+     },
+     {
+      "w": "want",
+      "t": 8.514
+     },
+     {
+      "w": "the",
+      "t": 8.692
+     },
+     {
+      "w": "model",
+      "t": 8.748
+     },
+     {
+      "w": "applied",
+      "t": 9.061
+     },
+     {
+      "w": "accurately",
+      "t": 9.429
+     },
+     {
+      "w": "tied",
+      "t": 10.266
+     },
+     {
+      "w": "to",
+      "t": 10.59
+     },
+     {
+      "w": "the",
+      "t": 10.657
+     },
+     {
+      "w": "outcome",
+      "t": 10.779
+     }
+    ]
+   },
+   {
+    "type": "outro",
+    "say": "Revise every lecture, plus the workshop questions. Good luck.",
+    "lines": [
+     {
+      "cue": "revise",
+      "text": "Revise every lecture and the *workshop questions*.",
+      "at": 0.4
+     },
+     {
+      "cue": "luck",
+      "text": "Good *luck*.",
+      "at": 3.715
+     }
+    ],
+    "footAt": 3.5,
+    "foot": "Exam prep hub and notes below",
+    "audio": "audio/w13-06.mp3",
+    "leadIn": 0.35,
+    "seconds": 4.856,
+    "words": [
+     {
+      "w": "Revise",
+      "t": 0.4
+     },
+     {
+      "w": "every",
+      "t": 0.936
+     },
+     {
+      "w": "lecture",
+      "t": 1.17
+     },
+     {
+      "w": "plus",
+      "t": 1.829
+     },
+     {
+      "w": "the",
+      "t": 2.085
+     },
+     {
+      "w": "workshop",
+      "t": 2.186
+     },
+     {
+      "w": "questions",
+      "t": 2.587
+     },
+     {
+      "w": "Good",
+      "t": 3.48
+     },
+     {
+      "w": "luck",
+      "t": 3.715
+     }
+    ]
+   }
+  ],
+  "id": "w13",
+  "total": 55.06
+ },
+ "w3": {
+  "week": 3,
+  "chrome": "Justin Papps · Tenet",
+  "scenes": [
+   {
+    "type": "title",
+    "say": "Week three. What are brands, and why do they matter? With Justin Papps from Tenet.",
+    "eyebrow": "Week 3 · Guest lecture",
+    "title": "What are brands and why do they matter?",
+    "speaker": "Justin Papps",
+    "org": "Tenet",
+    "photo": "w3.jpg",
+    "audio": "audio/w3-00.mp3",
+    "leadIn": 0.35,
+    "seconds": 6.32,
+    "words": [
+     {
+      "w": "Week",
+      "t": 0.4
+     },
+     {
+      "w": "three",
+      "t": 0.746
+     },
+     {
+      "w": "What",
+      "t": 1.483
+     },
+     {
+      "w": "are",
+      "t": 1.75
+     },
+     {
+      "w": "brands",
+      "t": 1.784
+     },
+     {
+      "w": "and",
+      "t": 2.532
+     },
+     {
+      "w": "why",
+      "t": 2.699
+     },
+     {
+      "w": "do",
+      "t": 2.956
+     },
+     {
+      "w": "they",
+      "t": 3.045
+     },
+     {
+      "w": "matter",
+      "t": 3.168
+     },
+     {
+      "w": "With",
+      "t": 3.871
+     },
+     {
+      "w": "Justin",
+      "t": 4.15
+     },
+     {
+      "w": "Papps",
+      "t": 4.563
+     },
+     {
+      "w": "from",
+      "t": 4.942
+     },
+     {
+      "w": "Tenet",
+      "t": 5.121
+     }
+    ]
+   },
+   {
+    "type": "statement",
+    "kicker": "The definition to memorise",
+    "say": "Start with his definition. A brand is a collection of beliefs and perceptions that create a positive predisposition at the point of choice. It lives in the customer's head.",
+    "lines": [
+     {
+      "cue": "a brand",
+      "text": "A brand is a collection of *beliefs and perceptions* that create a positive predisposition at the *point of choice*.",
+      "at": 2.141
+     },
+     {
+      "cue": "lives",
+      "size": "s",
+      "text": "It lives in the customer’s head, not in your brand guidelines.",
+      "at": 7.565
+     }
+    ],
+    "audio": "audio/w3-01.mp3",
+    "leadIn": 0.35,
+    "seconds": 9.68,
+    "words": [
+     {
+      "w": "Start",
+      "t": 0.4
+     },
+     {
+      "w": "with",
+      "t": 0.891
+     },
+     {
+      "w": "his",
+      "t": 1.047
+     },
+     {
+      "w": "definition",
+      "t": 1.215
+     },
+     {
+      "w": "A",
+      "t": 2.141
+     },
+     {
+      "w": "brand",
+      "t": 2.253
+     },
+     {
+      "w": "is",
+      "t": 2.677
+     },
+     {
+      "w": "a",
+      "t": 2.822
+     },
+     {
+      "w": "collection",
+      "t": 2.855
+     },
+     {
+      "w": "of",
+      "t": 3.268
+     },
+     {
+      "w": "beliefs",
+      "t": 3.358
+     },
+     {
+      "w": "and",
+      "t": 3.771
+     },
+     {
+      "w": "perceptions",
+      "t": 3.904
+     },
+     {
+      "w": "that",
+      "t": 4.462
+     },
+     {
+      "w": "create",
+      "t": 4.585
+     },
+     {
+      "w": "a",
+      "t": 4.898
+     },
+     {
+      "w": "positive",
+      "t": 4.942
+     },
+     {
+      "w": "predisposition",
+      "t": 5.366
+     },
+     {
+      "w": "at",
+      "t": 6.159
+     },
+     {
+      "w": "the",
+      "t": 6.271
+     },
+     {
+      "w": "point",
+      "t": 6.337
+     },
+     {
+      "w": "of",
+      "t": 6.572
+     },
+     {
+      "w": "choice",
+      "t": 6.639
+     },
+     {
+      "w": "It",
+      "t": 7.375
+     },
+     {
+      "w": "lives",
+      "t": 7.565
+     },
+     {
+      "w": "in",
+      "t": 7.9
+     },
+     {
+      "w": "the",
+      "t": 8.056
+     },
+     {
+      "w": "customer's",
+      "t": 8.123
+     },
+     {
+      "w": "head",
+      "t": 8.559
+     }
+    ]
+   },
+   {
+    "type": "bars",
+    "kicker": "Why now",
+    "title": "Brand exposures per day",
+    "say": "Why does it matter now? In the seventeen hundreds we saw maybe twenty brands a day. Today it's up to ten thousand, and our brains haven't grown.",
+    "bars": [
+     {
+      "cue": "seventeen",
+      "label": "1700s",
+      "value": 20,
+      "display": "10–20",
+      "tone": "ink",
+      "at": 2.13
+     },
+     {
+      "label": "1800s",
+      "value": 100,
+      "display": "50–100",
+      "tone": "ink"
+     },
+     {
+      "label": "1900s",
+      "value": 1500,
+      "display": "500–1,500",
+      "tone": "petrol"
+     },
+     {
+      "cue": "today",
+      "label": "Today",
+      "value": 10000,
+      "display": "5,000–10,000",
+      "tone": "ox",
+      "at": 4.954
+     }
+    ],
+    "note": {
+     "cue": "brains",
+     "text": "Same-sized brain. *Far* more noise.",
+     "at": 6.851
+    },
+    "audio": "audio/w3-02.mp3",
+    "leadIn": 0.35,
+    "seconds": 8.696,
+    "words": [
+     {
+      "w": "Why",
+      "t": 0.4
+     },
+     {
+      "w": "does",
+      "t": 0.746
+     },
+     {
+      "w": "it",
+      "t": 0.925
+     },
+     {
+      "w": "matter",
+      "t": 1.014
+     },
+     {
+      "w": "now",
+      "t": 1.248
+     },
+     {
+      "w": "In",
+      "t": 1.918
+     },
+     {
+      "w": "the",
+      "t": 2.074
+     },
+     {
+      "w": "seventeen",
+      "t": 2.13
+     },
+     {
+      "w": "hundreds",
+      "t": 2.565
+     },
+     {
+      "w": "we",
+      "t": 2.956
+     },
+     {
+      "w": "saw",
+      "t": 3.09
+     },
+     {
+      "w": "maybe",
+      "t": 3.335
+     },
+     {
+      "w": "twenty",
+      "t": 3.67
+     },
+     {
+      "w": "brands",
+      "t": 3.96
+     },
+     {
+      "w": "a",
+      "t": 4.239
+     },
+     {
+      "w": "day",
+      "t": 4.273
+     },
+     {
+      "w": "Today",
+      "t": 4.954
+     },
+     {
+      "w": "it's",
+      "t": 5.344
+     },
+     {
+      "w": "up",
+      "t": 5.456
+     },
+     {
+      "w": "to",
+      "t": 5.567
+     },
+     {
+      "w": "ten",
+      "t": 5.646
+     },
+     {
+      "w": "thousand",
+      "t": 5.858
+     },
+     {
+      "w": "and",
+      "t": 6.605
+     },
+     {
+      "w": "our",
+      "t": 6.75
+     },
+     {
+      "w": "brains",
+      "t": 6.851
+     },
+     {
+      "w": "haven't",
+      "t": 7.253
+     },
+     {
+      "w": "grown",
+      "t": 7.487
+     }
+    ]
+   },
+   {
+    "type": "versus",
+    "kicker": "1 · Economic engines",
+    "say": "Brands are economic engines. A Louis Vuitton backpack costs fifty six hundred dollars, fifteen times a rival that beats it on features. Brands equal margin equal power.",
+    "left": {
+     "cue": "louis",
+     "label": "$5,600",
+     "title": "Louis Vuitton backpack",
+     "items": [
+      {
+       "cue": "fifteen",
+       "text": "*15.6×* the price",
+       "at": 5.154
+      }
+     ],
+     "at": 2.442
+    },
+    "right": {
+     "cue": "rival",
+     "label": "$359",
+     "tone": "ink",
+     "title": "Maverick & Co.",
+     "items": [
+      {
+       "text": "More compartments, better warranty"
+      }
+     ],
+     "at": 5.869
+    },
+    "verdict": {
+     "cue": "margin",
+     "text": "Brands = margin = *power*.",
+     "at": 8.447
+    },
+    "audio": "audio/w3-03.mp3",
+    "leadIn": 0.35,
+    "seconds": 10.376,
+    "words": [
+     {
+      "w": "Brands",
+      "t": 0.4
+     },
+     {
+      "w": "are",
+      "t": 0.835
+     },
+     {
+      "w": "economic",
+      "t": 1.058
+     },
+     {
+      "w": "engines",
+      "t": 1.527
+     },
+     {
+      "w": "A",
+      "t": 2.331
+     },
+     {
+      "w": "Louis",
+      "t": 2.442
+     },
+     {
+      "w": "Vuitton",
+      "t": 2.699
+     },
+     {
+      "w": "backpack",
+      "t": 3.0
+     },
+     {
+      "w": "costs",
+      "t": 3.425
+     },
+     {
+      "w": "fifty",
+      "t": 3.793
+     },
+     {
+      "w": "six",
+      "t": 4.05
+     },
+     {
+      "w": "hundred",
+      "t": 4.228
+     },
+     {
+      "w": "dollars",
+      "t": 4.462
+     },
+     {
+      "w": "fifteen",
+      "t": 5.154
+     },
+     {
+      "w": "times",
+      "t": 5.567
+     },
+     {
+      "w": "a",
+      "t": 5.824
+     },
+     {
+      "w": "rival",
+      "t": 5.869
+     },
+     {
+      "w": "that",
+      "t": 6.248
+     },
+     {
+      "w": "beats",
+      "t": 6.382
+     },
+     {
+      "w": "it",
+      "t": 6.616
+     },
+     {
+      "w": "on",
+      "t": 6.706
+     },
+     {
+      "w": "features",
+      "t": 6.817
+     },
+     {
+      "w": "Brands",
+      "t": 7.666
+     },
+     {
+      "w": "equal",
+      "t": 8.112
+     },
+     {
+      "w": "margin",
+      "t": 8.447
+     },
+     {
+      "w": "equal",
+      "t": 8.904
+     },
+     {
+      "w": "power",
+      "t": 9.172
+     }
+    ]
+   },
+   {
+    "type": "versus",
+    "kicker": "2 · Behavioural shortcuts (Kahneman)",
+    "say": "They're also behavioural shortcuts. About ninety five percent of thinking is System One: fast and automatic. That's where brand building should aim.",
+    "left": {
+     "cue": "ninety",
+     "label": "System 1",
+     "title": "~95% of thinking",
+     "items": [
+      {
+       "text": "Fast, unconscious, associative"
+      },
+      {
+       "cue": "brand",
+       "text": "Where brand building *aims*",
+       "at": 7.108
+      }
+     ],
+     "at": 2.855
+    },
+    "right": {
+     "label": "System 2",
+     "tone": "ink",
+     "title": "~5% of thinking",
+     "items": [
+      {
+       "text": "Slow, logical, lazy"
+      },
+      {
+       "text": "Big, complex decisions"
+      }
+     ]
+    },
+    "audio": "audio/w3-04.mp3",
+    "leadIn": 0.35,
+    "seconds": 9.152,
+    "words": [
+     {
+      "w": "They're",
+      "t": 0.4
+     },
+     {
+      "w": "also",
+      "t": 0.601
+     },
+     {
+      "w": "behavioural",
+      "t": 1.058
+     },
+     {
+      "w": "shortcuts",
+      "t": 1.628
+     },
+     {
+      "w": "About",
+      "t": 2.554
+     },
+     {
+      "w": "ninety",
+      "t": 2.855
+     },
+     {
+      "w": "five",
+      "t": 3.112
+     },
+     {
+      "w": "percent",
+      "t": 3.335
+     },
+     {
+      "w": "of",
+      "t": 3.625
+     },
+     {
+      "w": "thinking",
+      "t": 3.692
+     },
+     {
+      "w": "is",
+      "t": 4.072
+     },
+     {
+      "w": "System",
+      "t": 4.183
+     },
+     {
+      "w": "One",
+      "t": 4.529
+     },
+     {
+      "w": "fast",
+      "t": 5.121
+     },
+     {
+      "w": "and",
+      "t": 5.567
+     },
+     {
+      "w": "automatic",
+      "t": 5.791
+     },
+     {
+      "w": "That's",
+      "t": 6.639
+     },
+     {
+      "w": "where",
+      "t": 6.962
+     },
+     {
+      "w": "brand",
+      "t": 7.108
+     },
+     {
+      "w": "building",
+      "t": 7.465
+     },
+     {
+      "w": "should",
+      "t": 7.822
+     },
+     {
+      "w": "aim",
+      "t": 8.0
+     }
+    ]
+   },
+   {
+    "type": "list",
+    "kicker": "Brand strategy",
+    "title": "Four pillars, and one paradox",
+    "cols": 2,
+    "say": "Land four pillars: relevance, distinctiveness, consistency and availability. And the D.B.A. paradox: sonic cues are rarely used, but they're the most effective asset.",
+    "items": [
+     {
+      "cue": "relevance",
+      "head": "Relevance",
+      "at": 1.683
+     },
+     {
+      "cue": "distinctiveness",
+      "head": "Distinctiveness",
+      "at": 2.476
+     },
+     {
+      "cue": "consistency",
+      "head": "Consistency",
+      "at": 3.413
+     },
+     {
+      "cue": "availability",
+      "head": "Availability",
+      "at": 4.373
+     },
+     {
+      "cue": "sonic",
+      "head": "DBA paradox",
+      "sub": "Sonic cues: 6% use, *8.5×* effect",
+      "mark": "♪",
+      "tone": "amber",
+      "at": 6.907
+     }
+    ],
+    "audio": "audio/w3-05.mp3",
+    "leadIn": 0.35,
+    "seconds": 10.736,
+    "words": [
+     {
+      "w": "Land",
+      "t": 0.4
+     },
+     {
+      "w": "four",
+      "t": 0.746
+     },
+     {
+      "w": "pillars",
+      "t": 0.947
+     },
+     {
+      "w": "relevance",
+      "t": 1.683
+     },
+     {
+      "w": "distinctiveness",
+      "t": 2.476
+     },
+     {
+      "w": "consistency",
+      "t": 3.413
+     },
+     {
+      "w": "and",
+      "t": 4.239
+     },
+     {
+      "w": "availability",
+      "t": 4.373
+     },
+     {
+      "w": "And",
+      "t": 5.389
+     },
+     {
+      "w": "the",
+      "t": 5.579
+     },
+     {
+      "w": "D.B.A.",
+      "t": 5.657
+     },
+     {
+      "w": "paradox",
+      "t": 6.07
+     },
+     {
+      "w": "sonic",
+      "t": 6.907
+     },
+     {
+      "w": "cues",
+      "t": 7.253
+     },
+     {
+      "w": "are",
+      "t": 7.599
+     },
+     {
+      "w": "rarely",
+      "t": 7.699
+     },
+     {
+      "w": "used",
+      "t": 8.023
+     },
+     {
+      "w": "but",
+      "t": 8.659
+     },
+     {
+      "w": "they're",
+      "t": 8.782
+     },
+     {
+      "w": "the",
+      "t": 8.871
+     },
+     {
+      "w": "most",
+      "t": 8.927
+     },
+     {
+      "w": "effective",
+      "t": 9.172
+     },
+     {
+      "w": "asset",
+      "t": 9.541
+     }
+    ]
+   },
+   {
+    "type": "outro",
+    "say": "His closing line. Attention is cheap. Memory is expensive. Preference is priceless.",
+    "lines": [
+     {
+      "cue": "attention",
+      "text": "Attention is cheap.",
+      "at": 1.784
+     },
+     {
+      "cue": "memory",
+      "text": "Memory is *expensive*.",
+      "at": 3.224
+     },
+     {
+      "cue": "preference",
+      "text": "Preference is *priceless*.",
+      "at": 4.875
+     }
+    ],
+    "footAt": 4.6,
+    "audio": "audio/w3-06.mp3",
+    "leadIn": 0.35,
+    "seconds": 7.016,
+    "words": [
+     {
+      "w": "His",
+      "t": 0.4
+     },
+     {
+      "w": "closing",
+      "t": 0.646
+     },
+     {
+      "w": "line",
+      "t": 1.058
+     },
+     {
+      "w": "Attention",
+      "t": 1.784
+     },
+     {
+      "w": "is",
+      "t": 2.308
+     },
+     {
+      "w": "cheap",
+      "t": 2.487
+     },
+     {
+      "w": "Memory",
+      "t": 3.224
+     },
+     {
+      "w": "is",
+      "t": 3.748
+     },
+     {
+      "w": "expensive",
+      "t": 3.904
+     },
+     {
+      "w": "Preference",
+      "t": 4.875
+     },
+     {
+      "w": "is",
+      "t": 5.411
+     },
+     {
+      "w": "priceless",
+      "t": 5.601
+     }
+    ]
+   }
+  ],
+  "id": "w3",
+  "total": 61.98
+ },
+ "w4": {
+  "week": 4,
+  "chrome": "Brent Smart · B.Smart",
+  "scenes": [
+   {
+    "type": "title",
+    "say": "Week four. Managing brands with creativity and humanity, with former Telstra C.M.O. Brent Smart.",
+    "eyebrow": "Week 4 · Guest lecture",
+    "title": "Managing brands with creativity and humanity",
+    "speaker": "Brent Smart",
+    "org": "B.Smart, former Telstra CMO",
+    "photo": "w4.jpg",
+    "audio": "audio/w4-00.mp3",
+    "leadIn": 0.35,
+    "seconds": 6.8,
+    "words": [
+     {
+      "w": "Week",
+      "t": 0.4
+     },
+     {
+      "w": "four",
+      "t": 0.724
+     },
+     {
+      "w": "Managing",
+      "t": 1.404
+     },
+     {
+      "w": "brands",
+      "t": 1.884
+     },
+     {
+      "w": "with",
+      "t": 2.253
+     },
+     {
+      "w": "creativity",
+      "t": 2.375
+     },
+     {
+      "w": "and",
+      "t": 3.034
+     },
+     {
+      "w": "humanity",
+      "t": 3.157
+     },
+     {
+      "w": "with",
+      "t": 4.027
+     },
+     {
+      "w": "former",
+      "t": 4.183
+     },
+     {
+      "w": "Telstra",
+      "t": 4.518
+     },
+     {
+      "w": "C.M.O.",
+      "t": 4.942
+     },
+     {
+      "w": "Brent",
+      "t": 5.378
+     },
+     {
+      "w": "Smart",
+      "t": 5.623
+     }
+    ]
+   },
+   {
+    "type": "statement",
+    "kicker": "The core idea",
+    "say": "Marketing is a battle for memory. So job one is making the brand memorable, and the biggest risk is taking no risk.",
+    "lines": [
+     {
+      "cue": "marketing",
+      "text": "Marketing is a battle for *memory*.",
+      "at": 0.4
+     },
+     {
+      "cue": "biggest",
+      "text": "The biggest risk is taking *no risk*.",
+      "tone": "petrol",
+      "at": 4.842
+     }
+    ],
+    "audio": "audio/w4-01.mp3",
+    "leadIn": 0.35,
+    "seconds": 7.184,
+    "words": [
+     {
+      "w": "Marketing",
+      "t": 0.4
+     },
+     {
+      "w": "is",
+      "t": 0.98
+     },
+     {
+      "w": "a",
+      "t": 1.081
+     },
+     {
+      "w": "battle",
+      "t": 1.137
+     },
+     {
+      "w": "for",
+      "t": 1.505
+     },
+     {
+      "w": "memory",
+      "t": 1.605
+     },
+     {
+      "w": "So",
+      "t": 2.342
+     },
+     {
+      "w": "job",
+      "t": 2.654
+     },
+     {
+      "w": "one",
+      "t": 2.911
+     },
+     {
+      "w": "is",
+      "t": 3.157
+     },
+     {
+      "w": "making",
+      "t": 3.302
+     },
+     {
+      "w": "the",
+      "t": 3.614
+     },
+     {
+      "w": "brand",
+      "t": 3.659
+     },
+     {
+      "w": "memorable",
+      "t": 3.949
+     },
+     {
+      "w": "and",
+      "t": 4.663
+     },
+     {
+      "w": "the",
+      "t": 4.786
+     },
+     {
+      "w": "biggest",
+      "t": 4.842
+     },
+     {
+      "w": "risk",
+      "t": 5.177
+     },
+     {
+      "w": "is",
+      "t": 5.422
+     },
+     {
+      "w": "taking",
+      "t": 5.567
+     },
+     {
+      "w": "no",
+      "t": 5.88
+     },
+     {
+      "w": "risk",
+      "t": 6.036
+     }
+    ]
+   },
+   {
+    "type": "stats",
+    "kicker": "Creativity is measurable",
+    "title": "Creative work vs the average ad",
+    "say": "And creativity pays. Against the average ad, creative work returns two and a half times the revenue growth, and four times the profit.",
+    "stats": [
+     {
+      "cue": "two",
+      "value": 2.5,
+      "decimals": 1,
+      "suffix": "×",
+      "label": "revenue growth",
+      "at": 4.574
+     },
+     {
+      "cue": "four",
+      "value": 4,
+      "suffix": "×",
+      "label": "profit",
+      "tone": "petrol",
+      "at": 6.55
+     }
+    ],
+    "audio": "audio/w4-02.mp3",
+    "leadIn": 0.35,
+    "seconds": 8.288,
+    "words": [
+     {
+      "w": "And",
+      "t": 0.4
+     },
+     {
+      "w": "creativity",
+      "t": 0.668
+     },
+     {
+      "w": "pays",
+      "t": 1.304
+     },
+     {
+      "w": "Against",
+      "t": 2.108
+     },
+     {
+      "w": "the",
+      "t": 2.465
+     },
+     {
+      "w": "average",
+      "t": 2.587
+     },
+     {
+      "w": "ad",
+      "t": 2.911
+     },
+     {
+      "w": "creative",
+      "t": 3.458
+     },
+     {
+      "w": "work",
+      "t": 3.904
+     },
+     {
+      "w": "returns",
+      "t": 4.195
+     },
+     {
+      "w": "two",
+      "t": 4.574
+     },
+     {
+      "w": "and",
+      "t": 4.797
+     },
+     {
+      "w": "a",
+      "t": 4.853
+     },
+     {
+      "w": "half",
+      "t": 4.898
+     },
+     {
+      "w": "times",
+      "t": 5.121
+     },
+     {
+      "w": "the",
+      "t": 5.433
+     },
+     {
+      "w": "revenue",
+      "t": 5.5
+     },
+     {
+      "w": "growth",
+      "t": 5.824
+     },
+     {
+      "w": "and",
+      "t": 6.416
+     },
+     {
+      "w": "four",
+      "t": 6.55
+     },
+     {
+      "w": "times",
+      "t": 6.762
+     },
+     {
+      "w": "the",
+      "t": 7.063
+     },
+     {
+      "w": "profit",
+      "t": 7.119
+     }
+    ]
+   },
+   {
+    "type": "skit",
+    "kicker": "Telstra’s ethnographic research",
+    "say": "When Telstra asked people to draw how the brand felt, they drew a bully in a suit. You can argue with a chart. You can't argue with that drawing.",
+    "cast": [
+     {
+      "name": "Customer",
+      "look": 2
+     },
+     {
+      "name": "Telstra team",
+      "look": 3
+     }
+    ],
+    "beats": [
+     {
+      "who": 0,
+      "cue": "bully",
+      "text": "It’s a *bully* in a suit.",
+      "at": 3.436
+     },
+     {
+      "who": 1,
+      "cue": "argue",
+      "kind": "think",
+      "text": "We can’t argue with that.",
+      "at": 5.143
+     }
+    ],
+    "audio": "audio/w4-03.mp3",
+    "leadIn": 0.35,
+    "seconds": 8.768,
+    "words": [
+     {
+      "w": "When",
+      "t": 0.4
+     },
+     {
+      "w": "Telstra",
+      "t": 0.657
+     },
+     {
+      "w": "asked",
+      "t": 1.092
+     },
+     {
+      "w": "people",
+      "t": 1.337
+     },
+     {
+      "w": "to",
+      "t": 1.572
+     },
+     {
+      "w": "draw",
+      "t": 1.661
+     },
+     {
+      "w": "how",
+      "t": 1.918
+     },
+     {
+      "w": "the",
+      "t": 2.074
+     },
+     {
+      "w": "brand",
+      "t": 2.152
+     },
+     {
+      "w": "felt",
+      "t": 2.42
+     },
+     {
+      "w": "they",
+      "t": 3.067
+     },
+     {
+      "w": "drew",
+      "t": 3.19
+     },
+     {
+      "w": "a",
+      "t": 3.402
+     },
+     {
+      "w": "bully",
+      "t": 3.436
+     },
+     {
+      "w": "in",
+      "t": 3.804
+     },
+     {
+      "w": "a",
+      "t": 3.916
+     },
+     {
+      "w": "suit",
+      "t": 3.949
+     },
+     {
+      "w": "You",
+      "t": 4.663
+     },
+     {
+      "w": "can",
+      "t": 4.898
+     },
+     {
+      "w": "argue",
+      "t": 5.143
+     },
+     {
+      "w": "with",
+      "t": 5.456
+     },
+     {
+      "w": "a",
+      "t": 5.601
+     },
+     {
+      "w": "chart",
+      "t": 5.646
+     },
+     {
+      "w": "You",
+      "t": 6.404
+     },
+     {
+      "w": "can't",
+      "t": 6.605
+     },
+     {
+      "w": "argue",
+      "t": 6.951
+     },
+     {
+      "w": "with",
+      "t": 7.253
+     },
+     {
+      "w": "that",
+      "t": 7.398
+     },
+     {
+      "w": "drawing",
+      "t": 7.554
+     }
+    ]
+   },
+   {
+    "type": "bars",
+    "kicker": "Current vs future demand",
+    "max": 100,
+    "say": "Only about fifteen percent of buyers are in market right now. The other eighty five percent need brand building, so they remember you later.",
+    "bars": [
+     {
+      "cue": "fifteen",
+      "label": "In market now",
+      "value": 15,
+      "display": "~15%",
+      "tone": "petrol",
+      "at": 0.947
+     },
+     {
+      "cue": "eighty",
+      "label": "Not in market",
+      "value": 85,
+      "display": "~85%",
+      "tone": "ox",
+      "at": 3.971
+     }
+    ],
+    "note": {
+     "cue": "remember",
+     "text": "Build *future* demand, don’t just convert it.",
+     "at": 6.114
+    },
+    "audio": "audio/w4-04.mp3",
+    "leadIn": 0.35,
+    "seconds": 7.712,
+    "words": [
+     {
+      "w": "Only",
+      "t": 0.4
+     },
+     {
+      "w": "about",
+      "t": 0.712
+     },
+     {
+      "w": "fifteen",
+      "t": 0.947
+     },
+     {
+      "w": "percent",
+      "t": 1.337
+     },
+     {
+      "w": "of",
+      "t": 1.616
+     },
+     {
+      "w": "buyers",
+      "t": 1.695
+     },
+     {
+      "w": "are",
+      "t": 2.096
+     },
+     {
+      "w": "in",
+      "t": 2.253
+     },
+     {
+      "w": "market",
+      "t": 2.331
+     },
+     {
+      "w": "right",
+      "t": 2.666
+     },
+     {
+      "w": "now",
+      "t": 2.855
+     },
+     {
+      "w": "The",
+      "t": 3.503
+     },
+     {
+      "w": "other",
+      "t": 3.704
+     },
+     {
+      "w": "eighty",
+      "t": 3.971
+     },
+     {
+      "w": "five",
+      "t": 4.15
+     },
+     {
+      "w": "percent",
+      "t": 4.384
+     },
+     {
+      "w": "need",
+      "t": 4.753
+     },
+     {
+      "w": "brand",
+      "t": 4.965
+     },
+     {
+      "w": "building",
+      "t": 5.21
+     },
+     {
+      "w": "so",
+      "t": 5.791
+     },
+     {
+      "w": "they",
+      "t": 5.991
+     },
+     {
+      "w": "remember",
+      "t": 6.114
+     },
+     {
+      "w": "you",
+      "t": 6.438
+     },
+     {
+      "w": "later",
+      "t": 6.55
+     }
+    ]
+   },
+   {
+    "type": "bars",
+    "kicker": "Binet & Field: the long and the short of it",
+    "max": 100,
+    "say": "The benchmark is sixty percent brand, forty activation. Telstra was at twenty. His first move was fifty fifty. Marketing R.O.I. rose from six to over ten.",
+    "bars": [
+     {
+      "cue": "sixty",
+      "label": "Benchmark",
+      "value": 60,
+      "display": "60 / 40",
+      "tone": "petrol",
+      "at": 1.204
+     },
+     {
+      "cue": "twenty",
+      "label": "Telstra before",
+      "value": 20,
+      "display": "20 / 80",
+      "tone": "ink",
+      "at": 4.619
+     },
+     {
+      "cue": "first",
+      "label": "His first move",
+      "value": 50,
+      "display": "50 / 50",
+      "tone": "ox",
+      "at": 5.579
+     }
+    ],
+    "note": {
+     "cue": "rose",
+     "text": "Marketing ROI: *6.10 → 10.40*, on lower spend.",
+     "at": 8.458
+    },
+    "audio": "audio/w4-05.mp3",
+    "leadIn": 0.35,
+    "seconds": 10.712,
+    "words": [
+     {
+      "w": "The",
+      "t": 0.4
+     },
+     {
+      "w": "benchmark",
+      "t": 0.534
+     },
+     {
+      "w": "is",
+      "t": 1.07
+     },
+     {
+      "w": "sixty",
+      "t": 1.204
+     },
+     {
+      "w": "percent",
+      "t": 1.527
+     },
+     {
+      "w": "brand",
+      "t": 1.829
+     },
+     {
+      "w": "forty",
+      "t": 2.454
+     },
+     {
+      "w": "activation",
+      "t": 2.844
+     },
+     {
+      "w": "Telstra",
+      "t": 3.804
+     },
+     {
+      "w": "was",
+      "t": 4.306
+     },
+     {
+      "w": "at",
+      "t": 4.518
+     },
+     {
+      "w": "twenty",
+      "t": 4.619
+     },
+     {
+      "w": "His",
+      "t": 5.344
+     },
+     {
+      "w": "first",
+      "t": 5.579
+     },
+     {
+      "w": "move",
+      "t": 5.869
+     },
+     {
+      "w": "was",
+      "t": 6.17
+     },
+     {
+      "w": "fifty",
+      "t": 6.393
+     },
+     {
+      "w": "fifty",
+      "t": 6.672
+     },
+     {
+      "w": "Marketing",
+      "t": 7.431
+     },
+     {
+      "w": "R.O.I.",
+      "t": 7.989
+     },
+     {
+      "w": "rose",
+      "t": 8.458
+     },
+     {
+      "w": "from",
+      "t": 8.804
+     },
+     {
+      "w": "six",
+      "t": 8.96
+     },
+     {
+      "w": "to",
+      "t": 9.239
+     },
+     {
+      "w": "over",
+      "t": 9.396
+     },
+     {
+      "w": "ten",
+      "t": 9.574
+     }
+    ]
+   },
+   {
+    "type": "outro",
+    "say": "The whistling ad was hated at launch, then got thirty million organic TikTok views. If it's not bold, it's dumb.",
+    "lines": [
+     {
+      "cue": "whistling",
+      "text": "30M organic TikTok views, *$0* paid.",
+      "at": 0.556
+     },
+     {
+      "cue": "bold",
+      "text": "If it’s not bold, it’s *dumb*.",
+      "at": 5.355
+     }
+    ],
+    "footAt": 6,
+    "audio": "audio/w4-06.mp3",
+    "leadIn": 0.35,
+    "seconds": 7.28,
+    "words": [
+     {
+      "w": "The",
+      "t": 0.4
+     },
+     {
+      "w": "whistling",
+      "t": 0.556
+     },
+     {
+      "w": "ad",
+      "t": 0.925
+     },
+     {
+      "w": "was",
+      "t": 1.192
+     },
+     {
+      "w": "hated",
+      "t": 1.337
+     },
+     {
+      "w": "at",
+      "t": 1.639
+     },
+     {
+      "w": "launch",
+      "t": 1.717
+     },
+     {
+      "w": "then",
+      "t": 2.387
+     },
+     {
+      "w": "got",
+      "t": 2.554
+     },
+     {
+      "w": "thirty",
+      "t": 2.71
+     },
+     {
+      "w": "million",
+      "t": 3.023
+     },
+     {
+      "w": "organic",
+      "t": 3.313
+     },
+     {
+      "w": "TikTok",
+      "t": 3.715
+     },
+     {
+      "w": "views",
+      "t": 4.072
+     },
+     {
+      "w": "If",
+      "t": 4.842
+     },
+     {
+      "w": "it's",
+      "t": 4.998
+     },
+     {
+      "w": "not",
+      "t": 5.143
+     },
+     {
+      "w": "bold",
+      "t": 5.355
+     },
+     {
+      "w": "it's",
+      "t": 5.936
+     },
+     {
+      "w": "dumb",
+      "t": 6.125
+     }
+    ]
+   }
+  ],
+  "id": "w4",
+  "total": 56.74
+ },
+ "w5": {
+  "week": 5,
+  "chrome": "Shannon Wright · Nestlé Oceania",
+  "scenes": [
+   {
+    "type": "title",
+    "say": "Week five. Managing the evolution of brands, with Shannon Wright from Nestlé. Two brands, two paths: KitKat and Allen's.",
+    "eyebrow": "Week 5 · Guest lecture",
+    "title": "Managing the evolution of brands",
+    "speaker": "Shannon Wright",
+    "org": "Nestlé Oceania",
+    "photo": "w5.png",
+    "audio": "audio/w5-00.mp3",
+    "leadIn": 0.35,
+    "seconds": 8.912,
+    "words": [
+     {
+      "w": "Week",
+      "t": 0.4
+     },
+     {
+      "w": "five",
+      "t": 0.735
+     },
+     {
+      "w": "Managing",
+      "t": 1.538
+     },
+     {
+      "w": "the",
+      "t": 2.029
+     },
+     {
+      "w": "evolution",
+      "t": 2.197
+     },
+     {
+      "w": "of",
+      "t": 2.632
+     },
+     {
+      "w": "brands",
+      "t": 2.71
+     },
+     {
+      "w": "with",
+      "t": 3.436
+     },
+     {
+      "w": "Shannon",
+      "t": 3.581
+     },
+     {
+      "w": "Wright",
+      "t": 3.949
+     },
+     {
+      "w": "from",
+      "t": 4.206
+     },
+     {
+      "w": "Nestlé",
+      "t": 4.373
+     },
+     {
+      "w": "Two",
+      "t": 5.177
+     },
+     {
+      "w": "brands",
+      "t": 5.4
+     },
+     {
+      "w": "two",
+      "t": 6.103
+     },
+     {
+      "w": "paths",
+      "t": 6.271
+     },
+     {
+      "w": "KitKat",
+      "t": 7.085
+     },
+     {
+      "w": "and",
+      "t": 7.487
+     },
+     {
+      "w": "Allen's",
+      "t": 7.677
+     }
+    ]
+   },
+   {
+    "type": "flow",
+    "kicker": "KitKat · the consistency path",
+    "title": "KitKat stands for *a break*",
+    "say": "KitKat stands for a break, and three truths line up. The brand believes breaks are good. Everyone needs a break. And the bar is made to be broken.",
+    "steps": [
+     {
+      "cue": "brand",
+      "text": "Brand belief",
+      "sub": "Breaks are good",
+      "at": 3.614
+     },
+     {
+      "cue": "everyone",
+      "text": "Audience truth",
+      "sub": "Everyone needs a break",
+      "at": 5.489
+     },
+     {
+      "cue": "bar",
+      "text": "Product truth",
+      "sub": "Made to be broken",
+      "at": 7.253
+     }
+    ],
+    "audio": "audio/w5-01.mp3",
+    "leadIn": 0.35,
+    "seconds": 9.416,
+    "words": [
+     {
+      "w": "KitKat",
+      "t": 0.4
+     },
+     {
+      "w": "stands",
+      "t": 0.824
+     },
+     {
+      "w": "for",
+      "t": 1.148
+     },
+     {
+      "w": "a",
+      "t": 1.259
+     },
+     {
+      "w": "break",
+      "t": 1.293
+     },
+     {
+      "w": "and",
+      "t": 1.907
+     },
+     {
+      "w": "three",
+      "t": 2.052
+     },
+     {
+      "w": "truths",
+      "t": 2.342
+     },
+     {
+      "w": "line",
+      "t": 2.699
+     },
+     {
+      "w": "up",
+      "t": 2.9
+     },
+     {
+      "w": "The",
+      "t": 3.48
+     },
+     {
+      "w": "brand",
+      "t": 3.614
+     },
+     {
+      "w": "believes",
+      "t": 4.027
+     },
+     {
+      "w": "breaks",
+      "t": 4.44
+     },
+     {
+      "w": "are",
+      "t": 4.786
+     },
+     {
+      "w": "good",
+      "t": 4.808
+     },
+     {
+      "w": "Everyone",
+      "t": 5.489
+     },
+     {
+      "w": "needs",
+      "t": 5.969
+     },
+     {
+      "w": "a",
+      "t": 6.215
+     },
+     {
+      "w": "break",
+      "t": 6.259
+     },
+     {
+      "w": "And",
+      "t": 6.985
+     },
+     {
+      "w": "the",
+      "t": 7.175
+     },
+     {
+      "w": "bar",
+      "t": 7.253
+     },
+     {
+      "w": "is",
+      "t": 7.599
+     },
+     {
+      "w": "made",
+      "t": 7.777
+     },
+     {
+      "w": "to",
+      "t": 8.012
+     },
+     {
+      "w": "be",
+      "t": 8.067
+     },
+     {
+      "w": "broken",
+      "t": 8.168
+     }
+    ]
+   },
+   {
+    "type": "skit",
+    "kicker": "The most dangerous person in marketing",
+    "say": "The most dangerous person in marketing is the bored brand manager, who changes what didn't need changing. Consistency isn't limiting. It's a superpower.",
+    "cast": [
+     {
+      "name": "Bored brand manager",
+      "look": 4
+     },
+     {
+      "name": "Strategist",
+      "look": 1
+     }
+    ],
+    "beats": [
+     {
+      "who": 0,
+      "cue": "bored",
+      "text": "Let’s change the *logo*!",
+      "at": 2.175
+     },
+     {
+      "who": 1,
+      "cue": "consistency",
+      "kind": "think",
+      "text": "Consistency is a *superpower*.",
+      "at": 5.389
+     }
+    ],
+    "audio": "audio/w5-02.mp3",
+    "leadIn": 0.35,
+    "seconds": 9.032,
+    "words": [
+     {
+      "w": "The",
+      "t": 0.4
+     },
+     {
+      "w": "most",
+      "t": 0.534
+     },
+     {
+      "w": "dangerous",
+      "t": 0.791
+     },
+     {
+      "w": "person",
+      "t": 1.137
+     },
+     {
+      "w": "in",
+      "t": 1.46
+     },
+     {
+      "w": "marketing",
+      "t": 1.527
+     },
+     {
+      "w": "is",
+      "t": 1.985
+     },
+     {
+      "w": "the",
+      "t": 2.096
+     },
+     {
+      "w": "bored",
+      "t": 2.175
+     },
+     {
+      "w": "brand",
+      "t": 2.465
+     },
+     {
+      "w": "manager",
+      "t": 2.699
+     },
+     {
+      "w": "who",
+      "t": 3.402
+     },
+     {
+      "w": "changes",
+      "t": 3.536
+     },
+     {
+      "w": "what",
+      "t": 4.005
+     },
+     {
+      "w": "didn't",
+      "t": 4.172
+     },
+     {
+      "w": "need",
+      "t": 4.396
+     },
+     {
+      "w": "changing",
+      "t": 4.574
+     },
+     {
+      "w": "Consistency",
+      "t": 5.389
+     },
+     {
+      "w": "isn't",
+      "t": 6.215
+     },
+     {
+      "w": "limiting",
+      "t": 6.505
+     },
+     {
+      "w": "It's",
+      "t": 7.275
+     },
+     {
+      "w": "a",
+      "t": 7.498
+     },
+     {
+      "w": "superpower",
+      "t": 7.554
+     }
+    ]
+   },
+   {
+    "type": "stats",
+    "kicker": "The need is unchanged; the tension evolved",
+    "say": "For Gen Z, sixty three percent say they need a break, but sixty four percent can't switch off. So the job is the emotional break.",
+    "stats": [
+     {
+      "cue": "sixty",
+      "value": 63,
+      "suffix": "%",
+      "label": "of Gen Z say they need a break",
+      "tone": "petrol",
+      "at": 1.449
+     },
+     {
+      "cue": "sixty",
+      "value": 64,
+      "suffix": "%",
+      "label": "can’t switch off",
+      "at": 3.648
+     }
+    ],
+    "note": {
+     "cue": "emotional",
+     "text": "The job is the *emotional* break.",
+     "at": 6.538
+    },
+    "audio": "audio/w5-03.mp3",
+    "leadIn": 0.35,
+    "seconds": 8.144,
+    "words": [
+     {
+      "w": "For",
+      "t": 0.4
+     },
+     {
+      "w": "Gen",
+      "t": 0.701
+     },
+     {
+      "w": "Z",
+      "t": 0.936
+     },
+     {
+      "w": "sixty",
+      "t": 1.449
+     },
+     {
+      "w": "three",
+      "t": 1.784
+     },
+     {
+      "w": "percent",
+      "t": 1.974
+     },
+     {
+      "w": "say",
+      "t": 2.331
+     },
+     {
+      "w": "they",
+      "t": 2.532
+     },
+     {
+      "w": "need",
+      "t": 2.654
+     },
+     {
+      "w": "a",
+      "t": 2.8
+     },
+     {
+      "w": "break",
+      "t": 2.833
+     },
+     {
+      "w": "but",
+      "t": 3.514
+     },
+     {
+      "w": "sixty",
+      "t": 3.648
+     },
+     {
+      "w": "four",
+      "t": 3.938
+     },
+     {
+      "w": "percent",
+      "t": 4.105
+     },
+     {
+      "w": "can't",
+      "t": 4.485
+     },
+     {
+      "w": "switch",
+      "t": 4.753
+     },
+     {
+      "w": "off",
+      "t": 4.976
+     },
+     {
+      "w": "So",
+      "t": 5.579
+     },
+     {
+      "w": "the",
+      "t": 5.824
+     },
+     {
+      "w": "job",
+      "t": 5.925
+     },
+     {
+      "w": "is",
+      "t": 6.259
+     },
+     {
+      "w": "the",
+      "t": 6.416
+     },
+     {
+      "w": "emotional",
+      "t": 6.538
+     },
+     {
+      "w": "break",
+      "t": 6.985
+     }
+    ]
+   },
+   {
+    "type": "stats",
+    "kicker": "Cultural relevance is a currency",
+    "say": "A debate about your brand is a jackpot. The argument over how to eat a KitKat drew twenty seven million engagements. Fan the flames.",
+    "stats": [
+     {
+      "cue": "twenty",
+      "value": 27,
+      "suffix": "M",
+      "label": "engagements from the *how do you eat it?* debate",
+      "at": 4.652
+     }
+    ],
+    "note": {
+     "cue": "fan",
+     "text": "Fan the flames. Don’t shut it down.",
+     "at": 6.438
+    },
+    "audio": "audio/w5-04.mp3",
+    "leadIn": 0.35,
+    "seconds": 8.288,
+    "words": [
+     {
+      "w": "A",
+      "t": 0.4
+     },
+     {
+      "w": "debate",
+      "t": 0.523
+     },
+     {
+      "w": "about",
+      "t": 0.88
+     },
+     {
+      "w": "your",
+      "t": 1.103
+     },
+     {
+      "w": "brand",
+      "t": 1.181
+     },
+     {
+      "w": "is",
+      "t": 1.594
+     },
+     {
+      "w": "a",
+      "t": 1.739
+     },
+     {
+      "w": "jackpot",
+      "t": 1.784
+     },
+     {
+      "w": "The",
+      "t": 2.632
+     },
+     {
+      "w": "argument",
+      "t": 2.855
+     },
+     {
+      "w": "over",
+      "t": 3.302
+     },
+     {
+      "w": "how",
+      "t": 3.492
+     },
+     {
+      "w": "to",
+      "t": 3.67
+     },
+     {
+      "w": "eat",
+      "t": 3.804
+     },
+     {
+      "w": "a",
+      "t": 3.983
+     },
+     {
+      "w": "KitKat",
+      "t": 4.027
+     },
+     {
+      "w": "drew",
+      "t": 4.462
+     },
+     {
+      "w": "twenty",
+      "t": 4.652
+     },
+     {
+      "w": "seven",
+      "t": 4.942
+     },
+     {
+      "w": "million",
+      "t": 5.21
+     },
+     {
+      "w": "engagements",
+      "t": 5.5
+     },
+     {
+      "w": "Fan",
+      "t": 6.438
+     },
+     {
+      "w": "the",
+      "t": 6.851
+     },
+     {
+      "w": "flames",
+      "t": 6.94
+     }
+    ]
+   },
+   {
+    "type": "flow",
+    "kicker": "Allen’s · the long-term path",
+    "title": "Mapping a brand stretch",
+    "say": "Allen's wants to be a playground, not a museum. Stretch is mapped from core, to near adjacency, to credible stretch, to the exception.",
+    "steps": [
+     {
+      "cue": "core",
+      "text": "Core",
+      "tone": "petrol",
+      "at": 4.172
+     },
+     {
+      "cue": "near",
+      "text": "Near adjacency",
+      "tone": "petrol",
+      "at": 4.853
+     },
+     {
+      "cue": "credible",
+      "text": "Credible stretch",
+      "tone": "amber",
+      "at": 6.047
+     },
+     {
+      "cue": "exception",
+      "text": "Exception",
+      "tone": "ox",
+      "at": 7.241
+     }
+    ],
+    "audio": "audio/w5-05.mp3",
+    "leadIn": 0.35,
+    "seconds": 8.528,
+    "words": [
+     {
+      "w": "Allen's",
+      "t": 0.4
+     },
+     {
+      "w": "wants",
+      "t": 0.791
+     },
+     {
+      "w": "to",
+      "t": 0.991
+     },
+     {
+      "w": "be",
+      "t": 1.058
+     },
+     {
+      "w": "a",
+      "t": 1.17
+     },
+     {
+      "w": "playground",
+      "t": 1.204
+     },
+     {
+      "w": "not",
+      "t": 2.007
+     },
+     {
+      "w": "a",
+      "t": 2.253
+     },
+     {
+      "w": "museum",
+      "t": 2.286
+     },
+     {
+      "w": "Stretch",
+      "t": 3.168
+     },
+     {
+      "w": "is",
+      "t": 3.625
+     },
+     {
+      "w": "mapped",
+      "t": 3.782
+     },
+     {
+      "w": "from",
+      "t": 4.016
+     },
+     {
+      "w": "core",
+      "t": 4.172
+     },
+     {
+      "w": "to",
+      "t": 4.764
+     },
+     {
+      "w": "near",
+      "t": 4.853
+     },
+     {
+      "w": "adjacency",
+      "t": 5.043
+     },
+     {
+      "w": "to",
+      "t": 5.936
+     },
+     {
+      "w": "credible",
+      "t": 6.047
+     },
+     {
+      "w": "stretch",
+      "t": 6.416
+     },
+     {
+      "w": "to",
+      "t": 7.029
+     },
+     {
+      "w": "the",
+      "t": 7.13
+     },
+     {
+      "w": "exception",
+      "t": 7.241
+     }
+    ]
+   },
+   {
+    "type": "outro",
+    "say": "The takeaway? Consistency, not sameness. Protect your assets. Use them or lose them.",
+    "lines": [
+     {
+      "cue": "consistency",
+      "text": "Consistency, not *sameness*.",
+      "at": 1.527
+     },
+     {
+      "cue": "use",
+      "text": "Use your assets or *lose* them.",
+      "at": 5.177
+     }
+    ],
+    "footAt": 4.5,
+    "audio": "audio/w5-06.mp3",
+    "leadIn": 0.35,
+    "seconds": 7.232,
+    "words": [
+     {
+      "w": "The",
+      "t": 0.4
+     },
+     {
+      "w": "takeaway",
+      "t": 0.601
+     },
+     {
+      "w": "Consistency",
+      "t": 1.527
+     },
+     {
+      "w": "not",
+      "t": 2.587
+     },
+     {
+      "w": "sameness",
+      "t": 2.844
+     },
+     {
+      "w": "Protect",
+      "t": 3.737
+     },
+     {
+      "w": "your",
+      "t": 4.183
+     },
+     {
+      "w": "assets",
+      "t": 4.351
+     },
+     {
+      "w": "Use",
+      "t": 5.177
+     },
+     {
+      "w": "them",
+      "t": 5.534
+     },
+     {
+      "w": "or",
+      "t": 5.746
+     },
+     {
+      "w": "lose",
+      "t": 5.891
+     },
+     {
+      "w": "them",
+      "t": 6.181
+     }
+    ]
+   }
+  ],
+  "id": "w5",
+  "total": 59.55
+ },
+ "w6": {
+  "week": 6,
+  "chrome": "Libby Hogson · UNICEF Australia",
+  "scenes": [
+   {
+    "type": "title",
+    "say": "Week six. Managing a brand for social purpose, with Libby Hogson from UNICEF Australia.",
+    "eyebrow": "Week 6 · Guest lecture",
+    "title": "Managing a brand for social purpose",
+    "speaker": "Libby Hogson",
+    "org": "UNICEF Australia",
+    "photo": "w6.png",
+    "audio": "audio/w6-00.mp3",
+    "leadIn": 0.35,
+    "seconds": 6.344,
+    "words": [
+     {
+      "w": "Week",
+      "t": 0.4
+     },
+     {
+      "w": "six",
+      "t": 0.724
+     },
+     {
+      "w": "Managing",
+      "t": 1.494
+     },
+     {
+      "w": "a",
+      "t": 1.962
+     },
+     {
+      "w": "brand",
+      "t": 1.996
+     },
+     {
+      "w": "for",
+      "t": 2.375
+     },
+     {
+      "w": "social",
+      "t": 2.476
+     },
+     {
+      "w": "purpose",
+      "t": 2.8
+     },
+     {
+      "w": "with",
+      "t": 3.558
+     },
+     {
+      "w": "Libby",
+      "t": 3.737
+     },
+     {
+      "w": "Hogson",
+      "t": 4.027
+     },
+     {
+      "w": "from",
+      "t": 4.474
+     },
+     {
+      "w": "UNICEF",
+      "t": 4.663
+     },
+     {
+      "w": "Australia",
+      "t": 5.032
+     }
+    ]
+   },
+   {
+    "type": "stats",
+    "kicker": "A saturated, contracting market",
+    "say": "There are over sixty thousand Australian charities. One for every four hundred and thirty nine people. And fewer donors are giving more.",
+    "stats": [
+     {
+      "cue": "sixty",
+      "value": 60000,
+      "suffix": "+",
+      "label": "Australian charities",
+      "at": 1.003
+     },
+     {
+      "cue": "one",
+      "value": 439,
+      "prefix": "1 per ",
+      "label": "people",
+      "tone": "petrol",
+      "at": 3.079
+     }
+    ],
+    "note": {
+     "cue": "fewer",
+     "text": "Fewer donors, giving *more*.",
+     "at": 5.902
+    },
+    "audio": "audio/w6-01.mp3",
+    "leadIn": 0.35,
+    "seconds": 8.144,
+    "words": [
+     {
+      "w": "There",
+      "t": 0.4
+     },
+     {
+      "w": "are",
+      "t": 0.668
+     },
+     {
+      "w": "over",
+      "t": 0.757
+     },
+     {
+      "w": "sixty",
+      "t": 1.003
+     },
+     {
+      "w": "thousand",
+      "t": 1.382
+     },
+     {
+      "w": "Australian",
+      "t": 1.762
+     },
+     {
+      "w": "charities",
+      "t": 2.219
+     },
+     {
+      "w": "One",
+      "t": 3.079
+     },
+     {
+      "w": "for",
+      "t": 3.492
+     },
+     {
+      "w": "every",
+      "t": 3.715
+     },
+     {
+      "w": "four",
+      "t": 3.994
+     },
+     {
+      "w": "hundred",
+      "t": 4.195
+     },
+     {
+      "w": "and",
+      "t": 4.44
+     },
+     {
+      "w": "thirty",
+      "t": 4.496
+     },
+     {
+      "w": "nine",
+      "t": 4.753
+     },
+     {
+      "w": "people",
+      "t": 4.976
+     },
+     {
+      "w": "And",
+      "t": 5.712
+     },
+     {
+      "w": "fewer",
+      "t": 5.902
+     },
+     {
+      "w": "donors",
+      "t": 6.204
+     },
+     {
+      "w": "are",
+      "t": 6.616
+     },
+     {
+      "w": "giving",
+      "t": 6.728
+     },
+     {
+      "w": "more",
+      "t": 7.018
+     }
+    ]
+   },
+   {
+    "type": "bars",
+    "kicker": "The money was in the wrong place",
+    "max": 100,
+    "say": "In twenty twenty UNICEF had zero unprompted awareness. Yet about ninety five percent of spend went on conversion, and five percent on awareness. The top of the funnel was empty.",
+    "bars": [
+     {
+      "cue": "ninety",
+      "label": "Conversion & retention",
+      "value": 95,
+      "display": "~95%",
+      "tone": "ink",
+      "at": 3.871
+     },
+     {
+      "cue": "awareness",
+      "label": "Awareness",
+      "value": 5,
+      "display": "~5%",
+      "tone": "ox",
+      "at": 7.175
+     }
+    ],
+    "note": {
+     "cue": "empty",
+     "text": "Optimising a funnel whose *top was empty*.",
+     "at": 9.094
+    },
+    "audio": "audio/w6-02.mp3",
+    "leadIn": 0.35,
+    "seconds": 10.304,
+    "words": [
+     {
+      "w": "In",
+      "t": 0.4
+     },
+     {
+      "w": "twenty",
+      "t": 0.59
+     },
+     {
+      "w": "twenty",
+      "t": 0.813
+     },
+     {
+      "w": "UNICEF",
+      "t": 1.058
+     },
+     {
+      "w": "had",
+      "t": 1.494
+     },
+     {
+      "w": "zero",
+      "t": 1.695
+     },
+     {
+      "w": "unprompted",
+      "t": 2.063
+     },
+     {
+      "w": "awareness",
+      "t": 2.565
+     },
+     {
+      "w": "Yet",
+      "t": 3.413
+     },
+     {
+      "w": "about",
+      "t": 3.648
+     },
+     {
+      "w": "ninety",
+      "t": 3.871
+     },
+     {
+      "w": "five",
+      "t": 4.15
+     },
+     {
+      "w": "percent",
+      "t": 4.373
+     },
+     {
+      "w": "of",
+      "t": 4.675
+     },
+     {
+      "w": "spend",
+      "t": 4.741
+     },
+     {
+      "w": "went",
+      "t": 5.121
+     },
+     {
+      "w": "on",
+      "t": 5.333
+     },
+     {
+      "w": "conversion",
+      "t": 5.445
+     },
+     {
+      "w": "and",
+      "t": 6.271
+     },
+     {
+      "w": "five",
+      "t": 6.416
+     },
+     {
+      "w": "percent",
+      "t": 6.695
+     },
+     {
+      "w": "on",
+      "t": 7.052
+     },
+     {
+      "w": "awareness",
+      "t": 7.175
+     },
+     {
+      "w": "The",
+      "t": 8.023
+     },
+     {
+      "w": "top",
+      "t": 8.19
+     },
+     {
+      "w": "of",
+      "t": 8.402
+     },
+     {
+      "w": "the",
+      "t": 8.503
+     },
+     {
+      "w": "funnel",
+      "t": 8.57
+     },
+     {
+      "w": "was",
+      "t": 8.927
+     },
+     {
+      "w": "empty",
+      "t": 9.094
+     }
+    ]
+   },
+   {
+    "type": "stats",
+    "kicker": "Mental availability",
+    "say": "Top of mind, donation intent is nineteen percent. Only prompted, it's seven. Mental availability nearly triples intent.",
+    "stats": [
+     {
+      "cue": "nineteen",
+      "value": 19,
+      "suffix": "%",
+      "label": "intent when *top of mind*",
+      "at": 2.353
+     },
+     {
+      "cue": "seven",
+      "value": 7,
+      "suffix": "%",
+      "label": "intent when only prompted",
+      "tone": "ink",
+      "at": 4.719
+     }
+    ],
+    "note": {
+     "cue": "triples",
+     "text": "Mental availability nearly *triples* intent.",
+     "at": 6.896
+    },
+    "audio": "audio/w6-03.mp3",
+    "leadIn": 0.35,
+    "seconds": 8.504,
+    "words": [
+     {
+      "w": "Top",
+      "t": 0.4
+     },
+     {
+      "w": "of",
+      "t": 0.612
+     },
+     {
+      "w": "mind",
+      "t": 0.712
+     },
+     {
+      "w": "donation",
+      "t": 1.416
+     },
+     {
+      "w": "intent",
+      "t": 1.851
+     },
+     {
+      "w": "is",
+      "t": 2.197
+     },
+     {
+      "w": "nineteen",
+      "t": 2.353
+     },
+     {
+      "w": "percent",
+      "t": 2.755
+     },
+     {
+      "w": "Only",
+      "t": 3.525
+     },
+     {
+      "w": "prompted",
+      "t": 3.871
+     },
+     {
+      "w": "it's",
+      "t": 4.552
+     },
+     {
+      "w": "seven",
+      "t": 4.719
+     },
+     {
+      "w": "Mental",
+      "t": 5.445
+     },
+     {
+      "w": "availability",
+      "t": 5.891
+     },
+     {
+      "w": "nearly",
+      "t": 6.527
+     },
+     {
+      "w": "triples",
+      "t": 6.896
+     },
+     {
+      "w": "intent",
+      "t": 7.297
+     }
+    ]
+   },
+   {
+    "type": "statement",
+    "kicker": "The positioning",
+    "say": "So the positioning: UNICEF inspires Australians with the determination it takes to protect every child, no matter what. Then say it again and again.",
+    "lines": [
+     {
+      "cue": "unicef",
+      "text": "UNICEF inspires Australians with the *determination* it takes to protect every child, no matter what.",
+      "at": 1.605
+     },
+     {
+      "cue": "again",
+      "size": "s",
+      "text": "Consistency is the place you hold in people’s minds, said again and again.",
+      "at": 7.409
+     }
+    ],
+    "audio": "audio/w6-04.mp3",
+    "leadIn": 0.35,
+    "seconds": 9.104,
+    "words": [
+     {
+      "w": "So",
+      "t": 0.4
+     },
+     {
+      "w": "the",
+      "t": 0.657
+     },
+     {
+      "w": "positioning",
+      "t": 0.746
+     },
+     {
+      "w": "UNICEF",
+      "t": 1.605
+     },
+     {
+      "w": "inspires",
+      "t": 2.074
+     },
+     {
+      "w": "Australians",
+      "t": 2.521
+     },
+     {
+      "w": "with",
+      "t": 3.101
+     },
+     {
+      "w": "the",
+      "t": 3.212
+     },
+     {
+      "w": "determination",
+      "t": 3.268
+     },
+     {
+      "w": "it",
+      "t": 3.916
+     },
+     {
+      "w": "takes",
+      "t": 4.016
+     },
+     {
+      "w": "to",
+      "t": 4.262
+     },
+     {
+      "w": "protect",
+      "t": 4.329
+     },
+     {
+      "w": "every",
+      "t": 4.686
+     },
+     {
+      "w": "child",
+      "t": 4.92
+     },
+     {
+      "w": "no",
+      "t": 5.59
+     },
+     {
+      "w": "matter",
+      "t": 5.791
+     },
+     {
+      "w": "what",
+      "t": 6.014
+     },
+     {
+      "w": "Then",
+      "t": 6.661
+     },
+     {
+      "w": "say",
+      "t": 6.974
+     },
+     {
+      "w": "it",
+      "t": 7.297
+     },
+     {
+      "w": "again",
+      "t": 7.409
+     },
+     {
+      "w": "and",
+      "t": 7.766
+     },
+     {
+      "w": "again",
+      "t": 7.9
+     }
+    ]
+   },
+   {
+    "type": "flow",
+    "kicker": "The measurement chain",
+    "say": "Then measure the chain. Ad awareness and share of voice drive unprompted awareness, then donation intent, then market share.",
+    "steps": [
+     {
+      "cue": "ad",
+      "text": "Ad awareness + share of voice",
+      "at": 1.896
+     },
+     {
+      "cue": "unprompted",
+      "text": "Unprompted awareness",
+      "at": 3.592
+     },
+     {
+      "cue": "donation",
+      "text": "Donation intent",
+      "at": 4.998
+     },
+     {
+      "cue": "market",
+      "text": "Market share",
+      "at": 6.159
+     }
+    ],
+    "audio": "audio/w6-05.mp3",
+    "leadIn": 0.35,
+    "seconds": 7.592,
+    "words": [
+     {
+      "w": "Then",
+      "t": 0.4
+     },
+     {
+      "w": "measure",
+      "t": 0.69
+     },
+     {
+      "w": "the",
+      "t": 1.025
+     },
+     {
+      "w": "chain",
+      "t": 1.114
+     },
+     {
+      "w": "Ad",
+      "t": 1.896
+     },
+     {
+      "w": "awareness",
+      "t": 2.074
+     },
+     {
+      "w": "and",
+      "t": 2.476
+     },
+     {
+      "w": "share",
+      "t": 2.576
+     },
+     {
+      "w": "of",
+      "t": 2.9
+     },
+     {
+      "w": "voice",
+      "t": 2.989
+     },
+     {
+      "w": "drive",
+      "t": 3.268
+     },
+     {
+      "w": "unprompted",
+      "t": 3.592
+     },
+     {
+      "w": "awareness",
+      "t": 4.05
+     },
+     {
+      "w": "then",
+      "t": 4.82
+     },
+     {
+      "w": "donation",
+      "t": 4.998
+     },
+     {
+      "w": "intent",
+      "t": 5.422
+     },
+     {
+      "w": "then",
+      "t": 5.991
+     },
+     {
+      "w": "market",
+      "t": 6.159
+     },
+     {
+      "w": "share",
+      "t": 6.471
+     }
+    ]
+   },
+   {
+    "type": "outro",
+    "say": "The takeaway? Brand building in a charity is brand building. Stay the course, and measure everything.",
+    "lines": [
+     {
+      "cue": "brand",
+      "text": "Brand building in a charity *is* brand building.",
+      "at": 1.527
+     },
+     {
+      "cue": "stay",
+      "text": "Stay the course. *Measure everything.*",
+      "at": 4.038
+     }
+    ],
+    "footAt": 5,
+    "audio": "audio/w6-06.mp3",
+    "leadIn": 0.35,
+    "seconds": 7.04,
+    "words": [
+     {
+      "w": "The",
+      "t": 0.4
+     },
+     {
+      "w": "takeaway",
+      "t": 0.601
+     },
+     {
+      "w": "Brand",
+      "t": 1.527
+     },
+     {
+      "w": "building",
+      "t": 1.896
+     },
+     {
+      "w": "in",
+      "t": 2.286
+     },
+     {
+      "w": "a",
+      "t": 2.375
+     },
+     {
+      "w": "charity",
+      "t": 2.431
+     },
+     {
+      "w": "is",
+      "t": 2.889
+     },
+     {
+      "w": "brand",
+      "t": 3.023
+     },
+     {
+      "w": "building",
+      "t": 3.302
+     },
+     {
+      "w": "Stay",
+      "t": 4.038
+     },
+     {
+      "w": "the",
+      "t": 4.396
+     },
+     {
+      "w": "course",
+      "t": 4.474
+     },
+     {
+      "w": "and",
+      "t": 5.143
+     },
+     {
+      "w": "measure",
+      "t": 5.311
+     },
+     {
+      "w": "everything",
+      "t": 5.724
+     }
+    ]
+   }
+  ],
+  "id": "w6",
+  "total": 57.03
+ }
+}

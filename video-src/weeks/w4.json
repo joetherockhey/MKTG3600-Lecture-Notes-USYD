@@ -1,0 +1,155 @@
+{
+  "week": 4,
+  "chrome": "Brent Smart · B.Smart",
+  "scenes": [
+    {
+      "type": "title",
+      "say": "Week four. Managing brands with creativity and humanity, with former Telstra C.M.O. Brent Smart.",
+      "eyebrow": "Week 4 · Guest lecture",
+      "title": "Managing brands with creativity and humanity",
+      "speaker": "Brent Smart",
+      "org": "B.Smart, former Telstra CMO",
+      "photo": "w4.jpg"
+    },
+    {
+      "type": "statement",
+      "kicker": "The core idea",
+      "say": "Marketing is a battle for memory. So job one is making the brand memorable, and the biggest risk is taking no risk.",
+      "lines": [
+        {
+          "cue": "marketing",
+          "text": "Marketing is a battle for *memory*."
+        },
+        {
+          "cue": "biggest",
+          "text": "The biggest risk is taking *no risk*.",
+          "tone": "petrol"
+        }
+      ]
+    },
+    {
+      "type": "stats",
+      "kicker": "Creativity is measurable",
+      "title": "Creative work vs the average ad",
+      "say": "And creativity pays. Against the average ad, creative work returns two and a half times the revenue growth, and four times the profit.",
+      "stats": [
+        {
+          "cue": "two",
+          "value": 2.5,
+          "decimals": 1,
+          "suffix": "×",
+          "label": "revenue growth"
+        },
+        {
+          "cue": "four",
+          "value": 4,
+          "suffix": "×",
+          "label": "profit",
+          "tone": "petrol"
+        }
+      ]
+    },
+    {
+      "type": "skit",
+      "kicker": "Telstra’s ethnographic research",
+      "say": "When Telstra asked people to draw how the brand felt, they drew a bully in a suit. You can argue with a chart. You can't argue with that drawing.",
+      "cast": [
+        {
+          "name": "Customer",
+          "look": 2
+        },
+        {
+          "name": "Telstra team",
+          "look": 3
+        }
+      ],
+      "beats": [
+        {
+          "who": 0,
+          "cue": "bully",
+          "text": "It’s a *bully* in a suit."
+        },
+        {
+          "who": 1,
+          "cue": "argue",
+          "kind": "think",
+          "text": "We can’t argue with that."
+        }
+      ]
+    },
+    {
+      "type": "bars",
+      "kicker": "Current vs future demand",
+      "max": 100,
+      "say": "Only about fifteen percent of buyers are in market right now. The other eighty five percent need brand building, so they remember you later.",
+      "bars": [
+        {
+          "cue": "fifteen",
+          "label": "In market now",
+          "value": 15,
+          "display": "~15%",
+          "tone": "petrol"
+        },
+        {
+          "cue": "eighty",
+          "label": "Not in market",
+          "value": 85,
+          "display": "~85%",
+          "tone": "ox"
+        }
+      ],
+      "note": {
+        "cue": "remember",
+        "text": "Build *future* demand, don’t just convert it."
+      }
+    },
+    {
+      "type": "bars",
+      "kicker": "Binet & Field: the long and the short of it",
+      "max": 100,
+      "say": "The benchmark is sixty percent brand, forty activation. Telstra was at twenty. His first move was fifty fifty. Marketing R.O.I. rose from six to over ten.",
+      "bars": [
+        {
+          "cue": "sixty",
+          "label": "Benchmark",
+          "value": 60,
+          "display": "60 / 40",
+          "tone": "petrol"
+        },
+        {
+          "cue": "twenty",
+          "label": "Telstra before",
+          "value": 20,
+          "display": "20 / 80",
+          "tone": "ink"
+        },
+        {
+          "cue": "first",
+          "label": "His first move",
+          "value": 50,
+          "display": "50 / 50",
+          "tone": "ox"
+        }
+      ],
+      "note": {
+        "cue": "rose",
+        "text": "Marketing ROI: *6.10 → 10.40*, on lower spend."
+      }
+    },
+    {
+      "type": "outro",
+      "say": "The whistling ad was hated at launch, then got thirty million organic TikTok views. If it's not bold, it's dumb.",
+      "lines": [
+        {
+          "cue": "whistling",
+          "text": "30M organic TikTok views, *$0* paid."
+        },
+        {
+          "cue": "bold",
+          "text": "If it’s not bold, it’s *dumb*."
+        }
+      ],
+      "footAt": 6
+    }
+  ]
+}

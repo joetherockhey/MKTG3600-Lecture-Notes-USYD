@@ -1,0 +1,173 @@
+{
+  "week": 13,
+  "chrome": "Exam briefing",
+  "scenes": [
+    {
+      "type": "title",
+      "say": "Week thirteen. What the final exam looks like.",
+      "eyebrow": "Week 13 · Exam briefing",
+      "title": "What the exam looks like",
+      "speaker": "Unit coordinator Q&A",
+      "org": "Plus Teresa’s email to the class",
+      "badge": "13"
+    },
+    {
+      "type": "stats",
+      "kicker": "Format",
+      "say": "Five short scenario questions, worth six marks each. Thirty marks in total, all on the guest lectures.",
+      "stats": [
+        {
+          "cue": "five",
+          "value": 5,
+          "label": "scenario questions"
+        },
+        {
+          "cue": "six",
+          "value": 6,
+          "label": "marks each",
+          "tone": "petrol"
+        },
+        {
+          "cue": "thirty",
+          "value": 30,
+          "label": "marks in total",
+          "tone": "amber"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "kicker": "Logistics",
+      "title": "Monday 23 November, 1pm",
+      "say": "It's Monday the twenty third of November at one p.m. Check your own venue. Bring your phone for the passcode, and a laptop with Respondus lockdown installed. Do the practice test first.",
+      "items": [
+        {
+          "cue": "check",
+          "head": "Check your own venue",
+          "sub": "Timetable and the exams office email (look in junk)"
+        },
+        {
+          "cue": "phone",
+          "head": "Phone + laptop with Respondus",
+          "sub": "Install it before the day"
+        },
+        {
+          "cue": "practice",
+          "head": "Do the practice test"
+        }
+      ]
+    },
+    {
+      "type": "skit",
+      "kicker": "Transfer is the big skill",
+      "say": "Transfer is the big skill. A concept shown with Telstra might be asked about Qantas. Know the concept, not just the example.",
+      "cast": [
+        {
+          "name": "Exam question",
+          "look": 2
+        },
+        {
+          "name": "You",
+          "look": 0
+        }
+      ],
+      "beats": [
+        {
+          "who": 0,
+          "cue": "qantas",
+          "text": "Apply it to *Qantas*."
+        },
+        {
+          "who": 1,
+          "cue": "concept",
+          "kind": "think",
+          "text": "Same concept, new brand."
+        }
+      ]
+    },
+    {
+      "type": "versus",
+      "kicker": "Answering",
+      "say": "Aim for three to four hundred words an answer, and answer every part. Concepts are tested. Dates and career paths are not.",
+      "left": {
+        "cue": "three",
+        "label": "Do",
+        "tone": "petrol",
+        "items": [
+          {
+            "text": "300–400 words, 500 max"
+          },
+          {
+            "cue": "every",
+            "text": "Answer every part: (a), (b)…"
+          },
+          {
+            "cue": "concepts",
+            "text": "Apply the speaker’s models"
+          }
+        ]
+      },
+      "right": {
+        "cue": "dates",
+        "label": "Skip",
+        "tone": "ink",
+        "items": [
+          {
+            "text": "Exact dates"
+          },
+          {
+            "text": "Speakers’ career paths"
+          },
+          {
+            "text": "Media plans"
+          }
+        ]
+      }
+    },
+    {
+      "type": "versus",
+      "kicker": "Reading the question",
+      "say": "Read the question carefully. Why did X do this wants the speaker's reasoning. Could Y do it too wants your own justified view. And model questions want the model applied accurately, tied to the outcome.",
+      "left": {
+        "cue": "why",
+        "label": "“Why did X…?”",
+        "tone": "ox",
+        "items": [
+          {
+            "text": "The *speaker’s* reasoning"
+          }
+        ]
+      },
+      "right": {
+        "cue": "could",
+        "label": "“Could Y…?”",
+        "tone": "petrol",
+        "items": [
+          {
+            "text": "*Your* justified view"
+          }
+        ]
+      },
+      "verdict": {
+        "cue": "model",
+        "text": "Models: apply them accurately, tied to the *outcome*."
+      }
+    },
+    {
+      "type": "outro",
+      "say": "Revise every lecture, plus the workshop questions. Good luck.",
+      "lines": [
+        {
+          "cue": "revise",
+          "text": "Revise every lecture and the *workshop questions*."
+        },
+        {
+          "cue": "luck",
+          "text": "Good *luck*."
+        }
+      ],
+      "footAt": 3.5,
+      "foot": "Exam prep hub and notes below"
+    }
+  ]
+}

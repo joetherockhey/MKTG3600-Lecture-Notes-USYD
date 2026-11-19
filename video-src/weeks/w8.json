@@ -1,0 +1,207 @@
+{
+  "week": 8,
+  "chrome": "Andrew Baxter · Chair, Australian Pork",
+  "scenes": [
+    {
+      "type": "title",
+      "say": "Week eight. Creating advertising that works, with Andrew Baxter, after twenty six years running agencies.",
+      "eyebrow": "Week 8 · Guest lecture",
+      "title": "Creating advertising that works",
+      "speaker": "Andrew Baxter",
+      "org": "Chair, Australian Pork Limited",
+      "photo": "w8.jpg"
+    },
+    {
+      "type": "list",
+      "kicker": "Advertising is simple",
+      "title": "The right…",
+      "cols": 2,
+      "say": "Advertising is simple. The right message, to the right person, in the right place, at the right time.",
+      "items": [
+        {
+          "cue": "message",
+          "head": "Message",
+          "mark": "✓"
+        },
+        {
+          "cue": "person",
+          "head": "Person",
+          "mark": "✓"
+        },
+        {
+          "cue": "place",
+          "head": "Place",
+          "mark": "✓"
+        },
+        {
+          "cue": "time",
+          "head": "Time",
+          "mark": "✓"
+        }
+      ]
+    },
+    {
+      "type": "flow",
+      "kicker": "Four steps",
+      "say": "It runs in four steps: strategy, the idea, making it, and placing it.",
+      "steps": [
+        {
+          "cue": "strategy",
+          "text": "Strategy",
+          "sub": "The message"
+        },
+        {
+          "cue": "idea",
+          "text": "Idea"
+        },
+        {
+          "cue": "making",
+          "text": "Make it"
+        },
+        {
+          "cue": "placing",
+          "text": "Place it",
+          "sub": "Which media, when"
+        }
+      ]
+    },
+    {
+      "type": "skit",
+      "kicker": "One message per ad",
+      "say": "A billboard gets a two second glance, so use fifteen words or fewer. One message per ad, like Kraft's hunger blaster.",
+      "cast": [
+        {
+          "name": "Driver",
+          "look": 3,
+          "prop": "phone"
+        },
+        {
+          "name": "Copywriter",
+          "look": 2
+        }
+      ],
+      "beats": [
+        {
+          "who": 1,
+          "cue": "fifteen",
+          "text": "Fifteen words or *fewer*."
+        },
+        {
+          "who": 0,
+          "cue": "hunger",
+          "kind": "think",
+          "text": "Hunger blaster. *Got it.*"
+        }
+      ]
+    },
+    {
+      "type": "flow",
+      "kicker": "The funnel",
+      "say": "The funnel runs from awareness, to knowledge, liking, preference, conviction, and purchase. Reach about sixty five percent, at least three times.",
+      "steps": [
+        {
+          "cue": "awareness",
+          "text": "Awareness"
+        },
+        {
+          "cue": "knowledge",
+          "text": "Knowledge"
+        },
+        {
+          "cue": "liking",
+          "text": "Liking"
+        },
+        {
+          "cue": "preference",
+          "text": "Preference"
+        },
+        {
+          "cue": "conviction",
+          "text": "Conviction"
+        },
+        {
+          "cue": "purchase",
+          "text": "Purchase"
+        }
+      ],
+      "note": {
+        "cue": "sixty",
+        "text": "Reach ~65% of the audience, *3+ times*."
+      }
+    },
+    {
+      "type": "stats",
+      "kicker": "What the most effective advertising is",
+      "say": "The best ads are famous and emotional. John Lewis's Monty the Penguin returned eight to one.",
+      "stats": [
+        {
+          "cue": "famous",
+          "value": 72,
+          "suffix": "%",
+          "label": "of *famous* campaigns outsell competitors"
+        },
+        {
+          "cue": "emotional",
+          "value": 62,
+          "suffix": "%",
+          "label": "success rate for *emotional* work",
+          "tone": "petrol"
+        },
+        {
+          "cue": "eight",
+          "text": "8:1",
+          "value": 8,
+          "label": "ROI, Monty the Penguin",
+          "tone": "amber"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "kicker": "The strongest brand driver",
+      "title": "Differentiation comes *first*",
+      "say": "And differentiation is the most important brand driver, ahead of relevance, esteem and knowledge. A successful campaign now averages ten channels, measured by mix modelling.",
+      "items": [
+        {
+          "cue": "differentiation",
+          "head": "Differentiation",
+          "mark": "1"
+        },
+        {
+          "cue": "relevance",
+          "head": "Relevance",
+          "mark": "2",
+          "tone": "ink"
+        },
+        {
+          "cue": "esteem",
+          "head": "Esteem",
+          "mark": "3",
+          "tone": "ink"
+        },
+        {
+          "cue": "knowledge",
+          "head": "Knowledge",
+          "mark": "4",
+          "tone": "ink"
+        }
+      ],
+      "cols": 2
+    },
+    {
+      "type": "outro",
+      "say": "And about ninety five percent of purchases are intuitive. We buy, then post-rationalise. Create famous work that works.",
+      "lines": [
+        {
+          "cue": "ninety",
+          "text": "~95% of purchases are *intuitive*."
+        },
+        {
+          "cue": "famous",
+          "text": "Create *famous* work that works."
+        }
+      ],
+      "footAt": 6
+    }
+  ]
+}

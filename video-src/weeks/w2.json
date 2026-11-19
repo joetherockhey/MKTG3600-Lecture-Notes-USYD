@@ -1,0 +1,196 @@
+{
+  "week": 2,
+  "chrome": "Estelle Gohil · Fiftyfive5",
+  "scenes": [
+    {
+      "type": "title",
+      "say": "Week two. Market research and consumer insights, with Estelle Gohil from Fiftyfive5.",
+      "eyebrow": "Week 2 · Guest lecture",
+      "title": "Market research and consumer insights",
+      "speaker": "Estelle Gohil",
+      "org": "Fiftyfive5, a qualitative research agency",
+      "photo": "w2.jpg"
+    },
+    {
+      "type": "versus",
+      "say": "Behavioural data tells you what happened. Qualitative research tells you why. And the why decides what the business does next.",
+      "kicker": "What vs why",
+      "left": {
+        "cue": "behavioural",
+        "label": "What",
+        "big": true,
+        "title": "Behavioural data",
+        "items": [
+          {
+            "text": "Sales, CRMs, dashboards"
+          },
+          {
+            "text": "“People are drinking less”"
+          }
+        ]
+      },
+      "right": {
+        "cue": "qualitative",
+        "label": "Why",
+        "big": true,
+        "title": "Qualitative research",
+        "items": [
+          {
+            "text": "Talking and watching"
+          },
+          {
+            "text": "The reason behind the number"
+          }
+        ]
+      },
+      "verdict": {
+        "cue": "decides",
+        "text": "The *why* decides what the business does."
+      }
+    },
+    {
+      "type": "skit",
+      "say": "Say is not do. A shopper says, I want something cheaper. Keep asking why, and the real driver might be value, convenience, or saving time.",
+      "kicker": "Say is not do",
+      "cast": [
+        {
+          "name": "Shopper",
+          "look": 1
+        },
+        {
+          "name": "Researcher",
+          "look": 0,
+          "prop": "clipboard"
+        }
+      ],
+      "beats": [
+        {
+          "who": 0,
+          "cue": "I want",
+          "text": "I want something *cheaper*."
+        },
+        {
+          "who": 1,
+          "cue": "keep",
+          "kind": "think",
+          "text": "But why?"
+        }
+      ],
+      "chips": [
+        {
+          "cue": "value",
+          "text": "Value for money"
+        },
+        {
+          "cue": "convenience",
+          "text": "Convenience"
+        },
+        {
+          "cue": "saving",
+          "text": "Saving time"
+        }
+      ]
+    },
+    {
+      "type": "flow",
+      "say": "Research drives growth three ways. Identify where to play. Execute, through positioning, pricing and creative. Then evaluate performance.",
+      "kicker": "Three ways research drives growth",
+      "steps": [
+        {
+          "cue": "identify",
+          "text": "Identify",
+          "sub": "Where to play: segments, demand, sizing"
+        },
+        {
+          "cue": "execute",
+          "text": "Execute",
+          "sub": "Positioning, pricing, creative, CX"
+        },
+        {
+          "cue": "evaluate",
+          "text": "Evaluate",
+          "sub": "Brand, category and comms tracking"
+        }
+      ]
+    },
+    {
+      "type": "versus",
+      "say": "The toolkit has two modes. Talking: discussion groups, consumer juries, cognitive interviews. And watching: shopping safaris, or body cameras on baristas.",
+      "kicker": "The toolkit",
+      "left": {
+        "cue": "talking",
+        "label": "Talking",
+        "tone": "petrol",
+        "items": [
+          {
+            "cue": "discussion",
+            "text": "Discussion groups of 6 to 10"
+          },
+          {
+            "cue": "juries",
+            "text": "Consumer juries"
+          },
+          {
+            "cue": "cognitive",
+            "text": "Cognitive interviewing"
+          }
+        ]
+      },
+      "right": {
+        "cue": "watching",
+        "label": "Watching",
+        "tone": "amber",
+        "items": [
+          {
+            "cue": "safaris",
+            "text": "Shopping safaris"
+          },
+          {
+            "cue": "body",
+            "text": "Body cameras on baristas"
+          },
+          {
+            "text": "Mobile ethnography"
+          }
+        ]
+      }
+    },
+    {
+      "type": "list",
+      "say": "Gen AI helps, but it can't close three gaps. Human and cultural understanding. Data that doesn't exist yet. And the analysis itself. Keep a human in the lead.",
+      "kicker": "AI is a tool, not a replacement",
+      "title": "Three gaps gen AI *cannot* close",
+      "mark": "x",
+      "items": [
+        {
+          "cue": "human and",
+          "head": "Human and cultural understanding"
+        },
+        {
+          "cue": "data that",
+          "head": "Data that does not exist yet"
+        },
+        {
+          "cue": "analysis",
+          "head": "The analysis itself",
+          "sub": "Human in the lead, human in the loop"
+        }
+      ]
+    },
+    {
+      "type": "outro",
+      "say": "The takeaway? Understand people, don't just collect data. An insight only counts when it enables a decision.",
+      "lines": [
+        {
+          "cue": "understand",
+          "text": "Understand people, don’t just *collect data*."
+        },
+        {
+          "cue": "insight",
+          "text": "An insight only counts when it enables a *decision*."
+        }
+      ],
+      "footAt": 5
+    }
+  ]
+}

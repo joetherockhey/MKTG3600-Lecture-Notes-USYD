@@ -1,0 +1,152 @@
+{
+  "week": 9,
+  "chrome": "Brendan Willenberg · Executive Creative Director",
+  "scenes": [
+    {
+      "type": "title",
+      "say": "Week nine. Creativity, the last remaining commercial superpower, with creative director Brendan Willenberg.",
+      "eyebrow": "Week 9 · Guest lecture",
+      "title": "Creativity: the last remaining commercial superpower",
+      "speaker": "Brendan Willenberg",
+      "org": "Executive Creative Director",
+      "photo": "w9.jpg"
+    },
+    {
+      "type": "statement",
+      "kicker": "Commercial creativity is cheating",
+      "say": "Commercial creativity is cheating. Same inputs as everyone else, but an unfair business advantage. And it's a method, not a gift.",
+      "lines": [
+        {
+          "cue": "same",
+          "text": "Same inputs. An *unfair* business advantage."
+        },
+        {
+          "cue": "method",
+          "text": "Creativity is a *method*, not a gift.",
+          "tone": "petrol"
+        }
+      ]
+    },
+    {
+      "type": "flow",
+      "kicker": "Creativity is fancy problem solving",
+      "say": "Step one is solving the real problem. Go from the brief, past the expected response, to the real problem, then the solution.",
+      "steps": [
+        {
+          "cue": "brief",
+          "text": "The brief",
+          "tone": "ink"
+        },
+        {
+          "cue": "expected",
+          "text": "Expected response",
+          "tone": "ink"
+        },
+        {
+          "cue": "real",
+          "text": "The real problem",
+          "tone": "petrol"
+        },
+        {
+          "cue": "solution",
+          "text": "The solution",
+          "tone": "ox"
+        }
+      ]
+    },
+    {
+      "type": "skit",
+      "kicker": "Extra gum · the Bad Breath Index",
+      "say": "Extra's problem: shoppers don't notice gum at the checkout, because they're on their phones. So the Bad Breath Index put a gum prompt into the checkout itself.",
+      "cast": [
+        {
+          "name": "Shopper",
+          "look": 4,
+          "prop": "phone"
+        },
+        {
+          "name": "Checkout",
+          "look": 1
+        }
+      ],
+      "beats": [
+        {
+          "who": 0,
+          "cue": "phones",
+          "kind": "think",
+          "text": "*scrolling*…"
+        },
+        {
+          "who": 1,
+          "cue": "bad",
+          "text": "Bad Breath Index: *high*. Gum?"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "kicker": "Cases",
+      "title": "Creativity thrives on *constraint*",
+      "say": "Creativity thrives on constraint. Rexona couldn't buy media, so it earned it with Pitvertising. And V called out the whole energy drink category instead of copying Red Bull.",
+      "items": [
+        {
+          "cue": "rexona",
+          "head": "Rexona · Pitvertising",
+          "sub": "Can’t buy media? Earn it."
+        },
+        {
+          "cue": "called",
+          "head": "V Energy",
+          "sub": "Can’t out-Red Bull Red Bull, so call out the category.",
+          "tone": "petrol"
+        }
+      ]
+    },
+    {
+      "type": "versus",
+      "kicker": "AI",
+      "say": "AI can speed-run the process. But on its own it gives similar, cheap ideas. Use it as your antagonist, not your assistant.",
+      "left": {
+        "cue": "antagonist",
+        "label": "Antagonist",
+        "tone": "petrol",
+        "items": [
+          {
+            "text": "Challenges your ideas"
+          },
+          {
+            "text": "No ego, never tired"
+          }
+        ]
+      },
+      "right": {
+        "cue": "assistant",
+        "label": "Assistant",
+        "tone": "ink",
+        "items": [
+          {
+            "text": "Similar, cheap ideas"
+          },
+          {
+            "text": "Same as everyone else"
+          }
+        ]
+      }
+    },
+    {
+      "type": "outro",
+      "say": "The takeaway? Be simple, not just smart. It's not creative if it's not commercial.",
+      "lines": [
+        {
+          "cue": "simple",
+          "text": "Be *simple*, not just smart."
+        },
+        {
+          "cue": "not creative",
+          "text": "It’s not creative if it’s not *commercial*."
+        }
+      ],
+      "footAt": 4.5
+    }
+  ]
+}

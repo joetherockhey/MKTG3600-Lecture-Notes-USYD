@@ -1,0 +1,183 @@
+{
+  "week": 3,
+  "chrome": "Justin Papps · Tenet",
+  "scenes": [
+    {
+      "type": "title",
+      "say": "Week three. What are brands, and why do they matter? With Justin Papps from Tenet.",
+      "eyebrow": "Week 3 · Guest lecture",
+      "title": "What are brands and why do they matter?",
+      "speaker": "Justin Papps",
+      "org": "Tenet",
+      "photo": "w3.jpg"
+    },
+    {
+      "type": "statement",
+      "kicker": "The definition to memorise",
+      "say": "Start with his definition. A brand is a collection of beliefs and perceptions that create a positive predisposition at the point of choice. It lives in the customer's head.",
+      "lines": [
+        {
+          "cue": "a brand",
+          "text": "A brand is a collection of *beliefs and perceptions* that create a positive predisposition at the *point of choice*."
+        },
+        {
+          "cue": "lives",
+          "size": "s",
+          "text": "It lives in the customer’s head, not in your brand guidelines."
+        }
+      ]
+    },
+    {
+      "type": "bars",
+      "kicker": "Why now",
+      "title": "Brand exposures per day",
+      "say": "Why does it matter now? In the seventeen hundreds we saw maybe twenty brands a day. Today it's up to ten thousand, and our brains haven't grown.",
+      "bars": [
+        {
+          "cue": "seventeen",
+          "label": "1700s",
+          "value": 20,
+          "display": "10–20",
+          "tone": "ink"
+        },
+        {
+          "label": "1800s",
+          "value": 100,
+          "display": "50–100",
+          "tone": "ink"
+        },
+        {
+          "label": "1900s",
+          "value": 1500,
+          "display": "500–1,500",
+          "tone": "petrol"
+        },
+        {
+          "cue": "today",
+          "label": "Today",
+          "value": 10000,
+          "display": "5,000–10,000",
+          "tone": "ox"
+        }
+      ],
+      "note": {
+        "cue": "brains",
+        "text": "Same-sized brain. *Far* more noise."
+      }
+    },
+    {
+      "type": "versus",
+      "kicker": "1 · Economic engines",
+      "say": "Brands are economic engines. A Louis Vuitton backpack costs fifty six hundred dollars, fifteen times a rival that beats it on features. Brands equal margin equal power.",
+      "left": {
+        "cue": "louis",
+        "label": "$5,600",
+        "title": "Louis Vuitton backpack",
+        "items": [
+          {
+            "cue": "fifteen",
+            "text": "*15.6×* the price"
+          }
+        ]
+      },
+      "right": {
+        "cue": "rival",
+        "label": "$359",
+        "tone": "ink",
+        "title": "Maverick & Co.",
+        "items": [
+          {
+            "text": "More compartments, better warranty"
+          }
+        ]
+      },
+      "verdict": {
+        "cue": "margin",
+        "text": "Brands = margin = *power*."
+      }
+    },
+    {
+      "type": "versus",
+      "kicker": "2 · Behavioural shortcuts (Kahneman)",
+      "say": "They're also behavioural shortcuts. About ninety five percent of thinking is System One: fast and automatic. That's where brand building should aim.",
+      "left": {
+        "cue": "ninety",
+        "label": "System 1",
+        "title": "~95% of thinking",
+        "items": [
+          {
+            "text": "Fast, unconscious, associative"
+          },
+          {
+            "cue": "brand",
+            "text": "Where brand building *aims*"
+          }
+        ]
+      },
+      "right": {
+        "label": "System 2",
+        "tone": "ink",
+        "title": "~5% of thinking",
+        "items": [
+          {
+            "text": "Slow, logical, lazy"
+          },
+          {
+            "text": "Big, complex decisions"
+          }
+        ]
+      }
+    },
+    {
+      "type": "list",
+      "kicker": "Brand strategy",
+      "title": "Four pillars, and one paradox",
+      "cols": 2,
+      "say": "Land four pillars: relevance, distinctiveness, consistency and availability. And the D.B.A. paradox: sonic cues are rarely used, but they're the most effective asset.",
+      "items": [
+        {
+          "cue": "relevance",
+          "head": "Relevance"
+        },
+        {
+          "cue": "distinctiveness",
+          "head": "Distinctiveness"
+        },
+        {
+          "cue": "consistency",
+          "head": "Consistency"
+        },
+        {
+          "cue": "availability",
+          "head": "Availability"
+        },
+        {
+          "cue": "sonic",
+          "head": "DBA paradox",
+          "sub": "Sonic cues: 6% use, *8.5×* effect",
+          "mark": "♪",
+          "tone": "amber"
+        }
+      ]
+    },
+    {
+      "type": "outro",
+      "say": "His closing line. Attention is cheap. Memory is expensive. Preference is priceless.",
+      "lines": [
+        {
+          "cue": "attention",
+          "text": "Attention is cheap."
+        },
+        {
+          "cue": "memory",
+          "text": "Memory is *expensive*."
+        },
+        {
+          "cue": "preference",
+          "text": "Preference is *priceless*."
+        }
+      ],
+      "footAt": 4.6
+    }
+  ]
+}
