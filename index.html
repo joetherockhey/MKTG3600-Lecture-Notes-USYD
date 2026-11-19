@@ -165,7 +165,36 @@ main{max-width:var(--maxw);margin:0 auto;padding:0 24px 120px}
 .wk-video{margin:30px 0 0}
 .wk-video video{display:block;width:100%;aspect-ratio:16/9;border-radius:14px;background:var(--card);box-shadow:var(--shadow);border:1px solid var(--rule)}
 .wk-video figcaption{font-family:var(--mono);font-size:11.5px;letter-spacing:.08em;text-transform:uppercase;color:var(--ink-3);margin-top:10px}
-@media print{.wk-video{display:none !important}}
+@media print{.wk-video,.quiz{display:none !important}}
+/* end-of-week quiz */
+.quiz{margin:56px 0 8px;padding:26px 28px 24px;background:var(--card);border:1px solid var(--rule);border-radius:16px;box-shadow:var(--shadow)}
+.quiz h2{margin-top:0}
+.qz-top{display:flex;align-items:center;gap:14px;font-family:var(--mono);font-size:11px;letter-spacing:.1em;text-transform:uppercase;color:var(--ink-3);margin-bottom:18px}
+.qz-bar{flex:1;display:flex;gap:4px}
+.qz-bar i{flex:1;height:6px;border-radius:3px;background:var(--rule)}
+.qz-bar i.ok{background:var(--petrol)}.qz-bar i.half{background:var(--amber)}.qz-bar i.no{background:var(--ox)}.qz-bar i.now{background:var(--ink-3)}
+.qz-xp{color:var(--amber);font-weight:600}
+.qz-q{font-family:var(--display);font-size:21px;line-height:1.35;margin:0 0 16px;color:var(--ink)}
+.qz-opts{display:grid;gap:9px}
+.qz-opt{display:flex;gap:12px;align-items:flex-start;text-align:left;width:100%;padding:12px 14px;border:1.5px solid var(--rule);border-radius:10px;background:var(--paper);color:var(--ink);font:inherit;font-size:15.5px;line-height:1.45;cursor:pointer;transition:border-color .15s,background .15s}
+.qz-opt:hover:not(:disabled){border-color:var(--petrol)}
+.qz-opt kbd{flex:none;font-family:var(--mono);font-size:11px;width:22px;height:22px;display:grid;place-items:center;border:1px solid var(--rule);border-radius:5px;color:var(--ink-3);background:var(--card);margin-top:1px}
+.qz-opt.ok{border-color:var(--petrol);background:var(--petrol-tint)}
+.qz-opt.no{border-color:var(--ox);background:var(--ox-tint);opacity:.75}
+.qz-opt:disabled{cursor:default}
+.qz-fb{margin-top:16px;padding:14px 16px;border-radius:10px;font-size:15px;line-height:1.55}
+.qz-fb.ok{background:var(--petrol-tint);border-left:4px solid var(--petrol)}
+.qz-fb.no{background:var(--ox-tint);border-left:4px solid var(--ox)}
+.qz-fb.hint{background:var(--amber-tint);border-left:4px solid var(--amber)}
+.qz-fb b{display:block;margin-bottom:3px}
+.qz-fb a{color:var(--petrol)}
+.qz-act{display:flex;flex-wrap:wrap;gap:10px;align-items:center;margin-top:16px}
+.qz-act .go{background:var(--petrol);border-color:var(--petrol);color:var(--card)}
+.qz-act .go:hover{color:var(--card);opacity:.9}
+.qz-big{font-family:var(--display);font-size:44px;line-height:1;color:var(--ink);margin:4px 0 6px}
+.qz-miss{margin:14px 0 0;padding-left:20px;font-size:14.5px;color:var(--ink-2)}
+.qz-miss a{color:var(--petrol)}
+@media(max-width:600px){.quiz{padding:20px 16px 18px}.qz-q{font-size:19px}}
 nav.toc{position:sticky;top:78px}
 nav.toc .lbl{font-family:var(--mono);font-size:10px;letter-spacing:.16em;text-transform:uppercase;color:var(--ink-3);margin-bottom:12px;display:block}
 nav.toc a{display:block;font-size:13.5px;color:var(--ink-3);padding:5px 0 5px 12px;border-left:1.5px solid var(--rule);text-decoration:none;transition:color .15s,border-color .15s}
@@ -5057,6 +5086,205 @@ window.addEventListener('afterprint',()=>document.documentElement.removeAttribut
 document.getElementById('theme').addEventListener('click',()=>{
   const cur = document.documentElement.getAttribute('data-theme');
   document.documentElement.setAttribute('data-theme', cur==='dark' ? 'light' : 'dark');
+});
+
+/* ---------- end-of-week quiz (DataCamp style) ----------
+   Each question: [question, right answer, [wrong answers], hint, why, notes anchor]. */
+const QUIZ = {
+w2: [
+ ["A bank's app data shows customers abandoning a loan application halfway through. What does that data give you?", "What is happening, but not why. Qualitative research supplies the why.", ["The why, but not the size of the problem", "Both the what and the why, so no further research is needed", "Nothing useful, because behavioural data is unreliable"], "Think 'say is not do', and what a dashboard can't explain.", "Behavioural data (CRM, sales, dashboards) shows what happened. Qualitative research explains why, and the why decides what the business does.", "w2-3-1"],
+ ["Baristas working at speed couldn't report their packaging pain points. Which method surfaced them?", "Wearable body cameras, with the footage reviewed alongside them", ["A consumer jury", "Social listening", "A conflict encounter"], "Their needs were subconscious, so asking wouldn't work. You had to watch.", "Body-camera ethnography caught opening, storage, usage and disposal issues the baristas weren't aware of. Watching beats asking when needs are subconscious.", "w2-4"],
+ ["Fiftyfive5 puts Apple users and Samsung users in the same room on purpose. What is this for?", "Getting strong opinions and real values to surface instead of politeness", ["Reaching a single agreed verdict on an ad", "Recording behaviour in the moment on participants' phones", "Measuring which brand has more loyal customers"], "The method is called a conflict encounter.", "A conflict encounter puts people with opposing views together so they defend what they really value. A consumer jury is the one that delivers a verdict.", "w2-4"],
+ ["Which of these is NOT one of the three gaps generative AI can't close?", "It can't transcribe interviews quickly", ["Human and cultural understanding", "Analysing data that doesn't exist yet", "Reliable analysis on decisions worth millions"], "One option is something AI is actually good at.", "The three gaps are human and cultural understanding, data that doesn't exist yet, and unreliable LLM analysis on big decisions. Transcription is one of AI's strengths.", "w2-3"],
+ ["In the Ubersight trend model, where does the opportunity usually sit?", "In the tension, where forces pull against each other", ["In the macro trends", "In the cultural drivers", "In the micro trends, because they move fastest"], "It's the fourth and final layer.", "Ubersight layers cultural drivers, macro trends, micro trends and tension. The tension is usually where the opportunity is.", "w2-7-1"],
+ ["A client asks 'where should we play?' Which of research's three roles in growth is that?", "Identify growth strategies", ["Execute against them", "Evaluate performance", "Track the brand"], "Where to play comes before how to win.", "Research helps identify growth strategies (where to play), execute against them (how to win), and evaluate performance (metrics that matter).", "w2-2"]
+],
+w3: [
+ ["Complete Papps' definition: a brand is a collection of beliefs and perceptions that create...", "a positive predisposition at the point of choice", ["a logo and name customers recognise", "loyalty after the first purchase", "a premium price in the market"], "The work happens before purchase, in the customer's head.", "A brand lives in the customer's head and does its work before the purchase: a positive predisposition at the point of choice.", "w3-2-2"],
+ ["In Ipsos' study of 2,000 ads, which asset was used the least but gave the biggest return?", "Sonic cues", ["Logos", "Brand colours", "Taglines"], "This is the DBA paradox: the most-used assets work the least.", "Sonic cues appeared in 6% of ads but returned 8.5 times. Logos were in 94% and returned 1.4 times; colours 88% and 1.5 times.", "w3-4-2"],
+ ["About 95% of thinking is fast and unconscious. What does that mean for brand-building?", "Aim at System 1: make the brand an easy mental shortcut", ["Aim at System 2 with detailed product specs", "Split spend evenly between both systems", "Only advertise expensive, considered purchases"], "Brands are behavioural shortcuts.", "Brand-building should aim at System 1. Relevance, distinctiveness, consistency and availability make the brand the easy, automatic choice.", "w3-4-2"],
+ ["Tesla, Volkswagen and KFC UK illustrate the volatility moat. Which brand kept all three legs intact?", "KFC UK", ["Tesla", "Volkswagen", "None of them"], "Remember the 'FCK' bucket apology.", "Tesla broke all three legs, VW survived on equity alone, and KFC UK kept equity, reputation and crisis response, so it came out of the chicken shortage stronger.", "w3-4-5"],
+ ["AI agents now shortlist products for shoppers. Papps says a brand needs to be...", "Machine readable and human loveable", ["The cheapest option on every list", "Optimised only for paid search", "On every new platform first"], "One half is for the agent, one half is for the person.", "Agents must be able to find and parse the brand, and people must trust it enough to pick it by name. The Vranya M6 had the best specs but no trust.", "w3-5"],
+ ["A Louis Vuitton backpack costs 15.6 times a Maverick & Co one despite worse specs. Which reason brands matter does this show?", "Brands are economic engines: brands = margin = power", ["Brands are volatility moats", "Brands shape culture", "Brands are strategy in action"], "It's about what the brand lets you charge.", "A strong brand lets you charge more for a comparable or weaker product. That margin is the brand's power.", "w3-4"]
+],
+w4: [
+ ["About what share of buyers are in market at any one time?", "About 15%", ["About 50%", "About 85%", "About 40%"], "Picture the few hands up in the room.", "Only about 15% are in market. The other 85% need emotion and brand building, so the brand is remembered when they do come to buy.", "w4-3"],
+ ["What is Binet and Field's benchmark split between brand building and sales activation?", "60 brand / 40 activation", ["40 brand / 60 activation", "50 / 50", "20 brand / 80 activation"], "Telstra started at 20/80 and moved to 50/50 first.", "The benchmark is 60 long / 40 short. Telstra was at 20/80 and made a staged move to 50/50 first.", "w4-4"],
+ ["You take a mid-ad still, remove the logo and put it beside three competitors. Nobody can tell which is yours. Your ad is...", "A mirror, not a magnet", ["Consistent, which is the goal", "A strong distinctive asset", "Ready for activation spend"], "This is the mirror test.", "If nobody can tell the ads apart, you've held up a mirror. A magnet is distinctive enough to draw people in.", "w4-5"],
+ ["Why did Telstra choose handmade, crafted work over AI-generated content?", "Craft signals care, so people see the brand as premium and expect good service", ["It was cheaper than AI production", "AI tools couldn't make animation yet", "Regulators restricted AI in telco ads"], "Craft is a strategic choice, not an aesthetic one.", "Handmade work signals care, so people read the brand as premium, expect good service and accept paying more. It's an explicit position against AI slop.", "w4-8-1"],
+ ["The whistling ad was hated at launch. What did Telstra do?", "Held its nerve, then amplified the public's Telstra walk without taking it over", ["Pulled the ad and apologised", "Swapped it for a price promotion", "Bought more media to drown out the critics"], "Being noticed beats being liked.", "Telstra held through the backlash. The public invented the Telstra walk (30 million organic TikTok views) and Telstra amplified it, crediting the creators.", "w4-7"],
+ ["How did Telstra prove to the business that brand building paid off?", "Marketing mix modelling against new connection revenue: ROI rose from 6.10 to 10.40", ["Counting likes and shares on the whistling ad", "Tracking last-click conversions from search", "Counting awards won at Cannes"], "The proof has to be commercial, not creative.", "MMM isolated what marketing drove. ROI rose from 6.10 to 10.40 over four years on lower spend, and performance marketing converted better because the brand was stronger.", "w4-9"]
+],
+w5: [
+ ["Which of these is KitKat's product truth?", "The bar is made to be broken", ["Breaks are good", "Everyone needs a break", "Chocolate is an affordable treat"], "The three truths are brand belief, audience truth and product truth.", "Brand belief: breaks are good. Audience truth: everyone needs a break. Product truth: the bar is made to be broken. All three say the same thing.", "w5-3"],
+ ["Who is the most dangerous person in marketing?", "The bored brand manager", ["The brand manager with no ambition", "The cost-cutting CFO", "The agency creative director"], "They change things that didn't need changing.", "The bored brand manager changes things without a strategy. Second most dangerous: the brand manager with no ambition, who protects the assets but does nothing with them.", "w5-4"],
+ ["A brand asset is both very famous and very unique. On the fame vs uniqueness grid it is...", "Use or lose", ["Invest potential", "Avoid solo use", "Ignore"], "If you stop using it, what happens?", "High fame and high uniqueness is 'use or lose'. High uniqueness with low fame is 'avoid solo use'; high fame with low uniqueness is 'invest potential'.", "w5-5"],
+ ["Gen Z say they need a break but can't switch off. What should KitKat change?", "How it expresses the break (the emotional break), while the meaning stays the same", ["The tagline, since 'Have a break' is 90 years old", "The product, to suit a new need", "Nothing: sameness is the goal"], "Consistency, not sameness.", "The need stays the same but the tension evolves. KitKat keeps the meaning and updates the expression to target the emotional break.", "w5-4-1"],
+ ["Arnott's reformulated Shapes and Black Cats were discontinued, and both caused outrage. What's the rule for heritage brands?", "They don't have to taste better, they have to taste the same", ["Always announce changes well in advance", "Only reformulate for health reasons", "Change the pack, never the name"], "Taking away what people already like...", "Heritage brands are loved for what they already are. 'Improving' them takes away what people liked.", "w5-11-1"],
+ ["On Heinz's stretch map, vodka is an example of...", "An exception that worked only because of the vodka pasta moment", ["A near adjacency", "A credible stretch", "A no-go that failed"], "Soup is near adjacency; pasta sauce is a credible stretch.", "The bands are core, near adjacency, credible stretch, exception and no-go. Vodka was an exception that rode a cultural moment.", "w5-13-1"]
+],
+w6: [
+ ["When UNICEF was top of mind, donation intent was 19%. For people aware only when prompted, it was...", "7%", ["17%", "29%", "2%"], "Top of mind nearly triples it.", "19% vs 7%: being top of mind nearly triples donation intent, which is the case for building mental availability.", "w6-4-1"],
+ ["Is brand building for a charity different from brand building for a for-profit?", "No: the constraints differ, but the principles don't", ["Yes: charities should rely on emotion alone", "Yes: charities can't use brand tracking", "No: charities should spend 95% on conversion"], "This was Hogson's opening premise.", "The constraints are different, the principles are not. UNICEF used positioning, consistency, earned media and measurement like any brand.", "w6-1"],
+ ["What does consistency really mean, according to Hogson?", "One message said again and again, until you're sick of it and the public remembers it", ["Using the same logo and colours on every asset", "Never changing the campaign creative", "Posting on every channel every day"], "It's about the place you hold in people's minds.", "Consistency isn't just how you look. It's a single piece of information repeated until the public remembers it.", "w6-7"],
+ ["Which is UNICEF's measurement chain, in order?", "Ad awareness + share of voice → unprompted awareness → donation intent → market share", ["Donation intent → ad awareness → market share → unprompted awareness", "Market share → share of voice → donation intent → ad awareness", "Unprompted awareness → market share → ad awareness → donation intent"], "Start with what the advertising itself moves.", "Ad awareness and share of voice drive unprompted awareness, which drives donation intent, which drives market share. Top of mind tracks revenue growth.", "w6-10-1"],
+ ["With a small paid budget, how did UNICEF lift its broadcast share of voice from 20% to 55%?", "Earned media: ambassadors matched to the moment and timely contributions to the news cycle", ["Buying more TV spots", "Influencer product gifting", "Moving awareness money into conversion"], "Earned media isn't separate from marketing.", "The right people with the right content at the right moment in the news cycle. News mentions rose 270%, and 21% learnt about UNICEF from the news.", "w6-8"],
+ ["Why did UNICEF move from 'Always there' to 'Let's be there' instead of launching a new platform?", "Evolution, not revolution: refresh a tiring platform, keep its equity, and sound more inclusive and hopeful", ["The old line tested badly from the start", "A new CEO wanted a fresh brand", "Legal rules required a new tagline"], "There's no such thing as a tired brand, just a bored brand manager.", "Ad diagnostics found fatigue. Evolving the platform kept the equity and made it inclusive, active and more hopeful for crisis-fatigued audiences. It tested significantly stronger.", "w6-11-1"]
+],
+w7: [
+ ["Which of these is NOT one of Tim Collier's 5Cs?", "Competitors", ["Culture", "Connections", "Category"], "His 5Cs differ from the textbook version.", "The 5Cs are Company, Culture, Category, Connections (the medium) and Consumer. Competitors sit inside Category.", "w7-9"],
+ ["In a GET / WHO / TO / BY brief, what goes in the BY slot?", "The proposition offered", ["The target audience", "The problem they face", "The perception or behaviour to change"], "Get who, who are facing what, to do what, by...?", "Get: the audience. Who: their problem. To: the perception or behaviour to affect. By: the proposition.", "w7-11-1"],
+ ["Which is the best single-minded proposition for a chocolate brand?", "What the richest chocolate tastes like, and this is ours", ["Our chocolate is the richest", "Rich, smooth and now 20% cheaper", "Chocolate for every occasion"], "An SMP is an invitation, not a claim.", "'Our chocolate is the richest' is a claim. The SMP invites people into the experience, and it must be one thing only.", "w7-12"],
+ ["Who decides where, when and in what order the work is seen?", "The comms planner", ["The brand planner", "The media planner", "The account manager"], "There are three flavours of planner.", "Brand planner: what's said and why. Comms planner: where, when and in what order. Media planner: who sees it and how.", "w7-4"],
+ ["What is the first question of the planning cycle?", "Where are we?", ["Where could we be?", "How could we get there?", "Why are we there?"], "You start from the current position.", "Where are we? Why are we there? Where could we be? How could we get there? (King adds: are we getting there?) Then the cycle starts again.", "w7-14"],
+ ["A strategist sits between client and creative. Who do they represent?", "The audience", ["The client's finance team", "The media owners", "The creative director"], "Client: what problem? Strategy: how does it affect...?", "The strategist bridges the business problem and the creative idea by representing the audience.", "w7-2"]
+],
+w8: [
+ ["As presented in the lecture, Kahneman found that about what share of purchases are intuitive?", "About 95%", ["About 50%", "About 70%", "About 15%"], "We buy first, then post-rationalise.", "Around 95% of purchases are intuitive, so advertising should lean emotional. Rational ads mostly help people justify a choice afterwards.", "w8-5"],
+ ["What is the reach and frequency target?", "About 65% of the audience, at least three times", ["100% of the audience, once", "About 30% of the audience, ten times", "About 65% of the audience, once"], "The '3+' matters.", "The message needs to reach about 65% of the audience at least three times.", "w8-11"],
+ ["Which is the most important of the four brand drivers?", "Differentiation", ["Relevance", "Esteem", "Knowledge"], "It places a single-minded proposition in the customer's mind.", "Differentiation comes first, ahead of relevance, esteem and knowledge. It makes the brand stand out and drives margin.", "w8-14"],
+ ["What is the four-step process behind every ad?", "Strategy, idea, make it, place it", ["Brief, pitch, shoot, report", "Idea, strategy, place it, make it", "Research, budget, launch, optimise"], "The message comes before the creativity.", "Strategy decides the message, the idea makes it creative, 'make it' is production, and 'place it' is the media. Each step has its own agency workforce.", "w8-8"],
+ ["Why did John Lewis's Monty the Penguin work?", "It swapped same-looking Christmas ads for an emotional story", ["It led with the season's biggest discounts", "It showed every product in the range", "It used a celebrity endorsement"], "Effective ads are famous and emotional.", "Emotion broke from the sea of same-looking Christmas ads: £132m extra sales, £33m extra profit, an 8:1 ROI.", "w8-14"],
+ ["What was Kraft Easy Mac's single message?", "Fills them up, fast to make", ["The cheesiest mac in Australia", "Healthy, wholesome comfort food", "Made with real cheese and love"], "Hungry teenage boys and the mums who buy for them.", "One message for buyers and influencers: fills them up, fast to make. The reason to believe: it's pasta in the microwave.", "w8-12"],
+ ["How many words should the best billboards use?", "Six or fewer", ["About 15", "About 25", "As many as the brief needs"], "Drivers see a billboard for about two seconds.", "You have 15 words or fewer, and the best billboards use six or fewer.", "w8-9"]
+],
+w9: [
+ ["Lateral thinking, as opposed to vertical thinking, means...", "Changing the pieces (the assumption) rather than playing with them", ["Going logically from point A to point B", "Brainstorming with no constraints at all", "Copying what works in another category"], "De Bono's idea.", "Vertical thinking moves step by step with the pieces you have. Lateral thinking changes the assumption, so the problem is redefined and a different solution opens up.", "w9-2"],
+ ["Willenberg's structure is: the brief, the expected response, ____, the solution.", "The real problem", ["The media plan", "The budget", "The big idea"], "It's often buried beneath what the client tells you.", "Creativity is fancy problem solving, so step one is making sure you solve the real problem.", "w9-3"],
+ ["Rexona wanted to own sport, but sponsorship was cluttered and expensive. What was the lesson?", "Creativity thrives on constraint: if you can't buy media, earn it", ["Outbid rivals for the biggest sponsorship", "Move all spend into search", "Wait until media costs fall"], "Think Pitvertising.", "With little budget, Rexona earned attention instead of buying it. Constraint forced the creative answer.", "w9-4"],
+ ["Why were Extra gum's sales falling?", "Shoppers were on their phones at checkout and no longer noticed gum", ["Its price rose above competitors", "Gum was moved out of supermarkets", "Health trends turned people off sugar"], "Where does gum get bought?", "The fix was the Bad Breath Index: a new idea in a familiar context (the checkout scanner) disrupted entrenched behaviour.", "w9-4"],
+ ["Kia's hybrid had nothing different to say. What did it do?", "Said nothing in the most interesting way possible", ["Invented a new technical claim", "Cut the price", "Copied a competitor's ad"], "Lean into the uncomfortable truth.", "Kia leaned into the truth, with the solution in its pocket: 'a new breed of hybrid'.", "w9-4"],
+ ["According to Willenberg, an idea is...", "A new combination of existing things", ["A flash of inspiration from nowhere", "Whatever the client asks for", "The first thing that comes to mind"], "Gum + a scanner. A logo + an armpit.", "Ideas come from connecting existing things, after you've gathered insights and worked through the bad ideas.", "w9-7"],
+ ["How should AI be used in creative work, according to Willenberg?", "As an antagonist, not an assistant", ["As the source of the final idea", "Not at all", "Only for production"], "It speed-runs the process but gives similar ideas on its own.", "AI has no ego and never gets tired, so use it to push back on your thinking. On its own it gives similar, cheap ideas.", "w9-9"]
+],
+w10: [
+ ["CBA uses finance experts as its influencers. Which brand eye level is this?", "Leadership", ["Eye to eye", "Subservient", "Aspirational"], "'They know more than me.'", "Leadership brands use experts. Eye to eye uses relatable 'just like you' creators. Subservient says 'we've done the research for you'.", "w10-6-1"],
+ ["An influencer posts about free product without disclosing it. Who is liable?", "The brand", ["The influencer only", "The platform", "Nobody, because no money changed hands"], "Free product counts as payment.", "The brand carries the legal risk. Gifted product is paid advertising and must be disclosed (#ad, #partnership).", "w10-8-1"],
+ ["In the Coles cookware example, which content earned overwhelmingly positive sentiment?", "Influencer recipe content showing the product in real life", ["Brand-led instructional content", "Paid banner ads", "Celebrity unboxing videos"], "Value is different in this channel.", "Product shown in life beat strict brand instructions, which earned neutral sentiment at best, and did it at a lower cost.", "w10-4-1"],
+ ["A brand has plenty of views and likes but isn't growing. What should it measure instead?", "Mental availability, share of voice, brand perception and behaviour change", ["Engagement rate and CPM", "Follower count", "Clicks alone"], "Views and engagement explain attention, not...", "Industry measures explain attention. Growth comes from visibility, mental availability, share of voice, brand perception and behaviour change.", "w10-10-1"],
+ ["What does 'algorithmic trust' mean?", "What people say about a brand shapes search and AI answers more than what the brand says", ["Platforms reward brands that post the most", "Paid posts get boosted by the algorithm", "Users trust algorithms more than people"], "Google and AI models now learn from creator content.", "Creator content drives organic search and LLM 'share of model', so what others say about you matters most.", "w10-6"],
+ ["Why did Kmart's use of Carrie Bickmore and Fifi Box fall flat?", "Audiences didn't believe those two shop at Kmart", ["They had too few followers", "They didn't disclose the ads", "The videos were too short"], "They looked good on paper.", "Talent must fit the brand. A credible voice matters more than reach.", "w10-9"]
+],
+w11: [
+ ["Which is Ali Coysh's logic flow for media decisions?", "Journey stage → bond or barrier → media role → channel → platform → environment", ["Channel → platform → journey stage → media role → barrier → environment", "Media role → environment → journey stage → barrier → channel → platform", "Barrier → channel → journey stage → environment → platform → media role"], "Start with the customer and end with the exact place the ad appears.", "Each step narrows the decision, from the customer's problem down to the exact media environment.", "w11-4-1"],
+ ["NRMA was an outsider in Queensland. What did it do?", "Built local credibility through an editorial partnership with the Courier Mail on the Bruce Highway", ["Reignited love through a Nitro Circus partnership", "Sponsored MasterChef", "Ran national price-led TV ads"], "The barrier was 'not one of us'.", "'Help our highway' gave NRMA its highest non-customer consideration in six years and a $467m government commitment. Print felt real and lasting.", "w11-4-2"],
+ ["Crown wasn't seen as a dining destination. What was the media choice?", "TV sponsorship of cooking programming in the MasterChef ecosystem", ["An editorial partnership with the Courier Mail", "A Nitro Circus event partnership", "Search ads for 'restaurants near me'"], "Match the media environment to the barrier.", "Barrier: not a dining destination. Role: re-establish fine-dining credentials. Environment: the MasterChef ecosystem.", "w11-4-2"],
+ ["Media used to plan, buy and report on paid media. What does it do now?", "Orchestrates customer experiences across owned, earned, shared and paid", ["Only buys programmatic display", "Hands strategy over to creative agencies", "Reports on paid media more often"], "There are four kinds of connection.", "Channel proliferation, specialisms, budget pressure and data pushed media from buying space to orchestrating experiences.", "w11-2"],
+ ["What is the industry's 'false economy', according to Geoff Clarke?", "Clients pay for agency IP, but most agency time goes on manual downstream work", ["Agencies charge less than their costs", "AI has made strategy more expensive", "Clients cut media budgets to fund creative"], "Upstream is 30% of the work, downstream is 70%.", "Upstream strategy is now largely AI-driven, but downstream execution (bookings, reconciliation) is still manual. Clients get less value and people are demotivated.", "w11-7"],
+ ["Which type of bot runs tasks at an agreed time with no human input?", "Schedule bot", ["Trigger bot", "Automatic bot", "Audit bot"], "There are three types: trigger, automatic and...", "Trigger bots start when something comes in, automatic bots act once a trigger bot finishes, and schedule bots run at set times.", "w11-9"]
+],
+w12: [
+ ["Last-touch attribution is like...", "The group member who hits submit getting the whole mark", ["Splitting the mark evenly across the group", "The tutor marking only the introduction", "Everyone getting a mark for attending"], "The final click gets 100% of the credit.", "Last touch credits the final click, so budgets drift to the bottom of the funnel and awareness looks like it does nothing.", "w12-4"],
+ ["Which analogy describes adstock?", "A song stuck in your head", ["A café on a busy corner", "The fifth slice of pizza", "A flight simulator"], "Ads keep working after they stop running.", "Song stuck in your head = adstock. Café = baseline. Pizza = diminishing returns. Flight simulator = test, don't assume.", "w12-7"],
+ ["What are sales that would happen with zero advertising called?", "The baseline", ["Adstock", "The saturation point", "The posterior"], "Walk-ins at a café on a busy corner.", "The model only credits marketing for the sales on top of the baseline.", "w12-7"],
+ ["Your budget is being cut. What does the 83-brand data say you should do?", "Don't add channels: concentrate and stay consistent", ["Spread the budget across more channels", "Go off air until budgets recover", "Move everything into search"], "More channels plus a budget cut was the worst combination short of a big cut.", "More channels with a budget cut gave -6.8%; a 20%+ cut gave -8.1%. If you can't add budget, don't add channels.", "w12-8-1"],
+ ["What does a Bayesian MMM give you that click tracking can't?", "The most likely effect and how sure we are, without tracking individuals", ["Exactly which click caused each sale", "Individual customer profiles", "Real-time bid prices"], "Probabilistic, not deterministic.", "Prior plus evidence gives a posterior. It looks less precise, but it's more honest and privacy-safe.", "w12-6-2"],
+ ["Why has following individual users broken down?", "Privacy changes: Safari limits, GDPR and Apple's app tracking prompt", ["Users stopped clicking ads", "Search engines banned cookies in 2010", "Brands chose to stop measuring"], "Meta estimated one change cost it $10B in a year.", "Safari's tracking limits (2017), GDPR (2018) and Apple's app tracking pop-up (2021) made individual tracking unreliable, so MMM reads the whole market instead.", "w12-5"]
+],
+w13: [
+ ["How is the exam structured?", "5 questions, 6 marks each, 30 marks in total", ["10 questions, 3 marks each", "3 questions, 10 marks each", "6 questions, 5 marks each"], "Short essay or scenario questions.", "Five short essay or scenario questions worth six marks each. Some have parts (a) and (b), and you must answer every part.", "w13-1"],
+ ["About how long should each answer be?", "About 300 to 400 words, around 500 at most", ["About 100 words", "About 1,000 words", "At least 750 words"], "There's no formal minimum.", "Roughly 300 to 400 words depending on the depth needed, about 500 at most.", "w13-1"],
+ ["Which of these is NOT tested?", "Speakers' personal careers and company backgrounds", ["Models a speaker named", "Applying a concept to a new brand", "Basic marketing principles from earlier units"], "Context about a company will mostly be given to you.", "Concepts, models and their application are tested, and earlier basics are assumed. Careers, company intros and exact dates are not tested.", "w13-2"],
+ ["You're asked whether Vodafone could copy Telstra's handmade creative style. You should...", "Give your own justified view and adapt the concept to Vodafone", ["Repeat Telstra's reasons word for word", "Say no, because each lecture stands alone", "Describe Vodafone's company history"], "'Why did Telstra' and 'could another brand' are different questions.", "For 'why did X', use the speaker's reasons. For 'could Y do it', give a reasoned judgement and apply the concept to Y.", "w13-4"],
+ ["What must be installed on your laptop before exam day?", "Respondus lockdown software", ["Microsoft Word", "A VPN", "The Canvas app"], "It locks the laptop down during the exam.", "Install and test Respondus, do the practice test, and bring your phone for the passcode.", "w13-1"],
+ ["What should your revision mainly focus on?", "Each guest lecture's concepts and models, and how the speaker applied them", ["Your group report and presentation", "Speakers' career histories", "Memorising exact dates"], "One lecture per question.", "Each speaker's questions come from their own lecture, so learn every model and how it was applied.", "w13-5"]
+]
+};
+
+Object.keys(QUIZ).forEach(w=>{
+  const art = document.getElementById('art-'+w);
+  if(!art) return;
+  const box = document.createElement('section');
+  box.className = 'quiz noprint';
+  box.innerHTML = '<h2 id="'+w+'-quiz">Check your understanding</h2><div class="qz-body"></div>';
+  art.appendChild(box);
+  const body = box.querySelector('.qz-body'), qs = QUIZ[w], MAX = 10, COST = 3;
+  let st = null;   // {i, xp, res:[], order, wrong, hint, done}
+  const best = () => store.get('quiz:'+w, null);
+  const link = a => a ? ' <a href="#'+a+'" data-jump="'+a+'">Read it in the notes &rarr;</a>' : '';
+
+  function intro(){
+    const b = best();
+    body.innerHTML = '<p style="margin:0 0 4px;color:var(--ink-2)">Optional. '+qs.length+' quick questions on this lecture, about 3 minutes. Each one is worth '+MAX+' XP; a hint or a wrong guess costs '+COST+'.</p>'
+      + (b ? '<p style="margin:6px 0 0;font-family:var(--mono);font-size:12px;color:var(--ink-3)">Your best: '+b.xp+' / '+qs.length*MAX+' XP</p>' : '')
+      + '<div class="qz-act"><button class="tilebtn go" data-act="start" type="button">'+(b?'Try again':'Start the quiz')+'</button></div>';
+  }
+  function start(){
+    st = {i:0, xp:0, res:[]};
+    load();
+  }
+  function load(){
+    const q = qs[st.i];
+    st.order = shuffle([q[1], ...q[2]]); st.wrong = []; st.hint = false; st.done = false;
+    draw();
+    const f = body.querySelector('.qz-opt'); if(f) f.focus({preventScroll:true});
+  }
+  function gain(){ return Math.max(0, MAX - COST*(st.wrong.length + (st.hint?1:0))); }
+  function draw(){
+    const q = qs[st.i];
+    const bar = qs.map((_,k)=>'<i class="'+(k<st.i ? st.res[k] : k===st.i ? 'now' : '')+'"></i>').join('');
+    let fb = '';
+    if(st.done){
+      const got = st.res[st.i] !== 'no';
+      fb = '<div class="qz-fb '+(got?'ok':'no')+'"><b>'+(got ? 'Correct! +'+gain()+' XP' : 'The answer was: '+hx(q[1]))+'</b>'+hx(q[4])+link(q[5])+'</div>';
+    } else if(st.wrong.length){
+      fb = '<div class="qz-fb no"><b>Not quite. Try again.</b>'+(st.hint ? hx(q[3]) : '')+'</div>';
+    } else if(st.hint){
+      fb = '<div class="qz-fb hint"><b>Hint</b>'+hx(q[3])+'</div>';
+    }
+    body.innerHTML = '<div class="qz-top"><span>Question '+(st.i+1)+' of '+qs.length+'</span><span class="qz-bar">'+bar+'</span><span class="qz-xp">'+st.xp+' XP</span></div>'
+      + '<p class="qz-q">'+hx(q[0])+'</p><div class="qz-opts">'
+      + st.order.map((o,k)=>{
+          const cls = st.wrong.includes(o) ? ' no' : (st.done && o===q[1]) ? ' ok' : '';
+          return '<button class="qz-opt'+cls+'" type="button" data-opt="'+k+'"'+(st.done||cls?' disabled':'')+'><kbd>'+(k+1)+'</kbd><span>'+hx(o)+'</span></button>';
+        }).join('') + '</div>' + fb
+      + '<div class="qz-act">'
+      + (st.done ? '<button class="tilebtn go" data-act="next" type="button">'+(st.i+1<qs.length?'Continue &rarr;':'See my score')+'</button>'
+                 : (!st.hint ? '<button class="tilebtn" data-act="hint" type="button">Take hint (&minus;'+COST+' XP)</button>' : ''))
+      + '</div>';
+  }
+  function pick(k){
+    if(!st || st.done) return;
+    const q = qs[st.i], o = st.order[k];
+    if(o === undefined || st.wrong.includes(o)) return;
+    if(o === q[1]){
+      st.done = true; st.xp += gain();
+      st.res[st.i] = (st.wrong.length || st.hint) ? 'half' : 'ok';
+    } else {
+      st.wrong.push(o);
+      if(st.wrong.length >= 2){ st.done = true; st.res[st.i] = 'no'; }
+    }
+    draw();
+    const n = body.querySelector('[data-act="next"]') || body.querySelector('.qz-opt:not(:disabled)');
+    if(n) n.focus({preventScroll:true});
+  }
+  function finish(){
+    const total = qs.length*MAX, b = best();
+    if(!b || st.xp > b.xp) store.set('quiz:'+w, {xp:st.xp});
+    const first = st.res.filter(r=>r==='ok').length;
+    const miss = qs.map((q,k)=>st.res[k]!=='ok' ? '<li>'+hx(q[0])+link(q[5])+'</li>' : '').join('');
+    const msg = st.xp >= total*0.85 ? 'Excellent. You know this lecture.' : st.xp >= total*0.6 ? 'Solid. Skim the ones below and you&#8217;re set.' : 'Worth another read. Start with the ones below.';
+    body.innerHTML = '<div class="qz-top"><span>Done</span><span class="qz-bar">'+st.res.map(r=>'<i class="'+r+'"></i>').join('')+'</span></div>'
+      + '<div class="qz-big">'+st.xp+' <span style="font-size:22px;color:var(--ink-3)">/ '+total+' XP</span></div>'
+      + '<p style="margin:0;color:var(--ink-2)">'+first+' of '+qs.length+' right first time. '+msg+'</p>'
+      + (miss ? '<ul class="qz-miss">'+miss+'</ul>' : '')
+      + '<div class="qz-act"><button class="tilebtn go" data-act="start" type="button">Try again</button></div>';
+    st = null;
+  }
+  box.addEventListener('click',e=>{
+    const j = e.target.closest('[data-jump]');
+    if(j){ e.preventDefault(); const t = document.getElementById(j.dataset.jump); if(t) t.scrollIntoView({block:'start'}); return; }
+    const o = e.target.closest('[data-opt]'); if(o){ pick(+o.dataset.opt); return; }
+    const a = e.target.closest('[data-act]'); if(!a) return;
+    if(a.dataset.act==='start') start();
+    else if(a.dataset.act==='hint'){ st.hint = true; draw(); }
+    else if(a.dataset.act==='next'){ if(++st.i < qs.length) load(); else finish(); }
+  });
+  box.addEventListener('keydown',e=>{
+    if(!st || e.altKey || e.ctrlKey || e.metaKey) return;
+    if(/^[1-4]$/.test(e.key)){ e.preventDefault(); pick(+e.key-1); }
+  });
+  intro();
 });
 
 /* ---------- reading progress ---------- */
