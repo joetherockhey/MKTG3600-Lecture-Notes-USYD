@@ -76,7 +76,7 @@ def main():
         # 1280x720 keeps each 3-minute file small enough for GitHub Pages; ANGLE = GPU WebGL
         raw = ROOT / "out" / f"{wid}.raw.mp4"
         subprocess.run(["npx", "remotion", "render", "src/index.ts", wid, str(raw), "--codec=h264", "--crf=24",
-                        "--gl=angle", "--concurrency=4", "--log=error"], cwd=ROOT, check=True, shell=True)
+                        "--gl=angle", "--concurrency=2", "--log=error"], cwd=ROOT, check=True, shell=True)
         compress(raw, mp4)
         poster_at = max(1.0, week["beats"][0]["seconds"] - 0.6)
         subprocess.run(["ffmpeg", "-v", "error", "-y", "-ss", f"{poster_at:.2f}", "-i", str(mp4),
