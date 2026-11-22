@@ -1,0 +1,1396 @@
+{
+ "week": 5,
+ "title": "Managing the evolution of brands",
+ "speaker": "Shannon Wright",
+ "beats": [
+  {
+   "set": "stage",
+   "say": "Week five. Managing the evolution of brands, with Shannon Wright, Head of Marketing for Confectionery at Nestlé Oceania. She leads KitKat and Allen's.",
+   "board": {
+    "photo": "photos/w5.png",
+    "title": "Managing the **evolution** of brands",
+    "name": "Shannon Wright",
+    "org": "Head of Marketing, Confectionery, Nestlé Oceania"
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present",
+     "expr": "smile"
+    },
+    {
+     "id": "a",
+     "look": "student",
+     "v": 1,
+     "at": "aisle"
+    },
+    {
+     "id": "b",
+     "look": "student",
+     "v": 4,
+     "at": "aisle2"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "leads",
+     "pose": "point"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "Shannon",
+     "shot": "board"
+    },
+    {
+     "cue": "leads",
+     "shot": "host"
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "First, career advice. Be interested in the unfamiliar, know what matters to you, stay curious, and be a good person. The industry is small.",
+   "board": {
+    "title": "Four pieces of **advice**",
+    "steps": [
+     {
+      "text": "**Unfamiliar** be deeply interested",
+      "cue": "unfamiliar"
+     },
+     {
+      "text": "**Values** know what matters",
+      "cue": "matters"
+     },
+     {
+      "text": "**Curiosity** and tenacity",
+      "cue": "curious"
+     },
+     {
+      "text": "**Good person** people talk",
+      "cue": "good"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "g",
+     "look": "student",
+     "v": 3,
+     "at": "r",
+     "hold": "laptop",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "curious",
+     "pose": "up",
+     "expr": "grin"
+    },
+    {
+     "who": "g",
+     "cue": "good",
+     "expr": "smile"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "bulb",
+     "who": "g",
+     "cue": "curious"
+    },
+    {
+     "kind": "heart",
+     "who": "host",
+     "cue": "good"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "curious",
+     "shot": "two",
+     "who": "g"
+    },
+    {
+     "cue": "industry",
+     "shot": "close"
+    }
+   ]
+  },
+  {
+   "set": "stage",
+   "say": "Two brands, opposite problems. KitKat takes the consistency path. Allen's must define its long-term path as trends shift underneath it.",
+   "board": {
+    "title": "Two brands, **two paths**",
+    "vs": {
+     "left": "KitKat",
+     "right": "Allen's",
+     "leftItems": [
+      "Consistency, not sameness",
+      "Stay culturally relevant"
+     ],
+     "rightItems": [
+      "Define the long-term path",
+      "Macro trends shifting"
+     ],
+     "cue": "KitKat"
+    }
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "point"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "Allen",
+     "pose": "shrug",
+     "expr": "nervous"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "trends",
+     "shot": "host"
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "KitKat stands for a break. It was made for workers on their break, and the bar takes two hands to snap, so you stop.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "c",
+     "pose": "present"
+    },
+    {
+     "id": "w",
+     "look": "worker",
+     "v": 2,
+     "at": "l",
+     "expr": "dazed"
+    },
+    {
+     "id": "w2",
+     "look": "worker",
+     "v": 5,
+     "at": "walkR",
+     "to": "r",
+     "walkCue": "workers",
+     "hold": "box",
+     "holdCol": "#c8102e",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "w",
+     "cue": "snap",
+     "expr": "relief_open",
+     "pose": "cheer"
+    },
+    {
+     "who": "w2",
+     "cue": "stop",
+     "expr": "smile"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "zzz",
+     "who": "w",
+     "cue": "workers"
+    },
+    {
+     "kind": "burst",
+     "who": "w2",
+     "cue": "snap"
+    },
+    {
+     "kind": "think",
+     "who": "w",
+     "text": "Break time!",
+     "cue": "stop"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "workers",
+     "shot": "actor",
+     "who": "w2"
+    },
+    {
+     "cue": "snap",
+     "shot": "close",
+     "who": "w"
+    }
+   ]
+  },
+  {
+   "set": "stage",
+   "say": "Three truths line up. Brand belief: breaks are good. Audience truth: everyone needs one. Product truth: it's made to be broken.",
+   "board": {
+    "title": "Three truths, **one idea**",
+    "steps": [
+     {
+      "text": "**Brand belief** breaks are good",
+      "cue": "brand belief"
+     },
+     {
+      "text": "**Audience truth** everyone needs one",
+      "cue": "audience"
+     },
+     {
+      "text": "**Product truth** made to be broken",
+      "cue": "product"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "a",
+     "look": "student",
+     "v": 6,
+     "at": "aisle"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "broken",
+     "pose": "cheer",
+     "expr": "grin"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "tick",
+     "who": "host",
+     "cue": "broken"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "broken",
+     "shot": "close"
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "The most dangerous person in marketing is the bored brand manager, who changes things that didn't need changing. Have a strategy.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "l",
+     "pose": "hips"
+    },
+    {
+     "id": "bm",
+     "look": "exec",
+     "v": 3,
+     "at": "walkR",
+     "to": "c",
+     "walkCue": "bored",
+     "expr": "grin",
+     "hold": "clipboard",
+     "pose": "hold"
+    },
+    {
+     "id": "boss",
+     "look": "exec_f",
+     "v": 1,
+     "at": "table"
+    }
+   ],
+   "acts": [
+    {
+     "who": "bm",
+     "cue": "changes",
+     "pose": "cheer",
+     "expr": "laugh"
+    },
+    {
+     "who": "boss",
+     "cue": "changing",
+     "expr": "shock"
+    },
+    {
+     "who": "host",
+     "cue": "strategy",
+     "pose": "point",
+     "expr": "stern"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "zzz",
+     "who": "bm",
+     "cue": "bored"
+    },
+    {
+     "kind": "burst",
+     "who": "bm",
+     "cue": "changes"
+    },
+    {
+     "kind": "say",
+     "who": "host",
+     "text": "Have a strategy.",
+     "cue": "strategy"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "bored",
+     "shot": "actor",
+     "who": "bm"
+    },
+    {
+     "cue": "changing",
+     "shot": "close",
+     "who": "boss"
+    },
+    {
+     "cue": "strategy",
+     "shot": "close"
+    }
+   ]
+  },
+  {
+   "set": "stage",
+   "say": "Consistency is a superpower. The need hasn't changed, but the tension has. Sixty three percent of Gen Z need a break, yet sixty four percent can't switch off.",
+   "board": {
+    "title": "Gen Z and the **broken break**",
+    "bars": [
+     {
+      "label": "Say they need a break",
+      "value": 63,
+      "display": "63%",
+      "cue": "sixty three"
+     },
+     {
+      "label": "Can't switch off",
+      "value": 64,
+      "display": "64%",
+      "cue": "sixty four"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "up",
+     "expr": "grin"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "tension",
+     "pose": "chin",
+     "expr": "neutral"
+    },
+    {
+     "who": "host",
+     "cue": "switch",
+     "pose": "shrug",
+     "expr": "nervous"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "stars",
+     "who": "host",
+     "cue": "superpower"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "host"
+    },
+    {
+     "cue": "sixty",
+     "shot": "board"
+    }
+   ]
+  },
+  {
+   "set": "home",
+   "say": "They sit down, doom scroll, and their minds stay busy. So KitKat's job now is the emotional break, not just the physical one.",
+   "board": {
+    "title": "The **right to disconnect**",
+    "lines": [
+     {
+      "text": "Doom-scrolling breaks the break",
+      "cue": "doom"
+     },
+     {
+      "text": "Give an **emotional** break",
+      "cue": "emotional"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "l",
+     "pose": "chin"
+    },
+    {
+     "id": "z",
+     "look": "student",
+     "v": 2,
+     "at": "sofa",
+     "mode": "sit",
+     "hold": "phone",
+     "pose": "hold",
+     "expr": "dazed"
+    }
+   ],
+   "acts": [
+    {
+     "who": "z",
+     "cue": "busy",
+     "expr": "pained"
+    },
+    {
+     "who": "host",
+     "cue": "emotional",
+     "pose": "present",
+     "expr": "smile"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "think",
+     "who": "z",
+     "text": "Just one more...",
+     "cue": "doom"
+    },
+    {
+     "kind": "brain",
+     "who": "z",
+     "cue": "busy"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "doom",
+     "shot": "actor",
+     "who": "z"
+    },
+    {
+     "cue": "emotional",
+     "shot": "board"
+    }
+   ]
+  },
+  {
+   "set": "street",
+   "say": "Distinctive brand assets shortcut people to you: the bar, the red, the snap. Use them or lose them. Even Have a, unfinished, works, because your brain closes the gap.",
+   "board": {
+    "title": "Have a...",
+    "lines": [
+     {
+      "text": "The **bar** and the **snap**",
+      "cue": "bar"
+     },
+     {
+      "text": "The logo and the **red**",
+      "cue": "red"
+     },
+     {
+      "text": "Use them or **lose** them",
+      "cue": "lose"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "l",
+     "pose": "point"
+    },
+    {
+     "id": "p",
+     "look": "shopper",
+     "v": 1,
+     "at": "walkR",
+     "to": "r",
+     "walkCue": "shortcut",
+     "hold": "bag",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "p",
+     "cue": "unfinished",
+     "expr": "grin",
+     "pose": "up"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "think",
+     "who": "p",
+     "text": "...have a KitKat!",
+     "cue": "unfinished"
+    },
+    {
+     "kind": "bulb",
+     "who": "p",
+     "cue": "brain"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "bar",
+     "shot": "board"
+    },
+    {
+     "cue": "unfinished",
+     "shot": "actor",
+     "who": "p"
+    },
+    {
+     "cue": "gap",
+     "shot": "close",
+     "who": "p"
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "The second most dangerous person is the brand manager with no ambition. Cultural relevance is a currency. Impact comes from brand size, creative quality and budget setting.",
+   "board": {
+    "title": "Drivers of **brand impact**",
+    "steps": [
+     {
+      "text": "**Brand size**",
+      "cue": "size"
+     },
+     {
+      "text": "**Creative quality**",
+      "cue": "creative"
+     },
+     {
+      "text": "**Budget setting** across geographies",
+      "cue": "budget"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "m",
+     "look": "exec",
+     "v": 5,
+     "at": "desk",
+     "mode": "sit",
+     "expr": "dazed"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "currency",
+     "pose": "up",
+     "expr": "grin"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "zzz",
+     "who": "m",
+     "cue": "ambition"
+    },
+    {
+     "kind": "money",
+     "who": "host",
+     "cue": "currency"
+    },
+    {
+     "kind": "chart",
+     "who": "host",
+     "cue": "size"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "currency",
+     "shot": "host"
+    },
+    {
+     "cue": "impact",
+     "shot": "board"
+    }
+   ]
+  },
+  {
+   "set": "plaza",
+   "say": "Fans argued over the right way to eat a KitKat: around twenty seven million social engagements. A debate about your brand is a jackpot, so fan the flames.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "front",
+     "pose": "present"
+    },
+    {
+     "id": "a",
+     "look": "student",
+     "v": 1,
+     "at": "l",
+     "hold": "box",
+     "holdCol": "#c8102e",
+     "pose": "hold"
+    },
+    {
+     "id": "b",
+     "look": "shopper",
+     "v": 3,
+     "at": "r",
+     "hold": "box",
+     "holdCol": "#c8102e",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "a",
+     "cue": "argued",
+     "expr": "stern",
+     "pose": "point"
+    },
+    {
+     "who": "b",
+     "cue": "right",
+     "expr": "shock",
+     "pose": "hips"
+    },
+    {
+     "who": "host",
+     "cue": "jackpot",
+     "pose": "cheer",
+     "expr": "laugh"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "say",
+     "who": "a",
+     "text": "My way's right!",
+     "cue": "argued"
+    },
+    {
+     "kind": "say",
+     "who": "b",
+     "text": "No way!",
+     "cue": "eat"
+    },
+    {
+     "kind": "heart",
+     "who": "a",
+     "cue": "million"
+    },
+    {
+     "kind": "money",
+     "who": "host",
+     "cue": "jackpot"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "eat",
+     "shot": "actor",
+     "who": "b"
+    },
+    {
+     "cue": "twenty",
+     "shot": "wide"
+    },
+    {
+     "cue": "jackpot",
+     "shot": "close"
+    }
+   ]
+  },
+  {
+   "set": "stage",
+   "say": "Four principles. Meet your audience where they are. Tone and timing are everything. Be clear on the brand's role. And subvert your equity to be one of the people.",
+   "board": {
+    "title": "Four **principles**",
+    "steps": [
+     {
+      "text": "**Meet them** where they are",
+      "cue": "meet"
+     },
+     {
+      "text": "**Tone and timing**",
+      "cue": "tone"
+     },
+     {
+      "text": "**Role** and point of view",
+      "cue": "clear"
+     },
+     {
+      "text": "**Subvert** your equity",
+      "cue": "subvert"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "a",
+     "look": "student",
+     "v": 7,
+     "at": "aisle2"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "subvert",
+     "pose": "cheer",
+     "expr": "grin"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "subvert",
+     "shot": "host"
+    }
+   ]
+  },
+  {
+   "set": "plaza",
+   "say": "Now Allen's. People love it, but a brand is a leaky bucket that drains unless you refill it. We want a playground, not a museum.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "c",
+     "pose": "present"
+    },
+    {
+     "id": "k",
+     "look": "kid",
+     "v": 2,
+     "at": "stall",
+     "expr": "smile"
+    },
+    {
+     "id": "e",
+     "look": "elder",
+     "v": 1,
+     "at": "walkR",
+     "to": "r",
+     "walkCue": "drains",
+     "hold": "bag",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "leaky",
+     "pose": "shrug",
+     "expr": "nervous"
+    },
+    {
+     "who": "k",
+     "cue": "playground",
+     "pose": "cheer",
+     "expr": "laugh"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "heart",
+     "who": "k",
+     "cue": "love"
+    },
+    {
+     "kind": "clock",
+     "who": "host",
+     "cue": "drains"
+    },
+    {
+     "kind": "say",
+     "who": "host",
+     "text": "A playground, not a museum",
+     "cue": "playground"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "leaky",
+     "shot": "host"
+    },
+    {
+     "cue": "playground",
+     "shot": "two",
+     "who": "k"
+    }
+   ]
+  },
+  {
+   "set": "plaza",
+   "say": "Gen Z want intense flavours and surprising textures. Forty five percent of Australians say texture appeals, and lolly salads turn sweets into social currency.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "l",
+     "pose": "point"
+    },
+    {
+     "id": "a",
+     "look": "student",
+     "v": 3,
+     "at": "shelf",
+     "hold": "bag",
+     "pose": "hold"
+    },
+    {
+     "id": "b",
+     "look": "student",
+     "v": 8,
+     "at": "walkR",
+     "to": "r",
+     "walkCue": "lolly",
+     "hold": "phone",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "a",
+     "cue": "intense",
+     "expr": "shock"
+    },
+    {
+     "who": "b",
+     "cue": "social",
+     "expr": "grin"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "burst",
+     "who": "a",
+     "cue": "intense"
+    },
+    {
+     "kind": "think",
+     "who": "a",
+     "text": "Texture wins",
+     "cue": "forty"
+    },
+    {
+     "kind": "heart",
+     "who": "b",
+     "cue": "social"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "intense",
+     "shot": "actor",
+     "who": "a"
+    },
+    {
+     "cue": "lolly",
+     "shot": "wide"
+    }
+   ]
+  },
+  {
+   "set": "street",
+   "say": "GLP-1 drugs could reach fifteen percent of Australians by year end, dulling the joy of sweets. And India has overtaken England for migration, bringing new tastes.",
+   "board": {
+    "title": "Trends under **Allen's**",
+    "lines": [
+     {
+      "text": "**GLP-1s** 15% by year end",
+      "cue": "fifteen"
+     },
+     {
+      "text": "Less sweet, more **protein**",
+      "cue": "joy"
+     },
+     {
+      "text": "**India** overtakes England",
+      "cue": "India"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "s",
+     "look": "shopper",
+     "v": 5,
+     "at": "bus"
+    },
+    {
+     "id": "f",
+     "look": "shopper",
+     "v": 2,
+     "at": "walkL",
+     "to": "l",
+     "walkCue": "India"
+    }
+   ],
+   "acts": [
+    {
+     "who": "s",
+     "cue": "joy",
+     "expr": "pained"
+    },
+    {
+     "who": "f",
+     "cue": "tastes",
+     "expr": "smile"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "cross",
+     "who": "s",
+     "cue": "joy"
+    },
+    {
+     "kind": "question",
+     "who": "f",
+     "cue": "tastes"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "joy",
+     "shot": "actor",
+     "who": "s"
+    },
+    {
+     "cue": "India",
+     "shot": "board"
+    }
+   ]
+  },
+  {
+   "set": "home",
+   "say": "When Arnott's changed four Shapes flavours, people were outraged. A heritage brand doesn't have to taste better. It has to taste the same.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "tv",
+     "pose": "hold",
+     "hold": "box"
+    },
+    {
+     "id": "g",
+     "look": "elder",
+     "v": 2,
+     "at": "sofa",
+     "mode": "sit",
+     "expr": "smile"
+    },
+    {
+     "id": "d",
+     "look": "shopper",
+     "v": 4,
+     "at": "sofa2",
+     "mode": "sit"
+    }
+   ],
+   "acts": [
+    {
+     "who": "g",
+     "cue": "outraged",
+     "expr": "shock"
+    },
+    {
+     "who": "d",
+     "cue": "heritage",
+     "expr": "stern"
+    },
+    {
+     "who": "host",
+     "cue": "same",
+     "pose": "point",
+     "expr": "grin"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "exclaim",
+     "who": "g",
+     "cue": "outraged"
+    },
+    {
+     "kind": "say",
+     "who": "d",
+     "text": "Bring it back!",
+     "cue": "heritage"
+    },
+    {
+     "kind": "tick",
+     "who": "host",
+     "cue": "same"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "outraged",
+     "shot": "close",
+     "who": "g"
+    },
+    {
+     "cue": "taste the same",
+     "shot": "host"
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Know your consumers, potential consumers and brand. Then test any stretch for fit, distance from the core, consumer permission, risk versus reward, and keep monitoring.",
+   "board": {
+    "title": "Five **stretch** considerations",
+    "steps": [
+     {
+      "text": "**Positioning** fit",
+      "cue": "fit"
+     },
+     {
+      "text": "**Distance** from the core",
+      "cue": "distance"
+     },
+     {
+      "text": "Consumer **permission**",
+      "cue": "permission"
+     },
+     {
+      "text": "**Risk** vs reward",
+      "cue": "risk"
+     },
+     {
+      "text": "**Test** and monitor",
+      "cue": "monitoring"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "e1",
+     "look": "exec_f",
+     "v": 3,
+     "at": "table"
+    },
+    {
+     "id": "e2",
+     "look": "exec",
+     "v": 6,
+     "at": "table2",
+     "hold": "laptop",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "e1",
+     "cue": "permission",
+     "pose": "chin"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "brain",
+     "who": "e1",
+     "cue": "brand"
+    },
+    {
+     "kind": "chart",
+     "who": "e2",
+     "cue": "risk"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "stretch",
+     "shot": "board"
+    },
+    {
+     "cue": "permission",
+     "shot": "actor",
+     "who": "e1"
+    }
+   ]
+  },
+  {
+   "set": "plaza",
+   "say": "For Heinz, soup is a near step, pasta sauce a credible stretch, vodka the exception. Or collaborate, like Allen's with Pepsi and Mountain Dew.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "c",
+     "pose": "point"
+    },
+    {
+     "id": "s",
+     "look": "shopper",
+     "v": 7,
+     "at": "shelf",
+     "hold": "bag",
+     "pose": "hold"
+    },
+    {
+     "id": "c",
+     "look": "chef",
+     "v": 1,
+     "at": "r"
+    }
+   ],
+   "acts": [
+    {
+     "who": "s",
+     "cue": "soup",
+     "expr": "smile"
+    },
+    {
+     "who": "s",
+     "cue": "vodka",
+     "expr": "shock"
+    },
+    {
+     "who": "host",
+     "cue": "collaborate",
+     "pose": "cheer",
+     "expr": "grin"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "tick",
+     "who": "s",
+     "cue": "soup"
+    },
+    {
+     "kind": "question",
+     "who": "s",
+     "cue": "vodka"
+    },
+    {
+     "kind": "sparkle",
+     "who": "c",
+     "cue": "Pepsi"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "vodka",
+     "shot": "actor",
+     "who": "s"
+    },
+    {
+     "cue": "collaborate",
+     "shot": "two",
+     "who": "c"
+    }
+   ]
+  },
+  {
+   "set": "stage",
+   "say": "So: protect your assets, and know why you're entering culture. Know your consumers and who you are. Use AI to ease the work, not do the thinking. That's week five.",
+   "board": {
+    "title": "The **recap**",
+    "lines": [
+     {
+      "text": "**Protect** your brand assets",
+      "cue": "protect"
+     },
+     {
+      "text": "Know **why** you enter culture",
+      "cue": "culture"
+     },
+     {
+      "text": "Know your **consumers** and yourself",
+      "cue": "consumers"
+     },
+     {
+      "text": "AI eases work, not **thinking**",
+      "cue": "AI"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "a",
+     "look": "student",
+     "v": 1,
+     "at": "aisle"
+    },
+    {
+     "id": "b",
+     "look": "student",
+     "v": 4,
+     "at": "aisle2"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "week",
+     "pose": "cheer",
+     "expr": "grin"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "stars",
+     "who": "host",
+     "cue": "week"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "week",
+     "shot": "close"
+    }
+   ]
+  }
+ ]
+}

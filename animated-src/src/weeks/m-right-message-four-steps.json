@@ -1,0 +1,627 @@
+{
+ "week": 0,
+ "title": "Right message, right person, right place, right time (strategy, idea, make it, place it)",
+ "speaker": "Andrew Baxter, Australian Pork Limited, Week 8",
+ "beats": [
+  {
+   "set": "office",
+   "say": "Advertising is four rights: the right message, to the right person, in the right place, at the right time.",
+   "board": {
+    "title": "The **four rights**",
+    "steps": [
+     {
+      "text": "Right **message**",
+      "cue": "message",
+      "at": 2.646
+     },
+     {
+      "text": "Right **person**",
+      "cue": "person",
+      "at": 3.672
+     },
+     {
+      "text": "Right **place**",
+      "cue": "place",
+      "at": 4.722
+     },
+     {
+      "text": "Right **time**",
+      "cue": "time",
+      "at": 5.724
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "e1",
+     "look": "exec_f",
+     "at": "table",
+     "v": 3
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "message",
+     "pose": "point",
+     "at": 2.646
+    },
+    {
+     "who": "e1",
+     "cue": "time",
+     "pose": "chin",
+     "expr": "smile",
+     "at": 5.724
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "person",
+     "shot": "two",
+     "who": "e1",
+     "at": 3.672
+    },
+    {
+     "cue": "place",
+     "shot": "board",
+     "at": 4.722
+    }
+   ],
+   "audio": "audio/m-right-message-four-steps-00.mp3",
+   "leadIn": 0.45,
+   "seconds": 7.074,
+   "words": [
+    {
+     "w": "Advertising",
+     "t": 0.5
+    },
+    {
+     "w": "is",
+     "t": 1.172
+    },
+    {
+     "w": "four",
+     "t": 1.302
+    },
+    {
+     "w": "rights",
+     "t": 1.526
+    },
+    {
+     "w": "the",
+     "t": 2.269
+    },
+    {
+     "w": "right",
+     "t": 2.387
+    },
+    {
+     "w": "message",
+     "t": 2.646
+    },
+    {
+     "w": "to",
+     "t": 3.271
+    },
+    {
+     "w": "the",
+     "t": 3.366
+    },
+    {
+     "w": "right",
+     "t": 3.448
+    },
+    {
+     "w": "person",
+     "t": 3.672
+    },
+    {
+     "w": "in",
+     "t": 4.333
+    },
+    {
+     "w": "the",
+     "t": 4.439
+    },
+    {
+     "w": "right",
+     "t": 4.498
+    },
+    {
+     "w": "place",
+     "t": 4.722
+    },
+    {
+     "w": "at",
+     "t": 5.3
+    },
+    {
+     "w": "the",
+     "t": 5.417
+    },
+    {
+     "w": "right",
+     "t": 5.5
+    },
+    {
+     "w": "time",
+     "t": 5.724
+    }
+   ]
+  },
+  {
+   "set": "plaza",
+   "say": "At three in the afternoon, the fast food screen shows snacks, and a passing tradie stops.",
+   "board": {
+    "title": "3pm **snack** deal",
+    "lines": [
+     {
+      "text": "For the **arvo** crew",
+      "cue": "snacks",
+      "at": 3.177
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "c"
+    },
+    {
+     "id": "w",
+     "look": "worker",
+     "at": "walkR",
+     "v": 2,
+     "to": "r",
+     "walkCue": "afternoon",
+     "walkAt": 1.09
+    }
+   ],
+   "acts": [
+    {
+     "who": "w",
+     "cue": "stops",
+     "pose": "point",
+     "expr": "grin",
+     "at": 4.698
+    }
+   ],
+   "fx": [
+    {
+     "kind": "clock",
+     "who": "host",
+     "cue": "three",
+     "at": 0.689
+    },
+    {
+     "kind": "think",
+     "who": "w",
+     "cue": "stops",
+     "text": "Arvo snack!",
+     "at": 4.698
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "snacks",
+     "shot": "board",
+     "at": 3.177
+    },
+    {
+     "cue": "stops",
+     "shot": "actor",
+     "who": "w",
+     "at": 4.698
+    }
+   ],
+   "audio": "audio/m-right-message-four-steps-01.mp3",
+   "leadIn": 0.45,
+   "seconds": 6.066,
+   "words": [
+    {
+     "w": "At",
+     "t": 0.5
+    },
+    {
+     "w": "three",
+     "t": 0.689
+    },
+    {
+     "w": "in",
+     "t": 0.936
+    },
+    {
+     "w": "the",
+     "t": 0.995
+    },
+    {
+     "w": "afternoon",
+     "t": 1.09
+    },
+    {
+     "w": "the",
+     "t": 1.927
+    },
+    {
+     "w": "fast",
+     "t": 2.021
+    },
+    {
+     "w": "food",
+     "t": 2.363
+    },
+    {
+     "w": "screen",
+     "t": 2.611
+    },
+    {
+     "w": "shows",
+     "t": 2.929
+    },
+    {
+     "w": "snacks",
+     "t": 3.177
+    },
+    {
+     "w": "and",
+     "t": 3.861
+    },
+    {
+     "w": "a",
+     "t": 3.967
+    },
+    {
+     "w": "passing",
+     "t": 4.014
+    },
+    {
+     "w": "tradie",
+     "t": 4.462
+    },
+    {
+     "w": "stops",
+     "t": 4.698
+    }
+   ]
+  },
+  {
+   "set": "plaza",
+   "say": "By six, it switches to family meals, and a mum with her kids heads straight in.",
+   "board": {
+    "title": "**Family** meal deal",
+    "lines": [
+     {
+      "text": "Dinner **sorted**",
+      "cue": "family",
+      "at": 1.998
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "c"
+    },
+    {
+     "id": "m",
+     "look": "shopper",
+     "at": "walkL",
+     "v": 3,
+     "to": "shop",
+     "walkCue": "mum",
+     "walkAt": 3.212
+    },
+    {
+     "id": "k",
+     "look": "kid",
+     "at": "l",
+     "v": 1
+    }
+   ],
+   "acts": [
+    {
+     "who": "k",
+     "cue": "kids",
+     "pose": "cheer",
+     "expr": "laugh",
+     "at": 3.649
+    }
+   ],
+   "fx": [
+    {
+     "kind": "clock",
+     "who": "host",
+     "cue": "six",
+     "at": 0.689
+    },
+    {
+     "kind": "heart",
+     "who": "k",
+     "cue": "kids",
+     "at": 3.649
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "family",
+     "shot": "board",
+     "at": 1.998
+    },
+    {
+     "cue": "kids",
+     "shot": "actor",
+     "who": "k",
+     "at": 3.649
+    }
+   ],
+   "audio": "audio/m-right-message-four-steps-02.mp3",
+   "leadIn": 0.45,
+   "seconds": 5.754,
+   "words": [
+    {
+     "w": "By",
+     "t": 0.5
+    },
+    {
+     "w": "six",
+     "t": 0.689
+    },
+    {
+     "w": "it",
+     "t": 1.384
+    },
+    {
+     "w": "switches",
+     "t": 1.514
+    },
+    {
+     "w": "to",
+     "t": 1.927
+    },
+    {
+     "w": "family",
+     "t": 1.998
+    },
+    {
+     "w": "meals",
+     "t": 2.351
+    },
+    {
+     "w": "and",
+     "t": 3.059
+    },
+    {
+     "w": "a",
+     "t": 3.189
+    },
+    {
+     "w": "mum",
+     "t": 3.212
+    },
+    {
+     "w": "with",
+     "t": 3.448
+    },
+    {
+     "w": "her",
+     "t": 3.542
+    },
+    {
+     "w": "kids",
+     "t": 3.649
+    },
+    {
+     "w": "heads",
+     "t": 3.991
+    },
+    {
+     "w": "straight",
+     "t": 4.226
+    },
+    {
+     "w": "in",
+     "t": 4.498
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Behind every ad sit four steps: strategy, idea, make it, place it. And always go where the eyeballs are, which today means the phone.",
+   "board": {
+    "title": "Four **steps**",
+    "steps": [
+     {
+      "text": "**Strategy**: the message",
+      "cue": "strategy",
+      "at": 2.67
+     },
+     {
+      "text": "**Idea**: make it creative",
+      "cue": "idea",
+      "at": 3.507
+     },
+     {
+      "text": "**Make it**: production",
+      "cue": "make",
+      "at": 4.274
+     },
+     {
+      "text": "**Place it**: media",
+      "cue": "place",
+      "at": 4.922
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "e1",
+     "look": "exec",
+     "at": "table",
+     "v": 2
+    }
+   ],
+   "acts": [
+    {
+     "who": "e1",
+     "cue": "eyeballs",
+     "expr": "grin",
+     "at": 6.868
+    }
+   ],
+   "fx": [
+    {
+     "kind": "eye",
+     "who": "e1",
+     "cue": "eyeballs",
+     "at": 6.868
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "eyeballs",
+     "shot": "two",
+     "who": "e1",
+     "at": 6.868
+    }
+   ],
+   "hold": 1.0,
+   "audio": "audio/m-right-message-four-steps-03.mp3",
+   "leadIn": 0.45,
+   "seconds": 10.522,
+   "words": [
+    {
+     "w": "Behind",
+     "t": 0.5
+    },
+    {
+     "w": "every",
+     "t": 0.972
+    },
+    {
+     "w": "ad",
+     "t": 1.231
+    },
+    {
+     "w": "sit",
+     "t": 1.467
+    },
+    {
+     "w": "four",
+     "t": 1.691
+    },
+    {
+     "w": "steps",
+     "t": 1.891
+    },
+    {
+     "w": "strategy",
+     "t": 2.67
+    },
+    {
+     "w": "idea",
+     "t": 3.507
+    },
+    {
+     "w": "make",
+     "t": 4.274
+    },
+    {
+     "w": "it",
+     "t": 4.557
+    },
+    {
+     "w": "place",
+     "t": 4.922
+    },
+    {
+     "w": "it",
+     "t": 5.229
+    },
+    {
+     "w": "And",
+     "t": 5.771
+    },
+    {
+     "w": "always",
+     "t": 5.984
+    },
+    {
+     "w": "go",
+     "t": 6.396
+    },
+    {
+     "w": "where",
+     "t": 6.55
+    },
+    {
+     "w": "the",
+     "t": 6.726
+    },
+    {
+     "w": "eyeballs",
+     "t": 6.868
+    },
+    {
+     "w": "are",
+     "t": 7.281
+    },
+    {
+     "w": "which",
+     "t": 7.835
+    },
+    {
+     "w": "today",
+     "t": 8.047
+    },
+    {
+     "w": "means",
+     "t": 8.389
+    },
+    {
+     "w": "the",
+     "t": 8.66
+    },
+    {
+     "w": "phone",
+     "t": 8.719
+    }
+   ]
+  }
+ ],
+ "id": "m-right-message-four-steps",
+ "total": 29.43
+}

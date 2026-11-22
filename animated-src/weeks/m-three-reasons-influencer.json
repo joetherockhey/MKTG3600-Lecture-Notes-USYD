@@ -1,0 +1,234 @@
+{
+ "week": 0,
+ "title": "Peer validation, algorithmic trust and cultural resonance",
+ "speaker": "Bryce Coombe, Hypetap, Week 10",
+ "beats": [
+  {
+   "set": "stage",
+   "say": "Influencer isn't just another interruptive channel, for three reasons. Peer validation, algorithmic trust, and cultural resonance, worth about two hundred and forty-six percent more than standard attention.",
+   "board": {
+    "title": "Why **influencer** is different",
+    "steps": [
+     {
+      "text": "**Peer validation**: someone like me",
+      "cue": "Peer"
+     },
+     {
+      "text": "**Algorithmic trust**: search and AI",
+      "cue": "algorithmic"
+     },
+     {
+      "text": "**Cultural resonance**: +246%",
+      "cue": "cultural"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "a",
+     "look": "student",
+     "v": 1,
+     "at": "r",
+     "hold": "phone",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "a",
+     "cue": "Peer",
+     "expr": "smile"
+    },
+    {
+     "who": "host",
+     "cue": "worth",
+     "pose": "up",
+     "expr": "grin"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "heart",
+     "who": "a",
+     "cue": "Peer"
+    },
+    {
+     "kind": "chart",
+     "who": "host",
+     "cue": "worth"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "Peer",
+     "shot": "actor",
+     "who": "a"
+    },
+    {
+     "cue": "worth",
+     "shot": "board"
+    }
+   ]
+  },
+  {
+   "set": "plaza",
+   "say": "A creator reviews a serum. A viewer thinks, she's just like me. Then she searches it on TikTok, Google, even an AI assistant, and finds what creators said. Social is now search.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "front",
+     "pose": "none"
+    },
+    {
+     "id": "s1",
+     "look": "student",
+     "v": 1,
+     "at": "l",
+     "hold": "phone",
+     "pose": "hold"
+    },
+    {
+     "id": "s2",
+     "look": "shopper",
+     "v": 3,
+     "at": "r",
+     "hold": "phone",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "s1",
+     "cue": "reviews",
+     "pose": "cheer",
+     "expr": "grin"
+    },
+    {
+     "who": "s2",
+     "cue": "like",
+     "expr": "smile"
+    },
+    {
+     "who": "s2",
+     "cue": "searches",
+     "pose": "chin"
+    },
+    {
+     "who": "host",
+     "cue": "Social",
+     "pose": "point",
+     "expr": "grin"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "sparkle",
+     "who": "s1",
+     "cue": "reviews"
+    },
+    {
+     "kind": "think",
+     "who": "s2",
+     "cue": "like",
+     "text": "She's just like me!"
+    },
+    {
+     "kind": "eye",
+     "who": "s2",
+     "cue": "searches"
+    },
+    {
+     "kind": "tick",
+     "who": "host",
+     "cue": "Social"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "reviews",
+     "shot": "actor",
+     "who": "s1"
+    },
+    {
+     "cue": "like",
+     "shot": "actor",
+     "who": "s2"
+    },
+    {
+     "cue": "Social",
+     "shot": "close"
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Use it like this: pick the reason that serves your goal, and justify the spend with it.",
+   "board": {
+    "title": "Use it like **this**",
+    "lines": [
+     {
+      "text": "Pick the **reason**",
+      "cue": "reason"
+     },
+     {
+      "text": "Match your **goal**",
+      "cue": "goal"
+     },
+     {
+      "text": "Justify the **spend**",
+      "cue": "spend"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "point"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "spend",
+     "pose": "cheer",
+     "expr": "grin"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "tick",
+     "who": "host",
+     "cue": "spend"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "spend",
+     "shot": "close"
+    }
+   ],
+   "hold": 1.0
+  }
+ ]
+}

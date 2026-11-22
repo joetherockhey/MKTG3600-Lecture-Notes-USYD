@@ -1,0 +1,280 @@
+{
+ "week": 0,
+ "title": "The four pillars of brand strategy",
+ "speaker": "Justin Papps, Tenet, Week 3",
+ "beats": [
+  {
+   "set": "stage",
+   "say": "Four pillars hold up a brand strategy: relevance, distinctiveness, consistency and availability. Land all four and you get cut-through.",
+   "board": {
+    "title": "Four pillars of **brand strategy**",
+    "steps": [
+     {
+      "text": "**Relevance**: meets real needs",
+      "cue": "relevance"
+     },
+     {
+      "text": "**Distinctiveness**: recognisable",
+      "cue": "distinctiveness"
+     },
+     {
+      "text": "**Consistency**: same associations",
+      "cue": "consistency"
+     },
+     {
+      "text": "**Availability**: mental + physical",
+      "cue": "availability"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "a",
+     "look": "student",
+     "at": "front",
+     "v": 2
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "Land",
+     "pose": "cheer",
+     "expr": "grin"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "stars",
+     "who": "host",
+     "cue": "cut"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "Land",
+     "shot": "close"
+    }
+   ]
+  },
+  {
+   "set": "plaza",
+   "say": "McDonald's ticks every box. It meets a real need, the golden arches stand out, and they've barely changed in decades.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "l"
+    },
+    {
+     "id": "s1",
+     "look": "kid",
+     "at": "stall",
+     "v": 3
+    },
+    {
+     "id": "s2",
+     "look": "shopper",
+     "at": "r",
+     "v": 5
+    }
+   ],
+   "acts": [
+    {
+     "who": "s1",
+     "cue": "need",
+     "pose": "cheer",
+     "expr": "grin"
+    },
+    {
+     "who": "s2",
+     "cue": "arches",
+     "pose": "point",
+     "expr": "smile"
+    },
+    {
+     "who": "host",
+     "cue": "decades",
+     "pose": "up"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "heart",
+     "who": "s1",
+     "cue": "need"
+    },
+    {
+     "kind": "eye",
+     "who": "s2",
+     "cue": "arches"
+    },
+    {
+     "kind": "tick",
+     "who": "host",
+     "cue": "decades"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "need",
+     "shot": "actor",
+     "who": "s1"
+    },
+    {
+     "cue": "arches",
+     "shot": "actor",
+     "who": "s2"
+    },
+    {
+     "cue": "decades",
+     "shot": "close"
+    }
+   ]
+  },
+  {
+   "set": "street",
+   "say": "And it's available two ways. It comes to mind when you're hungry, and there's one on every corner.",
+   "board": {
+    "title": "Available **two ways**",
+    "lines": [
+     {
+      "text": "Comes to **mind**",
+      "cue": "mind"
+     },
+     {
+      "text": "Easy to **buy**",
+      "cue": "corner"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "front"
+    },
+    {
+     "id": "p1",
+     "look": "student",
+     "at": "l",
+     "v": 4
+    }
+   ],
+   "acts": [
+    {
+     "who": "p1",
+     "cue": "mind",
+     "pose": "chin"
+    },
+    {
+     "who": "p1",
+     "cue": "corner",
+     "pose": "cheer",
+     "expr": "grin"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "think",
+     "who": "p1",
+     "cue": "mind",
+     "text": "Hungry... burger?"
+    },
+    {
+     "kind": "tick",
+     "who": "p1",
+     "cue": "corner"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "mind",
+     "shot": "actor",
+     "who": "p1"
+    },
+    {
+     "cue": "corner",
+     "shot": "board"
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Use it like this: score your brand on each pillar, then fix the weakest one first.",
+   "board": {
+    "title": "Use it like **this**",
+    "lines": [
+     {
+      "text": "**Score** each pillar",
+      "cue": "score"
+     },
+     {
+      "text": "Fix the **weakest** first",
+      "cue": "weakest"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "point"
+    },
+    {
+     "id": "e1",
+     "look": "exec_f",
+     "at": "table",
+     "v": 4,
+     "hold": "clipboard",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "e1",
+     "cue": "first",
+     "expr": "smile"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "tick",
+     "who": "e1",
+     "cue": "first"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "fix",
+     "shot": "two",
+     "who": "e1"
+    }
+   ],
+   "hold": 1.0
+  }
+ ]
+}

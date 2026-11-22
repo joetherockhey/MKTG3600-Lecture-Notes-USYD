@@ -1,0 +1,638 @@
+{
+ "week": 0,
+ "title": "King's motivators and discriminators (and the three appeals)",
+ "speaker": "Stephen King's JWT Planning Guide (1974), included in the Week 7 notes via Tim Collier",
+ "beats": [
+  {
+   "set": "office",
+   "say": "Stephen King split brand appeal in two. Motivators are category must-haves. Discriminators set one brand apart. Both draw on the senses, reason and emotions.",
+   "board": {
+    "title": "Motivators and **discriminators**",
+    "steps": [
+     {
+      "text": "**Motivators**: category must-haves",
+      "cue": "Motivators",
+      "at": 3.047
+     },
+     {
+      "text": "**Discriminators**: what sets you apart",
+      "cue": "Discriminators",
+      "at": 5.359
+     },
+     {
+      "text": "**Appeals**: senses, reason, emotions",
+      "cue": "senses",
+      "at": 8.436
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "e1",
+     "look": "exec_f",
+     "at": "table",
+     "v": 3
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "Motivators",
+     "pose": "point",
+     "at": 3.047
+    },
+    {
+     "who": "e1",
+     "cue": "apart",
+     "pose": "chin",
+     "expr": "smile",
+     "at": 6.844
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "Discriminators",
+     "shot": "two",
+     "who": "e1",
+     "at": 5.359
+    },
+    {
+     "cue": "senses",
+     "shot": "board",
+     "at": 8.436
+    }
+   ],
+   "audio": "audio/m-motivators-discriminators-00.mp3",
+   "leadIn": 0.45,
+   "seconds": 11.514,
+   "words": [
+    {
+     "w": "Stephen",
+     "t": 0.5
+    },
+    {
+     "w": "King",
+     "t": 1.019
+    },
+    {
+     "w": "split",
+     "t": 1.266
+    },
+    {
+     "w": "brand",
+     "t": 1.62
+    },
+    {
+     "w": "appeal",
+     "t": 1.88
+    },
+    {
+     "w": "in",
+     "t": 2.198
+    },
+    {
+     "w": "two",
+     "t": 2.304
+    },
+    {
+     "w": "Motivators",
+     "t": 3.047
+    },
+    {
+     "w": "are",
+     "t": 3.767
+    },
+    {
+     "w": "category",
+     "t": 3.861
+    },
+    {
+     "w": "must-haves",
+     "t": 4.321
+    },
+    {
+     "w": "Discriminators",
+     "t": 5.359
+    },
+    {
+     "w": "set",
+     "t": 6.09
+    },
+    {
+     "w": "one",
+     "t": 6.337
+    },
+    {
+     "w": "brand",
+     "t": 6.609
+    },
+    {
+     "w": "apart",
+     "t": 6.844
+    },
+    {
+     "w": "Both",
+     "t": 7.623
+    },
+    {
+     "w": "draw",
+     "t": 7.929
+    },
+    {
+     "w": "on",
+     "t": 8.248
+    },
+    {
+     "w": "the",
+     "t": 8.389
+    },
+    {
+     "w": "senses",
+     "t": 8.436
+    },
+    {
+     "w": "reason",
+     "t": 9.191
+    },
+    {
+     "w": "and",
+     "t": 9.792
+    },
+    {
+     "w": "emotions",
+     "t": 9.934
+    }
+   ]
+  },
+  {
+   "set": "plaza",
+   "say": "In the laundry aisle, every detergent gets clothes clean. That's a motivator. Without it, you're not even on the list.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "c"
+    },
+    {
+     "id": "s1",
+     "look": "shopper",
+     "at": "shelf",
+     "v": 5,
+     "hold": "bag",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "s1",
+     "cue": "every",
+     "pose": "chin",
+     "expr": "neutral",
+     "at": 1.644
+    },
+    {
+     "who": "host",
+     "cue": "motivator",
+     "pose": "point",
+     "at": 4.215
+    }
+   ],
+   "fx": [
+    {
+     "kind": "think",
+     "who": "s1",
+     "cue": "clean",
+     "text": "They all clean...",
+     "at": 2.988
+    },
+    {
+     "kind": "tick",
+     "who": "host",
+     "cue": "motivator",
+     "at": 4.215
+    },
+    {
+     "kind": "cross",
+     "who": "host",
+     "cue": "Without",
+     "at": 5.241
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "clean",
+     "shot": "actor",
+     "who": "s1",
+     "at": 2.988
+    },
+    {
+     "cue": "Without",
+     "shot": "close",
+     "at": 5.241
+    }
+   ],
+   "audio": "audio/m-motivators-discriminators-01.mp3",
+   "leadIn": 0.45,
+   "seconds": 8.298,
+   "words": [
+    {
+     "w": "In",
+     "t": 0.5
+    },
+    {
+     "w": "the",
+     "t": 0.653
+    },
+    {
+     "w": "laundry",
+     "t": 0.7
+    },
+    {
+     "w": "aisle",
+     "t": 1.066
+    },
+    {
+     "w": "every",
+     "t": 1.644
+    },
+    {
+     "w": "detergent",
+     "t": 1.927
+    },
+    {
+     "w": "gets",
+     "t": 2.481
+    },
+    {
+     "w": "clothes",
+     "t": 2.658
+    },
+    {
+     "w": "clean",
+     "t": 2.988
+    },
+    {
+     "w": "That's",
+     "t": 3.767
+    },
+    {
+     "w": "a",
+     "t": 4.167
+    },
+    {
+     "w": "motivator",
+     "t": 4.215
+    },
+    {
+     "w": "Without",
+     "t": 5.241
+    },
+    {
+     "w": "it",
+     "t": 5.665
+    },
+    {
+     "w": "you're",
+     "t": 6.149
+    },
+    {
+     "w": "not",
+     "t": 6.314
+    },
+    {
+     "w": "even",
+     "t": 6.55
+    },
+    {
+     "w": "on",
+     "t": 6.785
+    },
+    {
+     "w": "the",
+     "t": 6.891
+    },
+    {
+     "w": "list",
+     "t": 6.939
+    }
+   ]
+  },
+  {
+   "set": "plaza",
+   "say": "But one smells of fresh linen and has a friendly mascot. That discriminator wins her over, with no price war.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "c"
+    },
+    {
+     "id": "s1",
+     "look": "shopper",
+     "at": "shelf",
+     "v": 5,
+     "hold": "bag",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "s1",
+     "cue": "smells",
+     "expr": "smile",
+     "at": 0.925
+    },
+    {
+     "who": "s1",
+     "cue": "wins",
+     "pose": "cheer",
+     "expr": "grin",
+     "at": 4.616
+    },
+    {
+     "who": "host",
+     "cue": "price",
+     "pose": "up",
+     "expr": "grin",
+     "at": 5.995
+    }
+   ],
+   "fx": [
+    {
+     "kind": "sparkle",
+     "who": "s1",
+     "cue": "smells",
+     "at": 0.925
+    },
+    {
+     "kind": "heart",
+     "who": "s1",
+     "cue": "wins",
+     "at": 4.616
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "smells",
+     "shot": "actor",
+     "who": "s1",
+     "at": 0.925
+    },
+    {
+     "cue": "price",
+     "shot": "close",
+     "at": 5.995
+    }
+   ],
+   "audio": "audio/m-motivators-discriminators-02.mp3",
+   "leadIn": 0.45,
+   "seconds": 7.626,
+   "words": [
+    {
+     "w": "But",
+     "t": 0.5
+    },
+    {
+     "w": "one",
+     "t": 0.677
+    },
+    {
+     "w": "smells",
+     "t": 0.925
+    },
+    {
+     "w": "of",
+     "t": 1.349
+    },
+    {
+     "w": "fresh",
+     "t": 1.432
+    },
+    {
+     "w": "linen",
+     "t": 1.738
+    },
+    {
+     "w": "and",
+     "t": 2.068
+    },
+    {
+     "w": "has",
+     "t": 2.222
+    },
+    {
+     "w": "a",
+     "t": 2.387
+    },
+    {
+     "w": "friendly",
+     "t": 2.434
+    },
+    {
+     "w": "mascot",
+     "t": 2.823
+    },
+    {
+     "w": "That",
+     "t": 3.672
+    },
+    {
+     "w": "discriminator",
+     "t": 3.979
+    },
+    {
+     "w": "wins",
+     "t": 4.616
+    },
+    {
+     "w": "her",
+     "t": 4.887
+    },
+    {
+     "w": "over",
+     "t": 5.04
+    },
+    {
+     "w": "with",
+     "t": 5.594
+    },
+    {
+     "w": "no",
+     "t": 5.783
+    },
+    {
+     "w": "price",
+     "t": 5.995
+    },
+    {
+     "w": "war",
+     "t": 6.325
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "So meet the motivators, then build a discriminator, ideally emotional, so you never compete on price alone.",
+   "board": {
+    "title": "Use it **like this**",
+    "lines": [
+     {
+      "text": "**Meet** the motivators",
+      "cue": "meet",
+      "at": 0.807
+     },
+     {
+      "text": "**Build** a discriminator",
+      "cue": "build",
+      "at": 2.198
+     },
+     {
+      "text": "Never compete on **price** alone",
+      "cue": "price",
+      "at": 5.736
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "point"
+    },
+    {
+     "id": "e1",
+     "look": "exec",
+     "at": "table",
+     "v": 1
+    }
+   ],
+   "acts": [
+    {
+     "who": "e1",
+     "cue": "emotional",
+     "expr": "smile",
+     "at": 3.896
+    }
+   ],
+   "fx": [
+    {
+     "kind": "tick",
+     "who": "e1",
+     "cue": "price",
+     "at": 5.736
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "emotional",
+     "shot": "two",
+     "who": "e1",
+     "at": 3.896
+    }
+   ],
+   "hold": 1.0,
+   "audio": "audio/m-motivators-discriminators-03.mp3",
+   "leadIn": 0.45,
+   "seconds": 7.81,
+   "words": [
+    {
+     "w": "So",
+     "t": 0.5
+    },
+    {
+     "w": "meet",
+     "t": 0.807
+    },
+    {
+     "w": "the",
+     "t": 1.007
+    },
+    {
+     "w": "motivators",
+     "t": 1.066
+    },
+    {
+     "w": "then",
+     "t": 1.95
+    },
+    {
+     "w": "build",
+     "t": 2.198
+    },
+    {
+     "w": "a",
+     "t": 2.458
+    },
+    {
+     "w": "discriminator",
+     "t": 2.481
+    },
+    {
+     "w": "ideally",
+     "t": 3.401
+    },
+    {
+     "w": "emotional",
+     "t": 3.896
+    },
+    {
+     "w": "so",
+     "t": 4.663
+    },
+    {
+     "w": "you",
+     "t": 4.828
+    },
+    {
+     "w": "never",
+     "t": 4.934
+    },
+    {
+     "w": "compete",
+     "t": 5.193
+    },
+    {
+     "w": "on",
+     "t": 5.618
+    },
+    {
+     "w": "price",
+     "t": 5.736
+    },
+    {
+     "w": "alone",
+     "t": 6.007
+    }
+   ]
+  }
+ ],
+ "id": "m-motivators-discriminators",
+ "total": 35.23
+}

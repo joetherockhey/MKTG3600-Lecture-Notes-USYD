@@ -1,0 +1,749 @@
+{
+ "week": 0,
+ "title": "How the model thinks: five analogies (baseline, adstock, diminishing returns)",
+ "speaker": "Nicky Barton, Mutinex, Week 12",
+ "beats": [
+  {
+   "set": "office",
+   "say": "Five analogies for how the model thinks. A cafe on a busy corner. A song stuck in your head. The fifth slice of pizza. Last year's star. And a flight simulator.",
+   "board": {
+    "title": "How the **model** thinks",
+    "steps": [
+     {
+      "text": "**Busy cafe**: baseline",
+      "cue": "cafe",
+      "at": 3.059
+     },
+     {
+      "text": "**Stuck song**: adstock",
+      "cue": "song",
+      "at": 5.005
+     },
+     {
+      "text": "**Fifth slice**: diminishing returns",
+      "cue": "slice",
+      "at": 7.092
+     },
+     {
+      "text": "**Last year's star**: averages lie",
+      "cue": "star",
+      "at": 8.979
+     },
+     {
+      "text": "**Flight sim**: test first",
+      "cue": "flight",
+      "at": 10.028
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "e",
+     "look": "exec",
+     "v": 6,
+     "at": "table"
+    }
+   ],
+   "acts": [
+    {
+     "who": "e",
+     "cue": "song",
+     "expr": "whistle",
+     "at": 5.005
+    },
+    {
+     "who": "host",
+     "cue": "flight",
+     "pose": "up",
+     "expr": "grin",
+     "at": 10.028
+    }
+   ],
+   "fx": [
+    {
+     "kind": "sparkle",
+     "who": "e",
+     "cue": "song",
+     "at": 5.005
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "song",
+     "shot": "actor",
+     "who": "e",
+     "at": 5.005
+    },
+    {
+     "cue": "flight",
+     "shot": "board",
+     "at": 10.028
+    }
+   ],
+   "audio": "audio/m-mmm-five-analogies-00.mp3",
+   "leadIn": 0.45,
+   "seconds": 12.018,
+   "words": [
+    {
+     "w": "Five",
+     "t": 0.5
+    },
+    {
+     "w": "analogies",
+     "t": 0.889
+    },
+    {
+     "w": "for",
+     "t": 1.467
+    },
+    {
+     "w": "how",
+     "t": 1.573
+    },
+    {
+     "w": "the",
+     "t": 1.797
+    },
+    {
+     "w": "model",
+     "t": 1.88
+    },
+    {
+     "w": "thinks",
+     "t": 2.163
+    },
+    {
+     "w": "A",
+     "t": 2.941
+    },
+    {
+     "w": "cafe",
+     "t": 3.059
+    },
+    {
+     "w": "on",
+     "t": 3.601
+    },
+    {
+     "w": "a",
+     "t": 3.778
+    },
+    {
+     "w": "busy",
+     "t": 3.825
+    },
+    {
+     "w": "corner",
+     "t": 4.12
+    },
+    {
+     "w": "A",
+     "t": 4.887
+    },
+    {
+     "w": "song",
+     "t": 5.005
+    },
+    {
+     "w": "stuck",
+     "t": 5.37
+    },
+    {
+     "w": "in",
+     "t": 5.712
+    },
+    {
+     "w": "your",
+     "t": 5.807
+    },
+    {
+     "w": "head",
+     "t": 5.925
+    },
+    {
+     "w": "The",
+     "t": 6.667
+    },
+    {
+     "w": "fifth",
+     "t": 6.821
+    },
+    {
+     "w": "slice",
+     "t": 7.092
+    },
+    {
+     "w": "of",
+     "t": 7.458
+    },
+    {
+     "w": "pizza",
+     "t": 7.552
+    },
+    {
+     "w": "Last",
+     "t": 8.366
+    },
+    {
+     "w": "year's",
+     "t": 8.814
+    },
+    {
+     "w": "star",
+     "t": 8.979
+    },
+    {
+     "w": "And",
+     "t": 9.769
+    },
+    {
+     "w": "a",
+     "t": 9.981
+    },
+    {
+     "w": "flight",
+     "t": 10.028
+    },
+    {
+     "w": "simulator",
+     "t": 10.417
+    }
+   ]
+  },
+  {
+   "set": "plaza",
+   "say": "The corner cafe sells coffee with no ads at all: that's baseline. Ads that keep working after they stop are adstock, like Slip, Slop, Slap.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "c",
+     "pose": "none"
+    },
+    {
+     "id": "s1",
+     "look": "shopper",
+     "v": 1,
+     "at": "l",
+     "hold": "coffee",
+     "pose": "hold"
+    },
+    {
+     "id": "s2",
+     "look": "student",
+     "v": 3,
+     "at": "walkR",
+     "to": "r",
+     "walkCue": "baseline",
+     "hold": "coffee",
+     "pose": "hold",
+     "walkAt": 3.484
+    }
+   ],
+   "acts": [
+    {
+     "who": "s1",
+     "cue": "coffee",
+     "expr": "smile",
+     "at": 1.609
+    },
+    {
+     "who": "host",
+     "cue": "Slip",
+     "pose": "up",
+     "expr": "whistle",
+     "at": 7.21
+    }
+   ],
+   "fx": [
+    {
+     "kind": "tick",
+     "who": "s1",
+     "cue": "baseline",
+     "at": 3.484
+    },
+    {
+     "kind": "sparkle",
+     "who": "host",
+     "cue": "Slip",
+     "at": 7.21
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "coffee",
+     "shot": "actor",
+     "who": "s1",
+     "at": 1.609
+    },
+    {
+     "cue": "adstock",
+     "shot": "close",
+     "at": 6.196
+    }
+   ],
+   "audio": "audio/m-mmm-five-analogies-01.mp3",
+   "leadIn": 0.45,
+   "seconds": 9.858,
+   "words": [
+    {
+     "w": "The",
+     "t": 0.5
+    },
+    {
+     "w": "corner",
+     "t": 0.641
+    },
+    {
+     "w": "cafe",
+     "t": 0.901
+    },
+    {
+     "w": "sells",
+     "t": 1.302
+    },
+    {
+     "w": "coffee",
+     "t": 1.609
+    },
+    {
+     "w": "with",
+     "t": 1.962
+    },
+    {
+     "w": "no",
+     "t": 2.116
+    },
+    {
+     "w": "ads",
+     "t": 2.363
+    },
+    {
+     "w": "at",
+     "t": 2.587
+    },
+    {
+     "w": "all",
+     "t": 2.658
+    },
+    {
+     "w": "that's",
+     "t": 3.271
+    },
+    {
+     "w": "baseline",
+     "t": 3.484
+    },
+    {
+     "w": "Ads",
+     "t": 4.439
+    },
+    {
+     "w": "that",
+     "t": 4.698
+    },
+    {
+     "w": "keep",
+     "t": 4.816
+    },
+    {
+     "w": "working",
+     "t": 5.04
+    },
+    {
+     "w": "after",
+     "t": 5.37
+    },
+    {
+     "w": "they",
+     "t": 5.583
+    },
+    {
+     "w": "stop",
+     "t": 5.689
+    },
+    {
+     "w": "are",
+     "t": 5.995
+    },
+    {
+     "w": "adstock",
+     "t": 6.196
+    },
+    {
+     "w": "like",
+     "t": 6.986
+    },
+    {
+     "w": "Slip",
+     "t": 7.21
+    },
+    {
+     "w": "Slop",
+     "t": 7.776
+    },
+    {
+     "w": "Slap",
+     "t": 8.413
+    }
+   ]
+  },
+  {
+   "set": "home",
+   "say": "Each extra dollar adds less, like a fifth slice of pizza. A channel's average can hide what the next dollar does. So test the plan first.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "l",
+     "pose": "none"
+    },
+    {
+     "id": "p",
+     "look": "student",
+     "v": 4,
+     "at": "sofa",
+     "mode": "sit",
+     "hold": "box",
+     "pose": "hold"
+    },
+    {
+     "id": "q",
+     "look": "elder",
+     "v": 6,
+     "at": "sofa2",
+     "mode": "sit"
+    }
+   ],
+   "acts": [
+    {
+     "who": "p",
+     "cue": "fifth",
+     "expr": "pained",
+     "at": 2.587
+    },
+    {
+     "who": "q",
+     "cue": "average",
+     "expr": "nervous",
+     "at": 4.521
+    },
+    {
+     "who": "host",
+     "cue": "test",
+     "pose": "point",
+     "expr": "grin",
+     "at": 7.234
+    }
+   ],
+   "fx": [
+    {
+     "kind": "think",
+     "who": "p",
+     "cue": "fifth",
+     "text": "Not another slice.",
+     "at": 2.587
+    },
+    {
+     "kind": "question",
+     "who": "q",
+     "cue": "average",
+     "at": 4.521
+    },
+    {
+     "kind": "bulb",
+     "who": "host",
+     "cue": "test",
+     "at": 7.234
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "fifth",
+     "shot": "actor",
+     "who": "p",
+     "at": 2.587
+    },
+    {
+     "cue": "average",
+     "shot": "actor",
+     "who": "q",
+     "at": 4.521
+    },
+    {
+     "cue": "test",
+     "shot": "close",
+     "at": 7.234
+    }
+   ],
+   "audio": "audio/m-mmm-five-analogies-02.mp3",
+   "leadIn": 0.45,
+   "seconds": 9.402,
+   "words": [
+    {
+     "w": "Each",
+     "t": 0.5
+    },
+    {
+     "w": "extra",
+     "t": 0.783
+    },
+    {
+     "w": "dollar",
+     "t": 1.09
+    },
+    {
+     "w": "adds",
+     "t": 1.432
+    },
+    {
+     "w": "less",
+     "t": 1.656
+    },
+    {
+     "w": "like",
+     "t": 2.34
+    },
+    {
+     "w": "a",
+     "t": 2.54
+    },
+    {
+     "w": "fifth",
+     "t": 2.587
+    },
+    {
+     "w": "slice",
+     "t": 2.87
+    },
+    {
+     "w": "of",
+     "t": 3.189
+    },
+    {
+     "w": "pizza",
+     "t": 3.259
+    },
+    {
+     "w": "A",
+     "t": 4.05
+    },
+    {
+     "w": "channel's",
+     "t": 4.167
+    },
+    {
+     "w": "average",
+     "t": 4.521
+    },
+    {
+     "w": "can",
+     "t": 4.899
+    },
+    {
+     "w": "hide",
+     "t": 5.04
+    },
+    {
+     "w": "what",
+     "t": 5.394
+    },
+    {
+     "w": "the",
+     "t": 5.559
+    },
+    {
+     "w": "next",
+     "t": 5.618
+    },
+    {
+     "w": "dollar",
+     "t": 5.901
+    },
+    {
+     "w": "does",
+     "t": 6.09
+    },
+    {
+     "w": "So",
+     "t": 6.88
+    },
+    {
+     "w": "test",
+     "t": 7.234
+    },
+    {
+     "w": "the",
+     "t": 7.552
+    },
+    {
+     "w": "plan",
+     "t": 7.658
+    },
+    {
+     "w": "first",
+     "t": 7.953
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Use it like this: strip out baseline, credit carry-over, find saturation, and test before committing budget.",
+   "board": {
+    "title": "Use it like **this**",
+    "lines": [
+     {
+      "text": "Strip out **baseline**",
+      "cue": "strip",
+      "at": 1.738
+     },
+     {
+      "text": "Credit **carry-over**",
+      "cue": "credit",
+      "at": 3.059
+     },
+     {
+      "text": "Find **saturation**",
+      "cue": "saturation",
+      "at": 4.498
+     },
+     {
+      "text": "**Test** first",
+      "cue": "test",
+      "at": 5.547
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "point"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "budget",
+     "pose": "cheer",
+     "expr": "grin",
+     "at": 6.491
+    }
+   ],
+   "fx": [
+    {
+     "kind": "tick",
+     "who": "host",
+     "cue": "budget",
+     "at": 6.491
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "budget",
+     "shot": "close",
+     "at": 6.491
+    }
+   ],
+   "hold": 1.0,
+   "audio": "audio/m-mmm-five-analogies-03.mp3",
+   "leadIn": 0.45,
+   "seconds": 8.266,
+   "words": [
+    {
+     "w": "Use",
+     "t": 0.5
+    },
+    {
+     "w": "it",
+     "t": 0.83
+    },
+    {
+     "w": "like",
+     "t": 0.901
+    },
+    {
+     "w": "this",
+     "t": 1.113
+    },
+    {
+     "w": "strip",
+     "t": 1.738
+    },
+    {
+     "w": "out",
+     "t": 2.08
+    },
+    {
+     "w": "baseline",
+     "t": 2.269
+    },
+    {
+     "w": "credit",
+     "t": 3.059
+    },
+    {
+     "w": "carry-over",
+     "t": 3.366
+    },
+    {
+     "w": "find",
+     "t": 4.167
+    },
+    {
+     "w": "saturation",
+     "t": 4.498
+    },
+    {
+     "w": "and",
+     "t": 5.382
+    },
+    {
+     "w": "test",
+     "t": 5.547
+    },
+    {
+     "w": "before",
+     "t": 5.842
+    },
+    {
+     "w": "committing",
+     "t": 6.149
+    },
+    {
+     "w": "budget",
+     "t": 6.491
+    }
+   ]
+  }
+ ],
+ "id": "m-mmm-five-analogies",
+ "total": 39.57
+}

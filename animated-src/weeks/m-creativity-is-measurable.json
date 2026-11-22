@@ -1,0 +1,301 @@
+{
+ "week": 0,
+ "title": "Creativity is measurable (if it's not bold, it's dumb)",
+ "speaker": "Brent Smart, Week 4; Brendan Willenberg, Week 9",
+ "beats": [
+  {
+   "set": "stage",
+   "say": "Creativity is measurable. Creative ads deliver about two and a half times the revenue growth and four times the profit. Dull work costs millions extra, and earned media is the real prize.",
+   "board": {
+    "title": "Creativity is **measurable**",
+    "steps": [
+     {
+      "text": "**Revenue**: ~2.5x average growth",
+      "cue": "revenue"
+     },
+     {
+      "text": "**Profit**: ~4x average",
+      "cue": "profit"
+     },
+     {
+      "text": "**Dull** costs ~$20.5m extra",
+      "cue": "Dull"
+     },
+     {
+      "text": "**Earned media**: the real prize",
+      "cue": "earned"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "a",
+     "look": "student",
+     "at": "front",
+     "v": 3
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "Dull",
+     "pose": "shrug",
+     "expr": "pained"
+    },
+    {
+     "who": "host",
+     "cue": "earned",
+     "pose": "cheer",
+     "expr": "grin"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "money",
+     "who": "a",
+     "cue": "Dull"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "Dull",
+     "shot": "close"
+    },
+    {
+     "cue": "earned",
+     "shot": "board"
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "In the meeting, the safe idea gets nods. The bold idea makes everyone squirm. If it's not bold, it's dumb.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "l"
+    },
+    {
+     "id": "e1",
+     "look": "exec",
+     "at": "table",
+     "v": 3
+    },
+    {
+     "id": "e2",
+     "look": "exec_f",
+     "at": "table2",
+     "v": 2
+    }
+   ],
+   "acts": [
+    {
+     "who": "e1",
+     "cue": "nods",
+     "expr": "smile"
+    },
+    {
+     "who": "e2",
+     "cue": "squirm",
+     "pose": "none",
+     "expr": "nervous"
+    },
+    {
+     "who": "host",
+     "cue": "dumb",
+     "pose": "point",
+     "expr": "grin"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "tick",
+     "who": "e1",
+     "cue": "nods"
+    },
+    {
+     "kind": "exclaim",
+     "who": "e2",
+     "cue": "squirm"
+    },
+    {
+     "kind": "bulb",
+     "who": "host",
+     "cue": "dumb"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "nods",
+     "shot": "actor",
+     "who": "e1"
+    },
+    {
+     "cue": "squirm",
+     "shot": "actor",
+     "who": "e2"
+    },
+    {
+     "cue": "dumb",
+     "shot": "close"
+    }
+   ]
+  },
+  {
+   "set": "street",
+   "say": "Yellow Pages' treehouse used zero paid media. NRMA's koalas went from thirty-sixth to fifth strongest brand. Bold paid off.",
+   "board": {
+    "title": "**Bold** pays",
+    "lines": [
+     {
+      "text": "**Yellow Pages**: $0 paid media",
+      "cue": "Yellow"
+     },
+     {
+      "text": "**NRMA**: 36th to 5th",
+      "cue": "koalas"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "front"
+    },
+    {
+     "id": "p1",
+     "look": "shopper",
+     "at": "l",
+     "v": 1
+    },
+    {
+     "id": "p2",
+     "look": "kid",
+     "at": "r",
+     "v": 2
+    }
+   ],
+   "acts": [
+    {
+     "who": "p1",
+     "cue": "treehouse",
+     "expr": "smile"
+    },
+    {
+     "who": "p2",
+     "cue": "koalas",
+     "pose": "cheer",
+     "expr": "laugh"
+    },
+    {
+     "who": "host",
+     "cue": "Bold",
+     "pose": "up",
+     "expr": "grin"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "heart",
+     "who": "p2",
+     "cue": "koalas"
+    },
+    {
+     "kind": "stars",
+     "who": "host",
+     "cue": "off"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "koalas",
+     "shot": "wide"
+    },
+    {
+     "cue": "Bold",
+     "shot": "close"
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Use it like this: back bold work with the numbers, because the biggest risk is taking no risk.",
+   "board": {
+    "title": "Use it like **this**",
+    "lines": [
+     {
+      "text": "Back bold work with **numbers**",
+      "cue": "numbers"
+     },
+     {
+      "text": "Biggest risk: **no risk**",
+      "cue": "biggest"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "e1",
+     "look": "exec_f",
+     "at": "table",
+     "v": 5,
+     "hold": "laptop",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "e1",
+     "cue": "taking",
+     "pose": "cheer",
+     "expr": "grin"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "chart",
+     "who": "e1",
+     "cue": "numbers"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "taking",
+     "shot": "two",
+     "who": "e1"
+    }
+   ],
+   "hold": 1.0
+  }
+ ]
+}

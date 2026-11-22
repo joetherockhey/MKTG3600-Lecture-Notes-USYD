@@ -1,0 +1,714 @@
+{
+ "week": 0,
+ "title": "Marketing mix modelling (MMM) and probabilistic thinking",
+ "speaker": "Nicky Barton, Mutinex, Week 12",
+ "beats": [
+  {
+   "set": "office",
+   "say": "Marketing mix modelling feeds in years of weekly sales, spend, price, seasonality, the economy and competitors. Out comes what drove sales, the return by channel, and where the next dollar goes. It's Bayesian, and privacy safe.",
+   "board": {
+    "title": "**Marketing mix** modelling",
+    "steps": [
+     {
+      "text": "**Inputs**: sales, spend, price, market",
+      "cue": "weekly",
+      "at": 2.41
+     },
+     {
+      "text": "**Outputs**: drivers, ROI, next dollar",
+      "cue": "drove",
+      "at": 8.33
+     },
+     {
+      "text": "**Bayesian**: prior + evidence",
+      "cue": "Bayesian",
+      "at": 12.434
+     },
+     {
+      "text": "**Privacy safe**: no tracking",
+      "cue": "privacy",
+      "at": 13.342
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "e",
+     "look": "exec_f",
+     "v": 2,
+     "at": "table",
+     "hold": "laptop",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "e",
+     "cue": "drove",
+     "expr": "smile",
+     "at": 8.33
+    },
+    {
+     "who": "host",
+     "cue": "Bayesian",
+     "pose": "point",
+     "at": 12.434
+    }
+   ],
+   "fx": [
+    {
+     "kind": "chart",
+     "who": "e",
+     "cue": "drove",
+     "at": 8.33
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "drove",
+     "shot": "actor",
+     "who": "e",
+     "at": 8.33
+    },
+    {
+     "cue": "Bayesian",
+     "shot": "board",
+     "at": 12.434
+    }
+   ],
+   "audio": "audio/m-marketing-mix-modelling-00.mp3",
+   "leadIn": 0.45,
+   "seconds": 15.114,
+   "words": [
+    {
+     "w": "Marketing",
+     "t": 0.5
+    },
+    {
+     "w": "mix",
+     "t": 1.031
+    },
+    {
+     "w": "modelling",
+     "t": 1.231
+    },
+    {
+     "w": "feeds",
+     "t": 1.632
+    },
+    {
+     "w": "in",
+     "t": 1.95
+    },
+    {
+     "w": "years",
+     "t": 2.045
+    },
+    {
+     "w": "of",
+     "t": 2.316
+    },
+    {
+     "w": "weekly",
+     "t": 2.41
+    },
+    {
+     "w": "sales",
+     "t": 2.705
+    },
+    {
+     "w": "spend",
+     "t": 3.46
+    },
+    {
+     "w": "price",
+     "t": 4.25
+    },
+    {
+     "w": "seasonality",
+     "t": 4.969
+    },
+    {
+     "w": "the",
+     "t": 5.889
+    },
+    {
+     "w": "economy",
+     "t": 6.007
+    },
+    {
+     "w": "and",
+     "t": 6.491
+    },
+    {
+     "w": "competitors",
+     "t": 6.632
+    },
+    {
+     "w": "Out",
+     "t": 7.634
+    },
+    {
+     "w": "comes",
+     "t": 7.894
+    },
+    {
+     "w": "what",
+     "t": 8.165
+    },
+    {
+     "w": "drove",
+     "t": 8.33
+    },
+    {
+     "w": "sales",
+     "t": 8.59
+    },
+    {
+     "w": "the",
+     "t": 9.297
+    },
+    {
+     "w": "return",
+     "t": 9.391
+    },
+    {
+     "w": "by",
+     "t": 9.757
+    },
+    {
+     "w": "channel",
+     "t": 9.887
+    },
+    {
+     "w": "and",
+     "t": 10.583
+    },
+    {
+     "w": "where",
+     "t": 10.748
+    },
+    {
+     "w": "the",
+     "t": 10.913
+    },
+    {
+     "w": "next",
+     "t": 10.983
+    },
+    {
+     "w": "dollar",
+     "t": 11.231
+    },
+    {
+     "w": "goes",
+     "t": 11.396
+    },
+    {
+     "w": "It's",
+     "t": 12.21
+    },
+    {
+     "w": "Bayesian",
+     "t": 12.434
+    },
+    {
+     "w": "and",
+     "t": 13.177
+    },
+    {
+     "w": "privacy",
+     "t": 13.342
+    },
+    {
+     "w": "safe",
+     "t": 13.743
+    }
+   ]
+  },
+  {
+   "set": "home",
+   "say": "Think of predicting who'll watch the next episode. You start with what you know about viewers, then update as evidence comes in.",
+   "board": {
+    "title": "Prior + evidence = **posterior**",
+    "lines": [
+     {
+      "text": "**Prior**: what you know",
+      "cue": "know",
+      "at": 4.12
+     },
+     {
+      "text": "**Evidence**: update it",
+      "cue": "update",
+      "at": 5.665
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "l",
+     "pose": "none"
+    },
+    {
+     "id": "p",
+     "look": "shopper",
+     "v": 3,
+     "at": "sofa",
+     "mode": "sit"
+    },
+    {
+     "id": "q",
+     "look": "student",
+     "v": 6,
+     "at": "sofa2",
+     "mode": "sit"
+    }
+   ],
+   "acts": [
+    {
+     "who": "p",
+     "cue": "episode",
+     "expr": "smile",
+     "at": 2.281
+    },
+    {
+     "who": "host",
+     "cue": "update",
+     "pose": "point",
+     "at": 5.665
+    },
+    {
+     "who": "q",
+     "cue": "evidence",
+     "expr": "grin",
+     "at": 6.325
+    }
+   ],
+   "fx": [
+    {
+     "kind": "think",
+     "who": "p",
+     "cue": "episode",
+     "text": "Next episode?",
+     "at": 2.281
+    },
+    {
+     "kind": "brain",
+     "who": "host",
+     "cue": "update",
+     "at": 5.665
+    },
+    {
+     "kind": "tick",
+     "who": "q",
+     "cue": "evidence",
+     "at": 6.325
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "episode",
+     "shot": "actor",
+     "who": "p",
+     "at": 2.281
+    },
+    {
+     "cue": "update",
+     "shot": "board",
+     "at": 5.665
+    }
+   ],
+   "audio": "audio/m-marketing-mix-modelling-01.mp3",
+   "leadIn": 0.45,
+   "seconds": 8.13,
+   "words": [
+    {
+     "w": "Think",
+     "t": 0.5
+    },
+    {
+     "w": "of",
+     "t": 0.818
+    },
+    {
+     "w": "predicting",
+     "t": 0.936
+    },
+    {
+     "w": "who'll",
+     "t": 1.455
+    },
+    {
+     "w": "watch",
+     "t": 1.679
+    },
+    {
+     "w": "the",
+     "t": 1.95
+    },
+    {
+     "w": "next",
+     "t": 2.033
+    },
+    {
+     "w": "episode",
+     "t": 2.281
+    },
+    {
+     "w": "You",
+     "t": 3.189
+    },
+    {
+     "w": "start",
+     "t": 3.389
+    },
+    {
+     "w": "with",
+     "t": 3.731
+    },
+    {
+     "w": "what",
+     "t": 3.861
+    },
+    {
+     "w": "you",
+     "t": 4.05
+    },
+    {
+     "w": "know",
+     "t": 4.12
+    },
+    {
+     "w": "about",
+     "t": 4.38
+    },
+    {
+     "w": "viewers",
+     "t": 4.616
+    },
+    {
+     "w": "then",
+     "t": 5.382
+    },
+    {
+     "w": "update",
+     "t": 5.665
+    },
+    {
+     "w": "as",
+     "t": 6.113
+    },
+    {
+     "w": "evidence",
+     "t": 6.325
+    },
+    {
+     "w": "comes",
+     "t": 6.679
+    },
+    {
+     "w": "in",
+     "t": 6.915
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "No individual is tracked. It reads the whole market, so it looks less precise, but it's more honest.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "l",
+     "pose": "none"
+    },
+    {
+     "id": "e",
+     "look": "exec_f",
+     "v": 2,
+     "at": "table",
+     "hold": "laptop",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "e",
+     "cue": "tracked",
+     "expr": "relief",
+     "at": 1.738
+    },
+    {
+     "who": "host",
+     "cue": "honest",
+     "pose": "up",
+     "expr": "smile",
+     "at": 5.936
+    }
+   ],
+   "fx": [
+    {
+     "kind": "chart",
+     "who": "e",
+     "cue": "market",
+     "at": 3.212
+    },
+    {
+     "kind": "tick",
+     "who": "host",
+     "cue": "honest",
+     "at": 5.936
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "market",
+     "shot": "actor",
+     "who": "e",
+     "at": 3.212
+    },
+    {
+     "cue": "honest",
+     "shot": "close",
+     "at": 5.936
+    }
+   ],
+   "audio": "audio/m-marketing-mix-modelling-02.mp3",
+   "leadIn": 0.45,
+   "seconds": 7.362,
+   "words": [
+    {
+     "w": "No",
+     "t": 0.5
+    },
+    {
+     "w": "individual",
+     "t": 0.901
+    },
+    {
+     "w": "is",
+     "t": 1.55
+    },
+    {
+     "w": "tracked",
+     "t": 1.738
+    },
+    {
+     "w": "It",
+     "t": 2.517
+    },
+    {
+     "w": "reads",
+     "t": 2.705
+    },
+    {
+     "w": "the",
+     "t": 2.976
+    },
+    {
+     "w": "whole",
+     "t": 3.059
+    },
+    {
+     "w": "market",
+     "t": 3.212
+    },
+    {
+     "w": "so",
+     "t": 3.861
+    },
+    {
+     "w": "it",
+     "t": 4.109
+    },
+    {
+     "w": "looks",
+     "t": 4.167
+    },
+    {
+     "w": "less",
+     "t": 4.403
+    },
+    {
+     "w": "precise",
+     "t": 4.592
+    },
+    {
+     "w": "but",
+     "t": 5.453
+    },
+    {
+     "w": "it's",
+     "t": 5.559
+    },
+    {
+     "w": "more",
+     "t": 5.7
+    },
+    {
+     "w": "honest",
+     "t": 5.936
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Use it like this: explain the inputs and outputs, then move the next dollar where it works hardest.",
+   "board": {
+    "title": "Use it like **this**",
+    "lines": [
+     {
+      "text": "Inputs in, **outputs** out",
+      "cue": "outputs",
+      "at": 2.823
+     },
+     {
+      "text": "Move the **next dollar**",
+      "cue": "next",
+      "at": 4.026
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "point"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "hardest",
+     "pose": "cheer",
+     "expr": "grin",
+     "at": 5.052
+    }
+   ],
+   "fx": [
+    {
+     "kind": "tick",
+     "who": "host",
+     "cue": "hardest",
+     "at": 5.052
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "hardest",
+     "shot": "close",
+     "at": 5.052
+    }
+   ],
+   "hold": 1.0,
+   "audio": "audio/m-marketing-mix-modelling-03.mp3",
+   "leadIn": 0.45,
+   "seconds": 6.874,
+   "words": [
+    {
+     "w": "Use",
+     "t": 0.5
+    },
+    {
+     "w": "it",
+     "t": 0.83
+    },
+    {
+     "w": "like",
+     "t": 0.901
+    },
+    {
+     "w": "this",
+     "t": 1.101
+    },
+    {
+     "w": "explain",
+     "t": 1.726
+    },
+    {
+     "w": "the",
+     "t": 2.163
+    },
+    {
+     "w": "inputs",
+     "t": 2.304
+    },
+    {
+     "w": "and",
+     "t": 2.682
+    },
+    {
+     "w": "outputs",
+     "t": 2.823
+    },
+    {
+     "w": "then",
+     "t": 3.566
+    },
+    {
+     "w": "move",
+     "t": 3.719
+    },
+    {
+     "w": "the",
+     "t": 3.955
+    },
+    {
+     "w": "next",
+     "t": 4.026
+    },
+    {
+     "w": "dollar",
+     "t": 4.297
+    },
+    {
+     "w": "where",
+     "t": 4.545
+    },
+    {
+     "w": "it",
+     "t": 4.745
+    },
+    {
+     "w": "works",
+     "t": 4.804
+    },
+    {
+     "w": "hardest",
+     "t": 5.052
+    }
+   ]
+  }
+ ],
+ "id": "m-marketing-mix-modelling",
+ "total": 37.47
+}

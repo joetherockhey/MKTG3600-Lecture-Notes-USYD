@@ -1,0 +1,626 @@
+{
+ "week": 0,
+ "title": "The single-minded proposition (one message)",
+ "speaker": "Tim Collier, Week 7; Andrew Baxter, Week 8; Libby Hogson, Week 6; Brendan Willenberg, Week 9",
+ "beats": [
+  {
+   "set": "office",
+   "say": "The single-minded proposition is the one idea your ad must say. Just one, an invitation not a claim, repeated in new ways.",
+   "board": {
+    "title": "The single-minded **proposition**",
+    "steps": [
+     {
+      "text": "**One thing**, not a list",
+      "cue": "Just",
+      "at": 4.12
+     },
+     {
+      "text": "An **invitation**, not a claim",
+      "cue": "invitation",
+      "at": 5.158
+     },
+     {
+      "text": "**Repeated** in new ways",
+      "cue": "repeated",
+      "at": 6.738
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "e1",
+     "look": "exec_f",
+     "at": "table",
+     "v": 1
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "Just",
+     "pose": "up",
+     "at": 4.12
+    },
+    {
+     "who": "e1",
+     "cue": "repeated",
+     "pose": "chin",
+     "expr": "smile",
+     "at": 6.738
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "invitation",
+     "shot": "two",
+     "who": "e1",
+     "at": 5.158
+    },
+    {
+     "cue": "repeated",
+     "shot": "board",
+     "at": 6.738
+    }
+   ],
+   "audio": "audio/m-single-minded-proposition-00.mp3",
+   "leadIn": 0.45,
+   "seconds": 8.994,
+   "words": [
+    {
+     "w": "The",
+     "t": 0.5
+    },
+    {
+     "w": "single-minded",
+     "t": 0.665
+    },
+    {
+     "w": "proposition",
+     "t": 1.266
+    },
+    {
+     "w": "is",
+     "t": 1.891
+    },
+    {
+     "w": "the",
+     "t": 2.021
+    },
+    {
+     "w": "one",
+     "t": 2.104
+    },
+    {
+     "w": "idea",
+     "t": 2.328
+    },
+    {
+     "w": "your",
+     "t": 2.682
+    },
+    {
+     "w": "ad",
+     "t": 2.941
+    },
+    {
+     "w": "must",
+     "t": 3.2
+    },
+    {
+     "w": "say",
+     "t": 3.413
+    },
+    {
+     "w": "Just",
+     "t": 4.12
+    },
+    {
+     "w": "one",
+     "t": 4.427
+    },
+    {
+     "w": "an",
+     "t": 5.04
+    },
+    {
+     "w": "invitation",
+     "t": 5.158
+    },
+    {
+     "w": "not",
+     "t": 5.818
+    },
+    {
+     "w": "a",
+     "t": 5.984
+    },
+    {
+     "w": "claim",
+     "t": 6.031
+    },
+    {
+     "w": "repeated",
+     "t": 6.738
+    },
+    {
+     "w": "in",
+     "t": 7.222
+    },
+    {
+     "w": "new",
+     "t": 7.363
+    },
+    {
+     "w": "ways",
+     "t": 7.564
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "In the meeting, the client wants to say everything: cheaper, faster, greener, tastier. The creative's eyes glaze over.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "l"
+    },
+    {
+     "id": "e1",
+     "look": "exec",
+     "at": "table",
+     "v": 2
+    },
+    {
+     "id": "cr",
+     "look": "student",
+     "at": "table2",
+     "v": 5
+    }
+   ],
+   "acts": [
+    {
+     "who": "e1",
+     "cue": "everything",
+     "pose": "up",
+     "expr": "grin",
+     "at": 2.281
+    },
+    {
+     "who": "cr",
+     "cue": "glaze",
+     "pose": "none",
+     "expr": "dazed",
+     "at": 7.304
+    }
+   ],
+   "fx": [
+    {
+     "kind": "say",
+     "who": "e1",
+     "cue": "cheaper",
+     "text": "Cheaper! Faster! Greener!",
+     "at": 3.118
+    },
+    {
+     "kind": "zzz",
+     "who": "cr",
+     "cue": "glaze",
+     "at": 7.304
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "cheaper",
+     "shot": "actor",
+     "who": "e1",
+     "at": 3.118
+    },
+    {
+     "cue": "glaze",
+     "shot": "close",
+     "who": "cr",
+     "at": 7.304
+    }
+   ],
+   "audio": "audio/m-single-minded-proposition-01.mp3",
+   "leadIn": 0.45,
+   "seconds": 8.922,
+   "words": [
+    {
+     "w": "In",
+     "t": 0.5
+    },
+    {
+     "w": "the",
+     "t": 0.677
+    },
+    {
+     "w": "meeting",
+     "t": 0.724
+    },
+    {
+     "w": "the",
+     "t": 1.361
+    },
+    {
+     "w": "client",
+     "t": 1.443
+    },
+    {
+     "w": "wants",
+     "t": 1.797
+    },
+    {
+     "w": "to",
+     "t": 1.962
+    },
+    {
+     "w": "say",
+     "t": 2.033
+    },
+    {
+     "w": "everything",
+     "t": 2.281
+    },
+    {
+     "w": "cheaper",
+     "t": 3.118
+    },
+    {
+     "w": "faster",
+     "t": 3.778
+    },
+    {
+     "w": "greener",
+     "t": 4.616
+    },
+    {
+     "w": "tastier",
+     "t": 5.264
+    },
+    {
+     "w": "The",
+     "t": 6.149
+    },
+    {
+     "w": "creative's",
+     "t": 6.29
+    },
+    {
+     "w": "eyes",
+     "t": 6.962
+    },
+    {
+     "w": "glaze",
+     "t": 7.304
+    },
+    {
+     "w": "over",
+     "t": 7.623
+    }
+   ]
+  },
+  {
+   "set": "street",
+   "say": "Baxter's rule: fifteen words or fewer, and the best billboards use six. Powerful wash in cold water. Instantly clear.",
+   "board": {
+    "title": "Powerful wash in **cold water.**",
+    "lines": [
+     {
+      "text": "Five words. **One idea.**",
+      "cue": "Instantly",
+      "at": 6.903
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "front"
+    },
+    {
+     "id": "p1",
+     "look": "shopper",
+     "at": "bus",
+     "v": 3
+    },
+    {
+     "id": "p2",
+     "look": "worker",
+     "at": "r",
+     "v": 4
+    }
+   ],
+   "acts": [
+    {
+     "who": "p1",
+     "cue": "Powerful",
+     "pose": "point",
+     "expr": "smile",
+     "at": 4.922
+    },
+    {
+     "who": "p2",
+     "cue": "clear",
+     "expr": "grin",
+     "at": 7.516
+    }
+   ],
+   "fx": [
+    {
+     "kind": "bulb",
+     "who": "p2",
+     "cue": "Instantly",
+     "at": 6.903
+    },
+    {
+     "kind": "tick",
+     "who": "p1",
+     "cue": "clear",
+     "at": 7.516
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "Powerful",
+     "shot": "board",
+     "at": 4.922
+    },
+    {
+     "cue": "Instantly",
+     "shot": "actor",
+     "who": "p2",
+     "at": 6.903
+    }
+   ],
+   "audio": "audio/m-single-minded-proposition-02.mp3",
+   "leadIn": 0.45,
+   "seconds": 8.898,
+   "words": [
+    {
+     "w": "Baxter's",
+     "t": 0.5
+    },
+    {
+     "w": "rule",
+     "t": 0.948
+    },
+    {
+     "w": "fifteen",
+     "t": 1.55
+    },
+    {
+     "w": "words",
+     "t": 1.986
+    },
+    {
+     "w": "or",
+     "t": 2.304
+    },
+    {
+     "w": "fewer",
+     "t": 2.34
+    },
+    {
+     "w": "and",
+     "t": 3.024
+    },
+    {
+     "w": "the",
+     "t": 3.153
+    },
+    {
+     "w": "best",
+     "t": 3.212
+    },
+    {
+     "w": "billboards",
+     "t": 3.495
+    },
+    {
+     "w": "use",
+     "t": 3.979
+    },
+    {
+     "w": "six",
+     "t": 4.144
+    },
+    {
+     "w": "Powerful",
+     "t": 4.922
+    },
+    {
+     "w": "wash",
+     "t": 5.453
+    },
+    {
+     "w": "in",
+     "t": 5.783
+    },
+    {
+     "w": "cold",
+     "t": 5.96
+    },
+    {
+     "w": "water",
+     "t": 6.196
+    },
+    {
+     "w": "Instantly",
+     "t": 6.903
+    },
+    {
+     "w": "clear",
+     "t": 7.516
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "So cut every message down to one, make it an invitation, and repeat it until it's yours.",
+   "board": {
+    "title": "Use it **like this**",
+    "lines": [
+     {
+      "text": "Cut it to **one**",
+      "cue": "one",
+      "at": 1.998
+     },
+     {
+      "text": "Make it an **invitation**",
+      "cue": "invitation",
+      "at": 3.047
+     },
+     {
+      "text": "**Repeat** until it's yours",
+      "cue": "repeat",
+      "at": 4.05
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "point"
+    },
+    {
+     "id": "e1",
+     "look": "exec_f",
+     "at": "table",
+     "v": 1
+    }
+   ],
+   "acts": [
+    {
+     "who": "e1",
+     "cue": "yours",
+     "pose": "cheer",
+     "expr": "grin",
+     "at": 4.958
+    }
+   ],
+   "fx": [
+    {
+     "kind": "tick",
+     "who": "e1",
+     "cue": "yours",
+     "at": 4.958
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "yours",
+     "shot": "two",
+     "who": "e1",
+     "at": 4.958
+    }
+   ],
+   "hold": 1.0,
+   "audio": "audio/m-single-minded-proposition-03.mp3",
+   "leadIn": 0.45,
+   "seconds": 6.778,
+   "words": [
+    {
+     "w": "So",
+     "t": 0.5
+    },
+    {
+     "w": "cut",
+     "t": 0.83
+    },
+    {
+     "w": "every",
+     "t": 1.137
+    },
+    {
+     "w": "message",
+     "t": 1.361
+    },
+    {
+     "w": "down",
+     "t": 1.726
+    },
+    {
+     "w": "to",
+     "t": 1.927
+    },
+    {
+     "w": "one",
+     "t": 1.998
+    },
+    {
+     "w": "make",
+     "t": 2.634
+    },
+    {
+     "w": "it",
+     "t": 2.894
+    },
+    {
+     "w": "an",
+     "t": 2.965
+    },
+    {
+     "w": "invitation",
+     "t": 3.047
+    },
+    {
+     "w": "and",
+     "t": 3.908
+    },
+    {
+     "w": "repeat",
+     "t": 4.05
+    },
+    {
+     "w": "it",
+     "t": 4.391
+    },
+    {
+     "w": "until",
+     "t": 4.509
+    },
+    {
+     "w": "it's",
+     "t": 4.84
+    },
+    {
+     "w": "yours",
+     "t": 4.958
+    }
+   ]
+  }
+ ],
+ "id": "m-single-minded-proposition",
+ "total": 33.6
+}

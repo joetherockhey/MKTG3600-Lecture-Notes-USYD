@@ -1,0 +1,276 @@
+{
+ "week": 0,
+ "title": "The volatility moat: equity, reputation and crisis response",
+ "speaker": "Justin Papps, Tenet, Week 3",
+ "beats": [
+  {
+   "set": "stage",
+   "say": "The volatility moat. Strong brands survive turbulence when brand equity, reputation and crisis response all work together.",
+   "board": {
+    "title": "The **volatility moat**",
+    "steps": [
+     {
+      "text": "**Brand equity**: mind + money",
+      "cue": "equity"
+     },
+     {
+      "text": "**Reputation**: how you're judged",
+      "cue": "reputation"
+     },
+     {
+      "text": "**Crisis response**: how you act",
+      "cue": "crisis"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "a",
+     "look": "student",
+     "at": "front",
+     "v": 2
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "together",
+     "pose": "up",
+     "expr": "grin"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "together",
+     "shot": "close"
+    }
+   ]
+  },
+  {
+   "set": "plaza",
+   "say": "KFC in the UK once ran out of chicken. Customers turned up to closed doors, and they were furious.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "l"
+    },
+    {
+     "id": "s1",
+     "look": "shopper",
+     "at": "shop",
+     "v": 3
+    },
+    {
+     "id": "s2",
+     "look": "student",
+     "at": "r",
+     "v": 2
+    }
+   ],
+   "acts": [
+    {
+     "who": "s1",
+     "cue": "closed",
+     "expr": "shock"
+    },
+    {
+     "who": "s2",
+     "cue": "furious",
+     "pose": "hips",
+     "expr": "stern"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "exclaim",
+     "who": "s1",
+     "cue": "closed"
+    },
+    {
+     "kind": "cross",
+     "who": "s2",
+     "cue": "furious"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "closed",
+     "shot": "actor",
+     "who": "s1"
+    },
+    {
+     "cue": "furious",
+     "shot": "actor",
+     "who": "s2"
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "But the brand owned it with a cheeky apology, and kept its equity and reputation. Tesla broke all three legs. VW survived on equity alone.",
+   "board": {
+    "title": "Three **legs**",
+    "lines": [
+     {
+      "text": "**KFC UK**: kept all three",
+      "cue": "kept"
+     },
+     {
+      "text": "**Tesla**: broke all three",
+      "cue": "Tesla"
+     },
+     {
+      "text": "**VW**: equity alone",
+      "cue": "survived"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "l"
+    },
+    {
+     "id": "e1",
+     "look": "exec_f",
+     "at": "table",
+     "v": 1,
+     "hold": "laptop",
+     "pose": "hold"
+    },
+    {
+     "id": "e2",
+     "look": "exec",
+     "at": "table2",
+     "v": 2
+    }
+   ],
+   "acts": [
+    {
+     "who": "e1",
+     "cue": "apology",
+     "expr": "laugh"
+    },
+    {
+     "who": "e2",
+     "cue": "broke",
+     "expr": "shock"
+    },
+    {
+     "who": "host",
+     "cue": "survived",
+     "pose": "shrug"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "heart",
+     "who": "e1",
+     "cue": "apology"
+    },
+    {
+     "kind": "tick",
+     "who": "e1",
+     "cue": "kept"
+    },
+    {
+     "kind": "cross",
+     "who": "e2",
+     "cue": "broke"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "apology",
+     "shot": "actor",
+     "who": "e1"
+    },
+    {
+     "cue": "Tesla",
+     "shot": "board"
+    },
+    {
+     "cue": "survived",
+     "shot": "close"
+    }
+   ]
+  },
+  {
+   "set": "stage",
+   "say": "Use it like this: test a brand on all three legs before a crisis hits, not after.",
+   "board": {
+    "title": "Use it like **this**",
+    "lines": [
+     {
+      "text": "Test **all three** legs",
+      "cue": "test"
+     },
+     {
+      "text": "**Before** the crisis",
+      "cue": "before"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "a",
+     "look": "student",
+     "at": "front",
+     "v": 5
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "after",
+     "pose": "point",
+     "expr": "stern"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "exclaim",
+     "who": "a",
+     "cue": "after"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "after",
+     "shot": "close"
+    }
+   ],
+   "hold": 1.0
+  }
+ ]
+}

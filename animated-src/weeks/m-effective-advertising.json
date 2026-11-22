@@ -1,0 +1,286 @@
+{
+ "week": 0,
+ "title": "What the most effective advertising is (famous, emotional, single-minded, memorable)",
+ "speaker": "Andrew Baxter, Australian Pork Limited, Week 8; drawing on UK effectiveness research",
+ "beats": [
+  {
+   "set": "stage",
+   "say": "The most effective advertising is famous, emotional, single-minded and memorable. And differentiation is the biggest brand driver of all.",
+   "board": {
+    "title": "The most **effective** ads",
+    "steps": [
+     {
+      "text": "**Famous**: 72% outsell rivals",
+      "cue": "famous"
+     },
+     {
+      "text": "**Emotional**: about 62% succeed",
+      "cue": "emotional"
+     },
+     {
+      "text": "**Single-minded**: one message",
+      "cue": "single"
+     },
+     {
+      "text": "**Memorable**: story, music, colour",
+      "cue": "memorable"
+     },
+     {
+      "text": "**Differentiation**: top driver",
+      "cue": "differentiation"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "a",
+     "look": "student",
+     "v": 2,
+     "at": "r"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "differentiation",
+     "pose": "up",
+     "expr": "grin"
+    },
+    {
+     "who": "a",
+     "cue": "driver",
+     "expr": "smile"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "stars",
+     "who": "host",
+     "cue": "famous"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "differentiation",
+     "shot": "close"
+    }
+   ]
+  },
+  {
+   "set": "plaza",
+   "say": "Share a Coke put names on the bottles. People hunted for their own name and shared the photos. Famous, and personal.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "c",
+     "pose": "none"
+    },
+    {
+     "id": "s1",
+     "look": "shopper",
+     "v": 1,
+     "at": "shelf"
+    },
+    {
+     "id": "s2",
+     "look": "student",
+     "v": 2,
+     "at": "walkL",
+     "to": "l",
+     "walkCue": "hunted",
+     "hold": "phone",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "s1",
+     "cue": "names",
+     "pose": "cheer",
+     "expr": "grin"
+    },
+    {
+     "who": "s2",
+     "cue": "shared",
+     "expr": "laugh"
+    },
+    {
+     "who": "host",
+     "cue": "personal",
+     "pose": "present",
+     "expr": "smile"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "say",
+     "who": "s1",
+     "cue": "names",
+     "text": "That's my name!"
+    },
+    {
+     "kind": "heart",
+     "who": "s2",
+     "cue": "shared"
+    },
+    {
+     "kind": "stars",
+     "who": "host",
+     "cue": "Famous"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "names",
+     "shot": "actor",
+     "who": "s1"
+    },
+    {
+     "cue": "shared",
+     "shot": "actor",
+     "who": "s2"
+    },
+    {
+     "cue": "Famous",
+     "shot": "close"
+    }
+   ]
+  },
+  {
+   "set": "home",
+   "say": "Why emotion? Around ninety-five percent of buying is intuitive, so feelings beat facts.",
+   "board": {
+    "big": "95%",
+    "caption": "of purchases are **intuitive**",
+    "cue": "ninety"
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "l",
+     "pose": "none"
+    },
+    {
+     "id": "p",
+     "look": "shopper",
+     "v": 3,
+     "at": "sofa",
+     "mode": "sit"
+    },
+    {
+     "id": "q",
+     "look": "elder",
+     "v": 2,
+     "at": "sofa2",
+     "mode": "sit"
+    }
+   ],
+   "acts": [
+    {
+     "who": "p",
+     "cue": "intuitive",
+     "expr": "smile"
+    },
+    {
+     "who": "q",
+     "cue": "feelings",
+     "expr": "relief_open"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "brain",
+     "who": "p",
+     "cue": "intuitive"
+    },
+    {
+     "kind": "heart",
+     "who": "q",
+     "cue": "feelings"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "ninety",
+     "shot": "board"
+    },
+    {
+     "cue": "feelings",
+     "shot": "actor",
+     "who": "q"
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Use it as a checklist: score the campaign on each trait, and fix the weakest one first.",
+   "board": {
+    "title": "Use it as a **checklist**",
+    "lines": [
+     {
+      "text": "Score each **trait**",
+      "cue": "trait"
+     },
+     {
+      "text": "Fix the **weakest** first",
+      "cue": "weakest"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "point"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "weakest",
+     "pose": "cheer",
+     "expr": "grin"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "tick",
+     "who": "host",
+     "cue": "weakest"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "weakest",
+     "shot": "close"
+    }
+   ],
+   "hold": 1.0
+  }
+ ]
+}

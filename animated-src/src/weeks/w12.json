@@ -1,0 +1,3571 @@
+{
+ "week": 12,
+ "title": "Measuring what matters",
+ "speaker": "Nicky Barton",
+ "beats": [
+  {
+   "set": "stage",
+   "say": "Week twelve: measuring what matters. Nicky Barton, Head of Marketing Science at Mutinex, on how marketers work out what actually works.",
+   "board": {
+    "photo": "photos/w12.jpg",
+    "title": "Measuring **what matters**",
+    "name": "Nicky Barton",
+    "org": "Head of Marketing Science, Mutinex"
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "s1",
+     "look": "student",
+     "v": 1,
+     "at": "aisle"
+    },
+    {
+     "id": "s2",
+     "look": "student",
+     "v": 2,
+     "at": "aisle2"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "Nicky",
+     "shot": "board",
+     "at": 3.212
+    }
+   ],
+   "audio": "audio/w12-00.mp3",
+   "leadIn": 0.45,
+   "seconds": 9.354,
+   "words": [
+    {
+     "w": "Week",
+     "t": 0.5
+    },
+    {
+     "w": "twelve",
+     "t": 0.854
+    },
+    {
+     "w": "measuring",
+     "t": 1.703
+    },
+    {
+     "w": "what",
+     "t": 2.222
+    },
+    {
+     "w": "matters",
+     "t": 2.399
+    },
+    {
+     "w": "Nicky",
+     "t": 3.212
+    },
+    {
+     "w": "Barton",
+     "t": 3.566
+    },
+    {
+     "w": "Head",
+     "t": 4.238
+    },
+    {
+     "w": "of",
+     "t": 4.427
+    },
+    {
+     "w": "Marketing",
+     "t": 4.533
+    },
+    {
+     "w": "Science",
+     "t": 4.91
+    },
+    {
+     "w": "at",
+     "t": 5.3
+    },
+    {
+     "w": "Mutinex",
+     "t": 5.37
+    },
+    {
+     "w": "on",
+     "t": 6.184
+    },
+    {
+     "w": "how",
+     "t": 6.325
+    },
+    {
+     "w": "marketers",
+     "t": 6.502
+    },
+    {
+     "w": "work",
+     "t": 6.974
+    },
+    {
+     "w": "out",
+     "t": 7.222
+    },
+    {
+     "w": "what",
+     "t": 7.399
+    },
+    {
+     "w": "actually",
+     "t": 7.575
+    },
+    {
+     "w": "works",
+     "t": 7.965
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Mutinex helps brands find what drives sales. GrowthOS reads the market, Nicky's team translates, and brands decide where the next dollar goes.",
+   "board": {
+    "title": "Good decisions need **evidence**",
+    "steps": [
+     {
+      "text": "**GrowthOS** reads the market",
+      "cue": "GrowthOS",
+      "at": 3.507
+     },
+     {
+      "text": "**The team** translates",
+      "cue": "team",
+      "at": 5.535
+     },
+     {
+      "text": "**Brands** decide the next dollar",
+      "cue": "brands decide",
+      "at": 6.809
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "point"
+    },
+    {
+     "id": "an",
+     "look": "worker",
+     "v": 2,
+     "at": "desk",
+     "hold": "laptop",
+     "pose": "hold"
+    },
+    {
+     "id": "ceo",
+     "look": "exec_f",
+     "v": 1,
+     "at": "table"
+    }
+   ],
+   "acts": [
+    {
+     "who": "ceo",
+     "cue": "decide",
+     "pose": "chin",
+     "at": 7.163
+    }
+   ],
+   "fx": [
+    {
+     "kind": "chart",
+     "who": "an",
+     "cue": "reads",
+     "at": 4.167
+    },
+    {
+     "kind": "money",
+     "who": "ceo",
+     "cue": "dollar",
+     "at": 8.059
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "translates",
+     "shot": "actor",
+     "who": "an",
+     "at": 5.759
+    },
+    {
+     "cue": "decide",
+     "shot": "two",
+     "who": "ceo",
+     "at": 7.163
+    }
+   ],
+   "audio": "audio/w12-01.mp3",
+   "leadIn": 0.45,
+   "seconds": 9.642,
+   "words": [
+    {
+     "w": "Mutinex",
+     "t": 0.5
+    },
+    {
+     "w": "helps",
+     "t": 1.125
+    },
+    {
+     "w": "brands",
+     "t": 1.361
+    },
+    {
+     "w": "find",
+     "t": 1.762
+    },
+    {
+     "w": "what",
+     "t": 2.139
+    },
+    {
+     "w": "drives",
+     "t": 2.316
+    },
+    {
+     "w": "sales",
+     "t": 2.646
+    },
+    {
+     "w": "GrowthOS",
+     "t": 3.507
+    },
+    {
+     "w": "reads",
+     "t": 4.167
+    },
+    {
+     "w": "the",
+     "t": 4.427
+    },
+    {
+     "w": "market",
+     "t": 4.486
+    },
+    {
+     "w": "Nicky's",
+     "t": 5.146
+    },
+    {
+     "w": "team",
+     "t": 5.535
+    },
+    {
+     "w": "translates",
+     "t": 5.759
+    },
+    {
+     "w": "and",
+     "t": 6.667
+    },
+    {
+     "w": "brands",
+     "t": 6.809
+    },
+    {
+     "w": "decide",
+     "t": 7.163
+    },
+    {
+     "w": "where",
+     "t": 7.611
+    },
+    {
+     "w": "the",
+     "t": 7.729
+    },
+    {
+     "w": "next",
+     "t": 7.8
+    },
+    {
+     "w": "dollar",
+     "t": 8.059
+    },
+    {
+     "w": "goes",
+     "t": 8.224
+    }
+   ]
+  },
+  {
+   "set": "street",
+   "say": "London, 1854. Cholera spread through Soho and experts blamed bad air. But data on where the deaths happened pointed to the water.",
+   "board": {
+    "title": "London, **1854**",
+    "vs": {
+     "left": "Experts said",
+     "right": "Data said",
+     "leftItems": [
+      "Bad air"
+     ],
+     "rightItems": [
+      "The water"
+     ],
+     "cue": "experts",
+     "at": 4.486
+    }
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "front",
+     "pose": "chin"
+    },
+    {
+     "id": "doc",
+     "look": "elder",
+     "v": 3,
+     "at": "l",
+     "pose": "up",
+     "expr": "stern"
+    },
+    {
+     "id": "w",
+     "look": "worker",
+     "v": 5,
+     "at": "r",
+     "hold": "clipboard",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "w",
+     "cue": "water",
+     "pose": "point",
+     "expr": "shock",
+     "at": 8.46
+    }
+   ],
+   "fx": [
+    {
+     "kind": "say",
+     "who": "doc",
+     "text": "It's the bad air!",
+     "cue": "blamed",
+     "at": 4.946
+    },
+    {
+     "kind": "exclaim",
+     "who": "w",
+     "cue": "water",
+     "at": 8.46
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "blamed",
+     "shot": "two",
+     "who": "doc",
+     "at": 4.946
+    },
+    {
+     "cue": "data",
+     "shot": "board",
+     "at": 6.408
+    },
+    {
+     "cue": "water",
+     "shot": "close",
+     "who": "w",
+     "at": 8.46
+    }
+   ],
+   "audio": "audio/w12-02.mp3",
+   "leadIn": 0.45,
+   "seconds": 9.834,
+   "words": [
+    {
+     "w": "London",
+     "t": 0.5
+    },
+    {
+     "w": "1854",
+     "t": 1.408
+    },
+    {
+     "w": "Cholera",
+     "t": 2.87
+    },
+    {
+     "w": "spread",
+     "t": 3.283
+    },
+    {
+     "w": "through",
+     "t": 3.613
+    },
+    {
+     "w": "Soho",
+     "t": 3.79
+    },
+    {
+     "w": "and",
+     "t": 4.262
+    },
+    {
+     "w": "experts",
+     "t": 4.486
+    },
+    {
+     "w": "blamed",
+     "t": 4.946
+    },
+    {
+     "w": "bad",
+     "t": 5.288
+    },
+    {
+     "w": "air",
+     "t": 5.524
+    },
+    {
+     "w": "But",
+     "t": 6.196
+    },
+    {
+     "w": "data",
+     "t": 6.408
+    },
+    {
+     "w": "on",
+     "t": 6.726
+    },
+    {
+     "w": "where",
+     "t": 6.891
+    },
+    {
+     "w": "the",
+     "t": 7.057
+    },
+    {
+     "w": "deaths",
+     "t": 7.139
+    },
+    {
+     "w": "happened",
+     "t": 7.516
+    },
+    {
+     "w": "pointed",
+     "t": 7.929
+    },
+    {
+     "w": "to",
+     "t": 8.318
+    },
+    {
+     "w": "the",
+     "t": 8.389
+    },
+    {
+     "w": "water",
+     "t": 8.46
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Marketing had the same problem. For decades it ran on surveys, sales data months late, and the gut feel of the most senior person in the room.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "front"
+    },
+    {
+     "id": "boss",
+     "look": "exec",
+     "v": 5,
+     "at": "c",
+     "pose": "hips",
+     "expr": "stern"
+    },
+    {
+     "id": "j1",
+     "look": "worker",
+     "v": 1,
+     "at": "table",
+     "hold": "clipboard",
+     "pose": "hold"
+    },
+    {
+     "id": "j2",
+     "look": "exec_f",
+     "v": 4,
+     "at": "table2"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "surveys",
+     "pose": "shrug",
+     "at": 3.625
+    },
+    {
+     "who": "boss",
+     "cue": "gut",
+     "pose": "point",
+     "at": 6.054
+    },
+    {
+     "who": "j2",
+     "cue": "senior",
+     "pose": "shrug",
+     "expr": "nervous",
+     "at": 6.962
+    }
+   ],
+   "fx": [
+    {
+     "kind": "clock",
+     "who": "j1",
+     "cue": "months",
+     "at": 5.04
+    },
+    {
+     "kind": "say",
+     "who": "boss",
+     "text": "Trust my gut.",
+     "cue": "gut",
+     "at": 6.054
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "gut",
+     "shot": "actor",
+     "who": "boss",
+     "at": 6.054
+    },
+    {
+     "cue": "room",
+     "shot": "close",
+     "who": "j2",
+     "at": 7.693
+    }
+   ],
+   "audio": "audio/w12-03.mp3",
+   "leadIn": 0.45,
+   "seconds": 9.018,
+   "words": [
+    {
+     "w": "Marketing",
+     "t": 0.5
+    },
+    {
+     "w": "had",
+     "t": 1.042
+    },
+    {
+     "w": "the",
+     "t": 1.255
+    },
+    {
+     "w": "same",
+     "t": 1.325
+    },
+    {
+     "w": "problem",
+     "t": 1.62
+    },
+    {
+     "w": "For",
+     "t": 2.434
+    },
+    {
+     "w": "decades",
+     "t": 2.717
+    },
+    {
+     "w": "it",
+     "t": 3.189
+    },
+    {
+     "w": "ran",
+     "t": 3.283
+    },
+    {
+     "w": "on",
+     "t": 3.519
+    },
+    {
+     "w": "surveys",
+     "t": 3.625
+    },
+    {
+     "w": "sales",
+     "t": 4.415
+    },
+    {
+     "w": "data",
+     "t": 4.828
+    },
+    {
+     "w": "months",
+     "t": 5.04
+    },
+    {
+     "w": "late",
+     "t": 5.311
+    },
+    {
+     "w": "and",
+     "t": 5.877
+    },
+    {
+     "w": "the",
+     "t": 5.995
+    },
+    {
+     "w": "gut",
+     "t": 6.054
+    },
+    {
+     "w": "feel",
+     "t": 6.266
+    },
+    {
+     "w": "of",
+     "t": 6.585
+    },
+    {
+     "w": "the",
+     "t": 6.667
+    },
+    {
+     "w": "most",
+     "t": 6.726
+    },
+    {
+     "w": "senior",
+     "t": 6.962
+    },
+    {
+     "w": "person",
+     "t": 7.269
+    },
+    {
+     "w": "in",
+     "t": 7.575
+    },
+    {
+     "w": "the",
+     "t": 7.646
+    },
+    {
+     "w": "room",
+     "t": 7.693
+    }
+   ]
+  },
+  {
+   "set": "home",
+   "say": "Then tracking grew. Banner ads showed clicks, AdWords intent, analytics visits, Facebook and the iPhone who you are, and the pixel what you buy.",
+   "board": {
+    "title": "Seeing a bit **more**",
+    "steps": [
+     {
+      "text": "**Banner ads**: clicks",
+      "cue": "Banner",
+      "at": 2.068
+     },
+     {
+      "text": "**AdWords**: intent",
+      "cue": "AdWords",
+      "at": 3.637
+     },
+     {
+      "text": "**Analytics**: visits",
+      "cue": "analytics",
+      "at": 4.698
+     },
+     {
+      "text": "**Facebook, iPhone**: who you are",
+      "cue": "Facebook",
+      "at": 5.712
+     },
+     {
+      "text": "**The pixel**: what you buy",
+      "cue": "pixel",
+      "at": 7.894
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "tv",
+     "pose": "point"
+    },
+    {
+     "id": "a",
+     "look": "student",
+     "v": 3,
+     "at": "sofa",
+     "mode": "sit",
+     "hold": "phone",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "a",
+     "cue": "who",
+     "expr": "nervous",
+     "at": 6.915
+    }
+   ],
+   "fx": [
+    {
+     "kind": "eye",
+     "who": "a",
+     "cue": "who",
+     "at": 6.915
+    },
+    {
+     "kind": "money",
+     "who": "a",
+     "cue": "buy",
+     "at": 8.472
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "who",
+     "shot": "actor",
+     "who": "a",
+     "at": 6.915
+    },
+    {
+     "cue": "pixel",
+     "shot": "wide",
+     "at": 7.894
+    }
+   ],
+   "audio": "audio/w12-04.mp3",
+   "leadIn": 0.45,
+   "seconds": 9.81,
+   "words": [
+    {
+     "w": "Then",
+     "t": 0.5
+    },
+    {
+     "w": "tracking",
+     "t": 0.925
+    },
+    {
+     "w": "grew",
+     "t": 1.337
+    },
+    {
+     "w": "Banner",
+     "t": 2.068
+    },
+    {
+     "w": "ads",
+     "t": 2.434
+    },
+    {
+     "w": "showed",
+     "t": 2.729
+    },
+    {
+     "w": "clicks",
+     "t": 3.024
+    },
+    {
+     "w": "AdWords",
+     "t": 3.637
+    },
+    {
+     "w": "intent",
+     "t": 4.05
+    },
+    {
+     "w": "analytics",
+     "t": 4.698
+    },
+    {
+     "w": "visits",
+     "t": 5.17
+    },
+    {
+     "w": "Facebook",
+     "t": 5.712
+    },
+    {
+     "w": "and",
+     "t": 6.255
+    },
+    {
+     "w": "the",
+     "t": 6.396
+    },
+    {
+     "w": "iPhone",
+     "t": 6.55
+    },
+    {
+     "w": "who",
+     "t": 6.915
+    },
+    {
+     "w": "you",
+     "t": 7.033
+    },
+    {
+     "w": "are",
+     "t": 7.186
+    },
+    {
+     "w": "and",
+     "t": 7.705
+    },
+    {
+     "w": "the",
+     "t": 7.823
+    },
+    {
+     "w": "pixel",
+     "t": 7.894
+    },
+    {
+     "w": "what",
+     "t": 8.248
+    },
+    {
+     "w": "you",
+     "t": 8.401
+    },
+    {
+     "w": "buy",
+     "t": 8.472
+    }
+   ]
+  },
+  {
+   "set": "stage",
+   "say": "So last touch became the default: the last click gets all the credit. It's a group assignment where whoever hits submit gets the whole mark.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "lectern",
+     "pose": "present"
+    },
+    {
+     "id": "s1",
+     "look": "student",
+     "v": 4,
+     "at": "l",
+     "hold": "laptop",
+     "pose": "hold"
+    },
+    {
+     "id": "s2",
+     "look": "student",
+     "v": 5,
+     "at": "front"
+    },
+    {
+     "id": "s3",
+     "look": "student",
+     "v": 6,
+     "at": "r"
+    }
+   ],
+   "acts": [
+    {
+     "who": "s1",
+     "cue": "submit",
+     "pose": "cheer",
+     "expr": "grin",
+     "at": 6.231
+    },
+    {
+     "who": "s2",
+     "cue": "whole",
+     "pose": "shrug",
+     "expr": "shock",
+     "at": 6.962
+    },
+    {
+     "who": "s3",
+     "cue": "mark",
+     "pose": "hips",
+     "expr": "stern",
+     "at": 7.127
+    }
+   ],
+   "fx": [
+    {
+     "kind": "tick",
+     "who": "s1",
+     "cue": "submit",
+     "at": 6.231
+    },
+    {
+     "kind": "say",
+     "who": "s2",
+     "text": "I wrote it!",
+     "cue": "whole",
+     "at": 6.962
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "group",
+     "shot": "two",
+     "who": "s1",
+     "at": 4.757
+    },
+    {
+     "cue": "whole",
+     "shot": "close",
+     "who": "s2",
+     "at": 6.962
+    }
+   ],
+   "audio": "audio/w12-05.mp3",
+   "leadIn": 0.45,
+   "seconds": 8.466,
+   "words": [
+    {
+     "w": "So",
+     "t": 0.5
+    },
+    {
+     "w": "last",
+     "t": 0.807
+    },
+    {
+     "w": "touch",
+     "t": 1.09
+    },
+    {
+     "w": "became",
+     "t": 1.408
+    },
+    {
+     "w": "the",
+     "t": 1.738
+    },
+    {
+     "w": "default",
+     "t": 1.785
+    },
+    {
+     "w": "the",
+     "t": 2.564
+    },
+    {
+     "w": "last",
+     "t": 2.658
+    },
+    {
+     "w": "click",
+     "t": 2.988
+    },
+    {
+     "w": "gets",
+     "t": 3.295
+    },
+    {
+     "w": "all",
+     "t": 3.519
+    },
+    {
+     "w": "the",
+     "t": 3.708
+    },
+    {
+     "w": "credit",
+     "t": 3.767
+    },
+    {
+     "w": "It's",
+     "t": 4.521
+    },
+    {
+     "w": "a",
+     "t": 4.71
+    },
+    {
+     "w": "group",
+     "t": 4.757
+    },
+    {
+     "w": "assignment",
+     "t": 4.993
+    },
+    {
+     "w": "where",
+     "t": 5.488
+    },
+    {
+     "w": "whoever",
+     "t": 5.653
+    },
+    {
+     "w": "hits",
+     "t": 6.007
+    },
+    {
+     "w": "submit",
+     "t": 6.231
+    },
+    {
+     "w": "gets",
+     "t": 6.667
+    },
+    {
+     "w": "the",
+     "t": 6.88
+    },
+    {
+     "w": "whole",
+     "t": 6.962
+    },
+    {
+     "w": "mark",
+     "t": 7.127
+    }
+   ]
+  },
+  {
+   "set": "plaza",
+   "say": "Picture this shopper. She saw a billboard, heard the radio, then clicked a search ad. The billboard gets zero credit, the search ad a hundred percent.",
+   "board": {
+    "title": "Who gets the **credit**?",
+    "bars": [
+     {
+      "label": "Billboard",
+      "value": 0,
+      "display": "0%",
+      "cue": "zero",
+      "at": 6.443
+     },
+     {
+      "label": "Search ad",
+      "value": 100,
+      "display": "100%",
+      "cue": "hundred",
+      "at": 8.13
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "front"
+    },
+    {
+     "id": "sh",
+     "look": "shopper",
+     "v": 1,
+     "at": "walkR",
+     "to": "l",
+     "hold": "phone",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "sh",
+     "cue": "billboard",
+     "expr": "smile",
+     "at": 2.34
+    },
+    {
+     "who": "sh",
+     "cue": "clicked",
+     "expr": "grin",
+     "at": 4.274
+    },
+    {
+     "who": "host",
+     "cue": "zero",
+     "pose": "shrug",
+     "expr": "nervous",
+     "at": 6.443
+    }
+   ],
+   "fx": [
+    {
+     "kind": "eye",
+     "who": "sh",
+     "cue": "billboard",
+     "at": 2.34
+    },
+    {
+     "kind": "think",
+     "who": "sh",
+     "text": "That song again",
+     "cue": "radio",
+     "at": 3.377
+    },
+    {
+     "kind": "cross",
+     "who": "host",
+     "cue": "zero",
+     "at": 6.443
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "radio",
+     "shot": "two",
+     "who": "sh",
+     "at": 3.377
+    },
+    {
+     "cue": "zero",
+     "shot": "board",
+     "at": 6.443
+    }
+   ],
+   "audio": "audio/w12-06.mp3",
+   "leadIn": 0.45,
+   "seconds": 9.858,
+   "words": [
+    {
+     "w": "Picture",
+     "t": 0.5
+    },
+    {
+     "w": "this",
+     "t": 0.913
+    },
+    {
+     "w": "shopper",
+     "t": 1.066
+    },
+    {
+     "w": "She",
+     "t": 1.856
+    },
+    {
+     "w": "saw",
+     "t": 2.068
+    },
+    {
+     "w": "a",
+     "t": 2.304
+    },
+    {
+     "w": "billboard",
+     "t": 2.34
+    },
+    {
+     "w": "heard",
+     "t": 3.059
+    },
+    {
+     "w": "the",
+     "t": 3.318
+    },
+    {
+     "w": "radio",
+     "t": 3.377
+    },
+    {
+     "w": "then",
+     "t": 4.097
+    },
+    {
+     "w": "clicked",
+     "t": 4.274
+    },
+    {
+     "w": "a",
+     "t": 4.545
+    },
+    {
+     "w": "search",
+     "t": 4.58
+    },
+    {
+     "w": "ad",
+     "t": 4.887
+    },
+    {
+     "w": "The",
+     "t": 5.559
+    },
+    {
+     "w": "billboard",
+     "t": 5.7
+    },
+    {
+     "w": "gets",
+     "t": 6.219
+    },
+    {
+     "w": "zero",
+     "t": 6.443
+    },
+    {
+     "w": "credit",
+     "t": 6.738
+    },
+    {
+     "w": "the",
+     "t": 7.434
+    },
+    {
+     "w": "search",
+     "t": 7.552
+    },
+    {
+     "w": "ad",
+     "t": 7.894
+    },
+    {
+     "w": "a",
+     "t": 8.083
+    },
+    {
+     "w": "hundred",
+     "t": 8.13
+    },
+    {
+     "w": "percent",
+     "t": 8.448
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "So budgets flow to the bottom of the funnel, brand looks useless, and mental availability shrinks. Nike went direct, pulled back from retail, and people stopped seeing it.",
+   "board": {
+    "title": "Starving the **brand**",
+    "steps": [
+     {
+      "text": "**Awareness**",
+      "cue": "brand",
+      "at": 2.823
+     },
+     {
+      "text": "**Consideration**",
+      "cue": "useless",
+      "at": 3.377
+     },
+     {
+      "text": "**Conversion** gets the money",
+      "cue": "mental",
+      "at": 4.274
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "point"
+    },
+    {
+     "id": "cmo",
+     "look": "exec",
+     "v": 2,
+     "at": "table",
+     "expr": "smile"
+    }
+   ],
+   "acts": [
+    {
+     "who": "cmo",
+     "cue": "budgets",
+     "pose": "point",
+     "expr": "grin",
+     "at": 0.818
+    },
+    {
+     "who": "cmo",
+     "cue": "stopped",
+     "pose": "chin",
+     "expr": "pained",
+     "at": 9.108
+    }
+   ],
+   "fx": [
+    {
+     "kind": "money",
+     "who": "cmo",
+     "cue": "budgets",
+     "at": 0.818
+    },
+    {
+     "kind": "question",
+     "who": "cmo",
+     "cue": "stopped",
+     "at": 9.108
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "Nike",
+     "shot": "two",
+     "who": "cmo",
+     "at": 5.984
+    },
+    {
+     "cue": "stopped",
+     "shot": "close",
+     "who": "cmo",
+     "at": 9.108
+    }
+   ],
+   "audio": "audio/w12-07.mp3",
+   "leadIn": 0.45,
+   "seconds": 10.77,
+   "words": [
+    {
+     "w": "So",
+     "t": 0.5
+    },
+    {
+     "w": "budgets",
+     "t": 0.818
+    },
+    {
+     "w": "flow",
+     "t": 1.196
+    },
+    {
+     "w": "to",
+     "t": 1.455
+    },
+    {
+     "w": "the",
+     "t": 1.538
+    },
+    {
+     "w": "bottom",
+     "t": 1.609
+    },
+    {
+     "w": "of",
+     "t": 1.927
+    },
+    {
+     "w": "the",
+     "t": 1.998
+    },
+    {
+     "w": "funnel",
+     "t": 2.057
+    },
+    {
+     "w": "brand",
+     "t": 2.823
+    },
+    {
+     "w": "looks",
+     "t": 3.13
+    },
+    {
+     "w": "useless",
+     "t": 3.377
+    },
+    {
+     "w": "and",
+     "t": 4.109
+    },
+    {
+     "w": "mental",
+     "t": 4.274
+    },
+    {
+     "w": "availability",
+     "t": 4.639
+    },
+    {
+     "w": "shrinks",
+     "t": 5.205
+    },
+    {
+     "w": "Nike",
+     "t": 5.984
+    },
+    {
+     "w": "went",
+     "t": 6.408
+    },
+    {
+     "w": "direct",
+     "t": 6.585
+    },
+    {
+     "w": "pulled",
+     "t": 7.257
+    },
+    {
+     "w": "back",
+     "t": 7.516
+    },
+    {
+     "w": "from",
+     "t": 7.717
+    },
+    {
+     "w": "retail",
+     "t": 7.894
+    },
+    {
+     "w": "and",
+     "t": 8.625
+    },
+    {
+     "w": "people",
+     "t": 8.778
+    },
+    {
+     "w": "stopped",
+     "t": 9.108
+    },
+    {
+     "w": "seeing",
+     "t": 9.38
+    },
+    {
+     "w": "it",
+     "t": 9.639
+    }
+   ]
+  },
+  {
+   "set": "home",
+   "say": "Then privacy broke tracking. Safari limits, GDPR, then Apple's ask app not to track pop-up. Meta estimated that one pop-up cost it ten billion dollars in a year.",
+   "board": {
+    "title": "One **pop-up**",
+    "big": "$10B",
+    "caption": "Meta's own estimate of **one year's** cost",
+    "cue": "ten",
+    "at": 9.144
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "l",
+     "pose": "present"
+    },
+    {
+     "id": "a",
+     "look": "shopper",
+     "v": 3,
+     "at": "sofa",
+     "mode": "sit",
+     "hold": "phone",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "a",
+     "cue": "ask",
+     "expr": "smile_closed",
+     "at": 5.323
+    },
+    {
+     "who": "host",
+     "cue": "ten",
+     "pose": "up",
+     "expr": "shock",
+     "at": 9.144
+    }
+   ],
+   "fx": [
+    {
+     "kind": "tick",
+     "who": "a",
+     "cue": "pop-up",
+     "at": 6.278
+    },
+    {
+     "kind": "money",
+     "who": "host",
+     "cue": "billion",
+     "at": 9.391
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "Apple's",
+     "shot": "actor",
+     "who": "a",
+     "at": 4.887
+    },
+    {
+     "cue": "Meta",
+     "shot": "board",
+     "at": 7.057
+    }
+   ],
+   "audio": "audio/w12-08.mp3",
+   "leadIn": 0.45,
+   "seconds": 11.442,
+   "words": [
+    {
+     "w": "Then",
+     "t": 0.5
+    },
+    {
+     "w": "privacy",
+     "t": 0.866
+    },
+    {
+     "w": "broke",
+     "t": 1.337
+    },
+    {
+     "w": "tracking",
+     "t": 1.609
+    },
+    {
+     "w": "Safari",
+     "t": 2.422
+    },
+    {
+     "w": "limits",
+     "t": 2.941
+    },
+    {
+     "w": "GDPR",
+     "t": 3.554
+    },
+    {
+     "w": "then",
+     "t": 4.722
+    },
+    {
+     "w": "Apple's",
+     "t": 4.887
+    },
+    {
+     "w": "ask",
+     "t": 5.323
+    },
+    {
+     "w": "app",
+     "t": 5.583
+    },
+    {
+     "w": "not",
+     "t": 5.736
+    },
+    {
+     "w": "to",
+     "t": 5.96
+    },
+    {
+     "w": "track",
+     "t": 6.054
+    },
+    {
+     "w": "pop-up",
+     "t": 6.278
+    },
+    {
+     "w": "Meta",
+     "t": 7.057
+    },
+    {
+     "w": "estimated",
+     "t": 7.469
+    },
+    {
+     "w": "that",
+     "t": 7.988
+    },
+    {
+     "w": "one",
+     "t": 8.094
+    },
+    {
+     "w": "pop-up",
+     "t": 8.342
+    },
+    {
+     "w": "cost",
+     "t": 8.755
+    },
+    {
+     "w": "it",
+     "t": 9.038
+    },
+    {
+     "w": "ten",
+     "t": 9.144
+    },
+    {
+     "w": "billion",
+     "t": 9.391
+    },
+    {
+     "w": "dollars",
+     "t": 9.675
+    },
+    {
+     "w": "in",
+     "t": 10.005
+    },
+    {
+     "w": "a",
+     "t": 10.075
+    },
+    {
+     "w": "year",
+     "t": 10.111
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Ask every platform how much it sold and the answers add up to over a hundred percent. Everyone did the assignment.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "front",
+     "pose": "chin"
+    },
+    {
+     "id": "p1",
+     "look": "exec",
+     "v": 7,
+     "at": "l"
+    },
+    {
+     "id": "p2",
+     "look": "exec_f",
+     "v": 6,
+     "at": "c"
+    },
+    {
+     "id": "p3",
+     "look": "exec",
+     "v": 8,
+     "at": "r",
+     "mirror": true
+    }
+   ],
+   "acts": [
+    {
+     "who": "p1",
+     "cue": "sold",
+     "pose": "up",
+     "expr": "grin",
+     "at": 2.045
+    },
+    {
+     "who": "p2",
+     "cue": "answers",
+     "pose": "up",
+     "expr": "grin",
+     "at": 2.752
+    },
+    {
+     "who": "p3",
+     "cue": "hundred",
+     "pose": "up",
+     "expr": "grin",
+     "at": 3.932
+    },
+    {
+     "who": "host",
+     "cue": "Everyone",
+     "pose": "shrug",
+     "expr": "dazed",
+     "at": 5.052
+    }
+   ],
+   "fx": [
+    {
+     "kind": "say",
+     "who": "p1",
+     "text": "That was us!",
+     "cue": "sold",
+     "at": 2.045
+    },
+    {
+     "kind": "say",
+     "who": "p3",
+     "text": "No, us!",
+     "cue": "hundred",
+     "at": 3.932
+    },
+    {
+     "kind": "question",
+     "who": "host",
+     "cue": "Everyone",
+     "at": 5.052
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "hundred",
+     "shot": "actor",
+     "who": "p3",
+     "at": 3.932
+    },
+    {
+     "cue": "Everyone",
+     "shot": "close",
+     "at": 5.052
+    }
+   ],
+   "audio": "audio/w12-09.mp3",
+   "leadIn": 0.45,
+   "seconds": 7.41,
+   "words": [
+    {
+     "w": "Ask",
+     "t": 0.5
+    },
+    {
+     "w": "every",
+     "t": 0.866
+    },
+    {
+     "w": "platform",
+     "t": 1.125
+    },
+    {
+     "w": "how",
+     "t": 1.609
+    },
+    {
+     "w": "much",
+     "t": 1.762
+    },
+    {
+     "w": "it",
+     "t": 1.962
+    },
+    {
+     "w": "sold",
+     "t": 2.045
+    },
+    {
+     "w": "and",
+     "t": 2.469
+    },
+    {
+     "w": "the",
+     "t": 2.623
+    },
+    {
+     "w": "answers",
+     "t": 2.752
+    },
+    {
+     "w": "add",
+     "t": 3.142
+    },
+    {
+     "w": "up",
+     "t": 3.354
+    },
+    {
+     "w": "to",
+     "t": 3.542
+    },
+    {
+     "w": "over",
+     "t": 3.684
+    },
+    {
+     "w": "a",
+     "t": 3.908
+    },
+    {
+     "w": "hundred",
+     "t": 3.932
+    },
+    {
+     "w": "percent",
+     "t": 4.262
+    },
+    {
+     "w": "Everyone",
+     "t": 5.052
+    },
+    {
+     "w": "did",
+     "t": 5.594
+    },
+    {
+     "w": "the",
+     "t": 5.771
+    },
+    {
+     "w": "assignment",
+     "t": 5.889
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Enter marketing mix modelling. Weekly sales, media spend, price, promotions, seasons, the economy and competitors go in. Out come what drove sales, ROI by channel and the next dollar.",
+   "board": {
+    "title": "Marketing **mix modelling**",
+    "vs": {
+     "left": "Weekly data in",
+     "right": "Out comes",
+     "leftItems": [
+      "Sales, media spend",
+      "Price, promotions",
+      "Seasons, economy, rivals"
+     ],
+     "rightItems": [
+      "What drove sales",
+      "ROI by channel",
+      "The next dollar"
+     ],
+     "cue": "Weekly",
+     "at": 2.375
+    }
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "an",
+     "look": "worker",
+     "v": 2,
+     "at": "desk",
+     "hold": "laptop",
+     "pose": "hold"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "chart",
+     "who": "an",
+     "cue": "Out",
+     "at": 9.085
+    },
+    {
+     "kind": "bulb",
+     "who": "host",
+     "cue": "next",
+     "at": 12.009
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "Out",
+     "shot": "actor",
+     "who": "an",
+     "at": 9.085
+    },
+    {
+     "cue": "ROI",
+     "shot": "board",
+     "at": 10.724
+    }
+   ],
+   "audio": "audio/w12-10.mp3",
+   "leadIn": 0.45,
+   "seconds": 13.506,
+   "words": [
+    {
+     "w": "Enter",
+     "t": 0.5
+    },
+    {
+     "w": "marketing",
+     "t": 0.818
+    },
+    {
+     "w": "mix",
+     "t": 1.278
+    },
+    {
+     "w": "modelling",
+     "t": 1.561
+    },
+    {
+     "w": "Weekly",
+     "t": 2.375
+    },
+    {
+     "w": "sales",
+     "t": 2.776
+    },
+    {
+     "w": "media",
+     "t": 3.519
+    },
+    {
+     "w": "spend",
+     "t": 3.884
+    },
+    {
+     "w": "price",
+     "t": 4.545
+    },
+    {
+     "w": "promotions",
+     "t": 5.264
+    },
+    {
+     "w": "seasons",
+     "t": 6.16
+    },
+    {
+     "w": "the",
+     "t": 7.045
+    },
+    {
+     "w": "economy",
+     "t": 7.163
+    },
+    {
+     "w": "and",
+     "t": 7.634
+    },
+    {
+     "w": "competitors",
+     "t": 7.776
+    },
+    {
+     "w": "go",
+     "t": 8.307
+    },
+    {
+     "w": "in",
+     "t": 8.483
+    },
+    {
+     "w": "Out",
+     "t": 9.085
+    },
+    {
+     "w": "come",
+     "t": 9.344
+    },
+    {
+     "w": "what",
+     "t": 9.568
+    },
+    {
+     "w": "drove",
+     "t": 9.745
+    },
+    {
+     "w": "sales",
+     "t": 9.993
+    },
+    {
+     "w": "ROI",
+     "t": 10.724
+    },
+    {
+     "w": "by",
+     "t": 11.231
+    },
+    {
+     "w": "channel",
+     "t": 11.396
+    },
+    {
+     "w": "and",
+     "t": 11.809
+    },
+    {
+     "w": "the",
+     "t": 11.95
+    },
+    {
+     "w": "next",
+     "t": 12.009
+    },
+    {
+     "w": "dollar",
+     "t": 12.233
+    }
+   ]
+  },
+  {
+   "set": "stage",
+   "say": "It's probabilistic, not deterministic. Not this click caused this sale, but the most likely effect, and how sure we are. More honest, and privacy safe.",
+   "board": {
+    "title": "More **honest**",
+    "vs": {
+     "left": "Deterministic",
+     "right": "Probabilistic",
+     "leftItems": [
+      "This click caused this sale"
+     ],
+     "rightItems": [
+      "Most likely effect",
+      "How sure we are"
+     ],
+     "cue": "probabilistic",
+     "at": 0.7
+    }
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "point"
+    },
+    {
+     "id": "s1",
+     "look": "student",
+     "v": 7,
+     "at": "aisle"
+    }
+   ],
+   "acts": [
+    {
+     "who": "s1",
+     "cue": "honest",
+     "pose": "up",
+     "expr": "smile",
+     "at": 8.248
+    }
+   ],
+   "fx": [
+    {
+     "kind": "tick",
+     "who": "s1",
+     "cue": "safe",
+     "at": 9.486
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "honest",
+     "shot": "actor",
+     "who": "s1",
+     "at": 8.248
+    }
+   ],
+   "audio": "audio/w12-11.mp3",
+   "leadIn": 0.45,
+   "seconds": 10.842,
+   "words": [
+    {
+     "w": "It's",
+     "t": 0.5
+    },
+    {
+     "w": "probabilistic",
+     "t": 0.7
+    },
+    {
+     "w": "not",
+     "t": 1.785
+    },
+    {
+     "w": "deterministic",
+     "t": 2.116
+    },
+    {
+     "w": "Not",
+     "t": 3.212
+    },
+    {
+     "w": "this",
+     "t": 3.542
+    },
+    {
+     "w": "click",
+     "t": 3.708
+    },
+    {
+     "w": "caused",
+     "t": 3.979
+    },
+    {
+     "w": "this",
+     "t": 4.297
+    },
+    {
+     "w": "sale",
+     "t": 4.415
+    },
+    {
+     "w": "but",
+     "t": 5.099
+    },
+    {
+     "w": "the",
+     "t": 5.217
+    },
+    {
+     "w": "most",
+     "t": 5.264
+    },
+    {
+     "w": "likely",
+     "t": 5.524
+    },
+    {
+     "w": "effect",
+     "t": 5.889
+    },
+    {
+     "w": "and",
+     "t": 6.502
+    },
+    {
+     "w": "how",
+     "t": 6.632
+    },
+    {
+     "w": "sure",
+     "t": 6.844
+    },
+    {
+     "w": "we",
+     "t": 7.08
+    },
+    {
+     "w": "are",
+     "t": 7.234
+    },
+    {
+     "w": "More",
+     "t": 7.87
+    },
+    {
+     "w": "honest",
+     "t": 8.248
+    },
+    {
+     "w": "and",
+     "t": 8.908
+    },
+    {
+     "w": "privacy",
+     "t": 9.085
+    },
+    {
+     "w": "safe",
+     "t": 9.486
+    }
+   ]
+  },
+  {
+   "set": "plaza",
+   "say": "A cafe on a busy corner gets walk-ins with zero ads. That's baseline. And ads keep working after they stop, like a song stuck in your head.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "front"
+    },
+    {
+     "id": "c1",
+     "look": "worker",
+     "v": 6,
+     "at": "walkL",
+     "to": "shop",
+     "walkCue": "walk-ins",
+     "walkAt": 2.127
+    },
+    {
+     "id": "c2",
+     "look": "shopper",
+     "v": 2,
+     "at": "r",
+     "hold": "coffee",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "baseline",
+     "pose": "point",
+     "at": 4.203
+    },
+    {
+     "who": "c2",
+     "cue": "song",
+     "expr": "whistle",
+     "at": 7.623
+    }
+   ],
+   "fx": [
+    {
+     "kind": "think",
+     "who": "c1",
+     "text": "Need coffee anyway",
+     "cue": "walk-ins",
+     "at": 2.127
+    },
+    {
+     "kind": "heart",
+     "who": "c2",
+     "cue": "song",
+     "at": 7.623
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "walk-ins",
+     "shot": "actor",
+     "who": "c1",
+     "at": 2.127
+    },
+    {
+     "cue": "song",
+     "shot": "close",
+     "who": "c2",
+     "at": 7.623
+    }
+   ],
+   "audio": "audio/w12-12.mp3",
+   "leadIn": 0.45,
+   "seconds": 9.714,
+   "words": [
+    {
+     "w": "A",
+     "t": 0.5
+    },
+    {
+     "w": "cafe",
+     "t": 0.618
+    },
+    {
+     "w": "on",
+     "t": 1.09
+    },
+    {
+     "w": "a",
+     "t": 1.231
+    },
+    {
+     "w": "busy",
+     "t": 1.266
+    },
+    {
+     "w": "corner",
+     "t": 1.538
+    },
+    {
+     "w": "gets",
+     "t": 1.915
+    },
+    {
+     "w": "walk-ins",
+     "t": 2.127
+    },
+    {
+     "w": "with",
+     "t": 2.634
+    },
+    {
+     "w": "zero",
+     "t": 2.788
+    },
+    {
+     "w": "ads",
+     "t": 3.13
+    },
+    {
+     "w": "That's",
+     "t": 3.849
+    },
+    {
+     "w": "baseline",
+     "t": 4.203
+    },
+    {
+     "w": "And",
+     "t": 5.205
+    },
+    {
+     "w": "ads",
+     "t": 5.476
+    },
+    {
+     "w": "keep",
+     "t": 5.748
+    },
+    {
+     "w": "working",
+     "t": 5.972
+    },
+    {
+     "w": "after",
+     "t": 6.337
+    },
+    {
+     "w": "they",
+     "t": 6.561
+    },
+    {
+     "w": "stop",
+     "t": 6.691
+    },
+    {
+     "w": "like",
+     "t": 7.363
+    },
+    {
+     "w": "a",
+     "t": 7.575
+    },
+    {
+     "w": "song",
+     "t": 7.623
+    },
+    {
+     "w": "stuck",
+     "t": 7.965
+    },
+    {
+     "w": "in",
+     "t": 8.248
+    },
+    {
+     "w": "your",
+     "t": 8.318
+    },
+    {
+     "w": "head",
+     "t": 8.401
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Add the fifth slice of pizza: returns diminish. Last year's star channel may not be the next best bet. And test first, like a flight simulator.",
+   "board": {
+    "title": "How the **model** thinks",
+    "steps": [
+     {
+      "text": "**Busy cafe**: baseline",
+      "cue": "start",
+      "at": 0.2
+     },
+     {
+      "text": "**Stuck song**: ads carry over",
+      "cue": "start",
+      "at": 0.2
+     },
+     {
+      "text": "**Fifth slice**: returns diminish",
+      "cue": "diminish",
+      "at": 2.859
+     },
+     {
+      "text": "**Last year's star**: averages lie",
+      "cue": "star",
+      "at": 4.333
+     },
+     {
+      "text": "**Flight simulator**: test first",
+      "cue": "simulator",
+      "at": 8.578
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "e",
+     "look": "worker",
+     "v": 3,
+     "at": "table",
+     "hold": "box",
+     "pose": "hold",
+     "expr": "pained"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "think",
+     "who": "e",
+     "text": "No more pizza",
+     "cue": "slice",
+     "at": 1.125
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "slice",
+     "shot": "actor",
+     "who": "e",
+     "at": 1.125
+    },
+    {
+     "cue": "star",
+     "shot": "board",
+     "at": 4.333
+    }
+   ],
+   "audio": "audio/w12-13.mp3",
+   "leadIn": 0.45,
+   "seconds": 10.122,
+   "words": [
+    {
+     "w": "Add",
+     "t": 0.5
+    },
+    {
+     "w": "the",
+     "t": 0.783
+    },
+    {
+     "w": "fifth",
+     "t": 0.866
+    },
+    {
+     "w": "slice",
+     "t": 1.125
+    },
+    {
+     "w": "of",
+     "t": 1.455
+    },
+    {
+     "w": "pizza",
+     "t": 1.55
+    },
+    {
+     "w": "returns",
+     "t": 2.316
+    },
+    {
+     "w": "diminish",
+     "t": 2.859
+    },
+    {
+     "w": "Last",
+     "t": 3.731
+    },
+    {
+     "w": "year's",
+     "t": 4.144
+    },
+    {
+     "w": "star",
+     "t": 4.333
+    },
+    {
+     "w": "channel",
+     "t": 4.58
+    },
+    {
+     "w": "may",
+     "t": 4.958
+    },
+    {
+     "w": "not",
+     "t": 5.17
+    },
+    {
+     "w": "be",
+     "t": 5.406
+    },
+    {
+     "w": "the",
+     "t": 5.535
+    },
+    {
+     "w": "next",
+     "t": 5.606
+    },
+    {
+     "w": "best",
+     "t": 5.866
+    },
+    {
+     "w": "bet",
+     "t": 6.09
+    },
+    {
+     "w": "And",
+     "t": 6.75
+    },
+    {
+     "w": "test",
+     "t": 6.974
+    },
+    {
+     "w": "first",
+     "t": 7.257
+    },
+    {
+     "w": "like",
+     "t": 7.976
+    },
+    {
+     "w": "a",
+     "t": 8.177
+    },
+    {
+     "w": "flight",
+     "t": 8.236
+    },
+    {
+     "w": "simulator",
+     "t": 8.578
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Across eighty-three brands in Australia and New Zealand, many drifted to performance. Those keeping brand muscle grew most. Yet cinema, radio and free-to-air, the longest lasting channels, were cut first.",
+   "board": {
+    "title": "83 brands, **modelled**",
+    "lines": [
+     {
+      "text": "Drifting to **performance**",
+      "cue": "drifted",
+      "at": 3.755
+     },
+     {
+      "text": "**Brand muscle** grew most",
+      "cue": "muscle",
+      "at": 6.255
+     },
+     {
+      "text": "Longest lasting channels **cut first**",
+      "cue": "cinema",
+      "at": 7.882
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "point"
+    },
+    {
+     "id": "cmo",
+     "look": "exec_f",
+     "v": 7,
+     "at": "table"
+    }
+   ],
+   "acts": [
+    {
+     "who": "cmo",
+     "cue": "muscle",
+     "pose": "cheer",
+     "expr": "grin",
+     "at": 6.255
+    },
+    {
+     "who": "cmo",
+     "cue": "cut",
+     "pose": "chin",
+     "expr": "nervous",
+     "at": 11.891
+    }
+   ],
+   "fx": [
+    {
+     "kind": "stars",
+     "who": "cmo",
+     "cue": "grew",
+     "at": 6.62
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "muscle",
+     "shot": "two",
+     "who": "cmo",
+     "at": 6.255
+    },
+    {
+     "cue": "cinema",
+     "shot": "board",
+     "at": 7.882
+    }
+   ],
+   "audio": "audio/w12-14.mp3",
+   "leadIn": 0.45,
+   "seconds": 13.554,
+   "words": [
+    {
+     "w": "Across",
+     "t": 0.5
+    },
+    {
+     "w": "eighty-three",
+     "t": 1.007
+    },
+    {
+     "w": "brands",
+     "t": 1.432
+    },
+    {
+     "w": "in",
+     "t": 1.856
+    },
+    {
+     "w": "Australia",
+     "t": 1.927
+    },
+    {
+     "w": "and",
+     "t": 2.434
+    },
+    {
+     "w": "New",
+     "t": 2.564
+    },
+    {
+     "w": "Zealand",
+     "t": 2.682
+    },
+    {
+     "w": "many",
+     "t": 3.425
+    },
+    {
+     "w": "drifted",
+     "t": 3.755
+    },
+    {
+     "w": "to",
+     "t": 4.144
+    },
+    {
+     "w": "performance",
+     "t": 4.215
+    },
+    {
+     "w": "Those",
+     "t": 5.193
+    },
+    {
+     "w": "keeping",
+     "t": 5.571
+    },
+    {
+     "w": "brand",
+     "t": 5.925
+    },
+    {
+     "w": "muscle",
+     "t": 6.255
+    },
+    {
+     "w": "grew",
+     "t": 6.62
+    },
+    {
+     "w": "most",
+     "t": 6.809
+    },
+    {
+     "w": "Yet",
+     "t": 7.611
+    },
+    {
+     "w": "cinema",
+     "t": 7.882
+    },
+    {
+     "w": "radio",
+     "t": 8.519
+    },
+    {
+     "w": "and",
+     "t": 9.167
+    },
+    {
+     "w": "free-to-air",
+     "t": 9.297
+    },
+    {
+     "w": "the",
+     "t": 10.252
+    },
+    {
+     "w": "longest",
+     "t": 10.347
+    },
+    {
+     "w": "lasting",
+     "t": 10.759
+    },
+    {
+     "w": "channels",
+     "t": 11.137
+    },
+    {
+     "w": "were",
+     "t": 11.774
+    },
+    {
+     "w": "cut",
+     "t": 11.891
+    },
+    {
+     "w": "first",
+     "t": 12.116
+    }
+   ]
+  },
+  {
+   "set": "street",
+   "say": "If you can't add budget, don't add channels. Spreading money thinner shrinks results, and brands that go off air pay later.",
+   "board": {
+    "title": "Don't spread **thin**",
+    "lines": [
+     {
+      "text": "Same channels, more budget: **+4.3%**",
+      "cue": "budget",
+      "at": 1.196
+     },
+     {
+      "text": "More channels, more budget: **+2%**",
+      "cue": "channels",
+      "at": 2.387
+     },
+     {
+      "text": "More channels, budget cut: **-6.8%**",
+      "cue": "thinner",
+      "at": 3.991
+     },
+     {
+      "text": "Big budget cut: **-8.1%**",
+      "cue": "off",
+      "at": 6.29
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "m",
+     "look": "exec",
+     "v": 9,
+     "at": "kerb",
+     "hold": "clipboard",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "m",
+     "cue": "shrinks",
+     "expr": "pained",
+     "at": 4.309
+    }
+   ],
+   "fx": [
+    {
+     "kind": "cross",
+     "who": "m",
+     "cue": "shrinks",
+     "at": 4.309
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "shrinks",
+     "shot": "close",
+     "who": "m",
+     "at": 4.309
+    },
+    {
+     "cue": "later",
+     "shot": "board",
+     "at": 6.821
+    }
+   ],
+   "audio": "audio/w12-15.mp3",
+   "leadIn": 0.45,
+   "seconds": 8.178,
+   "words": [
+    {
+     "w": "If",
+     "t": 0.5
+    },
+    {
+     "w": "you",
+     "t": 0.677
+    },
+    {
+     "w": "can't",
+     "t": 0.771
+    },
+    {
+     "w": "add",
+     "t": 1.031
+    },
+    {
+     "w": "budget",
+     "t": 1.196
+    },
+    {
+     "w": "don't",
+     "t": 1.891
+    },
+    {
+     "w": "add",
+     "t": 2.139
+    },
+    {
+     "w": "channels",
+     "t": 2.387
+    },
+    {
+     "w": "Spreading",
+     "t": 3.236
+    },
+    {
+     "w": "money",
+     "t": 3.731
+    },
+    {
+     "w": "thinner",
+     "t": 3.991
+    },
+    {
+     "w": "shrinks",
+     "t": 4.309
+    },
+    {
+     "w": "results",
+     "t": 4.639
+    },
+    {
+     "w": "and",
+     "t": 5.441
+    },
+    {
+     "w": "brands",
+     "t": 5.606
+    },
+    {
+     "w": "that",
+     "t": 5.972
+    },
+    {
+     "w": "go",
+     "t": 6.09
+    },
+    {
+     "w": "off",
+     "t": 6.29
+    },
+    {
+     "w": "air",
+     "t": 6.467
+    },
+    {
+     "w": "pay",
+     "t": 6.597
+    },
+    {
+     "w": "later",
+     "t": 6.821
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Measurement has moved from the marketing report to the boardroom. The CEO asks what revenue and profit this created, and the CFO trusts the budget.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "front"
+    },
+    {
+     "id": "ceo",
+     "look": "exec",
+     "v": 1,
+     "at": "table",
+     "pose": "chin"
+    },
+    {
+     "id": "cfo",
+     "look": "exec_f",
+     "v": 2,
+     "at": "table2",
+     "hold": "card",
+     "pose": "hold"
+    },
+    {
+     "id": "mk",
+     "look": "worker",
+     "v": 7,
+     "at": "board",
+     "hold": "laptop",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "ceo",
+     "cue": "revenue",
+     "pose": "point",
+     "expr": "stern",
+     "at": 4.969
+    },
+    {
+     "who": "cfo",
+     "cue": "trusts",
+     "pose": "cheer",
+     "expr": "smile",
+     "at": 7.599
+    }
+   ],
+   "fx": [
+    {
+     "kind": "say",
+     "who": "ceo",
+     "text": "What did it earn?",
+     "cue": "revenue",
+     "at": 4.969
+    },
+    {
+     "kind": "tick",
+     "who": "cfo",
+     "cue": "trusts",
+     "at": 7.599
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "CEO",
+     "shot": "actor",
+     "who": "ceo",
+     "at": 3.837
+    },
+    {
+     "cue": "trusts",
+     "shot": "close",
+     "who": "cfo",
+     "at": 7.599
+    }
+   ],
+   "audio": "audio/w12-16.mp3",
+   "leadIn": 0.45,
+   "seconds": 9.402,
+   "words": [
+    {
+     "w": "Measurement",
+     "t": 0.5
+    },
+    {
+     "w": "has",
+     "t": 1.031
+    },
+    {
+     "w": "moved",
+     "t": 1.219
+    },
+    {
+     "w": "from",
+     "t": 1.597
+    },
+    {
+     "w": "the",
+     "t": 1.738
+    },
+    {
+     "w": "marketing",
+     "t": 1.785
+    },
+    {
+     "w": "report",
+     "t": 2.245
+    },
+    {
+     "w": "to",
+     "t": 2.623
+    },
+    {
+     "w": "the",
+     "t": 2.717
+    },
+    {
+     "w": "boardroom",
+     "t": 2.788
+    },
+    {
+     "w": "The",
+     "t": 3.684
+    },
+    {
+     "w": "CEO",
+     "t": 3.837
+    },
+    {
+     "w": "asks",
+     "t": 4.45
+    },
+    {
+     "w": "what",
+     "t": 4.804
+    },
+    {
+     "w": "revenue",
+     "t": 4.969
+    },
+    {
+     "w": "and",
+     "t": 5.37
+    },
+    {
+     "w": "profit",
+     "t": 5.465
+    },
+    {
+     "w": "this",
+     "t": 5.83
+    },
+    {
+     "w": "created",
+     "t": 5.96
+    },
+    {
+     "w": "and",
+     "t": 6.797
+    },
+    {
+     "w": "the",
+     "t": 6.95
+    },
+    {
+     "w": "CFO",
+     "t": 7.009
+    },
+    {
+     "w": "trusts",
+     "t": 7.599
+    },
+    {
+     "w": "the",
+     "t": 7.976
+    },
+    {
+     "w": "budget",
+     "t": 8.035
+    }
+   ]
+  },
+  {
+   "set": "plaza",
+   "say": "The numbers get easier to produce, so judgement becomes the job. The best marketers bring curiosity, comfort with numbers, commercial sense and storytelling.",
+   "board": {
+    "title": "Judgement is **the job**",
+    "lines": [
+     {
+      "text": "**Curiosity**: but did it work?",
+      "cue": "curiosity",
+      "at": 5.441
+     },
+     {
+      "text": "Comfort with **numbers**",
+      "cue": "comfort",
+      "at": 6.396
+     },
+     {
+      "text": "**Commercial** sense",
+      "cue": "commercial",
+      "at": 7.575
+     },
+     {
+      "text": "**Storytelling**",
+      "cue": "storytelling",
+      "at": 8.613
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "point"
+    },
+    {
+     "id": "s1",
+     "look": "student",
+     "v": 8,
+     "at": "c",
+     "hold": "laptop",
+     "pose": "hold"
+    },
+    {
+     "id": "s2",
+     "look": "student",
+     "v": 9,
+     "at": "r"
+    }
+   ],
+   "acts": [
+    {
+     "who": "s2",
+     "cue": "storytelling",
+     "pose": "present",
+     "expr": "grin",
+     "at": 8.613
+    }
+   ],
+   "fx": [
+    {
+     "kind": "question",
+     "who": "s1",
+     "cue": "curiosity",
+     "at": 5.441
+    },
+    {
+     "kind": "bulb",
+     "who": "s2",
+     "cue": "storytelling",
+     "at": 8.613
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "curiosity",
+     "shot": "wide",
+     "at": 5.441
+    },
+    {
+     "cue": "storytelling",
+     "shot": "close",
+     "who": "s2",
+     "at": 8.613
+    }
+   ],
+   "audio": "audio/w12-17.mp3",
+   "leadIn": 0.45,
+   "seconds": 10.266,
+   "words": [
+    {
+     "w": "The",
+     "t": 0.5
+    },
+    {
+     "w": "numbers",
+     "t": 0.641
+    },
+    {
+     "w": "get",
+     "t": 0.995
+    },
+    {
+     "w": "easier",
+     "t": 1.231
+    },
+    {
+     "w": "to",
+     "t": 1.55
+    },
+    {
+     "w": "produce",
+     "t": 1.632
+    },
+    {
+     "w": "so",
+     "t": 2.434
+    },
+    {
+     "w": "judgement",
+     "t": 2.658
+    },
+    {
+     "w": "becomes",
+     "t": 3.153
+    },
+    {
+     "w": "the",
+     "t": 3.507
+    },
+    {
+     "w": "job",
+     "t": 3.578
+    },
+    {
+     "w": "The",
+     "t": 4.333
+    },
+    {
+     "w": "best",
+     "t": 4.486
+    },
+    {
+     "w": "marketers",
+     "t": 4.769
+    },
+    {
+     "w": "bring",
+     "t": 5.217
+    },
+    {
+     "w": "curiosity",
+     "t": 5.441
+    },
+    {
+     "w": "comfort",
+     "t": 6.396
+    },
+    {
+     "w": "with",
+     "t": 6.75
+    },
+    {
+     "w": "numbers",
+     "t": 6.891
+    },
+    {
+     "w": "commercial",
+     "t": 7.575
+    },
+    {
+     "w": "sense",
+     "t": 8.012
+    },
+    {
+     "w": "and",
+     "t": 8.472
+    },
+    {
+     "w": "storytelling",
+     "t": 8.613
+    }
+   ]
+  },
+  {
+   "set": "stage",
+   "say": "So: last touch misleads, privacy broke tracking, and modelling reads the whole market. Keep your brand muscle, and always ask, how do we know it worked? That's week twelve.",
+   "board": {
+    "title": "Week 12 **takeaways**",
+    "lines": [
+     {
+      "text": "Last touch **misleads**",
+      "cue": "Last",
+      "at": 1.219
+     },
+     {
+      "text": "**Modelling** reads the whole market",
+      "cue": "modelling",
+      "at": 4.073
+     },
+     {
+      "text": "Keep your **brand muscle**",
+      "cue": "Keep",
+      "at": 5.842
+     },
+     {
+      "text": "How do we **know** it worked?",
+      "cue": "always",
+      "at": 7.363
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "s1",
+     "look": "student",
+     "v": 1,
+     "at": "aisle"
+    },
+    {
+     "id": "s2",
+     "look": "student",
+     "v": 2,
+     "at": "aisle2"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "That",
+     "pose": "cheer",
+     "expr": "grin",
+     "at": 9.722
+    },
+    {
+     "who": "s1",
+     "cue": "week",
+     "pose": "cheer",
+     "at": 10.087
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "week",
+     "shot": "wide",
+     "at": 10.087
+    }
+   ],
+   "audio": "audio/w12-18.mp3",
+   "leadIn": 0.45,
+   "seconds": 11.826,
+   "words": [
+    {
+     "w": "So",
+     "t": 0.5
+    },
+    {
+     "w": "last",
+     "t": 1.219
+    },
+    {
+     "w": "touch",
+     "t": 1.597
+    },
+    {
+     "w": "misleads",
+     "t": 1.833
+    },
+    {
+     "w": "privacy",
+     "t": 2.658
+    },
+    {
+     "w": "broke",
+     "t": 3.035
+    },
+    {
+     "w": "tracking",
+     "t": 3.259
+    },
+    {
+     "w": "and",
+     "t": 3.908
+    },
+    {
+     "w": "modelling",
+     "t": 4.073
+    },
+    {
+     "w": "reads",
+     "t": 4.498
+    },
+    {
+     "w": "the",
+     "t": 4.781
+    },
+    {
+     "w": "whole",
+     "t": 4.863
+    },
+    {
+     "w": "market",
+     "t": 5.04
+    },
+    {
+     "w": "Keep",
+     "t": 5.842
+    },
+    {
+     "w": "your",
+     "t": 6.149
+    },
+    {
+     "w": "brand",
+     "t": 6.255
+    },
+    {
+     "w": "muscle",
+     "t": 6.55
+    },
+    {
+     "w": "and",
+     "t": 7.175
+    },
+    {
+     "w": "always",
+     "t": 7.363
+    },
+    {
+     "w": "ask",
+     "t": 7.741
+    },
+    {
+     "w": "how",
+     "t": 8.354
+    },
+    {
+     "w": "do",
+     "t": 8.554
+    },
+    {
+     "w": "we",
+     "t": 8.613
+    },
+    {
+     "w": "know",
+     "t": 8.719
+    },
+    {
+     "w": "it",
+     "t": 8.908
+    },
+    {
+     "w": "worked",
+     "t": 8.967
+    },
+    {
+     "w": "That's",
+     "t": 9.722
+    },
+    {
+     "w": "week",
+     "t": 10.087
+    },
+    {
+     "w": "twelve",
+     "t": 10.335
+    }
+   ]
+  }
+ ],
+ "id": "w12",
+ "total": 193.0
+}

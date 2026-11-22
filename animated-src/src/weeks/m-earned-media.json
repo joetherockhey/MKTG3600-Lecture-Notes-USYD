@@ -1,0 +1,738 @@
+{
+ "week": 0,
+ "title": "Earned media as brand building",
+ "speaker": "Libby Hogson, Week 6; Brent Smart, Week 4; Brendan Willenberg, Week 9",
+ "beats": [
+  {
+   "set": "office",
+   "say": "Earned media is coverage you earn, not buy. It needs ambassadors matched to the moment, credible people and content, real news relevance, and clear measures.",
+   "board": {
+    "title": "Earned **media**",
+    "steps": [
+     {
+      "text": "**Ambassadors** matched to the moment",
+      "cue": "ambassadors",
+      "at": 3.908
+     },
+     {
+      "text": "**Right people** and content",
+      "cue": "credible",
+      "at": 5.618
+     },
+     {
+      "text": "**News relevance**: a real contribution",
+      "cue": "news",
+      "at": 7.717
+     },
+     {
+      "text": "**Measures**: share of voice",
+      "cue": "measures",
+      "at": 9.038
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "e1",
+     "look": "exec_f",
+     "at": "table",
+     "v": 2
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "ambassadors",
+     "pose": "point",
+     "at": 3.908
+    },
+    {
+     "who": "e1",
+     "cue": "measures",
+     "pose": "chin",
+     "expr": "smile",
+     "at": 9.038
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "credible",
+     "shot": "two",
+     "who": "e1",
+     "at": 5.618
+    },
+    {
+     "cue": "measures",
+     "shot": "board",
+     "at": 9.038
+    }
+   ],
+   "audio": "audio/m-earned-media-00.mp3",
+   "leadIn": 0.45,
+   "seconds": 10.482,
+   "words": [
+    {
+     "w": "Earned",
+     "t": 0.5
+    },
+    {
+     "w": "media",
+     "t": 0.807
+    },
+    {
+     "w": "is",
+     "t": 1.243
+    },
+    {
+     "w": "coverage",
+     "t": 1.384
+    },
+    {
+     "w": "you",
+     "t": 1.797
+    },
+    {
+     "w": "earn",
+     "t": 1.927
+    },
+    {
+     "w": "not",
+     "t": 2.434
+    },
+    {
+     "w": "buy",
+     "t": 2.717
+    },
+    {
+     "w": "It",
+     "t": 3.472
+    },
+    {
+     "w": "needs",
+     "t": 3.672
+    },
+    {
+     "w": "ambassadors",
+     "t": 3.908
+    },
+    {
+     "w": "matched",
+     "t": 4.533
+    },
+    {
+     "w": "to",
+     "t": 4.828
+    },
+    {
+     "w": "the",
+     "t": 4.887
+    },
+    {
+     "w": "moment",
+     "t": 4.946
+    },
+    {
+     "w": "credible",
+     "t": 5.618
+    },
+    {
+     "w": "people",
+     "t": 5.972
+    },
+    {
+     "w": "and",
+     "t": 6.491
+    },
+    {
+     "w": "content",
+     "t": 6.644
+    },
+    {
+     "w": "real",
+     "t": 7.422
+    },
+    {
+     "w": "news",
+     "t": 7.717
+    },
+    {
+     "w": "relevance",
+     "t": 7.941
+    },
+    {
+     "w": "and",
+     "t": 8.637
+    },
+    {
+     "w": "clear",
+     "t": 8.802
+    },
+    {
+     "w": "measures",
+     "t": 9.038
+    }
+   ]
+  },
+  {
+   "set": "home",
+   "say": "A family watches the evening news. A charity worker on the ground explains the crisis. Nobody paid for that slot, so they trust it more than an ad.",
+   "board": {
+    "title": "Evening **news**",
+    "lines": [
+     {
+      "text": "Charity **on the ground**",
+      "cue": "charity",
+      "at": 2.906
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "l"
+    },
+    {
+     "id": "a",
+     "look": "shopper",
+     "at": "sofa",
+     "v": 3,
+     "mode": "sit"
+    },
+    {
+     "id": "b",
+     "look": "elder",
+     "at": "sofa2",
+     "v": 2,
+     "mode": "sit"
+    }
+   ],
+   "acts": [
+    {
+     "who": "a",
+     "cue": "worker",
+     "expr": "smile",
+     "at": 3.318
+    },
+    {
+     "who": "b",
+     "cue": "trust",
+     "pose": "point",
+     "expr": "grin",
+     "at": 7.729
+    }
+   ],
+   "fx": [
+    {
+     "kind": "eye",
+     "who": "a",
+     "cue": "explains",
+     "at": 4.25
+    },
+    {
+     "kind": "think",
+     "who": "b",
+     "cue": "trust",
+     "text": "I believe them.",
+     "at": 7.729
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "charity",
+     "shot": "board",
+     "at": 2.906
+    },
+    {
+     "cue": "trust",
+     "shot": "actor",
+     "who": "b",
+     "at": 7.729
+    }
+   ],
+   "audio": "audio/m-earned-media-01.mp3",
+   "leadIn": 0.45,
+   "seconds": 9.93,
+   "words": [
+    {
+     "w": "A",
+     "t": 0.5
+    },
+    {
+     "w": "family",
+     "t": 0.618
+    },
+    {
+     "w": "watches",
+     "t": 1.054
+    },
+    {
+     "w": "the",
+     "t": 1.538
+    },
+    {
+     "w": "evening",
+     "t": 1.75
+    },
+    {
+     "w": "news",
+     "t": 2.021
+    },
+    {
+     "w": "A",
+     "t": 2.776
+    },
+    {
+     "w": "charity",
+     "t": 2.906
+    },
+    {
+     "w": "worker",
+     "t": 3.318
+    },
+    {
+     "w": "on",
+     "t": 3.672
+    },
+    {
+     "w": "the",
+     "t": 3.79
+    },
+    {
+     "w": "ground",
+     "t": 3.837
+    },
+    {
+     "w": "explains",
+     "t": 4.25
+    },
+    {
+     "w": "the",
+     "t": 4.792
+    },
+    {
+     "w": "crisis",
+     "t": 4.851
+    },
+    {
+     "w": "Nobody",
+     "t": 5.771
+    },
+    {
+     "w": "paid",
+     "t": 6.255
+    },
+    {
+     "w": "for",
+     "t": 6.538
+    },
+    {
+     "w": "that",
+     "t": 6.632
+    },
+    {
+     "w": "slot",
+     "t": 6.785
+    },
+    {
+     "w": "so",
+     "t": 7.434
+    },
+    {
+     "w": "they",
+     "t": 7.599
+    },
+    {
+     "w": "trust",
+     "t": 7.729
+    },
+    {
+     "w": "it",
+     "t": 8.047
+    },
+    {
+     "w": "more",
+     "t": 8.153
+    },
+    {
+     "w": "than",
+     "t": 8.401
+    },
+    {
+     "w": "an",
+     "t": 8.519
+    },
+    {
+     "w": "ad",
+     "t": 8.601
+    }
+   ]
+  },
+  {
+   "set": "street",
+   "say": "Rexona couldn't afford cluttered sport sponsorship, so it made Pitvertising and got everyone talking. If you can't buy media, earn it.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "front"
+    },
+    {
+     "id": "p1",
+     "look": "worker",
+     "at": "kerb",
+     "v": 1
+    },
+    {
+     "id": "p2",
+     "look": "student",
+     "at": "r",
+     "v": 5,
+     "hold": "phone",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "p2",
+     "cue": "talking",
+     "expr": "laugh",
+     "at": 5.288
+    },
+    {
+     "who": "host",
+     "cue": "earn",
+     "pose": "up",
+     "expr": "grin",
+     "at": 7.528
+    }
+   ],
+   "fx": [
+    {
+     "kind": "question",
+     "who": "p1",
+     "cue": "afford",
+     "at": 1.42
+    },
+    {
+     "kind": "say",
+     "who": "p2",
+     "cue": "Pitvertising",
+     "text": "Seen this?",
+     "at": 3.802
+    },
+    {
+     "kind": "bulb",
+     "who": "host",
+     "cue": "earn",
+     "at": 7.528
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "Pitvertising",
+     "shot": "actor",
+     "who": "p2",
+     "at": 3.802
+    },
+    {
+     "cue": "buy",
+     "shot": "close",
+     "at": 6.644
+    }
+   ],
+   "audio": "audio/m-earned-media-02.mp3",
+   "leadIn": 0.45,
+   "seconds": 8.874,
+   "words": [
+    {
+     "w": "Rexona",
+     "t": 0.5
+    },
+    {
+     "w": "couldn't",
+     "t": 1.125
+    },
+    {
+     "w": "afford",
+     "t": 1.42
+    },
+    {
+     "w": "cluttered",
+     "t": 1.75
+    },
+    {
+     "w": "sport",
+     "t": 2.104
+    },
+    {
+     "w": "sponsorship",
+     "t": 2.399
+    },
+    {
+     "w": "so",
+     "t": 3.295
+    },
+    {
+     "w": "it",
+     "t": 3.531
+    },
+    {
+     "w": "made",
+     "t": 3.59
+    },
+    {
+     "w": "Pitvertising",
+     "t": 3.802
+    },
+    {
+     "w": "and",
+     "t": 4.545
+    },
+    {
+     "w": "got",
+     "t": 4.675
+    },
+    {
+     "w": "everyone",
+     "t": 4.922
+    },
+    {
+     "w": "talking",
+     "t": 5.288
+    },
+    {
+     "w": "If",
+     "t": 6.101
+    },
+    {
+     "w": "you",
+     "t": 6.278
+    },
+    {
+     "w": "can't",
+     "t": 6.384
+    },
+    {
+     "w": "buy",
+     "t": 6.644
+    },
+    {
+     "w": "media",
+     "t": 6.785
+    },
+    {
+     "w": "earn",
+     "t": 7.528
+    },
+    {
+     "w": "it",
+     "t": 7.705
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "UNICEF Australia's news mentions rose two hundred and seventy percent. So find a genuine story and the right voice, then track your share of voice.",
+   "board": {
+    "title": "UNICEF **news mentions**",
+    "big": "+270%",
+    "caption": "from **2020 to 2024**",
+    "cue": "mentions",
+    "at": 1.821
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "e1",
+     "look": "exec",
+     "at": "table",
+     "v": 4,
+     "hold": "laptop",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "e1",
+     "cue": "rose",
+     "pose": "cheer",
+     "expr": "grin",
+     "at": 2.281
+    },
+    {
+     "who": "host",
+     "cue": "genuine",
+     "pose": "point",
+     "at": 4.84
+    }
+   ],
+   "fx": [
+    {
+     "kind": "chart",
+     "who": "e1",
+     "cue": "rose",
+     "at": 2.281
+    },
+    {
+     "kind": "tick",
+     "who": "host",
+     "cue": "track",
+     "at": 7.045
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "rose",
+     "shot": "actor",
+     "who": "e1",
+     "at": 2.281
+    },
+    {
+     "cue": "genuine",
+     "shot": "close",
+     "at": 4.84
+    }
+   ],
+   "hold": 1.0,
+   "audio": "audio/m-earned-media-03.mp3",
+   "leadIn": 0.45,
+   "seconds": 9.562,
+   "words": [
+    {
+     "w": "UNICEF",
+     "t": 0.5
+    },
+    {
+     "w": "Australia's",
+     "t": 1.042
+    },
+    {
+     "w": "news",
+     "t": 1.561
+    },
+    {
+     "w": "mentions",
+     "t": 1.821
+    },
+    {
+     "w": "rose",
+     "t": 2.281
+    },
+    {
+     "w": "two",
+     "t": 2.587
+    },
+    {
+     "w": "hundred",
+     "t": 2.811
+    },
+    {
+     "w": "and",
+     "t": 3.035
+    },
+    {
+     "w": "seventy",
+     "t": 3.083
+    },
+    {
+     "w": "percent",
+     "t": 3.401
+    },
+    {
+     "w": "So",
+     "t": 4.215
+    },
+    {
+     "w": "find",
+     "t": 4.521
+    },
+    {
+     "w": "a",
+     "t": 4.804
+    },
+    {
+     "w": "genuine",
+     "t": 4.84
+    },
+    {
+     "w": "story",
+     "t": 5.252
+    },
+    {
+     "w": "and",
+     "t": 5.7
+    },
+    {
+     "w": "the",
+     "t": 5.83
+    },
+    {
+     "w": "right",
+     "t": 5.889
+    },
+    {
+     "w": "voice",
+     "t": 6.125
+    },
+    {
+     "w": "then",
+     "t": 6.856
+    },
+    {
+     "w": "track",
+     "t": 7.045
+    },
+    {
+     "w": "your",
+     "t": 7.316
+    },
+    {
+     "w": "share",
+     "t": 7.41
+    },
+    {
+     "w": "of",
+     "t": 7.67
+    },
+    {
+     "w": "voice",
+     "t": 7.741
+    }
+   ]
+  }
+ ],
+ "id": "m-earned-media",
+ "total": 38.83
+}

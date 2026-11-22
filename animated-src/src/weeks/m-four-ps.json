@@ -1,0 +1,624 @@
+{
+ "week": 0,
+ "title": "The 4Ps (marketing mix)",
+ "speaker": "Andrew Baxter, Australian Pork Limited, Week 8; from E. Jerome McCarthy",
+ "beats": [
+  {
+   "set": "office",
+   "say": "The four Ps are the levers you control: product, price, place and promotion. Baxter says they haven't changed, only how we execute.",
+   "board": {
+    "title": "The **four Ps**",
+    "steps": [
+     {
+      "text": "**Product**: what you sell",
+      "cue": "product",
+      "at": 2.717
+     },
+     {
+      "text": "**Price**: what it costs and signals",
+      "cue": "price",
+      "at": 3.401
+     },
+     {
+      "text": "**Place**: where it's sold",
+      "cue": "place",
+      "at": 4.12
+     },
+     {
+      "text": "**Promotion**: how it's talked about",
+      "cue": "promotion",
+      "at": 4.851
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "e1",
+     "look": "exec",
+     "at": "table",
+     "v": 2
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "product",
+     "pose": "point",
+     "at": 2.717
+    },
+    {
+     "who": "e1",
+     "cue": "execute",
+     "pose": "chin",
+     "expr": "smile",
+     "at": 8.212
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "Baxter",
+     "shot": "two",
+     "who": "e1",
+     "at": 5.771
+    }
+   ],
+   "audio": "audio/m-four-ps-00.mp3",
+   "leadIn": 0.45,
+   "seconds": 9.69,
+   "words": [
+    {
+     "w": "The",
+     "t": 0.5
+    },
+    {
+     "w": "four",
+     "t": 0.641
+    },
+    {
+     "w": "Ps",
+     "t": 0.854
+    },
+    {
+     "w": "are",
+     "t": 1.302
+    },
+    {
+     "w": "the",
+     "t": 1.373
+    },
+    {
+     "w": "levers",
+     "t": 1.467
+    },
+    {
+     "w": "you",
+     "t": 1.833
+    },
+    {
+     "w": "control",
+     "t": 1.903
+    },
+    {
+     "w": "product",
+     "t": 2.717
+    },
+    {
+     "w": "price",
+     "t": 3.401
+    },
+    {
+     "w": "place",
+     "t": 4.12
+    },
+    {
+     "w": "and",
+     "t": 4.698
+    },
+    {
+     "w": "promotion",
+     "t": 4.851
+    },
+    {
+     "w": "Baxter",
+     "t": 5.771
+    },
+    {
+     "w": "says",
+     "t": 6.16
+    },
+    {
+     "w": "they",
+     "t": 6.432
+    },
+    {
+     "w": "haven't",
+     "t": 6.561
+    },
+    {
+     "w": "changed",
+     "t": 6.833
+    },
+    {
+     "w": "only",
+     "t": 7.611
+    },
+    {
+     "w": "how",
+     "t": 7.882
+    },
+    {
+     "w": "we",
+     "t": 8.059
+    },
+    {
+     "w": "execute",
+     "t": 8.212
+    }
+   ]
+  },
+  {
+   "set": "plaza",
+   "say": "Raise the price, then run constant discounts, and shoppers learn to wait for the sale. It stops feeling premium.",
+   "board": {
+    "title": "**Sale** again",
+    "big": "50% OFF",
+    "caption": "every **week**",
+    "cue": "discounts",
+    "at": 2.469
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "c"
+    },
+    {
+     "id": "s1",
+     "look": "shopper",
+     "at": "shelf",
+     "v": 1,
+     "hold": "bag",
+     "pose": "hold"
+    },
+    {
+     "id": "s2",
+     "look": "student",
+     "at": "r",
+     "v": 3
+    }
+   ],
+   "acts": [
+    {
+     "who": "s1",
+     "cue": "wait",
+     "pose": "chin",
+     "expr": "smile_closed",
+     "at": 4.061
+    },
+    {
+     "who": "s2",
+     "cue": "premium",
+     "pose": "shrug",
+     "expr": "nervous",
+     "at": 6.231
+    }
+   ],
+   "fx": [
+    {
+     "kind": "think",
+     "who": "s1",
+     "cue": "wait",
+     "text": "I'll wait for the sale.",
+     "at": 4.061
+    },
+    {
+     "kind": "cross",
+     "who": "s2",
+     "cue": "premium",
+     "at": 6.231
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "wait",
+     "shot": "actor",
+     "who": "s1",
+     "at": 4.061
+    },
+    {
+     "cue": "premium",
+     "shot": "actor",
+     "who": "s2",
+     "at": 6.231
+    }
+   ],
+   "audio": "audio/m-four-ps-01.mp3",
+   "leadIn": 0.45,
+   "seconds": 7.698,
+   "words": [
+    {
+     "w": "Raise",
+     "t": 0.5
+    },
+    {
+     "w": "the",
+     "t": 0.866
+    },
+    {
+     "w": "price",
+     "t": 0.936
+    },
+    {
+     "w": "then",
+     "t": 1.656
+    },
+    {
+     "w": "run",
+     "t": 1.856
+    },
+    {
+     "w": "constant",
+     "t": 2.08
+    },
+    {
+     "w": "discounts",
+     "t": 2.469
+    },
+    {
+     "w": "and",
+     "t": 3.236
+    },
+    {
+     "w": "shoppers",
+     "t": 3.366
+    },
+    {
+     "w": "learn",
+     "t": 3.79
+    },
+    {
+     "w": "to",
+     "t": 3.991
+    },
+    {
+     "w": "wait",
+     "t": 4.061
+    },
+    {
+     "w": "for",
+     "t": 4.297
+    },
+    {
+     "w": "the",
+     "t": 4.391
+    },
+    {
+     "w": "sale",
+     "t": 4.462
+    },
+    {
+     "w": "It",
+     "t": 5.264
+    },
+    {
+     "w": "stops",
+     "t": 5.453
+    },
+    {
+     "w": "feeling",
+     "t": 5.854
+    },
+    {
+     "w": "premium",
+     "t": 6.231
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Nike pulled back from retailers. Fewer shelves meant fewer people saw it, so place hurt promotion too.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "c"
+    },
+    {
+     "id": "e1",
+     "look": "exec",
+     "at": "table",
+     "v": 4
+    },
+    {
+     "id": "e2",
+     "look": "exec_f",
+     "at": "table2",
+     "v": 6,
+     "hold": "laptop",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "e1",
+     "cue": "retailers",
+     "pose": "none",
+     "expr": "nervous",
+     "at": 1.75
+    },
+    {
+     "who": "e2",
+     "cue": "Fewer",
+     "pose": "chin",
+     "expr": "pained",
+     "at": 2.717
+    },
+    {
+     "who": "host",
+     "cue": "promotion",
+     "pose": "shrug",
+     "at": 5.665
+    }
+   ],
+   "fx": [
+    {
+     "kind": "cross",
+     "who": "e1",
+     "cue": "retailers",
+     "at": 1.75
+    },
+    {
+     "kind": "chart",
+     "who": "e2",
+     "cue": "Fewer",
+     "at": 2.717
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "Fewer",
+     "shot": "actor",
+     "who": "e2",
+     "at": 2.717
+    },
+    {
+     "cue": "promotion",
+     "shot": "close",
+     "at": 5.665
+    }
+   ],
+   "audio": "audio/m-four-ps-02.mp3",
+   "leadIn": 0.45,
+   "seconds": 7.458,
+   "words": [
+    {
+     "w": "Nike",
+     "t": 0.5
+    },
+    {
+     "w": "pulled",
+     "t": 0.972
+    },
+    {
+     "w": "back",
+     "t": 1.29
+    },
+    {
+     "w": "from",
+     "t": 1.573
+    },
+    {
+     "w": "retailers",
+     "t": 1.75
+    },
+    {
+     "w": "Fewer",
+     "t": 2.717
+    },
+    {
+     "w": "shelves",
+     "t": 3.059
+    },
+    {
+     "w": "meant",
+     "t": 3.448
+    },
+    {
+     "w": "fewer",
+     "t": 3.625
+    },
+    {
+     "w": "people",
+     "t": 3.908
+    },
+    {
+     "w": "saw",
+     "t": 4.179
+    },
+    {
+     "w": "it",
+     "t": 4.462
+    },
+    {
+     "w": "so",
+     "t": 4.899
+    },
+    {
+     "w": "place",
+     "t": 5.099
+    },
+    {
+     "w": "hurt",
+     "t": 5.429
+    },
+    {
+     "w": "promotion",
+     "t": 5.665
+    },
+    {
+     "w": "too",
+     "t": 6.125
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "So link every P to the same target and positioning, and the whole mix sends one signal.",
+   "board": {
+    "title": "Use it **like this**",
+    "lines": [
+     {
+      "text": "Every P, **same target**",
+      "cue": "target",
+      "at": 2.092
+     },
+     {
+      "text": "One **signal**",
+      "cue": "signal",
+      "at": 4.592
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "point"
+    },
+    {
+     "id": "e1",
+     "look": "exec",
+     "at": "table",
+     "v": 2
+    }
+   ],
+   "acts": [
+    {
+     "who": "e1",
+     "cue": "signal",
+     "expr": "smile",
+     "at": 4.592
+    }
+   ],
+   "fx": [
+    {
+     "kind": "tick",
+     "who": "e1",
+     "cue": "signal",
+     "at": 4.592
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "signal",
+     "shot": "two",
+     "who": "e1",
+     "at": 4.592
+    }
+   ],
+   "hold": 1.0,
+   "audio": "audio/m-four-ps-03.mp3",
+   "leadIn": 0.45,
+   "seconds": 6.394,
+   "words": [
+    {
+     "w": "So",
+     "t": 0.5
+    },
+    {
+     "w": "link",
+     "t": 0.795
+    },
+    {
+     "w": "every",
+     "t": 1.09
+    },
+    {
+     "w": "P",
+     "t": 1.337
+    },
+    {
+     "w": "to",
+     "t": 1.632
+    },
+    {
+     "w": "the",
+     "t": 1.726
+    },
+    {
+     "w": "same",
+     "t": 1.809
+    },
+    {
+     "w": "target",
+     "t": 2.092
+    },
+    {
+     "w": "and",
+     "t": 2.446
+    },
+    {
+     "w": "positioning",
+     "t": 2.564
+    },
+    {
+     "w": "and",
+     "t": 3.484
+    },
+    {
+     "w": "the",
+     "t": 3.613
+    },
+    {
+     "w": "whole",
+     "t": 3.672
+    },
+    {
+     "w": "mix",
+     "t": 3.861
+    },
+    {
+     "w": "sends",
+     "t": 4.109
+    },
+    {
+     "w": "one",
+     "t": 4.368
+    },
+    {
+     "w": "signal",
+     "t": 4.592
+    }
+   ]
+  }
+ ],
+ "id": "m-four-ps",
+ "total": 31.27
+}

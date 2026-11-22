@@ -1,0 +1,267 @@
+{
+ "week": 0,
+ "title": "BCG growth-share matrix",
+ "speaker": "Bruce Henderson, Boston Consulting Group, 1970",
+ "beats": [
+  {
+   "set": "office",
+   "say": "The BCG matrix sorts a company's brands by market growth and market share. Stars, cash cows, question marks and dogs. Each one needs a different budget.",
+   "board": {
+    "title": "**BCG** matrix",
+    "steps": [
+     {
+      "text": "**Stars** high growth, high share",
+      "cue": "Stars"
+     },
+     {
+      "text": "**Cash cows** low growth, high share",
+      "cue": "cash"
+     },
+     {
+      "text": "**Question marks** high growth, low share",
+      "cue": "question"
+     },
+     {
+      "text": "**Dogs** low growth, low share",
+      "cue": "dogs"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "e1",
+     "look": "exec",
+     "v": 2,
+     "at": "table"
+    }
+   ],
+   "acts": [
+    {
+     "who": "e1",
+     "cue": "different",
+     "pose": "chin"
+    },
+    {
+     "who": "host",
+     "cue": "budget",
+     "pose": "point"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "dogs",
+     "shot": "board"
+    },
+    {
+     "cue": "budget",
+     "shot": "two",
+     "who": "e1"
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "KitKat is a cash cow: a huge share of a mature chocolate market, throwing off money. A new Gen Z lolly range is a question mark: a growing market, but a tiny share.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "l"
+    },
+    {
+     "id": "e1",
+     "look": "exec",
+     "v": 2,
+     "at": "table"
+    },
+    {
+     "id": "e2",
+     "look": "exec_f",
+     "v": 5,
+     "at": "table2"
+    }
+   ],
+   "acts": [
+    {
+     "who": "e1",
+     "cue": "money",
+     "pose": "cheer",
+     "expr": "grin"
+    },
+    {
+     "who": "e2",
+     "cue": "question",
+     "pose": "chin",
+     "expr": "nervous"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "money",
+     "who": "e1",
+     "cue": "money"
+    },
+    {
+     "kind": "question",
+     "who": "e2",
+     "cue": "question"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "money",
+     "shot": "actor",
+     "who": "e1"
+    },
+    {
+     "cue": "question",
+     "shot": "actor",
+     "who": "e2"
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "A fading niche line is a dog. So milk the cash cow to fund the stars and best question marks, and prune the dogs.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "l"
+    },
+    {
+     "id": "e1",
+     "look": "exec",
+     "v": 2,
+     "at": "table"
+    },
+    {
+     "id": "e2",
+     "look": "exec_f",
+     "v": 5,
+     "at": "table2"
+    }
+   ],
+   "acts": [
+    {
+     "who": "e2",
+     "cue": "fading",
+     "pose": "shrug",
+     "expr": "pained"
+    },
+    {
+     "who": "e1",
+     "cue": "milk",
+     "pose": "point",
+     "expr": "grin"
+    },
+    {
+     "who": "host",
+     "cue": "prune",
+     "pose": "hips",
+     "expr": "smile_closed"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "cross",
+     "who": "e2",
+     "cue": "fading"
+    },
+    {
+     "kind": "chart",
+     "who": "e1",
+     "cue": "fund"
+    },
+    {
+     "kind": "tick",
+     "who": "host",
+     "cue": "prune"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "milk",
+     "shot": "actor",
+     "who": "e1"
+    },
+    {
+     "cue": "prune",
+     "shot": "close"
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Use it like this: place each brand on the grid with evidence, then show where the budget should flow.",
+   "board": {
+    "title": "Use it **like this**",
+    "lines": [
+     {
+      "text": "Place each brand **with evidence**",
+      "cue": "place"
+     },
+     {
+      "text": "Move the **budget** to match",
+      "cue": "budget"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "e1",
+     "look": "exec",
+     "v": 2,
+     "at": "table"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "evidence",
+     "pose": "point"
+    },
+    {
+     "who": "e1",
+     "cue": "flow",
+     "expr": "smile"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "flow",
+     "shot": "close"
+    }
+   ],
+   "hold": 1.0
+  }
+ ]
+}

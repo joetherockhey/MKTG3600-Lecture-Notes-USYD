@@ -1,0 +1,295 @@
+{
+ "week": 0,
+ "title": "The agency false economy, three types of bots and three skill clusters",
+ "speaker": "Geoff Clarke, IPG Mediabrands Australia, Week 11",
+ "beats": [
+  {
+   "set": "office",
+   "say": "Upstream work is now mostly AI driven, but downstream work is still manual. That's a false economy. The fix: trigger bots, automatic bots and schedule bots, freeing people for new skills.",
+   "board": {
+    "title": "The **false economy**",
+    "steps": [
+     {
+      "text": "**False economy**: AI up, manual down",
+      "cue": "false"
+     },
+     {
+      "text": "**Trigger bots**: start on arrival",
+      "cue": "trigger"
+     },
+     {
+      "text": "**Automatic bots**: act next",
+      "cue": "automatic"
+     },
+     {
+      "text": "**Schedule bots**: set times",
+      "cue": "schedule"
+     },
+     {
+      "text": "**Skills**: data, creative, adapt",
+      "cue": "skills"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "e",
+     "look": "worker",
+     "v": 2,
+     "at": "table"
+    }
+   ],
+   "acts": [
+    {
+     "who": "e",
+     "cue": "manual",
+     "expr": "pained"
+    },
+    {
+     "who": "host",
+     "cue": "fix",
+     "pose": "point",
+     "expr": "grin"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "exclaim",
+     "who": "e",
+     "cue": "manual"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "manual",
+     "shot": "actor",
+     "who": "e"
+    },
+    {
+     "cue": "fix",
+     "shot": "board"
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Picture the team buried in TV bookings and reconciliations, slogging through it all by hand.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "l",
+     "pose": "none"
+    },
+    {
+     "id": "e1",
+     "look": "exec",
+     "v": 2,
+     "at": "table",
+     "hold": "laptop",
+     "pose": "hold"
+    },
+    {
+     "id": "e2",
+     "look": "worker",
+     "v": 4,
+     "at": "table2",
+     "hold": "box",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "e1",
+     "cue": "buried",
+     "expr": "pained"
+    },
+    {
+     "who": "e2",
+     "cue": "slogging",
+     "expr": "dazed"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "clock",
+     "who": "e1",
+     "cue": "buried"
+    },
+    {
+     "kind": "zzz",
+     "who": "e2",
+     "cue": "slogging"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "buried",
+     "shot": "actor",
+     "who": "e1"
+    },
+    {
+     "cue": "slogging",
+     "shot": "actor",
+     "who": "e2"
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Then the bots take over. An email lands, a trigger bot starts, an automatic bot acts, a schedule bot runs overnight. About two hundred and seven thousand hours saved.",
+   "board": {
+    "big": "207,000",
+    "caption": "hours saved over **five years**",
+    "cue": "hours"
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "l",
+     "pose": "none"
+    },
+    {
+     "id": "e1",
+     "look": "exec",
+     "v": 2,
+     "at": "table",
+     "hold": "laptop",
+     "pose": "hold"
+    },
+    {
+     "id": "e2",
+     "look": "worker",
+     "v": 4,
+     "at": "table2"
+    }
+   ],
+   "acts": [
+    {
+     "who": "e1",
+     "cue": "email",
+     "expr": "relief"
+    },
+    {
+     "who": "host",
+     "cue": "hours",
+     "pose": "up",
+     "expr": "grin"
+    },
+    {
+     "who": "e2",
+     "cue": "saved",
+     "pose": "cheer",
+     "expr": "laugh"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "exclaim",
+     "who": "e1",
+     "cue": "email"
+    },
+    {
+     "kind": "clock",
+     "who": "host",
+     "cue": "overnight"
+    },
+    {
+     "kind": "stars",
+     "who": "e2",
+     "cue": "saved"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "email",
+     "shot": "actor",
+     "who": "e1"
+    },
+    {
+     "cue": "hours",
+     "shot": "board"
+    },
+    {
+     "cue": "saved",
+     "shot": "actor",
+     "who": "e2"
+    }
+   ]
+  },
+  {
+   "set": "stage",
+   "say": "Use it like this: find the manual work, pick the bot, and move people into data, creative and strategic thinking.",
+   "board": {
+    "title": "Use it like **this**",
+    "lines": [
+     {
+      "text": "Find the **manual** work",
+      "cue": "manual"
+     },
+     {
+      "text": "Pick the **bot**",
+      "cue": "bot"
+     },
+     {
+      "text": "Upskill: **data**, creative, strategy",
+      "cue": "data"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "point"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "strategic",
+     "pose": "cheer",
+     "expr": "grin"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "tick",
+     "who": "host",
+     "cue": "strategic"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "strategic",
+     "shot": "close"
+    }
+   ],
+   "hold": 1.0
+  }
+ ]
+}

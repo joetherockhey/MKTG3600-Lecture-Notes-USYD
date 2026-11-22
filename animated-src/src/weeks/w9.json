@@ -1,0 +1,3410 @@
+{
+ "week": 9,
+ "title": "Creativity: the last remaining commercial superpower",
+ "speaker": "Brendan Willenberg",
+ "beats": [
+  {
+   "set": "stage",
+   "say": "Week nine. Creativity, the last remaining commercial superpower, with Brendan Willenberg, an executive creative director. As automation flattens everything, creativity is what sets a company apart.",
+   "board": {
+    "photo": "photos/w9.jpg",
+    "title": "Creativity: the last commercial **superpower**",
+    "name": "Brendan Willenberg",
+    "org": "Executive Creative Director"
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "s1",
+     "look": "student",
+     "v": 2,
+     "at": "aisle"
+    },
+    {
+     "id": "s2",
+     "look": "student",
+     "v": 5,
+     "at": "aisle2"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "creativity is",
+     "pose": "cheer",
+     "expr": "grin",
+     "at": 10.087
+    }
+   ],
+   "fx": [
+    {
+     "kind": "sparkle",
+     "who": "host",
+     "cue": "creativity is",
+     "at": 10.087
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "Brendan",
+     "shot": "board",
+     "at": 4.969
+    },
+    {
+     "cue": "automation",
+     "shot": "host",
+     "at": 8.259
+    }
+   ],
+   "audio": "audio/w9-00.mp3",
+   "leadIn": 0.45,
+   "seconds": 13.17,
+   "words": [
+    {
+     "w": "Week",
+     "t": 0.5
+    },
+    {
+     "w": "nine",
+     "t": 0.866
+    },
+    {
+     "w": "Creativity",
+     "t": 1.656
+    },
+    {
+     "w": "the",
+     "t": 2.611
+    },
+    {
+     "w": "last",
+     "t": 2.705
+    },
+    {
+     "w": "remaining",
+     "t": 3.035
+    },
+    {
+     "w": "commercial",
+     "t": 3.448
+    },
+    {
+     "w": "superpower",
+     "t": 3.861
+    },
+    {
+     "w": "with",
+     "t": 4.792
+    },
+    {
+     "w": "Brendan",
+     "t": 4.969
+    },
+    {
+     "w": "Willenberg",
+     "t": 5.335
+    },
+    {
+     "w": "an",
+     "t": 6.208
+    },
+    {
+     "w": "executive",
+     "t": 6.314
+    },
+    {
+     "w": "creative",
+     "t": 6.821
+    },
+    {
+     "w": "director",
+     "t": 7.198
+    },
+    {
+     "w": "As",
+     "t": 8.012
+    },
+    {
+     "w": "automation",
+     "t": 8.259
+    },
+    {
+     "w": "flattens",
+     "t": 8.837
+    },
+    {
+     "w": "everything",
+     "t": 9.25
+    },
+    {
+     "w": "creativity",
+     "t": 10.087
+    },
+    {
+     "w": "is",
+     "t": 10.807
+    },
+    {
+     "w": "what",
+     "t": 10.925
+    },
+    {
+     "w": "sets",
+     "t": 11.113
+    },
+    {
+     "w": "a",
+     "t": 11.384
+    },
+    {
+     "w": "company",
+     "t": 11.432
+    },
+    {
+     "w": "apart",
+     "t": 11.774
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "His big claim: commercial creativity is cheating. Same inputs as everyone, but an unfair advantage. Good creative thinking is distinct, simple, unexpected and obvious, often by trimming things away.",
+   "board": {
+    "title": "Creativity of **thought**",
+    "steps": [
+     {
+      "text": "**Distinct**",
+      "cue": "distinct",
+      "at": 8.448
+     },
+     {
+      "text": "**Simple**",
+      "cue": "simple",
+      "at": 9.156
+     },
+     {
+      "text": "**Unexpected**",
+      "cue": "unexpected",
+      "at": 9.899
+     },
+     {
+      "text": "**Obvious**",
+      "cue": "obvious",
+      "at": 10.901
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "point",
+     "mirror": true
+    },
+    {
+     "id": "a",
+     "look": "exec",
+     "v": 3,
+     "at": "table"
+    },
+    {
+     "id": "b",
+     "look": "exec_f",
+     "v": 2,
+     "at": "table2"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "cheating",
+     "pose": "hips",
+     "expr": "whistle",
+     "at": 3.012
+    },
+    {
+     "who": "a",
+     "cue": "unfair",
+     "pose": "chin",
+     "expr": "shock",
+     "at": 5.818
+    }
+   ],
+   "fx": [
+    {
+     "kind": "exclaim",
+     "who": "a",
+     "cue": "cheating",
+     "at": 3.012
+    },
+    {
+     "kind": "think",
+     "who": "b",
+     "text": "Same inputs as us?",
+     "cue": "inputs",
+     "at": 4.238
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "host",
+     "at": 0.2
+    },
+    {
+     "cue": "unfair",
+     "shot": "actor",
+     "who": "a",
+     "at": 5.818
+    },
+    {
+     "cue": "Good",
+     "shot": "board",
+     "at": 7.304
+    }
+   ],
+   "audio": "audio/w9-01.mp3",
+   "leadIn": 0.45,
+   "seconds": 14.082,
+   "words": [
+    {
+     "w": "His",
+     "t": 0.5
+    },
+    {
+     "w": "big",
+     "t": 0.748
+    },
+    {
+     "w": "claim",
+     "t": 0.948
+    },
+    {
+     "w": "commercial",
+     "t": 1.667
+    },
+    {
+     "w": "creativity",
+     "t": 2.151
+    },
+    {
+     "w": "is",
+     "t": 2.847
+    },
+    {
+     "w": "cheating",
+     "t": 3.012
+    },
+    {
+     "w": "Same",
+     "t": 3.837
+    },
+    {
+     "w": "inputs",
+     "t": 4.238
+    },
+    {
+     "w": "as",
+     "t": 4.651
+    },
+    {
+     "w": "everyone",
+     "t": 4.757
+    },
+    {
+     "w": "but",
+     "t": 5.559
+    },
+    {
+     "w": "an",
+     "t": 5.677
+    },
+    {
+     "w": "unfair",
+     "t": 5.818
+    },
+    {
+     "w": "advantage",
+     "t": 6.337
+    },
+    {
+     "w": "Good",
+     "t": 7.304
+    },
+    {
+     "w": "creative",
+     "t": 7.528
+    },
+    {
+     "w": "thinking",
+     "t": 7.941
+    },
+    {
+     "w": "is",
+     "t": 8.318
+    },
+    {
+     "w": "distinct",
+     "t": 8.448
+    },
+    {
+     "w": "simple",
+     "t": 9.156
+    },
+    {
+     "w": "unexpected",
+     "t": 9.899
+    },
+    {
+     "w": "and",
+     "t": 10.712
+    },
+    {
+     "w": "obvious",
+     "t": 10.901
+    },
+    {
+     "w": "often",
+     "t": 11.738
+    },
+    {
+     "w": "by",
+     "t": 12.021
+    },
+    {
+     "w": "trimming",
+     "t": 12.163
+    },
+    {
+     "w": "things",
+     "t": 12.516
+    },
+    {
+     "w": "away",
+     "t": 12.729
+    }
+   ]
+  },
+  {
+   "set": "street",
+   "say": "He learned from Edward de Bono's lateral thinking. Vertical thinking plays with the pieces you have. Lateral thinking changes the pieces, redefining the problem so a whole new solution is possible.",
+   "board": {
+    "title": "Lateral **thinking**",
+    "vs": {
+     "left": "Vertical",
+     "right": "Lateral",
+     "leftItems": [
+      "Point A to B",
+      "Play with the pieces"
+     ],
+     "rightItems": [
+      "Change the assumption",
+      "Change the **pieces**"
+     ],
+     "cue": "Vertical",
+     "at": 3.248
+    }
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "w",
+     "look": "worker",
+     "v": 5,
+     "at": "walkL",
+     "to": "l",
+     "hold": "box",
+     "pose": "hold",
+     "walkCue": "Vertical",
+     "walkAt": 3.248
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "changes",
+     "pose": "up",
+     "expr": "grin",
+     "at": 6.833
+    }
+   ],
+   "fx": [
+    {
+     "kind": "brain",
+     "who": "host",
+     "cue": "lateral",
+     "at": 2.151
+    },
+    {
+     "kind": "bulb",
+     "who": "host",
+     "cue": "redefining",
+     "at": 8.094
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "Vertical",
+     "shot": "board",
+     "at": 3.248
+    },
+    {
+     "cue": "redefining",
+     "shot": "close",
+     "at": 8.094
+    }
+   ],
+   "audio": "audio/w9-02.mp3",
+   "leadIn": 0.45,
+   "seconds": 11.85,
+   "words": [
+    {
+     "w": "He",
+     "t": 0.5
+    },
+    {
+     "w": "learned",
+     "t": 0.689
+    },
+    {
+     "w": "from",
+     "t": 1.054
+    },
+    {
+     "w": "Edward",
+     "t": 1.337
+    },
+    {
+     "w": "de",
+     "t": 1.632
+    },
+    {
+     "w": "Bono's",
+     "t": 1.703
+    },
+    {
+     "w": "lateral",
+     "t": 2.151
+    },
+    {
+     "w": "thinking",
+     "t": 2.446
+    },
+    {
+     "w": "Vertical",
+     "t": 3.248
+    },
+    {
+     "w": "thinking",
+     "t": 3.743
+    },
+    {
+     "w": "plays",
+     "t": 4.144
+    },
+    {
+     "w": "with",
+     "t": 4.557
+    },
+    {
+     "w": "the",
+     "t": 4.698
+    },
+    {
+     "w": "pieces",
+     "t": 4.781
+    },
+    {
+     "w": "you",
+     "t": 5.205
+    },
+    {
+     "w": "have",
+     "t": 5.288
+    },
+    {
+     "w": "Lateral",
+     "t": 6.042
+    },
+    {
+     "w": "thinking",
+     "t": 6.467
+    },
+    {
+     "w": "changes",
+     "t": 6.833
+    },
+    {
+     "w": "the",
+     "t": 7.21
+    },
+    {
+     "w": "pieces",
+     "t": 7.269
+    },
+    {
+     "w": "redefining",
+     "t": 8.094
+    },
+    {
+     "w": "the",
+     "t": 8.684
+    },
+    {
+     "w": "problem",
+     "t": 8.731
+    },
+    {
+     "w": "so",
+     "t": 9.144
+    },
+    {
+     "w": "a",
+     "t": 9.344
+    },
+    {
+     "w": "whole",
+     "t": 9.38
+    },
+    {
+     "w": "new",
+     "t": 9.592
+    },
+    {
+     "w": "solution",
+     "t": 9.745
+    },
+    {
+     "w": "is",
+     "t": 10.217
+    },
+    {
+     "w": "possible",
+     "t": 10.37
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Creativity is fancy problem solving, so first find the real problem. It's usually buried beneath what you're told. So go from the brief, past the expected response, to the real problem, and the solution.",
+   "board": {
+    "title": "Find the **real** problem",
+    "steps": [
+     {
+      "text": "**The brief**",
+      "cue": "brief",
+      "at": 8.059
+     },
+     {
+      "text": "**Expected** response",
+      "cue": "expected",
+      "at": 9.167
+     },
+     {
+      "text": "**Real** problem",
+      "cue": "real problem and",
+      "at": 10.571
+     },
+     {
+      "text": "**Solution**",
+      "cue": "solution",
+      "at": 11.656
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "point",
+     "mirror": true
+    },
+    {
+     "id": "c",
+     "look": "exec",
+     "v": 6,
+     "at": "door",
+     "to": "table",
+     "hold": "clipboard",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "buried",
+     "pose": "chin",
+     "expr": "nervous",
+     "at": 5.429
+    }
+   ],
+   "fx": [
+    {
+     "kind": "question",
+     "who": "host",
+     "cue": "buried",
+     "at": 5.429
+    },
+    {
+     "kind": "bulb",
+     "who": "host",
+     "cue": "solution",
+     "at": 11.656
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "buried",
+     "shot": "close",
+     "at": 5.429
+    },
+    {
+     "cue": "brief",
+     "shot": "board",
+     "at": 8.059
+    }
+   ],
+   "audio": "audio/w9-03.mp3",
+   "leadIn": 0.45,
+   "seconds": 13.218,
+   "words": [
+    {
+     "w": "Creativity",
+     "t": 0.5
+    },
+    {
+     "w": "is",
+     "t": 1.255
+    },
+    {
+     "w": "fancy",
+     "t": 1.408
+    },
+    {
+     "w": "problem",
+     "t": 1.785
+    },
+    {
+     "w": "solving",
+     "t": 2.104
+    },
+    {
+     "w": "so",
+     "t": 2.835
+    },
+    {
+     "w": "first",
+     "t": 3.059
+    },
+    {
+     "w": "find",
+     "t": 3.413
+    },
+    {
+     "w": "the",
+     "t": 3.696
+    },
+    {
+     "w": "real",
+     "t": 3.755
+    },
+    {
+     "w": "problem",
+     "t": 3.979
+    },
+    {
+     "w": "It's",
+     "t": 4.792
+    },
+    {
+     "w": "usually",
+     "t": 5.005
+    },
+    {
+     "w": "buried",
+     "t": 5.429
+    },
+    {
+     "w": "beneath",
+     "t": 5.83
+    },
+    {
+     "w": "what",
+     "t": 6.243
+    },
+    {
+     "w": "you're",
+     "t": 6.42
+    },
+    {
+     "w": "told",
+     "t": 6.526
+    },
+    {
+     "w": "So",
+     "t": 7.34
+    },
+    {
+     "w": "go",
+     "t": 7.599
+    },
+    {
+     "w": "from",
+     "t": 7.823
+    },
+    {
+     "w": "the",
+     "t": 8.0
+    },
+    {
+     "w": "brief",
+     "t": 8.059
+    },
+    {
+     "w": "past",
+     "t": 8.731
+    },
+    {
+     "w": "the",
+     "t": 9.05
+    },
+    {
+     "w": "expected",
+     "t": 9.167
+    },
+    {
+     "w": "response",
+     "t": 9.592
+    },
+    {
+     "w": "to",
+     "t": 10.382
+    },
+    {
+     "w": "the",
+     "t": 10.476
+    },
+    {
+     "w": "real",
+     "t": 10.571
+    },
+    {
+     "w": "problem",
+     "t": 10.783
+    },
+    {
+     "w": "and",
+     "t": 11.408
+    },
+    {
+     "w": "the",
+     "t": 11.585
+    },
+    {
+     "w": "solution",
+     "t": 11.656
+    }
+   ]
+  },
+  {
+   "set": "home",
+   "say": "Rexona wanted to own summer and sport on a small budget, but sponsorship is cluttered and expensive. If you can't buy media, earn it. Pitvertising had fans guessing where the Rexona was hiding.",
+   "board": {
+    "title": "**Pitvertising**",
+    "lines": [
+     {
+      "text": "Can't buy media? **Earn it**",
+      "cue": "earn",
+      "at": 7.646
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "l",
+     "pose": "present"
+    },
+    {
+     "id": "f1",
+     "look": "worker",
+     "v": 6,
+     "at": "sofa",
+     "mode": "sit"
+    },
+    {
+     "id": "f2",
+     "look": "shopper",
+     "v": 3,
+     "at": "sofa2",
+     "mode": "sit"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "expensive",
+     "pose": "shrug",
+     "expr": "nervous",
+     "at": 5.241
+    },
+    {
+     "who": "f1",
+     "cue": "guessing",
+     "pose": "point",
+     "expr": "laugh",
+     "at": 9.627
+    },
+    {
+     "who": "f2",
+     "cue": "hiding",
+     "pose": "chin",
+     "expr": "grin",
+     "at": 10.889
+    }
+   ],
+   "fx": [
+    {
+     "kind": "money",
+     "who": "host",
+     "cue": "budget",
+     "at": 3.071
+    },
+    {
+     "kind": "say",
+     "who": "f1",
+     "text": "There! Under the arm!",
+     "cue": "guessing",
+     "at": 9.627
+    },
+    {
+     "kind": "eye",
+     "who": "f2",
+     "cue": "hiding",
+     "at": 10.889
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "earn",
+     "shot": "board",
+     "at": 7.646
+    },
+    {
+     "cue": "guessing",
+     "shot": "actor",
+     "who": "f1",
+     "at": 9.627
+    }
+   ],
+   "audio": "audio/w9-04.mp3",
+   "leadIn": 0.45,
+   "seconds": 12.282,
+   "words": [
+    {
+     "w": "Rexona",
+     "t": 0.5
+    },
+    {
+     "w": "wanted",
+     "t": 1.113
+    },
+    {
+     "w": "to",
+     "t": 1.396
+    },
+    {
+     "w": "own",
+     "t": 1.502
+    },
+    {
+     "w": "summer",
+     "t": 1.715
+    },
+    {
+     "w": "and",
+     "t": 2.08
+    },
+    {
+     "w": "sport",
+     "t": 2.222
+    },
+    {
+     "w": "on",
+     "t": 2.634
+    },
+    {
+     "w": "a",
+     "t": 2.776
+    },
+    {
+     "w": "small",
+     "t": 2.811
+    },
+    {
+     "w": "budget",
+     "t": 3.071
+    },
+    {
+     "w": "but",
+     "t": 3.837
+    },
+    {
+     "w": "sponsorship",
+     "t": 3.967
+    },
+    {
+     "w": "is",
+     "t": 4.545
+    },
+    {
+     "w": "cluttered",
+     "t": 4.686
+    },
+    {
+     "w": "and",
+     "t": 5.075
+    },
+    {
+     "w": "expensive",
+     "t": 5.241
+    },
+    {
+     "w": "If",
+     "t": 6.219
+    },
+    {
+     "w": "you",
+     "t": 6.396
+    },
+    {
+     "w": "can't",
+     "t": 6.502
+    },
+    {
+     "w": "buy",
+     "t": 6.762
+    },
+    {
+     "w": "media",
+     "t": 6.903
+    },
+    {
+     "w": "earn",
+     "t": 7.646
+    },
+    {
+     "w": "it",
+     "t": 7.823
+    },
+    {
+     "w": "Pitvertising",
+     "t": 8.389
+    },
+    {
+     "w": "had",
+     "t": 9.156
+    },
+    {
+     "w": "fans",
+     "t": 9.297
+    },
+    {
+     "w": "guessing",
+     "t": 9.627
+    },
+    {
+     "w": "where",
+     "t": 10.005
+    },
+    {
+     "w": "the",
+     "t": 10.146
+    },
+    {
+     "w": "Rexona",
+     "t": 10.241
+    },
+    {
+     "w": "was",
+     "t": 10.759
+    },
+    {
+     "w": "hiding",
+     "t": 10.889
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "The lesson: creativity thrives on constraint. Blue sky thinking rarely works. If the problem is wide open, tighten it yourself.",
+   "board": {
+    "title": "Creativity thrives on **constraint**",
+    "lines": [
+     {
+      "text": "Blue sky rarely works",
+      "cue": "Blue",
+      "at": 3.601
+     },
+     {
+      "text": "**Impose** your own limits",
+      "cue": "tighten",
+      "at": 7.481
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "a",
+     "look": "student",
+     "v": 3,
+     "at": "window",
+     "pose": "chin",
+     "expr": "dazed"
+    },
+    {
+     "id": "b",
+     "look": "exec_f",
+     "v": 5,
+     "at": "desk",
+     "hold": "laptop",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "b",
+     "cue": "tighten",
+     "pose": "cheer",
+     "expr": "grin",
+     "at": 7.481
+    }
+   ],
+   "fx": [
+    {
+     "kind": "zzz",
+     "who": "a",
+     "cue": "Blue",
+     "at": 3.601
+    },
+    {
+     "kind": "bulb",
+     "who": "b",
+     "cue": "tighten",
+     "at": 7.481
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "Blue",
+     "shot": "actor",
+     "who": "a",
+     "at": 3.601
+    },
+    {
+     "cue": "tighten",
+     "shot": "actor",
+     "who": "b",
+     "at": 7.481
+    }
+   ],
+   "audio": "audio/w9-05.mp3",
+   "leadIn": 0.45,
+   "seconds": 9.426,
+   "words": [
+    {
+     "w": "The",
+     "t": 0.5
+    },
+    {
+     "w": "lesson",
+     "t": 0.63
+    },
+    {
+     "w": "creativity",
+     "t": 1.408
+    },
+    {
+     "w": "thrives",
+     "t": 2.08
+    },
+    {
+     "w": "on",
+     "t": 2.564
+    },
+    {
+     "w": "constraint",
+     "t": 2.67
+    },
+    {
+     "w": "Blue",
+     "t": 3.601
+    },
+    {
+     "w": "sky",
+     "t": 3.861
+    },
+    {
+     "w": "thinking",
+     "t": 4.262
+    },
+    {
+     "w": "rarely",
+     "t": 4.627
+    },
+    {
+     "w": "works",
+     "t": 4.958
+    },
+    {
+     "w": "If",
+     "t": 5.759
+    },
+    {
+     "w": "the",
+     "t": 5.948
+    },
+    {
+     "w": "problem",
+     "t": 6.042
+    },
+    {
+     "w": "is",
+     "t": 6.42
+    },
+    {
+     "w": "wide",
+     "t": 6.526
+    },
+    {
+     "w": "open",
+     "t": 6.809
+    },
+    {
+     "w": "tighten",
+     "t": 7.481
+    },
+    {
+     "w": "it",
+     "t": 7.847
+    },
+    {
+     "w": "yourself",
+     "t": 7.941
+    }
+   ]
+  },
+  {
+   "set": "plaza",
+   "say": "Extra gum sales were falling, because at the checkout people are on their phones. So the Bad Breath Index suggested gum as strong food was scanned. A new idea in a familiar context.",
+   "board": {
+    "title": "The Bad Breath **Index**",
+    "lines": [
+     {
+      "text": "Gum + a **scanner**",
+      "cue": "scanned",
+      "at": 7.564
+     },
+     {
+      "text": "New idea, familiar place",
+      "cue": "familiar",
+      "at": 9.415
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "c",
+     "pose": "present"
+    },
+    {
+     "id": "s",
+     "look": "shopper",
+     "v": 5,
+     "at": "shop",
+     "hold": "phone",
+     "pose": "hold"
+    },
+    {
+     "id": "t",
+     "look": "student",
+     "v": 4,
+     "at": "shop2",
+     "hold": "phone",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "s",
+     "cue": "scanned",
+     "pose": "none",
+     "expr": "shock",
+     "at": 7.564
+    },
+    {
+     "who": "s",
+     "cue": "familiar",
+     "pose": "cheer",
+     "expr": "grin",
+     "at": 9.415
+    }
+   ],
+   "fx": [
+    {
+     "kind": "cross",
+     "who": "host",
+     "cue": "falling",
+     "at": 1.502
+    },
+    {
+     "kind": "zzz",
+     "who": "t",
+     "cue": "phones",
+     "at": 3.849
+    },
+    {
+     "kind": "exclaim",
+     "who": "s",
+     "cue": "scanned",
+     "at": 7.564
+    },
+    {
+     "kind": "think",
+     "who": "s",
+     "text": "Garlic bread... gum!",
+     "cue": "familiar",
+     "at": 9.415
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "phones",
+     "shot": "actor",
+     "who": "t",
+     "at": 3.849
+    },
+    {
+     "cue": "Bad",
+     "shot": "board",
+     "at": 5.04
+    },
+    {
+     "cue": "familiar",
+     "shot": "close",
+     "who": "s",
+     "at": 9.415
+    }
+   ],
+   "audio": "audio/w9-06.mp3",
+   "leadIn": 0.45,
+   "seconds": 11.418,
+   "words": [
+    {
+     "w": "Extra",
+     "t": 0.5
+    },
+    {
+     "w": "gum",
+     "t": 0.866
+    },
+    {
+     "w": "sales",
+     "t": 1.078
+    },
+    {
+     "w": "were",
+     "t": 1.42
+    },
+    {
+     "w": "falling",
+     "t": 1.502
+    },
+    {
+     "w": "because",
+     "t": 2.292
+    },
+    {
+     "w": "at",
+     "t": 2.552
+    },
+    {
+     "w": "the",
+     "t": 2.623
+    },
+    {
+     "w": "checkout",
+     "t": 2.705
+    },
+    {
+     "w": "people",
+     "t": 3.142
+    },
+    {
+     "w": "are",
+     "t": 3.495
+    },
+    {
+     "w": "on",
+     "t": 3.66
+    },
+    {
+     "w": "their",
+     "t": 3.767
+    },
+    {
+     "w": "phones",
+     "t": 3.849
+    },
+    {
+     "w": "So",
+     "t": 4.722
+    },
+    {
+     "w": "the",
+     "t": 4.958
+    },
+    {
+     "w": "Bad",
+     "t": 5.04
+    },
+    {
+     "w": "Breath",
+     "t": 5.276
+    },
+    {
+     "w": "Index",
+     "t": 5.5
+    },
+    {
+     "w": "suggested",
+     "t": 5.854
+    },
+    {
+     "w": "gum",
+     "t": 6.361
+    },
+    {
+     "w": "as",
+     "t": 6.632
+    },
+    {
+     "w": "strong",
+     "t": 6.762
+    },
+    {
+     "w": "food",
+     "t": 7.116
+    },
+    {
+     "w": "was",
+     "t": 7.446
+    },
+    {
+     "w": "scanned",
+     "t": 7.564
+    },
+    {
+     "w": "A",
+     "t": 8.389
+    },
+    {
+     "w": "new",
+     "t": 8.507
+    },
+    {
+     "w": "idea",
+     "t": 8.766
+    },
+    {
+     "w": "in",
+     "t": 9.238
+    },
+    {
+     "w": "a",
+     "t": 9.368
+    },
+    {
+     "w": "familiar",
+     "t": 9.415
+    },
+    {
+     "w": "context",
+     "t": 9.863
+    }
+   ]
+  },
+  {
+   "set": "street",
+   "say": "Kia's hybrids had nothing different to say. So they said nothing in the most interesting way possible. Lean into the uncomfortable truth, with the solution in your pocket.",
+   "board": {
+    "title": "A new breed of **hybrid**",
+    "lines": [
+     {
+      "text": "Lean into the **uncomfortable** truth",
+      "cue": "Lean",
+      "at": 6.078
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "kerb",
+     "pose": "point"
+    },
+    {
+     "id": "d",
+     "look": "exec",
+     "v": 4,
+     "at": "bus"
+    }
+   ],
+   "acts": [
+    {
+     "who": "d",
+     "cue": "nothing different",
+     "pose": "shrug",
+     "expr": "dazed",
+     "at": 1.526
+    },
+    {
+     "who": "host",
+     "cue": "pocket",
+     "pose": "hips",
+     "expr": "smile",
+     "at": 9.167
+    }
+   ],
+   "fx": [
+    {
+     "kind": "question",
+     "who": "d",
+     "cue": "nothing different",
+     "at": 1.526
+    },
+    {
+     "kind": "sparkle",
+     "who": "host",
+     "cue": "interesting",
+     "at": 4.557
+    },
+    {
+     "kind": "tick",
+     "who": "host",
+     "cue": "pocket",
+     "at": 9.167
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "said",
+     "shot": "board",
+     "at": 3.46
+    },
+    {
+     "cue": "pocket",
+     "shot": "close",
+     "at": 9.167
+    }
+   ],
+   "audio": "audio/w9-07.mp3",
+   "leadIn": 0.45,
+   "seconds": 10.578,
+   "words": [
+    {
+     "w": "Kia's",
+     "t": 0.5
+    },
+    {
+     "w": "hybrids",
+     "t": 0.842
+    },
+    {
+     "w": "had",
+     "t": 1.337
+    },
+    {
+     "w": "nothing",
+     "t": 1.526
+    },
+    {
+     "w": "different",
+     "t": 1.915
+    },
+    {
+     "w": "to",
+     "t": 2.245
+    },
+    {
+     "w": "say",
+     "t": 2.304
+    },
+    {
+     "w": "So",
+     "t": 3.059
+    },
+    {
+     "w": "they",
+     "t": 3.307
+    },
+    {
+     "w": "said",
+     "t": 3.46
+    },
+    {
+     "w": "nothing",
+     "t": 3.719
+    },
+    {
+     "w": "in",
+     "t": 4.12
+    },
+    {
+     "w": "the",
+     "t": 4.238
+    },
+    {
+     "w": "most",
+     "t": 4.274
+    },
+    {
+     "w": "interesting",
+     "t": 4.557
+    },
+    {
+     "w": "way",
+     "t": 5.04
+    },
+    {
+     "w": "possible",
+     "t": 5.205
+    },
+    {
+     "w": "Lean",
+     "t": 6.078
+    },
+    {
+     "w": "into",
+     "t": 6.432
+    },
+    {
+     "w": "the",
+     "t": 6.703
+    },
+    {
+     "w": "uncomfortable",
+     "t": 6.844
+    },
+    {
+     "w": "truth",
+     "t": 7.458
+    },
+    {
+     "w": "with",
+     "t": 8.177
+    },
+    {
+     "w": "the",
+     "t": 8.342
+    },
+    {
+     "w": "solution",
+     "t": 8.413
+    },
+    {
+     "w": "in",
+     "t": 8.943
+    },
+    {
+     "w": "your",
+     "t": 9.061
+    },
+    {
+     "w": "pocket",
+     "t": 9.167
+    }
+   ]
+  },
+  {
+   "set": "plaza",
+   "say": "V Energy can't out Red Bull Red Bull. So instead of copying, it called bull on the whole category. Say one thing over and over, until it becomes your distinction.",
+   "board": {
+    "title": "Say **one thing**, over and over",
+    "lines": [
+     {
+      "text": "Don't copy the leader",
+      "cue": "copying",
+      "at": 3.837
+     },
+     {
+      "text": "Repeat until it's **yours**",
+      "cue": "over",
+      "at": 7.505
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "c",
+     "pose": "present"
+    },
+    {
+     "id": "k",
+     "look": "student",
+     "v": 7,
+     "at": "shelf",
+     "hold": "box",
+     "pose": "hold",
+     "holdCol": "#2fae4f"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "called",
+     "pose": "point",
+     "expr": "stern",
+     "at": 4.745
+    },
+    {
+     "who": "k",
+     "cue": "distinction",
+     "pose": "cheer",
+     "expr": "grin",
+     "at": 9.45
+    }
+   ],
+   "fx": [
+    {
+     "kind": "cross",
+     "who": "host",
+     "cue": "copying",
+     "at": 3.837
+    },
+    {
+     "kind": "burst",
+     "who": "host",
+     "cue": "called",
+     "at": 4.745
+    },
+    {
+     "kind": "stars",
+     "who": "k",
+     "cue": "distinction",
+     "at": 9.45
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "called",
+     "shot": "close",
+     "at": 4.745
+    },
+    {
+     "cue": "Say",
+     "shot": "board",
+     "at": 6.561
+    }
+   ],
+   "audio": "audio/w9-08.mp3",
+   "leadIn": 0.45,
+   "seconds": 10.986,
+   "words": [
+    {
+     "w": "V",
+     "t": 0.5
+    },
+    {
+     "w": "Energy",
+     "t": 0.866
+    },
+    {
+     "w": "can't",
+     "t": 1.266
+    },
+    {
+     "w": "out",
+     "t": 1.55
+    },
+    {
+     "w": "Red",
+     "t": 1.774
+    },
+    {
+     "w": "Bull",
+     "t": 2.021
+    },
+    {
+     "w": "Red",
+     "t": 2.245
+    },
+    {
+     "w": "Bull",
+     "t": 2.446
+    },
+    {
+     "w": "So",
+     "t": 3.153
+    },
+    {
+     "w": "instead",
+     "t": 3.448
+    },
+    {
+     "w": "of",
+     "t": 3.743
+    },
+    {
+     "w": "copying",
+     "t": 3.837
+    },
+    {
+     "w": "it",
+     "t": 4.604
+    },
+    {
+     "w": "called",
+     "t": 4.745
+    },
+    {
+     "w": "bull",
+     "t": 5.016
+    },
+    {
+     "w": "on",
+     "t": 5.335
+    },
+    {
+     "w": "the",
+     "t": 5.441
+    },
+    {
+     "w": "whole",
+     "t": 5.488
+    },
+    {
+     "w": "category",
+     "t": 5.689
+    },
+    {
+     "w": "Say",
+     "t": 6.561
+    },
+    {
+     "w": "one",
+     "t": 6.915
+    },
+    {
+     "w": "thing",
+     "t": 7.175
+    },
+    {
+     "w": "over",
+     "t": 7.505
+    },
+    {
+     "w": "and",
+     "t": 7.776
+    },
+    {
+     "w": "over",
+     "t": 7.917
+    },
+    {
+     "w": "until",
+     "t": 8.554
+    },
+    {
+     "w": "it",
+     "t": 8.884
+    },
+    {
+     "w": "becomes",
+     "t": 8.955
+    },
+    {
+     "w": "your",
+     "t": 9.356
+    },
+    {
+     "w": "distinction",
+     "t": 9.45
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "There are three types of agency: media, creative and integrated. All of them overcomplicate things, partly to look smart. The real intelligence is untangling it back to a single line.",
+   "board": {
+    "title": "Three **agencies**",
+    "steps": [
+     {
+      "text": "**Media**",
+      "cue": "media",
+      "at": 2.304
+     },
+     {
+      "text": "**Creative**",
+      "cue": "creative",
+      "at": 2.965
+     },
+     {
+      "text": "**Integrated** does both",
+      "cue": "integrated",
+      "at": 3.672
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "a",
+     "look": "exec",
+     "v": 7,
+     "at": "table",
+     "pose": "shrug"
+    },
+    {
+     "id": "b",
+     "look": "exec_f",
+     "v": 7,
+     "at": "table2"
+    }
+   ],
+   "acts": [
+    {
+     "who": "a",
+     "cue": "overcomplicate",
+     "pose": "shrug",
+     "expr": "dazed",
+     "at": 5.264
+    },
+    {
+     "who": "host",
+     "cue": "untangling",
+     "pose": "up",
+     "expr": "relief",
+     "at": 9.309
+    }
+   ],
+   "fx": [
+    {
+     "kind": "question",
+     "who": "a",
+     "cue": "overcomplicate",
+     "at": 5.264
+    },
+    {
+     "kind": "say",
+     "who": "b",
+     "text": "Forty slides, minimum",
+     "cue": "smart",
+     "at": 7.387
+    },
+    {
+     "kind": "tick",
+     "who": "host",
+     "cue": "single",
+     "at": 10.465
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "overcomplicate",
+     "shot": "wide",
+     "at": 5.264
+    },
+    {
+     "cue": "untangling",
+     "shot": "close",
+     "at": 9.309
+    }
+   ],
+   "audio": "audio/w9-09.mp3",
+   "leadIn": 0.45,
+   "seconds": 12.162,
+   "words": [
+    {
+     "w": "There",
+     "t": 0.5
+    },
+    {
+     "w": "are",
+     "t": 0.712
+    },
+    {
+     "w": "three",
+     "t": 0.736
+    },
+    {
+     "w": "types",
+     "t": 1.031
+    },
+    {
+     "w": "of",
+     "t": 1.325
+    },
+    {
+     "w": "agency",
+     "t": 1.396
+    },
+    {
+     "w": "media",
+     "t": 2.304
+    },
+    {
+     "w": "creative",
+     "t": 2.965
+    },
+    {
+     "w": "and",
+     "t": 3.484
+    },
+    {
+     "w": "integrated",
+     "t": 3.672
+    },
+    {
+     "w": "All",
+     "t": 4.663
+    },
+    {
+     "w": "of",
+     "t": 4.934
+    },
+    {
+     "w": "them",
+     "t": 5.028
+    },
+    {
+     "w": "overcomplicate",
+     "t": 5.264
+    },
+    {
+     "w": "things",
+     "t": 5.972
+    },
+    {
+     "w": "partly",
+     "t": 6.726
+    },
+    {
+     "w": "to",
+     "t": 7.127
+    },
+    {
+     "w": "look",
+     "t": 7.222
+    },
+    {
+     "w": "smart",
+     "t": 7.387
+    },
+    {
+     "w": "The",
+     "t": 8.189
+    },
+    {
+     "w": "real",
+     "t": 8.342
+    },
+    {
+     "w": "intelligence",
+     "t": 8.601
+    },
+    {
+     "w": "is",
+     "t": 9.167
+    },
+    {
+     "w": "untangling",
+     "t": 9.309
+    },
+    {
+     "w": "it",
+     "t": 9.899
+    },
+    {
+     "w": "back",
+     "t": 10.016
+    },
+    {
+     "w": "to",
+     "t": 10.288
+    },
+    {
+     "w": "a",
+     "t": 10.429
+    },
+    {
+     "w": "single",
+     "t": 10.465
+    },
+    {
+     "w": "line",
+     "t": 10.807
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "The creative method runs from the brief, problem and strategy, through creative territories and the brand platform, to roll out, production and optimisation. It's stressful. You fret in the unknown.",
+   "board": {
+    "title": "The creative **method**",
+    "steps": [
+     {
+      "text": "**Brief** and problem",
+      "cue": "brief",
+      "at": 1.856
+     },
+     {
+      "text": "**Strategy**",
+      "cue": "strategy",
+      "at": 3.0
+     },
+     {
+      "text": "**Territories** and platform",
+      "cue": "territories",
+      "at": 4.533
+     },
+     {
+      "text": "**Roll-out** and production",
+      "cue": "roll",
+      "at": 6.408
+     },
+     {
+      "text": "**Optimise**",
+      "cue": "optimisation",
+      "at": 7.788
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "point",
+     "mirror": true
+    },
+    {
+     "id": "ad",
+     "look": "student",
+     "v": 1,
+     "at": "desk",
+     "hold": "laptop",
+     "pose": "hold"
+    },
+    {
+     "id": "cw",
+     "look": "worker",
+     "v": 8,
+     "at": "desk2",
+     "pose": "chin"
+    }
+   ],
+   "acts": [
+    {
+     "who": "cw",
+     "cue": "fret",
+     "pose": "chin",
+     "expr": "pained",
+     "at": 10.382
+    },
+    {
+     "who": "ad",
+     "cue": "unknown",
+     "expr": "nervous",
+     "at": 11.007
+    }
+   ],
+   "fx": [
+    {
+     "kind": "clock",
+     "who": "cw",
+     "cue": "stressful",
+     "at": 9.179
+    },
+    {
+     "kind": "question",
+     "who": "ad",
+     "cue": "unknown",
+     "at": 11.007
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "stressful",
+     "shot": "wide",
+     "at": 9.179
+    },
+    {
+     "cue": "fret",
+     "shot": "actor",
+     "who": "cw",
+     "at": 10.382
+    }
+   ],
+   "audio": "audio/w9-10.mp3",
+   "leadIn": 0.45,
+   "seconds": 12.546,
+   "words": [
+    {
+     "w": "The",
+     "t": 0.5
+    },
+    {
+     "w": "creative",
+     "t": 0.665
+    },
+    {
+     "w": "method",
+     "t": 1.066
+    },
+    {
+     "w": "runs",
+     "t": 1.408
+    },
+    {
+     "w": "from",
+     "t": 1.691
+    },
+    {
+     "w": "the",
+     "t": 1.809
+    },
+    {
+     "w": "brief",
+     "t": 1.856
+    },
+    {
+     "w": "problem",
+     "t": 2.469
+    },
+    {
+     "w": "and",
+     "t": 2.882
+    },
+    {
+     "w": "strategy",
+     "t": 3.0
+    },
+    {
+     "w": "through",
+     "t": 3.849
+    },
+    {
+     "w": "creative",
+     "t": 4.073
+    },
+    {
+     "w": "territories",
+     "t": 4.533
+    },
+    {
+     "w": "and",
+     "t": 5.075
+    },
+    {
+     "w": "the",
+     "t": 5.217
+    },
+    {
+     "w": "brand",
+     "t": 5.264
+    },
+    {
+     "w": "platform",
+     "t": 5.547
+    },
+    {
+     "w": "to",
+     "t": 6.29
+    },
+    {
+     "w": "roll",
+     "t": 6.408
+    },
+    {
+     "w": "out",
+     "t": 6.656
+    },
+    {
+     "w": "production",
+     "t": 7.08
+    },
+    {
+     "w": "and",
+     "t": 7.623
+    },
+    {
+     "w": "optimisation",
+     "t": 7.788
+    },
+    {
+     "w": "It's",
+     "t": 8.943
+    },
+    {
+     "w": "stressful",
+     "t": 9.179
+    },
+    {
+     "w": "You",
+     "t": 10.134
+    },
+    {
+     "w": "fret",
+     "t": 10.382
+    },
+    {
+     "w": "in",
+     "t": 10.712
+    },
+    {
+     "w": "the",
+     "t": 10.866
+    },
+    {
+     "w": "unknown",
+     "t": 11.007
+    }
+   ]
+  },
+  {
+   "set": "stage",
+   "say": "Creative people aren't special. They're just comfortable in the unknown. An idea is a new combination of existing things. Gum plus a scanner. A logo plus an armpit.",
+   "board": {
+    "title": "What an **idea** is",
+    "lines": [
+     {
+      "text": "A **new combination** of old things",
+      "cue": "combination",
+      "at": 5.877
+     },
+     {
+      "text": "Gum + a scanner",
+      "cue": "Gum",
+      "at": 7.906
+     },
+     {
+      "text": "A logo + an **armpit**",
+      "cue": "logo",
+      "at": 9.521
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "s",
+     "look": "student",
+     "v": 6,
+     "at": "aisle"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "comfortable",
+     "pose": "shrug",
+     "expr": "smile",
+     "at": 3.094
+    },
+    {
+     "who": "s",
+     "cue": "armpit",
+     "pose": "cheer",
+     "expr": "laugh",
+     "at": 10.37
+    }
+   ],
+   "fx": [
+    {
+     "kind": "bulb",
+     "who": "s",
+     "cue": "combination",
+     "at": 5.877
+    },
+    {
+     "kind": "sparkle",
+     "who": "host",
+     "cue": "armpit",
+     "at": 10.37
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "host",
+     "at": 0.2
+    },
+    {
+     "cue": "idea",
+     "shot": "board",
+     "at": 4.934
+    },
+    {
+     "cue": "armpit",
+     "shot": "actor",
+     "who": "s",
+     "at": 10.37
+    }
+   ],
+   "audio": "audio/w9-11.mp3",
+   "leadIn": 0.45,
+   "seconds": 11.754,
+   "words": [
+    {
+     "w": "Creative",
+     "t": 0.5
+    },
+    {
+     "w": "people",
+     "t": 1.078
+    },
+    {
+     "w": "aren't",
+     "t": 1.561
+    },
+    {
+     "w": "special",
+     "t": 1.726
+    },
+    {
+     "w": "They're",
+     "t": 2.575
+    },
+    {
+     "w": "just",
+     "t": 2.776
+    },
+    {
+     "w": "comfortable",
+     "t": 3.094
+    },
+    {
+     "w": "in",
+     "t": 3.625
+    },
+    {
+     "w": "the",
+     "t": 3.767
+    },
+    {
+     "w": "unknown",
+     "t": 3.884
+    },
+    {
+     "w": "An",
+     "t": 4.781
+    },
+    {
+     "w": "idea",
+     "t": 4.934
+    },
+    {
+     "w": "is",
+     "t": 5.465
+    },
+    {
+     "w": "a",
+     "t": 5.606
+    },
+    {
+     "w": "new",
+     "t": 5.653
+    },
+    {
+     "w": "combination",
+     "t": 5.877
+    },
+    {
+     "w": "of",
+     "t": 6.502
+    },
+    {
+     "w": "existing",
+     "t": 6.62
+    },
+    {
+     "w": "things",
+     "t": 7.092
+    },
+    {
+     "w": "Gum",
+     "t": 7.906
+    },
+    {
+     "w": "plus",
+     "t": 8.271
+    },
+    {
+     "w": "a",
+     "t": 8.554
+    },
+    {
+     "w": "scanner",
+     "t": 8.601
+    },
+    {
+     "w": "A",
+     "t": 9.403
+    },
+    {
+     "w": "logo",
+     "t": 9.521
+    },
+    {
+     "w": "plus",
+     "t": 9.993
+    },
+    {
+     "w": "an",
+     "t": 10.288
+    },
+    {
+     "w": "armpit",
+     "t": 10.37
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Gather insights and lots of what ifs. Be okay with bad ideas, and cross them out. When you run out of bad ideas, you take a leap.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "l",
+     "pose": "present"
+    },
+    {
+     "id": "w",
+     "look": "exec_f",
+     "v": 9,
+     "at": "board",
+     "hold": "clipboard",
+     "pose": "hold"
+    },
+    {
+     "id": "x",
+     "look": "student",
+     "v": 9,
+     "at": "table"
+    }
+   ],
+   "acts": [
+    {
+     "who": "x",
+     "cue": "cross",
+     "pose": "shrug",
+     "expr": "nervous",
+     "at": 5.075
+    },
+    {
+     "who": "w",
+     "cue": "leap",
+     "pose": "cheer",
+     "expr": "grin",
+     "at": 8.389
+    }
+   ],
+   "fx": [
+    {
+     "kind": "think",
+     "who": "x",
+     "text": "What if...?",
+     "cue": "what",
+     "at": 1.88
+    },
+    {
+     "kind": "cross",
+     "who": "x",
+     "cue": "cross",
+     "at": 5.075
+    },
+    {
+     "kind": "bulb",
+     "who": "w",
+     "cue": "leap",
+     "size": 1.3,
+     "at": 8.389
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "bad",
+     "shot": "actor",
+     "who": "x",
+     "at": 3.932
+    },
+    {
+     "cue": "leap",
+     "shot": "actor",
+     "who": "w",
+     "at": 8.389
+    }
+   ],
+   "audio": "audio/w9-12.mp3",
+   "leadIn": 0.45,
+   "seconds": 9.714,
+   "words": [
+    {
+     "w": "Gather",
+     "t": 0.5
+    },
+    {
+     "w": "insights",
+     "t": 0.818
+    },
+    {
+     "w": "and",
+     "t": 1.325
+    },
+    {
+     "w": "lots",
+     "t": 1.467
+    },
+    {
+     "w": "of",
+     "t": 1.785
+    },
+    {
+     "w": "what",
+     "t": 1.88
+    },
+    {
+     "w": "ifs",
+     "t": 2.21
+    },
+    {
+     "w": "Be",
+     "t": 3.153
+    },
+    {
+     "w": "okay",
+     "t": 3.401
+    },
+    {
+     "w": "with",
+     "t": 3.755
+    },
+    {
+     "w": "bad",
+     "t": 3.932
+    },
+    {
+     "w": "ideas",
+     "t": 4.156
+    },
+    {
+     "w": "and",
+     "t": 4.922
+    },
+    {
+     "w": "cross",
+     "t": 5.075
+    },
+    {
+     "w": "them",
+     "t": 5.359
+    },
+    {
+     "w": "out",
+     "t": 5.476
+    },
+    {
+     "w": "When",
+     "t": 6.125
+    },
+    {
+     "w": "you",
+     "t": 6.373
+    },
+    {
+     "w": "run",
+     "t": 6.502
+    },
+    {
+     "w": "out",
+     "t": 6.715
+    },
+    {
+     "w": "of",
+     "t": 6.868
+    },
+    {
+     "w": "bad",
+     "t": 6.986
+    },
+    {
+     "w": "ideas",
+     "t": 7.198
+    },
+    {
+     "w": "you",
+     "t": 7.965
+    },
+    {
+     "w": "take",
+     "t": 8.118
+    },
+    {
+     "w": "a",
+     "t": 8.354
+    },
+    {
+     "w": "leap",
+     "t": 8.389
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "So be a better client. Brief the problem, not what you want to say. Punters don't think like you do. Be simple, not just smart. It's not creative if it's not commercial.",
+   "board": {
+    "title": "Be a better **client**",
+    "lines": [
+     {
+      "text": "Brief the **problem**",
+      "cue": "Brief",
+      "at": 2.234
+     },
+     {
+      "text": "Punters think differently",
+      "cue": "Punters",
+      "at": 4.863
+     },
+     {
+      "text": "**Simple**, not just smart",
+      "cue": "simple",
+      "at": 7.057
+     },
+     {
+      "text": "Creative must be **commercial**",
+      "cue": "creative",
+      "at": 9.545
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "point",
+     "mirror": true
+    },
+    {
+     "id": "c",
+     "look": "exec",
+     "v": 8,
+     "at": "table",
+     "hold": "clipboard",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "c",
+     "cue": "Punters",
+     "pose": "chin",
+     "expr": "nervous",
+     "at": 4.863
+    },
+    {
+     "who": "c",
+     "cue": "commercial",
+     "pose": "up",
+     "expr": "smile",
+     "at": 10.641
+    }
+   ],
+   "fx": [
+    {
+     "kind": "think",
+     "who": "c",
+     "text": "Twelve key messages?",
+     "cue": "want",
+     "at": 3.884
+    },
+    {
+     "kind": "money",
+     "who": "host",
+     "cue": "commercial",
+     "at": 10.641
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "Punters",
+     "shot": "actor",
+     "who": "c",
+     "at": 4.863
+    },
+    {
+     "cue": "simple",
+     "shot": "close",
+     "at": 7.057
+    }
+   ],
+   "audio": "audio/w9-13.mp3",
+   "leadIn": 0.45,
+   "seconds": 12.162,
+   "words": [
+    {
+     "w": "So",
+     "t": 0.5
+    },
+    {
+     "w": "be",
+     "t": 0.818
+    },
+    {
+     "w": "a",
+     "t": 1.042
+    },
+    {
+     "w": "better",
+     "t": 1.09
+    },
+    {
+     "w": "client",
+     "t": 1.42
+    },
+    {
+     "w": "Brief",
+     "t": 2.234
+    },
+    {
+     "w": "the",
+     "t": 2.552
+    },
+    {
+     "w": "problem",
+     "t": 2.646
+    },
+    {
+     "w": "not",
+     "t": 3.366
+    },
+    {
+     "w": "what",
+     "t": 3.613
+    },
+    {
+     "w": "you",
+     "t": 3.802
+    },
+    {
+     "w": "want",
+     "t": 3.884
+    },
+    {
+     "w": "to",
+     "t": 4.05
+    },
+    {
+     "w": "say",
+     "t": 4.109
+    },
+    {
+     "w": "Punters",
+     "t": 4.863
+    },
+    {
+     "w": "don't",
+     "t": 5.347
+    },
+    {
+     "w": "think",
+     "t": 5.618
+    },
+    {
+     "w": "like",
+     "t": 5.901
+    },
+    {
+     "w": "you",
+     "t": 6.101
+    },
+    {
+     "w": "do",
+     "t": 6.184
+    },
+    {
+     "w": "Be",
+     "t": 6.891
+    },
+    {
+     "w": "simple",
+     "t": 7.057
+    },
+    {
+     "w": "not",
+     "t": 7.776
+    },
+    {
+     "w": "just",
+     "t": 8.059
+    },
+    {
+     "w": "smart",
+     "t": 8.307
+    },
+    {
+     "w": "It's",
+     "t": 9.12
+    },
+    {
+     "w": "not",
+     "t": 9.333
+    },
+    {
+     "w": "creative",
+     "t": 9.545
+    },
+    {
+     "w": "if",
+     "t": 10.087
+    },
+    {
+     "w": "it's",
+     "t": 10.252
+    },
+    {
+     "w": "not",
+     "t": 10.417
+    },
+    {
+     "w": "commercial",
+     "t": 10.641
+    }
+   ]
+  },
+  {
+   "set": "home",
+   "say": "And AI? It can speed run the process. No ego, never tired. But alone it gives similar, cheap ideas. Use it as your antagonist, not your assistant.",
+   "board": {
+    "title": "AI as **antagonist**",
+    "vs": {
+     "left": "Brilliant at",
+     "right": "Falls short",
+     "leftItems": [
+      "Speed-running",
+      "No ego, never tired"
+     ],
+     "rightItems": [
+      "Similar ideas",
+      "**Cheap** ideas"
+     ],
+     "cue": "speed",
+     "at": 2.045
+    }
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "l",
+     "pose": "present"
+    },
+    {
+     "id": "u",
+     "look": "student",
+     "v": 8,
+     "at": "sofa",
+     "mode": "sit",
+     "hold": "laptop",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "u",
+     "cue": "similar",
+     "expr": "dazed",
+     "at": 6.726
+    },
+    {
+     "who": "host",
+     "cue": "antagonist",
+     "pose": "point",
+     "expr": "grin",
+     "at": 9.486
+    }
+   ],
+   "fx": [
+    {
+     "kind": "clock",
+     "who": "u",
+     "cue": "speed",
+     "at": 2.045
+    },
+    {
+     "kind": "zzz",
+     "who": "u",
+     "cue": "cheap",
+     "at": 7.434
+    },
+    {
+     "kind": "burst",
+     "who": "host",
+     "cue": "antagonist",
+     "at": 9.486
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "speed",
+     "shot": "board",
+     "at": 2.045
+    },
+    {
+     "cue": "antagonist",
+     "shot": "close",
+     "at": 9.486
+    }
+   ],
+   "audio": "audio/w9-14.mp3",
+   "leadIn": 0.45,
+   "seconds": 12.33,
+   "words": [
+    {
+     "w": "And",
+     "t": 0.5
+    },
+    {
+     "w": "AI",
+     "t": 0.818
+    },
+    {
+     "w": "It",
+     "t": 1.691
+    },
+    {
+     "w": "can",
+     "t": 1.88
+    },
+    {
+     "w": "speed",
+     "t": 2.045
+    },
+    {
+     "w": "run",
+     "t": 2.505
+    },
+    {
+     "w": "the",
+     "t": 2.682
+    },
+    {
+     "w": "process",
+     "t": 2.729
+    },
+    {
+     "w": "No",
+     "t": 3.684
+    },
+    {
+     "w": "ego",
+     "t": 4.061
+    },
+    {
+     "w": "never",
+     "t": 4.686
+    },
+    {
+     "w": "tired",
+     "t": 5.016
+    },
+    {
+     "w": "But",
+     "t": 5.83
+    },
+    {
+     "w": "alone",
+     "t": 5.972
+    },
+    {
+     "w": "it",
+     "t": 6.361
+    },
+    {
+     "w": "gives",
+     "t": 6.526
+    },
+    {
+     "w": "similar",
+     "t": 6.726
+    },
+    {
+     "w": "cheap",
+     "t": 7.434
+    },
+    {
+     "w": "ideas",
+     "t": 7.717
+    },
+    {
+     "w": "Use",
+     "t": 8.637
+    },
+    {
+     "w": "it",
+     "t": 8.991
+    },
+    {
+     "w": "as",
+     "t": 9.156
+    },
+    {
+     "w": "your",
+     "t": 9.344
+    },
+    {
+     "w": "antagonist",
+     "t": 9.486
+    },
+    {
+     "w": "not",
+     "t": 10.417
+    },
+    {
+     "w": "your",
+     "t": 10.7
+    },
+    {
+     "w": "assistant",
+     "t": 10.854
+    }
+   ]
+  },
+  {
+   "set": "stage",
+   "say": "Getting in? Bring an open heart and a curious mind. Find the real problem, embrace constraint, and say one thing well. Creativity is still the superpower. That's week nine.",
+   "board": {
+    "title": "Week 9 **takeaways**",
+    "lines": [
+     {
+      "text": "Find the **real** problem",
+      "cue": "real",
+      "at": 4.486
+     },
+     {
+      "text": "Constraint feeds creativity",
+      "cue": "constraint",
+      "at": 5.818
+     },
+     {
+      "text": "Say **one thing** well",
+      "cue": "one",
+      "at": 7.045
+     },
+     {
+      "text": "Creativity is the **superpower**",
+      "cue": "superpower",
+      "at": 9.592
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "s1",
+     "look": "student",
+     "v": 3,
+     "at": "aisle"
+    },
+    {
+     "id": "s2",
+     "look": "student",
+     "v": 8,
+     "at": "aisle2"
+    }
+   ],
+   "acts": [
+    {
+     "who": "s1",
+     "cue": "heart",
+     "pose": "cheer",
+     "expr": "grin",
+     "at": 2.269
+    },
+    {
+     "who": "host",
+     "cue": "week",
+     "pose": "cheer",
+     "expr": "grin",
+     "at": 10.995
+    }
+   ],
+   "fx": [
+    {
+     "kind": "heart",
+     "who": "s1",
+     "cue": "heart",
+     "at": 2.269
+    },
+    {
+     "kind": "question",
+     "who": "s2",
+     "cue": "curious",
+     "at": 2.823
+    },
+    {
+     "kind": "stars",
+     "who": "host",
+     "cue": "week",
+     "at": 10.995
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "Find",
+     "shot": "board",
+     "at": 4.038
+    },
+    {
+     "cue": "week",
+     "shot": "close",
+     "at": 10.995
+    }
+   ],
+   "audio": "audio/w9-15.mp3",
+   "leadIn": 0.45,
+   "seconds": 12.642,
+   "words": [
+    {
+     "w": "Getting",
+     "t": 0.5
+    },
+    {
+     "w": "in",
+     "t": 0.877
+    },
+    {
+     "w": "Bring",
+     "t": 1.561
+    },
+    {
+     "w": "an",
+     "t": 1.821
+    },
+    {
+     "w": "open",
+     "t": 2.009
+    },
+    {
+     "w": "heart",
+     "t": 2.269
+    },
+    {
+     "w": "and",
+     "t": 2.634
+    },
+    {
+     "w": "a",
+     "t": 2.776
+    },
+    {
+     "w": "curious",
+     "t": 2.823
+    },
+    {
+     "w": "mind",
+     "t": 3.248
+    },
+    {
+     "w": "Find",
+     "t": 4.038
+    },
+    {
+     "w": "the",
+     "t": 4.415
+    },
+    {
+     "w": "real",
+     "t": 4.486
+    },
+    {
+     "w": "problem",
+     "t": 4.71
+    },
+    {
+     "w": "embrace",
+     "t": 5.359
+    },
+    {
+     "w": "constraint",
+     "t": 5.818
+    },
+    {
+     "w": "and",
+     "t": 6.632
+    },
+    {
+     "w": "say",
+     "t": 6.774
+    },
+    {
+     "w": "one",
+     "t": 7.045
+    },
+    {
+     "w": "thing",
+     "t": 7.34
+    },
+    {
+     "w": "well",
+     "t": 7.54
+    },
+    {
+     "w": "Creativity",
+     "t": 8.236
+    },
+    {
+     "w": "is",
+     "t": 9.026
+    },
+    {
+     "w": "still",
+     "t": 9.156
+    },
+    {
+     "w": "the",
+     "t": 9.498
+    },
+    {
+     "w": "superpower",
+     "t": 9.592
+    },
+    {
+     "w": "That's",
+     "t": 10.641
+    },
+    {
+     "w": "week",
+     "t": 10.995
+    },
+    {
+     "w": "nine",
+     "t": 11.243
+    }
+   ]
+  }
+ ],
+ "id": "w9",
+ "total": 190.33
+}

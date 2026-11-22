@@ -1,0 +1,298 @@
+{
+ "week": 0,
+ "title": "How the model thinks: five analogies (baseline, adstock, diminishing returns)",
+ "speaker": "Nicky Barton, Mutinex, Week 12",
+ "beats": [
+  {
+   "set": "office",
+   "say": "Five analogies for how the model thinks. A cafe on a busy corner. A song stuck in your head. The fifth slice of pizza. Last year's star. And a flight simulator.",
+   "board": {
+    "title": "How the **model** thinks",
+    "steps": [
+     {
+      "text": "**Busy cafe**: baseline",
+      "cue": "cafe"
+     },
+     {
+      "text": "**Stuck song**: adstock",
+      "cue": "song"
+     },
+     {
+      "text": "**Fifth slice**: diminishing returns",
+      "cue": "slice"
+     },
+     {
+      "text": "**Last year's star**: averages lie",
+      "cue": "star"
+     },
+     {
+      "text": "**Flight sim**: test first",
+      "cue": "flight"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "e",
+     "look": "exec",
+     "v": 6,
+     "at": "table"
+    }
+   ],
+   "acts": [
+    {
+     "who": "e",
+     "cue": "song",
+     "expr": "whistle"
+    },
+    {
+     "who": "host",
+     "cue": "flight",
+     "pose": "up",
+     "expr": "grin"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "sparkle",
+     "who": "e",
+     "cue": "song"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "song",
+     "shot": "actor",
+     "who": "e"
+    },
+    {
+     "cue": "flight",
+     "shot": "board"
+    }
+   ]
+  },
+  {
+   "set": "plaza",
+   "say": "The corner cafe sells coffee with no ads at all: that's baseline. Ads that keep working after they stop are adstock, like Slip, Slop, Slap.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "c",
+     "pose": "none"
+    },
+    {
+     "id": "s1",
+     "look": "shopper",
+     "v": 1,
+     "at": "l",
+     "hold": "coffee",
+     "pose": "hold"
+    },
+    {
+     "id": "s2",
+     "look": "student",
+     "v": 3,
+     "at": "walkR",
+     "to": "r",
+     "walkCue": "baseline",
+     "hold": "coffee",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "s1",
+     "cue": "coffee",
+     "expr": "smile"
+    },
+    {
+     "who": "host",
+     "cue": "Slip",
+     "pose": "up",
+     "expr": "whistle"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "tick",
+     "who": "s1",
+     "cue": "baseline"
+    },
+    {
+     "kind": "sparkle",
+     "who": "host",
+     "cue": "Slip"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "coffee",
+     "shot": "actor",
+     "who": "s1"
+    },
+    {
+     "cue": "adstock",
+     "shot": "close"
+    }
+   ]
+  },
+  {
+   "set": "home",
+   "say": "Each extra dollar adds less, like a fifth slice of pizza. A channel's average can hide what the next dollar does. So test the plan first.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "l",
+     "pose": "none"
+    },
+    {
+     "id": "p",
+     "look": "student",
+     "v": 4,
+     "at": "sofa",
+     "mode": "sit",
+     "hold": "box",
+     "pose": "hold"
+    },
+    {
+     "id": "q",
+     "look": "elder",
+     "v": 6,
+     "at": "sofa2",
+     "mode": "sit"
+    }
+   ],
+   "acts": [
+    {
+     "who": "p",
+     "cue": "fifth",
+     "expr": "pained"
+    },
+    {
+     "who": "q",
+     "cue": "average",
+     "expr": "nervous"
+    },
+    {
+     "who": "host",
+     "cue": "test",
+     "pose": "point",
+     "expr": "grin"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "think",
+     "who": "p",
+     "cue": "fifth",
+     "text": "Not another slice."
+    },
+    {
+     "kind": "question",
+     "who": "q",
+     "cue": "average"
+    },
+    {
+     "kind": "bulb",
+     "who": "host",
+     "cue": "test"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "fifth",
+     "shot": "actor",
+     "who": "p"
+    },
+    {
+     "cue": "average",
+     "shot": "actor",
+     "who": "q"
+    },
+    {
+     "cue": "test",
+     "shot": "close"
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Use it like this: strip out baseline, credit carry-over, find saturation, and test before committing budget.",
+   "board": {
+    "title": "Use it like **this**",
+    "lines": [
+     {
+      "text": "Strip out **baseline**",
+      "cue": "strip"
+     },
+     {
+      "text": "Credit **carry-over**",
+      "cue": "credit"
+     },
+     {
+      "text": "Find **saturation**",
+      "cue": "saturation"
+     },
+     {
+      "text": "**Test** first",
+      "cue": "test"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "point"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "budget",
+     "pose": "cheer",
+     "expr": "grin"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "tick",
+     "who": "host",
+     "cue": "budget"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "budget",
+     "shot": "close"
+    }
+   ],
+   "hold": 1.0
+  }
+ ]
+}

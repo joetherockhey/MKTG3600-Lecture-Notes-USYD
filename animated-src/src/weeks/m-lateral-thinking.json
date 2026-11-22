@@ -1,0 +1,690 @@
+{
+ "week": 0,
+ "title": "Lateral thinking and how ideas happen",
+ "speaker": "Brendan Willenberg, Executive Creative Director, Week 9; from Edward de Bono",
+ "beats": [
+  {
+   "set": "stage",
+   "say": "Lateral thinking, from Edward de Bono. Vertical thinking moves logically with the pieces you have. Lateral thinking changes the pieces by questioning the assumption. Ideas are new combinations, and AI should be an antagonist.",
+   "board": {
+    "title": "**Lateral** thinking",
+    "steps": [
+     {
+      "text": "**Vertical**: logic, same pieces",
+      "cue": "Vertical",
+      "at": 3.189
+     },
+     {
+      "text": "**Lateral**: change the assumption",
+      "cue": "Lateral",
+      "at": 6.373
+     },
+     {
+      "text": "**New combination** of old things",
+      "cue": "combinations",
+      "at": 10.689
+     },
+     {
+      "text": "**AI** as antagonist",
+      "cue": "antagonist",
+      "at": 12.87
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "a",
+     "look": "student",
+     "v": 5,
+     "at": "r"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "changes",
+     "pose": "up",
+     "expr": "grin",
+     "at": 7.163
+    },
+    {
+     "who": "a",
+     "cue": "antagonist",
+     "pose": "chin",
+     "at": 12.87
+    }
+   ],
+   "fx": [
+    {
+     "kind": "bulb",
+     "who": "host",
+     "cue": "combinations",
+     "at": 10.689
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "changes",
+     "shot": "close",
+     "at": 7.163
+    },
+    {
+     "cue": "combinations",
+     "shot": "board",
+     "at": 10.689
+    }
+   ],
+   "audio": "audio/m-lateral-thinking-00.mp3",
+   "leadIn": 0.45,
+   "seconds": 14.538,
+   "words": [
+    {
+     "w": "Lateral",
+     "t": 0.5
+    },
+    {
+     "w": "thinking",
+     "t": 0.948
+    },
+    {
+     "w": "from",
+     "t": 1.632
+    },
+    {
+     "w": "Edward",
+     "t": 1.974
+    },
+    {
+     "w": "de",
+     "t": 2.328
+    },
+    {
+     "w": "Bono",
+     "t": 2.399
+    },
+    {
+     "w": "Vertical",
+     "t": 3.189
+    },
+    {
+     "w": "thinking",
+     "t": 3.672
+    },
+    {
+     "w": "moves",
+     "t": 4.085
+    },
+    {
+     "w": "logically",
+     "t": 4.38
+    },
+    {
+     "w": "with",
+     "t": 4.899
+    },
+    {
+     "w": "the",
+     "t": 5.064
+    },
+    {
+     "w": "pieces",
+     "t": 5.134
+    },
+    {
+     "w": "you",
+     "t": 5.547
+    },
+    {
+     "w": "have",
+     "t": 5.63
+    },
+    {
+     "w": "Lateral",
+     "t": 6.373
+    },
+    {
+     "w": "thinking",
+     "t": 6.785
+    },
+    {
+     "w": "changes",
+     "t": 7.163
+    },
+    {
+     "w": "the",
+     "t": 7.623
+    },
+    {
+     "w": "pieces",
+     "t": 7.705
+    },
+    {
+     "w": "by",
+     "t": 8.177
+    },
+    {
+     "w": "questioning",
+     "t": 8.33
+    },
+    {
+     "w": "the",
+     "t": 8.825
+    },
+    {
+     "w": "assumption",
+     "t": 8.932
+    },
+    {
+     "w": "Ideas",
+     "t": 9.804
+    },
+    {
+     "w": "are",
+     "t": 10.394
+    },
+    {
+     "w": "new",
+     "t": 10.465
+    },
+    {
+     "w": "combinations",
+     "t": 10.689
+    },
+    {
+     "w": "and",
+     "t": 11.738
+    },
+    {
+     "w": "AI",
+     "t": 12.021
+    },
+    {
+     "w": "should",
+     "t": 12.446
+    },
+    {
+     "w": "be",
+     "t": 12.658
+    },
+    {
+     "w": "an",
+     "t": 12.8
+    },
+    {
+     "w": "antagonist",
+     "t": 12.87
+    }
+   ]
+  },
+  {
+   "set": "plaza",
+   "say": "Extra gum joined two things: gum and the checkout scanner. The Bad Breath Index nudged shoppers right at the till.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "l",
+     "pose": "none"
+    },
+    {
+     "id": "s1",
+     "look": "shopper",
+     "v": 3,
+     "at": "shelf",
+     "hold": "phone",
+     "pose": "hold"
+    },
+    {
+     "id": "s2",
+     "look": "shopper",
+     "v": 4,
+     "at": "walkR",
+     "to": "r",
+     "walkCue": "nudged",
+     "walkAt": 5.099
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "joined",
+     "pose": "up",
+     "expr": "grin",
+     "at": 1.149
+    },
+    {
+     "who": "s1",
+     "cue": "Breath",
+     "expr": "shock",
+     "at": 4.439
+    },
+    {
+     "who": "s2",
+     "cue": "till",
+     "pose": "cheer",
+     "expr": "laugh",
+     "at": 6.29
+    }
+   ],
+   "fx": [
+    {
+     "kind": "bulb",
+     "who": "host",
+     "cue": "joined",
+     "at": 1.149
+    },
+    {
+     "kind": "think",
+     "who": "s1",
+     "cue": "Breath",
+     "text": "My breath?",
+     "at": 4.439
+    },
+    {
+     "kind": "tick",
+     "who": "s2",
+     "cue": "till",
+     "at": 6.29
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "joined",
+     "shot": "close",
+     "at": 1.149
+    },
+    {
+     "cue": "Breath",
+     "shot": "actor",
+     "who": "s1",
+     "at": 4.439
+    },
+    {
+     "cue": "till",
+     "shot": "actor",
+     "who": "s2",
+     "at": 6.29
+    }
+   ],
+   "audio": "audio/m-lateral-thinking-01.mp3",
+   "leadIn": 0.45,
+   "seconds": 7.65,
+   "words": [
+    {
+     "w": "Extra",
+     "t": 0.5
+    },
+    {
+     "w": "gum",
+     "t": 0.854
+    },
+    {
+     "w": "joined",
+     "t": 1.149
+    },
+    {
+     "w": "two",
+     "t": 1.432
+    },
+    {
+     "w": "things",
+     "t": 1.609
+    },
+    {
+     "w": "gum",
+     "t": 2.41
+    },
+    {
+     "w": "and",
+     "t": 2.705
+    },
+    {
+     "w": "the",
+     "t": 2.859
+    },
+    {
+     "w": "checkout",
+     "t": 2.929
+    },
+    {
+     "w": "scanner",
+     "t": 3.295
+    },
+    {
+     "w": "The",
+     "t": 4.026
+    },
+    {
+     "w": "Bad",
+     "t": 4.167
+    },
+    {
+     "w": "Breath",
+     "t": 4.439
+    },
+    {
+     "w": "Index",
+     "t": 4.651
+    },
+    {
+     "w": "nudged",
+     "t": 5.099
+    },
+    {
+     "w": "shoppers",
+     "t": 5.417
+    },
+    {
+     "w": "right",
+     "t": 5.866
+    },
+    {
+     "w": "at",
+     "t": 6.149
+    },
+    {
+     "w": "the",
+     "t": 6.219
+    },
+    {
+     "w": "till",
+     "t": 6.29
+    }
+   ]
+  },
+  {
+   "set": "street",
+   "say": "Rexona joined a logo with an armpit: Pitvertising. No new inputs, just a new connection.",
+   "board": {
+    "title": "**Pitvertising**",
+    "lines": [
+     {
+      "text": "A logo **+** an armpit",
+      "cue": "armpit",
+      "at": 2.186
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "front",
+     "pose": "none"
+    },
+    {
+     "id": "p",
+     "look": "student",
+     "v": 6,
+     "at": "kerb"
+    }
+   ],
+   "acts": [
+    {
+     "who": "p",
+     "cue": "armpit",
+     "pose": "point",
+     "expr": "laugh",
+     "at": 2.186
+    },
+    {
+     "who": "host",
+     "cue": "connection",
+     "pose": "up",
+     "expr": "grin",
+     "at": 5.854
+    }
+   ],
+   "fx": [
+    {
+     "kind": "burst",
+     "who": "p",
+     "cue": "armpit",
+     "at": 2.186
+    },
+    {
+     "kind": "bulb",
+     "who": "host",
+     "cue": "connection",
+     "at": 5.854
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "armpit",
+     "shot": "actor",
+     "who": "p",
+     "at": 2.186
+    },
+    {
+     "cue": "connection",
+     "shot": "host",
+     "at": 5.854
+    }
+   ],
+   "audio": "audio/m-lateral-thinking-02.mp3",
+   "leadIn": 0.45,
+   "seconds": 7.362,
+   "words": [
+    {
+     "w": "Rexona",
+     "t": 0.5
+    },
+    {
+     "w": "joined",
+     "t": 1.16
+    },
+    {
+     "w": "a",
+     "t": 1.42
+    },
+    {
+     "w": "logo",
+     "t": 1.455
+    },
+    {
+     "w": "with",
+     "t": 1.903
+    },
+    {
+     "w": "an",
+     "t": 2.068
+    },
+    {
+     "w": "armpit",
+     "t": 2.186
+    },
+    {
+     "w": "Pitvertising",
+     "t": 2.953
+    },
+    {
+     "w": "No",
+     "t": 4.132
+    },
+    {
+     "w": "new",
+     "t": 4.415
+    },
+    {
+     "w": "inputs",
+     "t": 4.639
+    },
+    {
+     "w": "just",
+     "t": 5.347
+    },
+    {
+     "w": "a",
+     "t": 5.618
+    },
+    {
+     "w": "new",
+     "t": 5.653
+    },
+    {
+     "w": "connection",
+     "t": 5.854
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Use it like this: write the obvious answer, then reframe the problem so competitors can't copy you.",
+   "board": {
+    "title": "Use it like **this**",
+    "lines": [
+     {
+      "text": "Write the **obvious** answer",
+      "cue": "obvious",
+      "at": 2.139
+     },
+     {
+      "text": "**Reframe** the problem",
+      "cue": "reframe",
+      "at": 3.354
+     },
+     {
+      "text": "Hard to **copy**",
+      "cue": "copy",
+      "at": 5.252
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "point"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "copy",
+     "pose": "cheer",
+     "expr": "grin",
+     "at": 5.252
+    }
+   ],
+   "fx": [
+    {
+     "kind": "tick",
+     "who": "host",
+     "cue": "copy",
+     "at": 5.252
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "copy",
+     "shot": "close",
+     "at": 5.252
+    }
+   ],
+   "hold": 1.0,
+   "audio": "audio/m-lateral-thinking-03.mp3",
+   "leadIn": 0.45,
+   "seconds": 7.138,
+   "words": [
+    {
+     "w": "Use",
+     "t": 0.5
+    },
+    {
+     "w": "it",
+     "t": 0.818
+    },
+    {
+     "w": "like",
+     "t": 0.889
+    },
+    {
+     "w": "this",
+     "t": 1.101
+    },
+    {
+     "w": "write",
+     "t": 1.726
+    },
+    {
+     "w": "the",
+     "t": 2.009
+    },
+    {
+     "w": "obvious",
+     "t": 2.139
+    },
+    {
+     "w": "answer",
+     "t": 2.517
+    },
+    {
+     "w": "then",
+     "t": 3.153
+    },
+    {
+     "w": "reframe",
+     "t": 3.354
+    },
+    {
+     "w": "the",
+     "t": 3.79
+    },
+    {
+     "w": "problem",
+     "t": 3.837
+    },
+    {
+     "w": "so",
+     "t": 4.25
+    },
+    {
+     "w": "competitors",
+     "t": 4.415
+    },
+    {
+     "w": "can't",
+     "t": 5.005
+    },
+    {
+     "w": "copy",
+     "t": 5.252
+    },
+    {
+     "w": "you",
+     "t": 5.512
+    }
+   ]
+  }
+ ],
+ "id": "m-lateral-thinking",
+ "total": 36.7
+}

@@ -1,0 +1,584 @@
+{
+ "week": 0,
+ "title": "Peer validation, algorithmic trust and cultural resonance",
+ "speaker": "Bryce Coombe, Hypetap, Week 10",
+ "beats": [
+  {
+   "set": "stage",
+   "say": "Influencer isn't just another interruptive channel, for three reasons. Peer validation, algorithmic trust, and cultural resonance, worth about two hundred and forty-six percent more than standard attention.",
+   "board": {
+    "title": "Why **influencer** is different",
+    "steps": [
+     {
+      "text": "**Peer validation**: someone like me",
+      "cue": "Peer",
+      "at": 4.592
+     },
+     {
+      "text": "**Algorithmic trust**: search and AI",
+      "cue": "algorithmic",
+      "at": 5.807
+     },
+     {
+      "text": "**Cultural resonance**: +246%",
+      "cue": "cultural",
+      "at": 7.116
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "a",
+     "look": "student",
+     "v": 1,
+     "at": "r",
+     "hold": "phone",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "a",
+     "cue": "Peer",
+     "expr": "smile",
+     "at": 4.592
+    },
+    {
+     "who": "host",
+     "cue": "worth",
+     "pose": "up",
+     "expr": "grin",
+     "at": 8.342
+    }
+   ],
+   "fx": [
+    {
+     "kind": "heart",
+     "who": "a",
+     "cue": "Peer",
+     "at": 4.592
+    },
+    {
+     "kind": "chart",
+     "who": "host",
+     "cue": "worth",
+     "at": 8.342
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "Peer",
+     "shot": "actor",
+     "who": "a",
+     "at": 4.592
+    },
+    {
+     "cue": "worth",
+     "shot": "board",
+     "at": 8.342
+    }
+   ],
+   "audio": "audio/m-three-reasons-influencer-00.mp3",
+   "leadIn": 0.45,
+   "seconds": 12.402,
+   "words": [
+    {
+     "w": "Influencer",
+     "t": 0.5
+    },
+    {
+     "w": "isn't",
+     "t": 1.184
+    },
+    {
+     "w": "just",
+     "t": 1.443
+    },
+    {
+     "w": "another",
+     "t": 1.691
+    },
+    {
+     "w": "interruptive",
+     "t": 2.092
+    },
+    {
+     "w": "channel",
+     "t": 2.599
+    },
+    {
+     "w": "for",
+     "t": 3.224
+    },
+    {
+     "w": "three",
+     "t": 3.401
+    },
+    {
+     "w": "reasons",
+     "t": 3.684
+    },
+    {
+     "w": "Peer",
+     "t": 4.592
+    },
+    {
+     "w": "validation",
+     "t": 4.899
+    },
+    {
+     "w": "algorithmic",
+     "t": 5.807
+    },
+    {
+     "w": "trust",
+     "t": 6.349
+    },
+    {
+     "w": "and",
+     "t": 6.962
+    },
+    {
+     "w": "cultural",
+     "t": 7.116
+    },
+    {
+     "w": "resonance",
+     "t": 7.493
+    },
+    {
+     "w": "worth",
+     "t": 8.342
+    },
+    {
+     "w": "about",
+     "t": 8.613
+    },
+    {
+     "w": "two",
+     "t": 8.873
+    },
+    {
+     "w": "hundred",
+     "t": 9.061
+    },
+    {
+     "w": "and",
+     "t": 9.262
+    },
+    {
+     "w": "forty-six",
+     "t": 9.309
+    },
+    {
+     "w": "percent",
+     "t": 9.769
+    },
+    {
+     "w": "more",
+     "t": 10.193
+    },
+    {
+     "w": "than",
+     "t": 10.417
+    },
+    {
+     "w": "standard",
+     "t": 10.559
+    },
+    {
+     "w": "attention",
+     "t": 10.948
+    }
+   ]
+  },
+  {
+   "set": "plaza",
+   "say": "A creator reviews a serum. A viewer thinks, she's just like me. Then she searches it on TikTok, Google, even an AI assistant, and finds what creators said. Social is now search.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "front",
+     "pose": "none"
+    },
+    {
+     "id": "s1",
+     "look": "student",
+     "v": 1,
+     "at": "l",
+     "hold": "phone",
+     "pose": "hold"
+    },
+    {
+     "id": "s2",
+     "look": "shopper",
+     "v": 3,
+     "at": "r",
+     "hold": "phone",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "s1",
+     "cue": "reviews",
+     "pose": "cheer",
+     "expr": "grin",
+     "at": 1.172
+    },
+    {
+     "who": "s2",
+     "cue": "like",
+     "expr": "smile",
+     "at": 4.085
+    },
+    {
+     "who": "s2",
+     "cue": "searches",
+     "pose": "chin",
+     "at": 5.335
+    },
+    {
+     "who": "host",
+     "cue": "Social",
+     "pose": "point",
+     "expr": "grin",
+     "at": 10.559
+    }
+   ],
+   "fx": [
+    {
+     "kind": "sparkle",
+     "who": "s1",
+     "cue": "reviews",
+     "at": 1.172
+    },
+    {
+     "kind": "think",
+     "who": "s2",
+     "cue": "like",
+     "text": "She's just like me!",
+     "at": 4.085
+    },
+    {
+     "kind": "eye",
+     "who": "s2",
+     "cue": "searches",
+     "at": 5.335
+    },
+    {
+     "kind": "tick",
+     "who": "host",
+     "cue": "Social",
+     "at": 10.559
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "reviews",
+     "shot": "actor",
+     "who": "s1",
+     "at": 1.172
+    },
+    {
+     "cue": "like",
+     "shot": "actor",
+     "who": "s2",
+     "at": 4.085
+    },
+    {
+     "cue": "Social",
+     "shot": "close",
+     "at": 10.559
+    }
+   ],
+   "audio": "audio/m-three-reasons-influencer-01.mp3",
+   "leadIn": 0.45,
+   "seconds": 12.954,
+   "words": [
+    {
+     "w": "A",
+     "t": 0.5
+    },
+    {
+     "w": "creator",
+     "t": 0.63
+    },
+    {
+     "w": "reviews",
+     "t": 1.172
+    },
+    {
+     "w": "a",
+     "t": 1.62
+    },
+    {
+     "w": "serum",
+     "t": 1.656
+    },
+    {
+     "w": "A",
+     "t": 2.493
+    },
+    {
+     "w": "viewer",
+     "t": 2.611
+    },
+    {
+     "w": "thinks",
+     "t": 2.906
+    },
+    {
+     "w": "she's",
+     "t": 3.484
+    },
+    {
+     "w": "just",
+     "t": 3.814
+    },
+    {
+     "w": "like",
+     "t": 4.085
+    },
+    {
+     "w": "me",
+     "t": 4.285
+    },
+    {
+     "w": "Then",
+     "t": 4.922
+    },
+    {
+     "w": "she",
+     "t": 5.193
+    },
+    {
+     "w": "searches",
+     "t": 5.335
+    },
+    {
+     "w": "it",
+     "t": 5.748
+    },
+    {
+     "w": "on",
+     "t": 5.842
+    },
+    {
+     "w": "TikTok",
+     "t": 5.984
+    },
+    {
+     "w": "Google",
+     "t": 6.679
+    },
+    {
+     "w": "even",
+     "t": 7.375
+    },
+    {
+     "w": "an",
+     "t": 7.623
+    },
+    {
+     "w": "AI",
+     "t": 7.8
+    },
+    {
+     "w": "assistant",
+     "t": 8.094
+    },
+    {
+     "w": "and",
+     "t": 8.825
+    },
+    {
+     "w": "finds",
+     "t": 8.967
+    },
+    {
+     "w": "what",
+     "t": 9.321
+    },
+    {
+     "w": "creators",
+     "t": 9.45
+    },
+    {
+     "w": "said",
+     "t": 9.851
+    },
+    {
+     "w": "Social",
+     "t": 10.559
+    },
+    {
+     "w": "is",
+     "t": 11.137
+    },
+    {
+     "w": "now",
+     "t": 11.314
+    },
+    {
+     "w": "search",
+     "t": 11.502
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Use it like this: pick the reason that serves your goal, and justify the spend with it.",
+   "board": {
+    "title": "Use it like **this**",
+    "lines": [
+     {
+      "text": "Pick the **reason**",
+      "cue": "reason",
+      "at": 2.068
+     },
+     {
+      "text": "Match your **goal**",
+      "cue": "goal",
+      "at": 2.941
+     },
+     {
+      "text": "Justify the **spend**",
+      "cue": "spend",
+      "at": 4.285
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "point"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "spend",
+     "pose": "cheer",
+     "expr": "grin",
+     "at": 4.285
+    }
+   ],
+   "fx": [
+    {
+     "kind": "tick",
+     "who": "host",
+     "cue": "spend",
+     "at": 4.285
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "spend",
+     "shot": "close",
+     "at": 4.285
+    }
+   ],
+   "hold": 1.0,
+   "audio": "audio/m-three-reasons-influencer-02.mp3",
+   "leadIn": 0.45,
+   "seconds": 6.226,
+   "words": [
+    {
+     "w": "Use",
+     "t": 0.5
+    },
+    {
+     "w": "it",
+     "t": 0.83
+    },
+    {
+     "w": "like",
+     "t": 0.913
+    },
+    {
+     "w": "this",
+     "t": 1.125
+    },
+    {
+     "w": "pick",
+     "t": 1.774
+    },
+    {
+     "w": "the",
+     "t": 1.986
+    },
+    {
+     "w": "reason",
+     "t": 2.068
+    },
+    {
+     "w": "that",
+     "t": 2.434
+    },
+    {
+     "w": "serves",
+     "t": 2.552
+    },
+    {
+     "w": "your",
+     "t": 2.859
+    },
+    {
+     "w": "goal",
+     "t": 2.941
+    },
+    {
+     "w": "and",
+     "t": 3.554
+    },
+    {
+     "w": "justify",
+     "t": 3.708
+    },
+    {
+     "w": "the",
+     "t": 4.215
+    },
+    {
+     "w": "spend",
+     "t": 4.285
+    },
+    {
+     "w": "with",
+     "t": 4.557
+    },
+    {
+     "w": "it",
+     "t": 4.675
+    }
+   ]
+  }
+ ],
+ "id": "m-three-reasons-influencer",
+ "total": 31.6
+}

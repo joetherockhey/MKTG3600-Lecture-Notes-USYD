@@ -1,0 +1,266 @@
+{
+ "week": 0,
+ "title": "Mental and physical availability",
+ "speaker": "Justin Papps, Week 3; Brent Smart, Week 4; Libby Hogson, Week 6; Bryce Coombe, Week 10; Nicky Barton, Week 12; from Byron Sharp, How Brands Grow",
+ "beats": [
+  {
+   "set": "stage",
+   "say": "Brands grow by being easy to think of and easy to buy. That's mental and physical availability, built through reach and distinctive assets.",
+   "board": {
+    "title": "Mental and **physical** availability",
+    "steps": [
+     {
+      "text": "**Mental**: comes to mind",
+      "cue": "think"
+     },
+     {
+      "text": "**Physical**: easy to buy",
+      "cue": "buy"
+     },
+     {
+      "text": "**Memory**: reach + assets",
+      "cue": "reach"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "a",
+     "look": "student",
+     "at": "front",
+     "v": 3
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "reach",
+     "pose": "point"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "brain",
+     "who": "a",
+     "cue": "mental"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "mental",
+     "shot": "close"
+    },
+    {
+     "cue": "reach",
+     "shot": "board"
+    }
+   ]
+  },
+  {
+   "set": "plaza",
+   "say": "A shopper wants a snack. Crumb and Co pops into her head, and it's right there on the shelf. Sale made.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "l"
+    },
+    {
+     "id": "s1",
+     "look": "shopper",
+     "at": "walkR",
+     "v": 1,
+     "to": "shelf",
+     "walkCue": "snack"
+    }
+   ],
+   "acts": [
+    {
+     "who": "s1",
+     "cue": "head",
+     "expr": "smile"
+    },
+    {
+     "who": "s1",
+     "cue": "Sale",
+     "pose": "cheer",
+     "expr": "grin"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "think",
+     "who": "s1",
+     "cue": "head",
+     "text": "Crumb & Co!"
+    },
+    {
+     "kind": "tick",
+     "who": "s1",
+     "cue": "Sale"
+    },
+    {
+     "kind": "money",
+     "who": "host",
+     "cue": "made"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "head",
+     "shot": "actor",
+     "who": "s1"
+    },
+    {
+     "cue": "Sale",
+     "shot": "close",
+     "who": "s1"
+    }
+   ]
+  },
+  {
+   "set": "street",
+   "say": "Now the opposite. Nike pulled back from stores and chased only the last click. Fewer people saw it, and awareness faded.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "front"
+    },
+    {
+     "id": "p1",
+     "look": "student",
+     "at": "r",
+     "v": 3
+    },
+    {
+     "id": "p2",
+     "look": "shopper",
+     "at": "kerb",
+     "v": 6
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "opposite",
+     "pose": "shrug",
+     "expr": "nervous"
+    },
+    {
+     "who": "p1",
+     "cue": "Fewer",
+     "expr": "dazed"
+    },
+    {
+     "who": "p2",
+     "cue": "faded",
+     "pose": "shrug"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "question",
+     "who": "p1",
+     "cue": "Fewer"
+    },
+    {
+     "kind": "zzz",
+     "who": "p2",
+     "cue": "faded"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "Nike",
+     "shot": "close"
+    },
+    {
+     "cue": "Fewer",
+     "shot": "actor",
+     "who": "p1"
+    },
+    {
+     "cue": "faded",
+     "shot": "actor",
+     "who": "p2"
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Use it like this: check both. Will buyers think of you, and can they find you easily?",
+   "board": {
+    "title": "Use it like **this**",
+    "lines": [
+     {
+      "text": "Will they **think** of you?",
+      "cue": "think"
+     },
+     {
+      "text": "Can they **find** you?",
+      "cue": "find"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "e1",
+     "look": "exec",
+     "at": "table",
+     "v": 2
+    }
+   ],
+   "acts": [
+    {
+     "who": "e1",
+     "cue": "find",
+     "expr": "smile"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "tick",
+     "who": "e1",
+     "cue": "easily"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "find",
+     "shot": "two",
+     "who": "e1"
+    }
+   ],
+   "hold": 1.0
+  }
+ ]
+}

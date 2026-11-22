@@ -1,0 +1,740 @@
+{
+ "week": 0,
+ "title": "If you can't add budget, don't add channels",
+ "speaker": "Nicky Barton, Mutinex, Week 12",
+ "beats": [
+  {
+   "set": "office",
+   "say": "If you can't add budget, don't add channels. Across eighty-three brands, keeping the same channels with more budget grew about four percent. More channels with more budget, about two. More channels on a cut fell nearly seven, and a big cut, about eight.",
+   "board": {
+    "title": "Can't add budget? **Don't add channels**",
+    "lines": [
+     {
+      "text": "Same channels, more budget: **+4.3%**",
+      "cue": "same",
+      "at": 5.311
+     },
+     {
+      "text": "More channels, more budget: **+2%**",
+      "cue": "More channels",
+      "at": 8.224
+     },
+     {
+      "text": "More channels, budget cut: **-6.8%**",
+      "cue": "cut",
+      "at": 11.844
+     },
+     {
+      "text": "Big cut, 20%+: **-8.1%**",
+      "cue": "big",
+      "at": 13.519
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "e",
+     "look": "exec",
+     "v": 3,
+     "at": "table"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "don't",
+     "pose": "point",
+     "expr": "stern",
+     "at": 1.891
+    },
+    {
+     "who": "e",
+     "cue": "fell",
+     "expr": "shock",
+     "at": 12.116
+    }
+   ],
+   "fx": [
+    {
+     "kind": "cross",
+     "who": "e",
+     "cue": "fell",
+     "at": 12.116
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "eighty",
+     "shot": "board",
+     "at": 3.755
+    },
+    {
+     "cue": "fell",
+     "shot": "actor",
+     "who": "e",
+     "at": 12.116
+    }
+   ],
+   "audio": "audio/m-dont-add-channels-00.mp3",
+   "leadIn": 0.45,
+   "seconds": 15.906,
+   "words": [
+    {
+     "w": "If",
+     "t": 0.5
+    },
+    {
+     "w": "you",
+     "t": 0.677
+    },
+    {
+     "w": "can't",
+     "t": 0.771
+    },
+    {
+     "w": "add",
+     "t": 1.031
+    },
+    {
+     "w": "budget",
+     "t": 1.196
+    },
+    {
+     "w": "don't",
+     "t": 1.891
+    },
+    {
+     "w": "add",
+     "t": 2.139
+    },
+    {
+     "w": "channels",
+     "t": 2.387
+    },
+    {
+     "w": "Across",
+     "t": 3.236
+    },
+    {
+     "w": "eighty-three",
+     "t": 3.755
+    },
+    {
+     "w": "brands",
+     "t": 4.144
+    },
+    {
+     "w": "keeping",
+     "t": 4.946
+    },
+    {
+     "w": "the",
+     "t": 5.252
+    },
+    {
+     "w": "same",
+     "t": 5.311
+    },
+    {
+     "w": "channels",
+     "t": 5.583
+    },
+    {
+     "w": "with",
+     "t": 5.984
+    },
+    {
+     "w": "more",
+     "t": 6.113
+    },
+    {
+     "w": "budget",
+     "t": 6.314
+    },
+    {
+     "w": "grew",
+     "t": 6.703
+    },
+    {
+     "w": "about",
+     "t": 6.939
+    },
+    {
+     "w": "four",
+     "t": 7.198
+    },
+    {
+     "w": "percent",
+     "t": 7.41
+    },
+    {
+     "w": "More",
+     "t": 8.224
+    },
+    {
+     "w": "channels",
+     "t": 8.519
+    },
+    {
+     "w": "with",
+     "t": 8.955
+    },
+    {
+     "w": "more",
+     "t": 9.085
+    },
+    {
+     "w": "budget",
+     "t": 9.274
+    },
+    {
+     "w": "about",
+     "t": 9.922
+    },
+    {
+     "w": "two",
+     "t": 10.241
+    },
+    {
+     "w": "More",
+     "t": 10.983
+    },
+    {
+     "w": "channels",
+     "t": 11.266
+    },
+    {
+     "w": "on",
+     "t": 11.703
+    },
+    {
+     "w": "a",
+     "t": 11.797
+    },
+    {
+     "w": "cut",
+     "t": 11.844
+    },
+    {
+     "w": "fell",
+     "t": 12.116
+    },
+    {
+     "w": "nearly",
+     "t": 12.363
+    },
+    {
+     "w": "seven",
+     "t": 12.611
+    },
+    {
+     "w": "and",
+     "t": 13.342
+    },
+    {
+     "w": "a",
+     "t": 13.472
+    },
+    {
+     "w": "big",
+     "t": 13.519
+    },
+    {
+     "w": "cut",
+     "t": 13.766
+    },
+    {
+     "w": "about",
+     "t": 14.274
+    },
+    {
+     "w": "eight",
+     "t": 14.639
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "A retailer facing a budget cut wants TikTok, podcasts and billboards all at once. Spread that thin, and every channel goes quiet.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "l",
+     "pose": "none"
+    },
+    {
+     "id": "e1",
+     "look": "exec",
+     "v": 1,
+     "at": "table",
+     "hold": "laptop",
+     "pose": "hold"
+    },
+    {
+     "id": "e2",
+     "look": "exec_f",
+     "v": 3,
+     "at": "table2"
+    }
+   ],
+   "acts": [
+    {
+     "who": "e2",
+     "cue": "cut",
+     "expr": "nervous",
+     "at": 1.774
+    },
+    {
+     "who": "e1",
+     "cue": "TikTok",
+     "pose": "cheer",
+     "expr": "grin",
+     "at": 2.292
+    },
+    {
+     "who": "host",
+     "cue": "quiet",
+     "pose": "shrug",
+     "expr": "nervous",
+     "at": 7.87
+    }
+   ],
+   "fx": [
+    {
+     "kind": "say",
+     "who": "e1",
+     "cue": "TikTok",
+     "text": "Let's try everything!",
+     "at": 2.292
+    },
+    {
+     "kind": "cross",
+     "who": "host",
+     "cue": "quiet",
+     "at": 7.87
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "TikTok",
+     "shot": "actor",
+     "who": "e1",
+     "at": 2.292
+    },
+    {
+     "cue": "quiet",
+     "shot": "close",
+     "at": 7.87
+    }
+   ],
+   "audio": "audio/m-dont-add-channels-01.mp3",
+   "leadIn": 0.45,
+   "seconds": 9.258,
+   "words": [
+    {
+     "w": "A",
+     "t": 0.5
+    },
+    {
+     "w": "retailer",
+     "t": 0.618
+    },
+    {
+     "w": "facing",
+     "t": 1.078
+    },
+    {
+     "w": "a",
+     "t": 1.42
+    },
+    {
+     "w": "budget",
+     "t": 1.467
+    },
+    {
+     "w": "cut",
+     "t": 1.774
+    },
+    {
+     "w": "wants",
+     "t": 2.033
+    },
+    {
+     "w": "TikTok",
+     "t": 2.292
+    },
+    {
+     "w": "podcasts",
+     "t": 3.0
+    },
+    {
+     "w": "and",
+     "t": 3.755
+    },
+    {
+     "w": "billboards",
+     "t": 3.908
+    },
+    {
+     "w": "all",
+     "t": 4.45
+    },
+    {
+     "w": "at",
+     "t": 4.663
+    },
+    {
+     "w": "once",
+     "t": 4.71
+    },
+    {
+     "w": "Spread",
+     "t": 5.476
+    },
+    {
+     "w": "that",
+     "t": 5.948
+    },
+    {
+     "w": "thin",
+     "t": 6.113
+    },
+    {
+     "w": "and",
+     "t": 6.75
+    },
+    {
+     "w": "every",
+     "t": 6.986
+    },
+    {
+     "w": "channel",
+     "t": 7.292
+    },
+    {
+     "w": "goes",
+     "t": 7.646
+    },
+    {
+     "w": "quiet",
+     "t": 7.87
+    }
+   ]
+  },
+  {
+   "set": "home",
+   "say": "Better to keep your strongest two or three channels at full weight, protect long-lasting TV, and stay on air. Going dark costs you later.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "r",
+     "pose": "none"
+    },
+    {
+     "id": "p",
+     "look": "shopper",
+     "v": 2,
+     "at": "sofa",
+     "mode": "sit"
+    },
+    {
+     "id": "k",
+     "look": "kid",
+     "v": 3,
+     "at": "sofa2",
+     "mode": "sit"
+    }
+   ],
+   "acts": [
+    {
+     "who": "p",
+     "cue": "TV",
+     "expr": "smile",
+     "at": 4.486
+    },
+    {
+     "who": "k",
+     "cue": "air",
+     "pose": "cheer",
+     "expr": "laugh",
+     "at": 5.783
+    },
+    {
+     "who": "host",
+     "cue": "dark",
+     "pose": "point",
+     "expr": "stern",
+     "at": 6.785
+    }
+   ],
+   "fx": [
+    {
+     "kind": "heart",
+     "who": "p",
+     "cue": "TV",
+     "at": 4.486
+    },
+    {
+     "kind": "clock",
+     "who": "host",
+     "cue": "later",
+     "at": 7.67
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "TV",
+     "shot": "actor",
+     "who": "p",
+     "at": 4.486
+    },
+    {
+     "cue": "dark",
+     "shot": "close",
+     "at": 6.785
+    }
+   ],
+   "audio": "audio/m-dont-add-channels-02.mp3",
+   "leadIn": 0.45,
+   "seconds": 9.018,
+   "words": [
+    {
+     "w": "Better",
+     "t": 0.5
+    },
+    {
+     "w": "to",
+     "t": 0.736
+    },
+    {
+     "w": "keep",
+     "t": 0.83
+    },
+    {
+     "w": "your",
+     "t": 1.042
+    },
+    {
+     "w": "strongest",
+     "t": 1.149
+    },
+    {
+     "w": "two",
+     "t": 1.62
+    },
+    {
+     "w": "or",
+     "t": 1.809
+    },
+    {
+     "w": "three",
+     "t": 1.88
+    },
+    {
+     "w": "channels",
+     "t": 2.092
+    },
+    {
+     "w": "at",
+     "t": 2.517
+    },
+    {
+     "w": "full",
+     "t": 2.646
+    },
+    {
+     "w": "weight",
+     "t": 2.882
+    },
+    {
+     "w": "protect",
+     "t": 3.519
+    },
+    {
+     "w": "long-lasting",
+     "t": 3.873
+    },
+    {
+     "w": "TV",
+     "t": 4.486
+    },
+    {
+     "w": "and",
+     "t": 5.229
+    },
+    {
+     "w": "stay",
+     "t": 5.359
+    },
+    {
+     "w": "on",
+     "t": 5.665
+    },
+    {
+     "w": "air",
+     "t": 5.783
+    },
+    {
+     "w": "Going",
+     "t": 6.432
+    },
+    {
+     "w": "dark",
+     "t": 6.785
+    },
+    {
+     "w": "costs",
+     "t": 7.186
+    },
+    {
+     "w": "you",
+     "t": 7.599
+    },
+    {
+     "w": "later",
+     "t": 7.67
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Use it like this: concentrate spend, protect brand channels, and stay consistent.",
+   "board": {
+    "title": "Use it like **this**",
+    "lines": [
+     {
+      "text": "**Concentrate** spend",
+      "cue": "concentrate",
+      "at": 1.774
+     },
+     {
+      "text": "**Protect** brand channels",
+      "cue": "protect",
+      "at": 3.035
+     },
+     {
+      "text": "Stay **consistent**",
+      "cue": "consistent",
+      "at": 4.686
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "point"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "consistent",
+     "pose": "cheer",
+     "expr": "grin",
+     "at": 4.686
+    }
+   ],
+   "fx": [
+    {
+     "kind": "tick",
+     "who": "host",
+     "cue": "consistent",
+     "at": 4.686
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "consistent",
+     "shot": "close",
+     "at": 4.686
+    }
+   ],
+   "hold": 1.0,
+   "audio": "audio/m-dont-add-channels-03.mp3",
+   "leadIn": 0.45,
+   "seconds": 6.658,
+   "words": [
+    {
+     "w": "Use",
+     "t": 0.5
+    },
+    {
+     "w": "it",
+     "t": 0.83
+    },
+    {
+     "w": "like",
+     "t": 0.901
+    },
+    {
+     "w": "this",
+     "t": 1.113
+    },
+    {
+     "w": "concentrate",
+     "t": 1.774
+    },
+    {
+     "w": "spend",
+     "t": 2.34
+    },
+    {
+     "w": "protect",
+     "t": 3.035
+    },
+    {
+     "w": "brand",
+     "t": 3.413
+    },
+    {
+     "w": "channels",
+     "t": 3.684
+    },
+    {
+     "w": "and",
+     "t": 4.285
+    },
+    {
+     "w": "stay",
+     "t": 4.415
+    },
+    {
+     "w": "consistent",
+     "t": 4.686
+    }
+   ]
+  }
+ ],
+ "id": "m-dont-add-channels",
+ "total": 40.87
+}

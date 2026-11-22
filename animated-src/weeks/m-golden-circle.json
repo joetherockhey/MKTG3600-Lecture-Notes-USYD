@@ -1,0 +1,268 @@
+{
+ "week": 0,
+ "title": "The golden circle (start with why)",
+ "speaker": "Simon Sinek, Start With Why, 2009",
+ "beats": [
+  {
+   "set": "stage",
+   "say": "The golden circle has three rings. Why is your purpose. How is the distinctive way you deliver it. What is the stuff you sell.",
+   "board": {
+    "title": "The **golden circle**",
+    "steps": [
+     {
+      "text": "**Why** the purpose or belief",
+      "cue": "Why"
+     },
+     {
+      "text": "**How** the distinctive way",
+      "cue": "How"
+     },
+     {
+      "text": "**What** the products you sell",
+      "cue": "What"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "a",
+     "look": "student",
+     "v": 2,
+     "at": "front"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "purpose",
+     "pose": "up",
+     "expr": "grin"
+    },
+    {
+     "who": "a",
+     "cue": "sell",
+     "pose": "chin"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "purpose",
+     "shot": "close"
+    },
+    {
+     "cue": "How",
+     "shot": "board"
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Most companies start outside in: here's our computer, it's fast. Apple starts with why: we challenge the status quo, and we happen to make computers.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "l"
+    },
+    {
+     "id": "e1",
+     "look": "exec",
+     "v": 3,
+     "at": "table"
+    },
+    {
+     "id": "e2",
+     "look": "exec_f",
+     "v": 6,
+     "at": "table2"
+    }
+   ],
+   "acts": [
+    {
+     "who": "e1",
+     "cue": "fast",
+     "pose": "present",
+     "expr": "dazed"
+    },
+    {
+     "who": "e2",
+     "cue": "challenge",
+     "pose": "cheer",
+     "expr": "grin"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "say",
+     "who": "e1",
+     "text": "It's fast!",
+     "cue": "here's"
+    },
+    {
+     "kind": "zzz",
+     "who": "e1",
+     "cue": "fast"
+    },
+    {
+     "kind": "bulb",
+     "who": "e2",
+     "cue": "challenge"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "here's",
+     "shot": "actor",
+     "who": "e1"
+    },
+    {
+     "cue": "challenge",
+     "shot": "actor",
+     "who": "e2"
+    }
+   ]
+  },
+  {
+   "set": "stage",
+   "say": "People buy into beliefs. But the why must be genuine and backed by proof, or it's just empty words.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "lectern"
+    },
+    {
+     "id": "a",
+     "look": "student",
+     "v": 2,
+     "at": "l"
+    },
+    {
+     "id": "b",
+     "look": "student",
+     "v": 5,
+     "at": "r"
+    }
+   ],
+   "acts": [
+    {
+     "who": "a",
+     "cue": "beliefs",
+     "expr": "smile"
+    },
+    {
+     "who": "host",
+     "cue": "proof",
+     "pose": "point",
+     "expr": "stern"
+    },
+    {
+     "who": "b",
+     "cue": "empty",
+     "pose": "shrug",
+     "expr": "nervous"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "heart",
+     "who": "a",
+     "cue": "beliefs"
+    },
+    {
+     "kind": "tick",
+     "who": "host",
+     "cue": "proof"
+    },
+    {
+     "kind": "cross",
+     "who": "b",
+     "cue": "empty"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "genuine",
+     "shot": "close"
+    },
+    {
+     "cue": "empty",
+     "shot": "actor",
+     "who": "b"
+    }
+   ]
+  },
+  {
+   "set": "stage",
+   "say": "Use it like this: write the brand's why, how and what in one line each, then check the why has proof.",
+   "board": {
+    "title": "Use it **like this**",
+    "lines": [
+     {
+      "text": "**Why, how, what** in a line each",
+      "cue": "write"
+     },
+     {
+      "text": "Check the why has **proof**",
+      "cue": "check"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "a",
+     "look": "student",
+     "v": 2,
+     "at": "front"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "check",
+     "pose": "point"
+    },
+    {
+     "who": "a",
+     "cue": "proof",
+     "expr": "smile"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "proof",
+     "shot": "close"
+    }
+   ],
+   "hold": 1.0
+  }
+ ]
+}

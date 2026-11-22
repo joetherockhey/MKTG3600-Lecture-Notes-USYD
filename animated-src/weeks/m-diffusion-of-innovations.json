@@ -1,0 +1,298 @@
+{
+ "week": 0,
+ "title": "Diffusion of innovations",
+ "speaker": "Everett Rogers, Diffusion of Innovations, 1962",
+ "beats": [
+  {
+   "set": "office",
+   "say": "Diffusion of innovations says new products spread through five groups: innovators, early adopters, the early majority, the late majority and laggards.",
+   "board": {
+    "title": "Diffusion of **innovations**",
+    "bars": [
+     {
+      "label": "Innovators",
+      "value": 2.5,
+      "display": "2.5%",
+      "cue": "innovators"
+     },
+     {
+      "label": "Early adopters",
+      "value": 13.5,
+      "display": "13.5%",
+      "cue": "adopters"
+     },
+     {
+      "label": "Early majority",
+      "value": 34,
+      "display": "34%",
+      "cue": "early"
+     },
+     {
+      "label": "Late majority",
+      "value": 34,
+      "display": "34%",
+      "cue": "late"
+     },
+     {
+      "label": "Laggards",
+      "value": 16,
+      "display": "16%",
+      "cue": "laggards"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "e1",
+     "look": "exec_f",
+     "v": 1,
+     "at": "table"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "spread",
+     "pose": "up"
+    },
+    {
+     "who": "e1",
+     "cue": "laggards",
+     "expr": "smile"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "laggards",
+     "shot": "two",
+     "who": "e1"
+    }
+   ]
+  },
+  {
+   "set": "plaza",
+   "say": "A new app lands. Innovators grab it for the novelty. Early adopters show it off. The majority waits for proof, and laggards join only when they have to.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "far"
+    },
+    {
+     "id": "s1",
+     "look": "student",
+     "v": 1,
+     "at": "l",
+     "hold": "phone",
+     "pose": "hold"
+    },
+    {
+     "id": "s2",
+     "look": "student",
+     "v": 4,
+     "at": "c",
+     "hold": "phone",
+     "pose": "hold"
+    },
+    {
+     "id": "s3",
+     "look": "elder",
+     "v": 3,
+     "at": "r"
+    }
+   ],
+   "acts": [
+    {
+     "who": "s1",
+     "cue": "novelty",
+     "pose": "cheer",
+     "expr": "grin"
+    },
+    {
+     "who": "s2",
+     "cue": "show",
+     "expr": "laugh"
+    },
+    {
+     "who": "s3",
+     "cue": "laggards",
+     "pose": "shrug",
+     "expr": "stern"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "sparkle",
+     "who": "s1",
+     "cue": "novelty"
+    },
+    {
+     "kind": "stars",
+     "who": "s2",
+     "cue": "show"
+    },
+    {
+     "kind": "question",
+     "who": "s3",
+     "cue": "proof"
+    },
+    {
+     "kind": "think",
+     "who": "s3",
+     "text": "Fine, I'll try it.",
+     "cue": "have"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "novelty",
+     "shot": "actor",
+     "who": "s1"
+    },
+    {
+     "cue": "show",
+     "shot": "actor",
+     "who": "s2"
+    },
+    {
+     "cue": "laggards",
+     "shot": "actor",
+     "who": "s3"
+    }
+   ]
+  },
+  {
+   "set": "plaza",
+   "say": "To win the majority, make it easy to try and easy to see other people using it.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "front"
+    },
+    {
+     "id": "s3",
+     "look": "elder",
+     "v": 3,
+     "at": "r"
+    },
+    {
+     "id": "s2",
+     "look": "student",
+     "v": 4,
+     "at": "c",
+     "hold": "phone",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "s3",
+     "cue": "see",
+     "expr": "relief_open"
+    },
+    {
+     "who": "host",
+     "cue": "using",
+     "pose": "present",
+     "expr": "grin"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "eye",
+     "who": "s3",
+     "cue": "see"
+    },
+    {
+     "kind": "tick",
+     "who": "host",
+     "cue": "using"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "see",
+     "shot": "two",
+     "who": "s3"
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Use it like this: find the group you have now, aim the message at the next one, and make trying it easy.",
+   "board": {
+    "title": "Use it **like this**",
+    "lines": [
+     {
+      "text": "Find the **current** group",
+      "cue": "find"
+     },
+     {
+      "text": "Aim at the **next** one",
+      "cue": "next"
+     },
+     {
+      "text": "Make **trying** easy",
+      "cue": "trying"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "e1",
+     "look": "exec_f",
+     "v": 1,
+     "at": "table"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "next",
+     "pose": "point"
+    },
+    {
+     "who": "e1",
+     "cue": "easy",
+     "expr": "smile"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "easy",
+     "shot": "close"
+    }
+   ],
+   "hold": 1.0
+  }
+ ]
+}

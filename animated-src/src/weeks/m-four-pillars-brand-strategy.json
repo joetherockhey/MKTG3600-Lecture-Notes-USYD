@@ -1,0 +1,627 @@
+{
+ "week": 0,
+ "title": "The four pillars of brand strategy",
+ "speaker": "Justin Papps, Tenet, Week 3",
+ "beats": [
+  {
+   "set": "stage",
+   "say": "Four pillars hold up a brand strategy: relevance, distinctiveness, consistency and availability. Land all four and you get cut-through.",
+   "board": {
+    "title": "Four pillars of **brand strategy**",
+    "steps": [
+     {
+      "text": "**Relevance**: meets real needs",
+      "cue": "relevance",
+      "at": 2.705
+     },
+     {
+      "text": "**Distinctiveness**: recognisable",
+      "cue": "distinctiveness",
+      "at": 3.495
+     },
+     {
+      "text": "**Consistency**: same associations",
+      "cue": "consistency",
+      "at": 4.45
+     },
+     {
+      "text": "**Availability**: mental + physical",
+      "cue": "availability",
+      "at": 5.453
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "a",
+     "look": "student",
+     "at": "front",
+     "v": 2
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "Land",
+     "pose": "cheer",
+     "expr": "grin",
+     "at": 6.514
+    }
+   ],
+   "fx": [
+    {
+     "kind": "stars",
+     "who": "host",
+     "cue": "cut",
+     "at": 7.976
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "Land",
+     "shot": "close",
+     "at": 6.514
+    }
+   ],
+   "audio": "audio/m-four-pillars-brand-strategy-00.mp3",
+   "leadIn": 0.45,
+   "seconds": 9.498,
+   "words": [
+    {
+     "w": "Four",
+     "t": 0.5
+    },
+    {
+     "w": "pillars",
+     "t": 0.83
+    },
+    {
+     "w": "hold",
+     "t": 1.196
+    },
+    {
+     "w": "up",
+     "t": 1.42
+    },
+    {
+     "w": "a",
+     "t": 1.538
+    },
+    {
+     "w": "brand",
+     "t": 1.585
+    },
+    {
+     "w": "strategy",
+     "t": 1.844
+    },
+    {
+     "w": "relevance",
+     "t": 2.705
+    },
+    {
+     "w": "distinctiveness",
+     "t": 3.495
+    },
+    {
+     "w": "consistency",
+     "t": 4.45
+    },
+    {
+     "w": "and",
+     "t": 5.311
+    },
+    {
+     "w": "availability",
+     "t": 5.453
+    },
+    {
+     "w": "Land",
+     "t": 6.514
+    },
+    {
+     "w": "all",
+     "t": 6.868
+    },
+    {
+     "w": "four",
+     "t": 7.045
+    },
+    {
+     "w": "and",
+     "t": 7.446
+    },
+    {
+     "w": "you",
+     "t": 7.599
+    },
+    {
+     "w": "get",
+     "t": 7.776
+    },
+    {
+     "w": "cut-through",
+     "t": 7.976
+    }
+   ]
+  },
+  {
+   "set": "plaza",
+   "say": "McDonald's ticks every box. It meets a real need, the golden arches stand out, and they've barely changed in decades.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "l"
+    },
+    {
+     "id": "s1",
+     "look": "kid",
+     "at": "stall",
+     "v": 3
+    },
+    {
+     "id": "s2",
+     "look": "shopper",
+     "at": "r",
+     "v": 5
+    }
+   ],
+   "acts": [
+    {
+     "who": "s1",
+     "cue": "need",
+     "pose": "cheer",
+     "expr": "grin",
+     "at": 3.401
+    },
+    {
+     "who": "s2",
+     "cue": "arches",
+     "pose": "point",
+     "expr": "smile",
+     "at": 4.545
+    },
+    {
+     "who": "host",
+     "cue": "decades",
+     "pose": "up",
+     "at": 6.785
+    }
+   ],
+   "fx": [
+    {
+     "kind": "heart",
+     "who": "s1",
+     "cue": "need",
+     "at": 3.401
+    },
+    {
+     "kind": "eye",
+     "who": "s2",
+     "cue": "arches",
+     "at": 4.545
+    },
+    {
+     "kind": "tick",
+     "who": "host",
+     "cue": "decades",
+     "at": 6.785
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "need",
+     "shot": "actor",
+     "who": "s1",
+     "at": 3.401
+    },
+    {
+     "cue": "arches",
+     "shot": "actor",
+     "who": "s2",
+     "at": 4.545
+    },
+    {
+     "cue": "decades",
+     "shot": "close",
+     "at": 6.785
+    }
+   ],
+   "audio": "audio/m-four-pillars-brand-strategy-01.mp3",
+   "leadIn": 0.45,
+   "seconds": 8.298,
+   "words": [
+    {
+     "w": "McDonald's",
+     "t": 0.5
+    },
+    {
+     "w": "ticks",
+     "t": 1.266
+    },
+    {
+     "w": "every",
+     "t": 1.573
+    },
+    {
+     "w": "box",
+     "t": 1.856
+    },
+    {
+     "w": "It",
+     "t": 2.658
+    },
+    {
+     "w": "meets",
+     "t": 2.835
+    },
+    {
+     "w": "a",
+     "t": 3.059
+    },
+    {
+     "w": "real",
+     "t": 3.118
+    },
+    {
+     "w": "need",
+     "t": 3.401
+    },
+    {
+     "w": "the",
+     "t": 4.061
+    },
+    {
+     "w": "golden",
+     "t": 4.144
+    },
+    {
+     "w": "arches",
+     "t": 4.545
+    },
+    {
+     "w": "stand",
+     "t": 4.887
+    },
+    {
+     "w": "out",
+     "t": 5.17
+    },
+    {
+     "w": "and",
+     "t": 5.677
+    },
+    {
+     "w": "they've",
+     "t": 5.807
+    },
+    {
+     "w": "barely",
+     "t": 5.995
+    },
+    {
+     "w": "changed",
+     "t": 6.337
+    },
+    {
+     "w": "in",
+     "t": 6.703
+    },
+    {
+     "w": "decades",
+     "t": 6.785
+    }
+   ]
+  },
+  {
+   "set": "street",
+   "say": "And it's available two ways. It comes to mind when you're hungry, and there's one on every corner.",
+   "board": {
+    "title": "Available **two ways**",
+    "lines": [
+     {
+      "text": "Comes to **mind**",
+      "cue": "mind",
+      "at": 2.906
+     },
+     {
+      "text": "Easy to **buy**",
+      "cue": "corner",
+      "at": 5.3
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "front"
+    },
+    {
+     "id": "p1",
+     "look": "student",
+     "at": "l",
+     "v": 4
+    }
+   ],
+   "acts": [
+    {
+     "who": "p1",
+     "cue": "mind",
+     "pose": "chin",
+     "at": 2.906
+    },
+    {
+     "who": "p1",
+     "cue": "corner",
+     "pose": "cheer",
+     "expr": "grin",
+     "at": 5.3
+    }
+   ],
+   "fx": [
+    {
+     "kind": "think",
+     "who": "p1",
+     "cue": "mind",
+     "text": "Hungry... burger?",
+     "at": 2.906
+    },
+    {
+     "kind": "tick",
+     "who": "p1",
+     "cue": "corner",
+     "at": 5.3
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "mind",
+     "shot": "actor",
+     "who": "p1",
+     "at": 2.906
+    },
+    {
+     "cue": "corner",
+     "shot": "board",
+     "at": 5.3
+    }
+   ],
+   "audio": "audio/m-four-pillars-brand-strategy-02.mp3",
+   "leadIn": 0.45,
+   "seconds": 6.69,
+   "words": [
+    {
+     "w": "And",
+     "t": 0.5
+    },
+    {
+     "w": "it's",
+     "t": 0.724
+    },
+    {
+     "w": "available",
+     "t": 0.854
+    },
+    {
+     "w": "two",
+     "t": 1.373
+    },
+    {
+     "w": "ways",
+     "t": 1.585
+    },
+    {
+     "w": "It",
+     "t": 2.399
+    },
+    {
+     "w": "comes",
+     "t": 2.587
+    },
+    {
+     "w": "to",
+     "t": 2.835
+    },
+    {
+     "w": "mind",
+     "t": 2.906
+    },
+    {
+     "w": "when",
+     "t": 3.248
+    },
+    {
+     "w": "you're",
+     "t": 3.366
+    },
+    {
+     "w": "hungry",
+     "t": 3.484
+    },
+    {
+     "w": "and",
+     "t": 4.238
+    },
+    {
+     "w": "there's",
+     "t": 4.391
+    },
+    {
+     "w": "one",
+     "t": 4.592
+    },
+    {
+     "w": "on",
+     "t": 4.804
+    },
+    {
+     "w": "every",
+     "t": 5.028
+    },
+    {
+     "w": "corner",
+     "t": 5.3
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Use it like this: score your brand on each pillar, then fix the weakest one first.",
+   "board": {
+    "title": "Use it like **this**",
+    "lines": [
+     {
+      "text": "**Score** each pillar",
+      "cue": "score",
+      "at": 1.644
+     },
+     {
+      "text": "Fix the **weakest** first",
+      "cue": "weakest",
+      "at": 4.05
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "point"
+    },
+    {
+     "id": "e1",
+     "look": "exec_f",
+     "at": "table",
+     "v": 4,
+     "hold": "clipboard",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "e1",
+     "cue": "first",
+     "expr": "smile",
+     "at": 4.627
+    }
+   ],
+   "fx": [
+    {
+     "kind": "tick",
+     "who": "e1",
+     "cue": "first",
+     "at": 4.627
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "fix",
+     "shot": "two",
+     "who": "e1",
+     "at": 3.684
+    }
+   ],
+   "hold": 1.0,
+   "audio": "audio/m-four-pillars-brand-strategy-03.mp3",
+   "leadIn": 0.45,
+   "seconds": 6.466,
+   "words": [
+    {
+     "w": "Use",
+     "t": 0.5
+    },
+    {
+     "w": "it",
+     "t": 0.807
+    },
+    {
+     "w": "like",
+     "t": 0.877
+    },
+    {
+     "w": "this",
+     "t": 1.066
+    },
+    {
+     "w": "score",
+     "t": 1.644
+    },
+    {
+     "w": "your",
+     "t": 2.009
+    },
+    {
+     "w": "brand",
+     "t": 2.127
+    },
+    {
+     "w": "on",
+     "t": 2.481
+    },
+    {
+     "w": "each",
+     "t": 2.67
+    },
+    {
+     "w": "pillar",
+     "t": 2.859
+    },
+    {
+     "w": "then",
+     "t": 3.507
+    },
+    {
+     "w": "fix",
+     "t": 3.684
+    },
+    {
+     "w": "the",
+     "t": 3.955
+    },
+    {
+     "w": "weakest",
+     "t": 4.05
+    },
+    {
+     "w": "one",
+     "t": 4.439
+    },
+    {
+     "w": "first",
+     "t": 4.627
+    }
+   ]
+  }
+ ],
+ "id": "m-four-pillars-brand-strategy",
+ "total": 30.97
+}

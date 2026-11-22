@@ -1,0 +1,672 @@
+{
+ "week": 0,
+ "title": "Current demand vs future demand (15/85)",
+ "speaker": "Brent Smart, B.Smart (formerly Telstra and IAG), Week 4",
+ "beats": [
+  {
+   "set": "stage",
+   "say": "Current versus future demand. Only about fifteen percent of buyers are in market right now. The other eighty-five percent are future buyers.",
+   "board": {
+    "title": "Current vs **future** demand",
+    "vs": {
+     "left": "~15% in market",
+     "right": "~85% not yet",
+     "leftItems": [
+      "Activation",
+      "Converts now"
+     ],
+     "rightItems": [
+      "Brand building",
+      "Memories for later"
+     ],
+     "cue": "fifteen",
+     "at": 3.106
+    }
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "a",
+     "look": "student",
+     "at": "front",
+     "v": 4
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "eighty",
+     "pose": "point",
+     "at": 6.337
+    }
+   ],
+   "fx": [
+    {
+     "kind": "clock",
+     "who": "a",
+     "cue": "future buyers",
+     "at": 7.328
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "eighty",
+     "shot": "close",
+     "at": 6.337
+    }
+   ],
+   "audio": "audio/m-current-vs-future-demand-00.mp3",
+   "leadIn": 0.45,
+   "seconds": 9.138,
+   "words": [
+    {
+     "w": "Current",
+     "t": 0.5
+    },
+    {
+     "w": "versus",
+     "t": 0.866
+    },
+    {
+     "w": "future",
+     "t": 1.314
+    },
+    {
+     "w": "demand",
+     "t": 1.656
+    },
+    {
+     "w": "Only",
+     "t": 2.528
+    },
+    {
+     "w": "about",
+     "t": 2.859
+    },
+    {
+     "w": "fifteen",
+     "t": 3.106
+    },
+    {
+     "w": "percent",
+     "t": 3.519
+    },
+    {
+     "w": "of",
+     "t": 3.814
+    },
+    {
+     "w": "buyers",
+     "t": 3.896
+    },
+    {
+     "w": "are",
+     "t": 4.321
+    },
+    {
+     "w": "in",
+     "t": 4.486
+    },
+    {
+     "w": "market",
+     "t": 4.568
+    },
+    {
+     "w": "right",
+     "t": 4.922
+    },
+    {
+     "w": "now",
+     "t": 5.123
+    },
+    {
+     "w": "The",
+     "t": 5.807
+    },
+    {
+     "w": "other",
+     "t": 6.031
+    },
+    {
+     "w": "eighty-five",
+     "t": 6.337
+    },
+    {
+     "w": "percent",
+     "t": 6.797
+    },
+    {
+     "w": "are",
+     "t": 7.245
+    },
+    {
+     "w": "future",
+     "t": 7.328
+    },
+    {
+     "w": "buyers",
+     "t": 7.693
+    }
+   ]
+  },
+  {
+   "set": "stage",
+   "say": "Don't just talk to the four hands that are up right now. That student buying a phone in three years is worth reaching today.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "lectern"
+    },
+    {
+     "id": "a",
+     "look": "student",
+     "at": "l",
+     "v": 1
+    },
+    {
+     "id": "b",
+     "look": "student",
+     "at": "front",
+     "v": 2
+    },
+    {
+     "id": "c",
+     "look": "student",
+     "at": "r",
+     "v": 5,
+     "hold": "phone",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "a",
+     "cue": "hands",
+     "pose": "up",
+     "expr": "grin",
+     "at": 1.667
+    },
+    {
+     "who": "b",
+     "cue": "up",
+     "pose": "up",
+     "expr": "smile",
+     "at": 2.328
+    },
+    {
+     "who": "host",
+     "cue": "student",
+     "pose": "point",
+     "at": 3.578
+    },
+    {
+     "who": "c",
+     "cue": "today",
+     "expr": "smile",
+     "at": 6.125
+    }
+   ],
+   "fx": [
+    {
+     "kind": "exclaim",
+     "who": "a",
+     "cue": "hands",
+     "at": 1.667
+    },
+    {
+     "kind": "think",
+     "who": "c",
+     "cue": "phone",
+     "text": "Maybe in three years...",
+     "at": 4.274
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "student",
+     "shot": "actor",
+     "who": "c",
+     "at": 3.578
+    },
+    {
+     "cue": "today",
+     "shot": "close",
+     "at": 6.125
+    }
+   ],
+   "audio": "audio/m-current-vs-future-demand-01.mp3",
+   "leadIn": 0.45,
+   "seconds": 7.506,
+   "words": [
+    {
+     "w": "Don't",
+     "t": 0.5
+    },
+    {
+     "w": "just",
+     "t": 0.759
+    },
+    {
+     "w": "talk",
+     "t": 0.984
+    },
+    {
+     "w": "to",
+     "t": 1.243
+    },
+    {
+     "w": "the",
+     "t": 1.325
+    },
+    {
+     "w": "four",
+     "t": 1.408
+    },
+    {
+     "w": "hands",
+     "t": 1.667
+    },
+    {
+     "w": "that",
+     "t": 2.033
+    },
+    {
+     "w": "are",
+     "t": 2.151
+    },
+    {
+     "w": "up",
+     "t": 2.328
+    },
+    {
+     "w": "right",
+     "t": 2.458
+    },
+    {
+     "w": "now",
+     "t": 2.646
+    },
+    {
+     "w": "That",
+     "t": 3.307
+    },
+    {
+     "w": "student",
+     "t": 3.578
+    },
+    {
+     "w": "buying",
+     "t": 3.979
+    },
+    {
+     "w": "a",
+     "t": 4.238
+    },
+    {
+     "w": "phone",
+     "t": 4.274
+    },
+    {
+     "w": "in",
+     "t": 4.604
+    },
+    {
+     "w": "three",
+     "t": 4.722
+    },
+    {
+     "w": "years",
+     "t": 4.969
+    },
+    {
+     "w": "is",
+     "t": 5.347
+    },
+    {
+     "w": "worth",
+     "t": 5.5
+    },
+    {
+     "w": "reaching",
+     "t": 5.818
+    },
+    {
+     "w": "today",
+     "t": 6.125
+    }
+   ]
+  },
+  {
+   "set": "home",
+   "say": "So Telstra swapped dry, rational offers for emotional brand building, so people would remember it when their contract ran out.",
+   "board": {
+    "title": "Memories for **later**",
+    "lines": [
+     {
+      "text": "**Emotional** brand building",
+      "cue": "emotional",
+      "at": 3.142
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "l"
+    },
+    {
+     "id": "a",
+     "look": "shopper",
+     "at": "sofa",
+     "v": 2,
+     "mode": "sit"
+    },
+    {
+     "id": "b",
+     "look": "elder",
+     "at": "sofa2",
+     "v": 3,
+     "mode": "sit",
+     "hold": "phone",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "a",
+     "cue": "dry",
+     "expr": "dazed",
+     "at": 1.55
+    },
+    {
+     "who": "a",
+     "cue": "emotional",
+     "expr": "smile",
+     "at": 3.142
+    },
+    {
+     "who": "b",
+     "cue": "contract",
+     "expr": "grin",
+     "at": 5.889
+    }
+   ],
+   "fx": [
+    {
+     "kind": "zzz",
+     "who": "a",
+     "cue": "dry",
+     "at": 1.55
+    },
+    {
+     "kind": "heart",
+     "who": "a",
+     "cue": "emotional",
+     "at": 3.142
+    },
+    {
+     "kind": "brain",
+     "who": "b",
+     "cue": "remember",
+     "at": 5.111
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "emotional",
+     "shot": "board",
+     "at": 3.142
+    },
+    {
+     "cue": "remember",
+     "shot": "actor",
+     "who": "b",
+     "at": 5.111
+    }
+   ],
+   "audio": "audio/m-current-vs-future-demand-02.mp3",
+   "leadIn": 0.45,
+   "seconds": 7.77,
+   "words": [
+    {
+     "w": "So",
+     "t": 0.5
+    },
+    {
+     "w": "Telstra",
+     "t": 0.795
+    },
+    {
+     "w": "swapped",
+     "t": 1.219
+    },
+    {
+     "w": "dry",
+     "t": 1.55
+    },
+    {
+     "w": "rational",
+     "t": 2.222
+    },
+    {
+     "w": "offers",
+     "t": 2.693
+    },
+    {
+     "w": "for",
+     "t": 3.012
+    },
+    {
+     "w": "emotional",
+     "t": 3.142
+    },
+    {
+     "w": "brand",
+     "t": 3.542
+    },
+    {
+     "w": "building",
+     "t": 3.79
+    },
+    {
+     "w": "so",
+     "t": 4.462
+    },
+    {
+     "w": "people",
+     "t": 4.663
+    },
+    {
+     "w": "would",
+     "t": 4.981
+    },
+    {
+     "w": "remember",
+     "t": 5.111
+    },
+    {
+     "w": "it",
+     "t": 5.524
+    },
+    {
+     "w": "when",
+     "t": 5.665
+    },
+    {
+     "w": "their",
+     "t": 5.807
+    },
+    {
+     "w": "contract",
+     "t": 5.889
+    },
+    {
+     "w": "ran",
+     "t": 6.314
+    },
+    {
+     "w": "out",
+     "t": 6.514
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Use it like this: split your plan into converting today's buyers and building memories for tomorrow's.",
+   "board": {
+    "title": "Use it like **this**",
+    "lines": [
+     {
+      "text": "**Convert** the 15%",
+      "cue": "converting",
+      "at": 2.823
+     },
+     {
+      "text": "**Build** memory in the 85%",
+      "cue": "building",
+      "at": 4.191
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "e1",
+     "look": "exec_f",
+     "at": "table",
+     "v": 5,
+     "hold": "clipboard",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "e1",
+     "cue": "tomorrow",
+     "expr": "smile",
+     "at": 5.075
+    }
+   ],
+   "fx": [
+    {
+     "kind": "tick",
+     "who": "e1",
+     "cue": "tomorrow",
+     "at": 5.075
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "tomorrow",
+     "shot": "two",
+     "who": "e1",
+     "at": 5.075
+    }
+   ],
+   "hold": 1.0,
+   "audio": "audio/m-current-vs-future-demand-03.mp3",
+   "leadIn": 0.45,
+   "seconds": 7.018,
+   "words": [
+    {
+     "w": "Use",
+     "t": 0.5
+    },
+    {
+     "w": "it",
+     "t": 0.83
+    },
+    {
+     "w": "like",
+     "t": 0.901
+    },
+    {
+     "w": "this",
+     "t": 1.113
+    },
+    {
+     "w": "split",
+     "t": 1.75
+    },
+    {
+     "w": "your",
+     "t": 2.116
+    },
+    {
+     "w": "plan",
+     "t": 2.222
+    },
+    {
+     "w": "into",
+     "t": 2.587
+    },
+    {
+     "w": "converting",
+     "t": 2.823
+    },
+    {
+     "w": "today's",
+     "t": 3.295
+    },
+    {
+     "w": "buyers",
+     "t": 3.59
+    },
+    {
+     "w": "and",
+     "t": 4.002
+    },
+    {
+     "w": "building",
+     "t": 4.191
+    },
+    {
+     "w": "memories",
+     "t": 4.568
+    },
+    {
+     "w": "for",
+     "t": 4.969
+    },
+    {
+     "w": "tomorrow's",
+     "t": 5.075
+    }
+   ]
+  }
+ ],
+ "id": "m-current-vs-future-demand",
+ "total": 31.43
+}

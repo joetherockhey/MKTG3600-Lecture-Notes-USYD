@@ -1,0 +1,3458 @@
+{
+ "week": 6,
+ "title": "Managing a brand for social purpose",
+ "speaker": "Libby Hogson",
+ "beats": [
+  {
+   "set": "stage",
+   "say": "Week six. Managing a brand for social purpose, with Libby Hogson from UNICEF Australia. Her premise: brand building in a charity is just brand building.",
+   "board": {
+    "photo": "photos/w6.png",
+    "title": "Managing a brand for **social purpose**",
+    "name": "Libby Hogson",
+    "org": "Director of Growth and Engagement, UNICEF Australia"
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present",
+     "expr": "smile"
+    },
+    {
+     "id": "a",
+     "look": "student",
+     "v": 2,
+     "at": "aisle"
+    },
+    {
+     "id": "b",
+     "look": "student",
+     "v": 5,
+     "at": "aisle2"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "premise",
+     "pose": "up",
+     "at": 6.502
+    }
+   ],
+   "fx": [
+    {
+     "kind": "bulb",
+     "who": "host",
+     "cue": "charity",
+     "at": 8.083
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "Libby",
+     "shot": "board",
+     "at": 4.026
+    },
+    {
+     "cue": "premise",
+     "shot": "host",
+     "at": 6.502
+    }
+   ],
+   "audio": "audio/w6-00.mp3",
+   "leadIn": 0.45,
+   "seconds": 10.626,
+   "words": [
+    {
+     "w": "Week",
+     "t": 0.5
+    },
+    {
+     "w": "six",
+     "t": 0.842
+    },
+    {
+     "w": "Managing",
+     "t": 1.656
+    },
+    {
+     "w": "a",
+     "t": 2.151
+    },
+    {
+     "w": "brand",
+     "t": 2.186
+    },
+    {
+     "w": "for",
+     "t": 2.587
+    },
+    {
+     "w": "social",
+     "t": 2.693
+    },
+    {
+     "w": "purpose",
+     "t": 3.035
+    },
+    {
+     "w": "with",
+     "t": 3.837
+    },
+    {
+     "w": "Libby",
+     "t": 4.026
+    },
+    {
+     "w": "Hogson",
+     "t": 4.333
+    },
+    {
+     "w": "from",
+     "t": 4.804
+    },
+    {
+     "w": "UNICEF",
+     "t": 5.005
+    },
+    {
+     "w": "Australia",
+     "t": 5.394
+    },
+    {
+     "w": "Her",
+     "t": 6.29
+    },
+    {
+     "w": "premise",
+     "t": 6.502
+    },
+    {
+     "w": "brand",
+     "t": 7.281
+    },
+    {
+     "w": "building",
+     "t": 7.599
+    },
+    {
+     "w": "in",
+     "t": 7.929
+    },
+    {
+     "w": "a",
+     "t": 8.024
+    },
+    {
+     "w": "charity",
+     "t": 8.083
+    },
+    {
+     "w": "is",
+     "t": 8.566
+    },
+    {
+     "w": "just",
+     "t": 8.719
+    },
+    {
+     "w": "brand",
+     "t": 8.967
+    },
+    {
+     "w": "building",
+     "t": 9.25
+    }
+   ]
+  },
+  {
+   "set": "street",
+   "say": "Over sixty thousand charities, one per four hundred and thirty nine Australians. Funding grows about three percent a year, but donors are falling. Fewer people, giving more.",
+   "board": {
+    "title": "A **crowded** sector",
+    "big": "60,000+",
+    "caption": "charities, one per **439** Australians",
+    "cue": "sixty",
+    "at": 0.771
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "l",
+     "pose": "point"
+    },
+    {
+     "id": "col",
+     "look": "worker",
+     "v": 3,
+     "at": "kerb",
+     "hold": "clipboard",
+     "pose": "hold",
+     "expr": "smile"
+    },
+    {
+     "id": "p1",
+     "look": "shopper",
+     "v": 1,
+     "at": "walkL",
+     "to": "walkR",
+     "walkCue": "funding",
+     "hold": "bag",
+     "pose": "hold",
+     "walkAt": 4.863
+    },
+    {
+     "id": "p2",
+     "look": "exec",
+     "v": 4,
+     "at": "r",
+     "hold": "card",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "col",
+     "cue": "falling",
+     "expr": "nervous",
+     "at": 7.729
+    },
+    {
+     "who": "p2",
+     "cue": "giving",
+     "expr": "smile",
+     "to": "c",
+     "at": 9.639
+    }
+   ],
+   "fx": [
+    {
+     "kind": "cross",
+     "who": "col",
+     "cue": "falling",
+     "at": 7.729
+    },
+    {
+     "kind": "money",
+     "who": "p2",
+     "cue": "giving",
+     "at": 9.639
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "funding",
+     "shot": "wide",
+     "at": 4.863
+    },
+    {
+     "cue": "giving",
+     "shot": "two",
+     "who": "col",
+     "at": 9.639
+    }
+   ],
+   "audio": "audio/w6-01.mp3",
+   "leadIn": 0.45,
+   "seconds": 11.25,
+   "words": [
+    {
+     "w": "Over",
+     "t": 0.5
+    },
+    {
+     "w": "sixty",
+     "t": 0.771
+    },
+    {
+     "w": "thousand",
+     "t": 1.125
+    },
+    {
+     "w": "charities",
+     "t": 1.467
+    },
+    {
+     "w": "one",
+     "t": 2.292
+    },
+    {
+     "w": "per",
+     "t": 2.599
+    },
+    {
+     "w": "four",
+     "t": 2.8
+    },
+    {
+     "w": "hundred",
+     "t": 3.035
+    },
+    {
+     "w": "and",
+     "t": 3.271
+    },
+    {
+     "w": "thirty",
+     "t": 3.318
+    },
+    {
+     "w": "nine",
+     "t": 3.637
+    },
+    {
+     "w": "Australians",
+     "t": 3.861
+    },
+    {
+     "w": "Funding",
+     "t": 4.863
+    },
+    {
+     "w": "grows",
+     "t": 5.335
+    },
+    {
+     "w": "about",
+     "t": 5.618
+    },
+    {
+     "w": "three",
+     "t": 5.854
+    },
+    {
+     "w": "percent",
+     "t": 6.101
+    },
+    {
+     "w": "a",
+     "t": 6.42
+    },
+    {
+     "w": "year",
+     "t": 6.443
+    },
+    {
+     "w": "but",
+     "t": 7.151
+    },
+    {
+     "w": "donors",
+     "t": 7.328
+    },
+    {
+     "w": "are",
+     "t": 7.705
+    },
+    {
+     "w": "falling",
+     "t": 7.729
+    },
+    {
+     "w": "Fewer",
+     "t": 8.578
+    },
+    {
+     "w": "people",
+     "t": 8.955
+    },
+    {
+     "w": "giving",
+     "t": 9.639
+    },
+    {
+     "w": "more",
+     "t": 9.934
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Then trust. The Edelman Trust Barometer found sixty one percent of Australians hold grievances against institutions and the rich. Forty percent see hostile activism as legitimate.",
+   "board": {
+    "title": "We have a **trust problem**",
+    "bars": [
+     {
+      "label": "Hold grievances",
+      "value": 61,
+      "display": "61%",
+      "cue": "sixty",
+      "at": 3.33
+     },
+     {
+      "label": "Back hostile activism",
+      "value": 40,
+      "display": "40%",
+      "cue": "forty",
+      "at": 7.776
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present",
+     "expr": "nervous"
+    },
+    {
+     "id": "e",
+     "look": "exec_f",
+     "v": 2,
+     "at": "table",
+     "expr": "stern"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "trust",
+     "pose": "chin",
+     "at": 0.854
+    },
+    {
+     "who": "e",
+     "cue": "hostile",
+     "expr": "shock",
+     "at": 8.814
+    }
+   ],
+   "fx": [
+    {
+     "kind": "exclaim",
+     "who": "e",
+     "cue": "hostile",
+     "at": 8.814
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "host",
+     "at": 0.2
+    },
+    {
+     "cue": "Edelman",
+     "shot": "board",
+     "at": 1.962
+    },
+    {
+     "cue": "hostile",
+     "shot": "close",
+     "who": "e",
+     "at": 8.814
+    }
+   ],
+   "audio": "audio/w6-02.mp3",
+   "leadIn": 0.45,
+   "seconds": 11.514,
+   "words": [
+    {
+     "w": "Then",
+     "t": 0.5
+    },
+    {
+     "w": "trust",
+     "t": 0.854
+    },
+    {
+     "w": "The",
+     "t": 1.703
+    },
+    {
+     "w": "Edelman",
+     "t": 1.962
+    },
+    {
+     "w": "Trust",
+     "t": 2.304
+    },
+    {
+     "w": "Barometer",
+     "t": 2.575
+    },
+    {
+     "w": "found",
+     "t": 3.035
+    },
+    {
+     "w": "sixty",
+     "t": 3.33
+    },
+    {
+     "w": "one",
+     "t": 3.672
+    },
+    {
+     "w": "percent",
+     "t": 3.873
+    },
+    {
+     "w": "of",
+     "t": 4.203
+    },
+    {
+     "w": "Australians",
+     "t": 4.274
+    },
+    {
+     "w": "hold",
+     "t": 4.84
+    },
+    {
+     "w": "grievances",
+     "t": 5.075
+    },
+    {
+     "w": "against",
+     "t": 5.665
+    },
+    {
+     "w": "institutions",
+     "t": 5.995
+    },
+    {
+     "w": "and",
+     "t": 6.797
+    },
+    {
+     "w": "the",
+     "t": 6.986
+    },
+    {
+     "w": "rich",
+     "t": 7.057
+    },
+    {
+     "w": "Forty",
+     "t": 7.776
+    },
+    {
+     "w": "percent",
+     "t": 8.153
+    },
+    {
+     "w": "see",
+     "t": 8.566
+    },
+    {
+     "w": "hostile",
+     "t": 8.814
+    },
+    {
+     "w": "activism",
+     "t": 9.297
+    },
+    {
+     "w": "as",
+     "t": 9.828
+    },
+    {
+     "w": "legitimate",
+     "t": 9.993
+    }
+   ]
+  },
+  {
+   "set": "home",
+   "say": "When people feel an institution isn't serving them, trust falls. Trust tracks brand performance, so the trust problem is the growth problem.",
+   "board": {
+    "title": "Trust = **growth**",
+    "lines": [
+     {
+      "text": "Not serving me? **Trust falls**",
+      "cue": "falls",
+      "at": 3.531
+     },
+     {
+      "text": "Trust tracks **performance**",
+      "cue": "performance",
+      "at": 5.382
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "l",
+     "pose": "present"
+    },
+    {
+     "id": "d",
+     "look": "shopper",
+     "v": 2,
+     "at": "sofa",
+     "mode": "sit",
+     "expr": "stern"
+    },
+    {
+     "id": "m",
+     "look": "elder",
+     "v": 3,
+     "at": "sofa2",
+     "mode": "sit",
+     "expr": "neutral"
+    }
+   ],
+   "acts": [
+    {
+     "who": "d",
+     "cue": "serving",
+     "pose": "hips",
+     "at": 2.399
+    },
+    {
+     "who": "m",
+     "cue": "falls",
+     "expr": "nervous",
+     "at": 3.531
+    },
+    {
+     "who": "host",
+     "cue": "growth",
+     "pose": "point",
+     "expr": "stern",
+     "at": 7.328
+    }
+   ],
+   "fx": [
+    {
+     "kind": "think",
+     "who": "d",
+     "text": "Not for people like me",
+     "cue": "serving",
+     "at": 2.399
+    },
+    {
+     "kind": "cross",
+     "who": "m",
+     "cue": "falls",
+     "at": 3.531
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "serving",
+     "shot": "actor",
+     "who": "d",
+     "at": 2.399
+    },
+    {
+     "cue": "growth",
+     "shot": "close",
+     "at": 7.328
+    }
+   ],
+   "audio": "audio/w6-03.mp3",
+   "leadIn": 0.45,
+   "seconds": 8.994,
+   "words": [
+    {
+     "w": "When",
+     "t": 0.5
+    },
+    {
+     "w": "people",
+     "t": 0.807
+    },
+    {
+     "w": "feel",
+     "t": 1.113
+    },
+    {
+     "w": "an",
+     "t": 1.384
+    },
+    {
+     "w": "institution",
+     "t": 1.455
+    },
+    {
+     "w": "isn't",
+     "t": 2.151
+    },
+    {
+     "w": "serving",
+     "t": 2.399
+    },
+    {
+     "w": "them",
+     "t": 2.752
+    },
+    {
+     "w": "trust",
+     "t": 3.224
+    },
+    {
+     "w": "falls",
+     "t": 3.531
+    },
+    {
+     "w": "Trust",
+     "t": 4.403
+    },
+    {
+     "w": "tracks",
+     "t": 4.816
+    },
+    {
+     "w": "brand",
+     "t": 5.111
+    },
+    {
+     "w": "performance",
+     "t": 5.382
+    },
+    {
+     "w": "so",
+     "t": 6.231
+    },
+    {
+     "w": "the",
+     "t": 6.396
+    },
+    {
+     "w": "trust",
+     "t": 6.491
+    },
+    {
+     "w": "problem",
+     "t": 6.774
+    },
+    {
+     "w": "is",
+     "t": 7.116
+    },
+    {
+     "w": "the",
+     "t": 7.257
+    },
+    {
+     "w": "growth",
+     "t": 7.328
+    },
+    {
+     "w": "problem",
+     "t": 7.587
+    }
+   ]
+  },
+  {
+   "set": "plaza",
+   "say": "Awareness was fuzzy too. Forty percent didn't know who UNICEF was, only twenty nine percent linked it to children, and many didn't know it was a charity.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "c",
+     "pose": "hold",
+     "hold": "clipboard"
+    },
+    {
+     "id": "a",
+     "look": "shopper",
+     "v": 3,
+     "at": "l",
+     "hold": "bag",
+     "pose": "hold"
+    },
+    {
+     "id": "b",
+     "look": "student",
+     "v": 6,
+     "at": "r",
+     "hold": "phone",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "a",
+     "cue": "know",
+     "pose": "shrug",
+     "expr": "nervous",
+     "at": 3.354
+    },
+    {
+     "who": "b",
+     "cue": "charity",
+     "expr": "shock",
+     "at": 8.177
+    }
+   ],
+   "fx": [
+    {
+     "kind": "question",
+     "who": "a",
+     "cue": "know",
+     "at": 3.354
+    },
+    {
+     "kind": "say",
+     "who": "b",
+     "text": "It's a charity?",
+     "cue": "charity",
+     "at": 8.177
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "know",
+     "shot": "two",
+     "who": "a",
+     "at": 3.354
+    },
+    {
+     "cue": "charity",
+     "shot": "close",
+     "who": "b",
+     "at": 8.177
+    }
+   ],
+   "audio": "audio/w6-04.mp3",
+   "leadIn": 0.45,
+   "seconds": 9.642,
+   "words": [
+    {
+     "w": "Awareness",
+     "t": 0.5
+    },
+    {
+     "w": "was",
+     "t": 1.113
+    },
+    {
+     "w": "fuzzy",
+     "t": 1.302
+    },
+    {
+     "w": "too",
+     "t": 1.632
+    },
+    {
+     "w": "Forty",
+     "t": 2.363
+    },
+    {
+     "w": "percent",
+     "t": 2.729
+    },
+    {
+     "w": "didn't",
+     "t": 3.118
+    },
+    {
+     "w": "know",
+     "t": 3.354
+    },
+    {
+     "w": "who",
+     "t": 3.554
+    },
+    {
+     "w": "UNICEF",
+     "t": 3.696
+    },
+    {
+     "w": "was",
+     "t": 4.144
+    },
+    {
+     "w": "only",
+     "t": 4.804
+    },
+    {
+     "w": "twenty",
+     "t": 5.028
+    },
+    {
+     "w": "nine",
+     "t": 5.264
+    },
+    {
+     "w": "percent",
+     "t": 5.453
+    },
+    {
+     "w": "linked",
+     "t": 5.83
+    },
+    {
+     "w": "it",
+     "t": 6.078
+    },
+    {
+     "w": "to",
+     "t": 6.16
+    },
+    {
+     "w": "children",
+     "t": 6.231
+    },
+    {
+     "w": "and",
+     "t": 6.974
+    },
+    {
+     "w": "many",
+     "t": 7.116
+    },
+    {
+     "w": "didn't",
+     "t": 7.399
+    },
+    {
+     "w": "know",
+     "t": 7.634
+    },
+    {
+     "w": "it",
+     "t": 7.917
+    },
+    {
+     "w": "was",
+     "t": 8.012
+    },
+    {
+     "w": "a",
+     "t": 8.141
+    },
+    {
+     "w": "charity",
+     "t": 8.177
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "About ninety five percent of spend went on conversion and retention, and only five percent on awareness. They were optimising a funnel with an empty top.",
+   "board": {
+    "title": "Money in the **wrong place**",
+    "bars": [
+     {
+      "label": "Conversion and retention",
+      "value": 95,
+      "display": "95%",
+      "cue": "ninety",
+      "at": 0.818
+     },
+     {
+      "label": "Awareness and consideration",
+      "value": 5,
+      "display": "5%",
+      "cue": "five percent on",
+      "at": 4.439
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "point"
+    },
+    {
+     "id": "e",
+     "look": "exec",
+     "v": 2,
+     "at": "r",
+     "hold": "laptop",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "empty",
+     "pose": "shrug",
+     "expr": "nervous",
+     "at": 7.859
+    }
+   ],
+   "fx": [
+    {
+     "kind": "money",
+     "who": "e",
+     "cue": "conversion",
+     "at": 2.422
+    },
+    {
+     "kind": "exclaim",
+     "who": "host",
+     "cue": "empty",
+     "at": 7.859
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "optimising",
+     "shot": "two",
+     "who": "e",
+     "at": 6.443
+    },
+    {
+     "cue": "empty",
+     "shot": "close",
+     "at": 7.859
+    }
+   ],
+   "audio": "audio/w6-05.mp3",
+   "leadIn": 0.45,
+   "seconds": 9.498,
+   "words": [
+    {
+     "w": "About",
+     "t": 0.5
+    },
+    {
+     "w": "ninety",
+     "t": 0.818
+    },
+    {
+     "w": "five",
+     "t": 1.09
+    },
+    {
+     "w": "percent",
+     "t": 1.325
+    },
+    {
+     "w": "of",
+     "t": 1.62
+    },
+    {
+     "w": "spend",
+     "t": 1.691
+    },
+    {
+     "w": "went",
+     "t": 2.092
+    },
+    {
+     "w": "on",
+     "t": 2.316
+    },
+    {
+     "w": "conversion",
+     "t": 2.422
+    },
+    {
+     "w": "and",
+     "t": 3.0
+    },
+    {
+     "w": "retention",
+     "t": 3.142
+    },
+    {
+     "w": "and",
+     "t": 4.002
+    },
+    {
+     "w": "only",
+     "t": 4.215
+    },
+    {
+     "w": "five",
+     "t": 4.439
+    },
+    {
+     "w": "percent",
+     "t": 4.734
+    },
+    {
+     "w": "on",
+     "t": 5.075
+    },
+    {
+     "w": "awareness",
+     "t": 5.205
+    },
+    {
+     "w": "They",
+     "t": 6.09
+    },
+    {
+     "w": "were",
+     "t": 6.302
+    },
+    {
+     "w": "optimising",
+     "t": 6.443
+    },
+    {
+     "w": "a",
+     "t": 7.057
+    },
+    {
+     "w": "funnel",
+     "t": 7.104
+    },
+    {
+     "w": "with",
+     "t": 7.493
+    },
+    {
+     "w": "an",
+     "t": 7.67
+    },
+    {
+     "w": "empty",
+     "t": 7.859
+    },
+    {
+     "w": "top",
+     "t": 8.165
+    }
+   ]
+  },
+  {
+   "set": "plaza",
+   "say": "By 2020, UNICEF had zero unprompted awareness. Asked to name a charity, people never said it. Shown the name, they recognised it.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "c",
+     "pose": "hold",
+     "hold": "clipboard"
+    },
+    {
+     "id": "s",
+     "look": "shopper",
+     "v": 5,
+     "at": "r",
+     "hold": "bag",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "s",
+     "cue": "name",
+     "pose": "chin",
+     "expr": "nervous",
+     "at": 4.533
+    },
+    {
+     "who": "host",
+     "cue": "Show",
+     "pose": "present",
+     "at": 6.903
+    },
+    {
+     "who": "s",
+     "cue": "recognised",
+     "pose": "up",
+     "expr": "grin",
+     "at": 8.177
+    }
+   ],
+   "fx": [
+    {
+     "kind": "think",
+     "who": "s",
+     "text": "Um...",
+     "cue": "never",
+     "at": 5.889
+    },
+    {
+     "kind": "bulb",
+     "who": "s",
+     "cue": "recognised",
+     "at": 8.177
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "name",
+     "shot": "two",
+     "who": "s",
+     "at": 4.533
+    },
+    {
+     "cue": "recognised",
+     "shot": "close",
+     "who": "s",
+     "at": 8.177
+    }
+   ],
+   "audio": "audio/w6-06.mp3",
+   "leadIn": 0.45,
+   "seconds": 9.954,
+   "words": [
+    {
+     "w": "By 2020",
+     "t": 0.5
+    },
+    {
+     "w": "UNICEF",
+     "t": 1.62
+    },
+    {
+     "w": "had",
+     "t": 2.151
+    },
+    {
+     "w": "zero",
+     "t": 2.351
+    },
+    {
+     "w": "unprompted",
+     "t": 2.741
+    },
+    {
+     "w": "awareness",
+     "t": 3.224
+    },
+    {
+     "w": "Asked",
+     "t": 4.109
+    },
+    {
+     "w": "to",
+     "t": 4.474
+    },
+    {
+     "w": "name",
+     "t": 4.533
+    },
+    {
+     "w": "a",
+     "t": 4.745
+    },
+    {
+     "w": "charity",
+     "t": 4.792
+    },
+    {
+     "w": "people",
+     "t": 5.559
+    },
+    {
+     "w": "never",
+     "t": 5.889
+    },
+    {
+     "w": "said",
+     "t": 6.16
+    },
+    {
+     "w": "it",
+     "t": 6.361
+    },
+    {
+     "w": "Shown",
+     "t": 6.903
+    },
+    {
+     "w": "the",
+     "t": 7.304
+    },
+    {
+     "w": "name",
+     "t": 7.363
+    },
+    {
+     "w": "they",
+     "t": 8.0
+    },
+    {
+     "w": "recognised",
+     "t": 8.177
+    },
+    {
+     "w": "it",
+     "t": 8.802
+    }
+   ]
+  },
+  {
+   "set": "stage",
+   "say": "That gap matters. People with UNICEF top of mind showed nineteen percent donation intent. Aware only when prompted, just seven percent. Mental availability nearly triples intent.",
+   "board": {
+    "title": "Top of mind **triples** intent",
+    "bars": [
+     {
+      "label": "Top of mind",
+      "value": 19,
+      "display": "19%",
+      "cue": "nineteen",
+      "at": 3.814
+     },
+     {
+      "label": "Prompted only",
+      "value": 7,
+      "display": "7%",
+      "cue": "seven",
+      "at": 7.776
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "triples",
+     "pose": "cheer",
+     "expr": "grin",
+     "at": 10.441
+    }
+   ],
+   "fx": [
+    {
+     "kind": "brain",
+     "who": "host",
+     "cue": "mental",
+     "at": 8.908
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "host",
+     "at": 0.2
+    },
+    {
+     "cue": "nineteen",
+     "shot": "board",
+     "at": 3.814
+    },
+    {
+     "cue": "triples",
+     "shot": "close",
+     "at": 10.441
+    }
+   ],
+   "audio": "audio/w6-07.mp3",
+   "leadIn": 0.45,
+   "seconds": 12.282,
+   "words": [
+    {
+     "w": "That",
+     "t": 0.5
+    },
+    {
+     "w": "gap",
+     "t": 0.866
+    },
+    {
+     "w": "matters",
+     "t": 1.101
+    },
+    {
+     "w": "People",
+     "t": 1.927
+    },
+    {
+     "w": "with",
+     "t": 2.281
+    },
+    {
+     "w": "UNICEF",
+     "t": 2.422
+    },
+    {
+     "w": "top",
+     "t": 2.87
+    },
+    {
+     "w": "of",
+     "t": 3.059
+    },
+    {
+     "w": "mind",
+     "t": 3.165
+    },
+    {
+     "w": "showed",
+     "t": 3.519
+    },
+    {
+     "w": "nineteen",
+     "t": 3.814
+    },
+    {
+     "w": "percent",
+     "t": 4.25
+    },
+    {
+     "w": "donation",
+     "t": 4.616
+    },
+    {
+     "w": "intent",
+     "t": 5.064
+    },
+    {
+     "w": "Aware",
+     "t": 5.818
+    },
+    {
+     "w": "only",
+     "t": 6.29
+    },
+    {
+     "w": "when",
+     "t": 6.62
+    },
+    {
+     "w": "prompted",
+     "t": 6.785
+    },
+    {
+     "w": "just",
+     "t": 7.505
+    },
+    {
+     "w": "seven",
+     "t": 7.776
+    },
+    {
+     "w": "percent",
+     "t": 8.106
+    },
+    {
+     "w": "Mental",
+     "t": 8.908
+    },
+    {
+     "w": "availability",
+     "t": 9.38
+    },
+    {
+     "w": "nearly",
+     "t": 10.052
+    },
+    {
+     "w": "triples",
+     "t": 10.441
+    },
+    {
+     "w": "intent",
+     "t": 10.866
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "So which facts to lead with? Saves more lives than any other organisation. The world's largest organisation for children's rights. Brings lifesaving help to children.",
+   "board": {
+    "title": "Facts worth **investing in**",
+    "steps": [
+     {
+      "text": "Saves the **most lives**",
+      "cue": "saves",
+      "at": 2.469
+     },
+     {
+      "text": "**Largest** for children's rights",
+      "cue": "largest",
+      "at": 5.925
+     },
+     {
+      "text": "**Lifesaving** help for children",
+      "cue": "brings",
+      "at": 8.448
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "e1",
+     "look": "exec_f",
+     "v": 4,
+     "at": "table"
+    },
+    {
+     "id": "e2",
+     "look": "worker",
+     "v": 1,
+     "at": "table2"
+    }
+   ],
+   "acts": [
+    {
+     "who": "e1",
+     "cue": "facts",
+     "pose": "chin",
+     "at": 1.125
+    },
+    {
+     "who": "e2",
+     "cue": "lifesaving",
+     "pose": "up",
+     "expr": "smile",
+     "at": 8.825
+    }
+   ],
+   "fx": [
+    {
+     "kind": "chart",
+     "who": "e1",
+     "cue": "saves",
+     "at": 2.469
+    },
+    {
+     "kind": "tick",
+     "who": "e2",
+     "cue": "brings",
+     "at": 8.448
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "saves",
+     "shot": "board",
+     "at": 2.469
+    },
+    {
+     "cue": "brings",
+     "shot": "actor",
+     "who": "e2",
+     "at": 8.448
+    }
+   ],
+   "audio": "audio/w6-08.mp3",
+   "leadIn": 0.45,
+   "seconds": 11.25,
+   "words": [
+    {
+     "w": "So",
+     "t": 0.5
+    },
+    {
+     "w": "which",
+     "t": 0.877
+    },
+    {
+     "w": "facts",
+     "t": 1.125
+    },
+    {
+     "w": "to",
+     "t": 1.514
+    },
+    {
+     "w": "lead",
+     "t": 1.609
+    },
+    {
+     "w": "with",
+     "t": 1.821
+    },
+    {
+     "w": "Saves",
+     "t": 2.469
+    },
+    {
+     "w": "more",
+     "t": 2.929
+    },
+    {
+     "w": "lives",
+     "t": 3.118
+    },
+    {
+     "w": "than",
+     "t": 3.566
+    },
+    {
+     "w": "any",
+     "t": 3.802
+    },
+    {
+     "w": "other",
+     "t": 4.061
+    },
+    {
+     "w": "organisation",
+     "t": 4.297
+    },
+    {
+     "w": "The",
+     "t": 5.441
+    },
+    {
+     "w": "world's",
+     "t": 5.594
+    },
+    {
+     "w": "largest",
+     "t": 5.925
+    },
+    {
+     "w": "organisation",
+     "t": 6.373
+    },
+    {
+     "w": "for",
+     "t": 7.116
+    },
+    {
+     "w": "children's",
+     "t": 7.245
+    },
+    {
+     "w": "rights",
+     "t": 7.682
+    },
+    {
+     "w": "Brings",
+     "t": 8.448
+    },
+    {
+     "w": "lifesaving",
+     "t": 8.825
+    },
+    {
+     "w": "help",
+     "t": 9.45
+    },
+    {
+     "w": "to",
+     "t": 9.698
+    },
+    {
+     "w": "children",
+     "t": 9.804
+    }
+   ]
+  },
+  {
+   "set": "home",
+   "say": "Then came a polycrisis: bushfires, the pandemic, Ukraine, all at once. UNICEF USA's version was too chest-beating for Australia. Positioning has to fit the moment.",
+   "board": {
+    "title": "**Polycrisis**",
+    "lines": [
+     {
+      "text": "Bushfires",
+      "cue": "bushfires",
+      "at": 2.21
+     },
+     {
+      "text": "The pandemic",
+      "cue": "pandemic",
+      "at": 3.153
+     },
+     {
+      "text": "Ukraine",
+      "cue": "Ukraine",
+      "at": 3.943
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "l",
+     "pose": "present"
+    },
+    {
+     "id": "a",
+     "look": "shopper",
+     "v": 6,
+     "at": "sofa",
+     "mode": "sit",
+     "expr": "nervous"
+    },
+    {
+     "id": "b",
+     "look": "kid",
+     "v": 1,
+     "at": "sofa2",
+     "mode": "sit",
+     "expr": "nervous"
+    }
+   ],
+   "acts": [
+    {
+     "who": "a",
+     "cue": "pandemic",
+     "expr": "shock",
+     "at": 3.153
+    },
+    {
+     "who": "host",
+     "cue": "chest",
+     "pose": "hips",
+     "expr": "stern",
+     "at": 7.741
+    },
+    {
+     "who": "host",
+     "cue": "moment",
+     "pose": "point",
+     "expr": "neutral",
+     "at": 10.653
+    }
+   ],
+   "fx": [
+    {
+     "kind": "burst",
+     "who": "a",
+     "cue": "once",
+     "at": 5.064
+    },
+    {
+     "kind": "cross",
+     "who": "host",
+     "cue": "chest",
+     "at": 7.741
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "once",
+     "shot": "actor",
+     "who": "a",
+     "at": 5.064
+    },
+    {
+     "cue": "USA",
+     "shot": "host",
+     "at": 6.396
+    }
+   ],
+   "audio": "audio/w6-09.mp3",
+   "leadIn": 0.45,
+   "seconds": 12.066,
+   "words": [
+    {
+     "w": "Then",
+     "t": 0.5
+    },
+    {
+     "w": "came",
+     "t": 0.818
+    },
+    {
+     "w": "a",
+     "t": 1.019
+    },
+    {
+     "w": "polycrisis",
+     "t": 1.066
+    },
+    {
+     "w": "bushfires",
+     "t": 2.21
+    },
+    {
+     "w": "the",
+     "t": 3.059
+    },
+    {
+     "w": "pandemic",
+     "t": 3.153
+    },
+    {
+     "w": "Ukraine",
+     "t": 3.943
+    },
+    {
+     "w": "all",
+     "t": 4.792
+    },
+    {
+     "w": "at",
+     "t": 4.993
+    },
+    {
+     "w": "once",
+     "t": 5.064
+    },
+    {
+     "w": "UNICEF",
+     "t": 5.818
+    },
+    {
+     "w": "USA's",
+     "t": 6.396
+    },
+    {
+     "w": "version",
+     "t": 6.903
+    },
+    {
+     "w": "was",
+     "t": 7.281
+    },
+    {
+     "w": "too",
+     "t": 7.516
+    },
+    {
+     "w": "chest-beating",
+     "t": 7.741
+    },
+    {
+     "w": "for",
+     "t": 8.366
+    },
+    {
+     "w": "Australia",
+     "t": 8.507
+    },
+    {
+     "w": "Positioning",
+     "t": 9.391
+    },
+    {
+     "w": "has",
+     "t": 10.016
+    },
+    {
+     "w": "to",
+     "t": 10.252
+    },
+    {
+     "w": "fit",
+     "t": 10.347
+    },
+    {
+     "w": "the",
+     "t": 10.594
+    },
+    {
+     "w": "moment",
+     "t": 10.653
+    }
+   ]
+  },
+  {
+   "set": "stage",
+   "say": "The positioning: UNICEF inspires Australians with the determination it takes to protect and care for every child, no matter what. Determination is the key word.",
+   "board": {
+    "title": "The **positioning**",
+    "lines": [
+     {
+      "text": "Inspires Australians with **determination**",
+      "cue": "determination",
+      "at": 3.271
+     },
+     {
+      "text": "To protect **every child**",
+      "cue": "every",
+      "at": 5.417
+     },
+     {
+      "text": "**No matter what**",
+      "cue": "matter",
+      "at": 6.561
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "a",
+     "look": "student",
+     "v": 3,
+     "at": "aisle"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "key",
+     "pose": "up",
+     "expr": "grin",
+     "at": 8.472
+    }
+   ],
+   "fx": [
+    {
+     "kind": "stars",
+     "who": "host",
+     "cue": "key",
+     "at": 8.472
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "key",
+     "shot": "close",
+     "at": 8.472
+    }
+   ],
+   "audio": "audio/w6-10.mp3",
+   "leadIn": 0.45,
+   "seconds": 10.098,
+   "words": [
+    {
+     "w": "The",
+     "t": 0.5
+    },
+    {
+     "w": "positioning",
+     "t": 0.665
+    },
+    {
+     "w": "UNICEF",
+     "t": 1.55
+    },
+    {
+     "w": "inspires",
+     "t": 2.045
+    },
+    {
+     "w": "Australians",
+     "t": 2.493
+    },
+    {
+     "w": "with",
+     "t": 3.094
+    },
+    {
+     "w": "the",
+     "t": 3.212
+    },
+    {
+     "w": "determination",
+     "t": 3.271
+    },
+    {
+     "w": "it",
+     "t": 3.955
+    },
+    {
+     "w": "takes",
+     "t": 4.073
+    },
+    {
+     "w": "to",
+     "t": 4.321
+    },
+    {
+     "w": "protect",
+     "t": 4.391
+    },
+    {
+     "w": "and",
+     "t": 4.804
+    },
+    {
+     "w": "care",
+     "t": 4.899
+    },
+    {
+     "w": "for",
+     "t": 5.217
+    },
+    {
+     "w": "every",
+     "t": 5.417
+    },
+    {
+     "w": "child",
+     "t": 5.653
+    },
+    {
+     "w": "no",
+     "t": 6.349
+    },
+    {
+     "w": "matter",
+     "t": 6.561
+    },
+    {
+     "w": "what",
+     "t": 6.785
+    },
+    {
+     "w": "Determination",
+     "t": 7.458
+    },
+    {
+     "w": "is",
+     "t": 8.236
+    },
+    {
+     "w": "the",
+     "t": 8.389
+    },
+    {
+     "w": "key",
+     "t": 8.472
+    },
+    {
+     "w": "word",
+     "t": 8.696
+    }
+   ]
+  },
+  {
+   "set": "street",
+   "say": "The proof: on the ground in over a hundred and ninety countries, help within forty eight hours, and one hundred percent donor funded. The message: Always there.",
+   "board": {
+    "title": "Always **there**",
+    "lines": [
+     {
+      "text": "On the ground in **190+** countries",
+      "cue": "ground",
+      "at": 1.609
+     },
+     {
+      "text": "Help within **48 hours**",
+      "cue": "forty",
+      "at": 4.132
+     },
+     {
+      "text": "**100%** donor funded",
+      "cue": "hundred percent",
+      "at": 5.594
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "l",
+     "pose": "point"
+    },
+    {
+     "id": "p",
+     "look": "elder",
+     "v": 2,
+     "at": "bus"
+    },
+    {
+     "id": "q",
+     "look": "student",
+     "v": 4,
+     "at": "walkR",
+     "to": "r",
+     "walkCue": "help",
+     "hold": "phone",
+     "pose": "hold",
+     "walkAt": 3.637
+    }
+   ],
+   "acts": [
+    {
+     "who": "p",
+     "cue": "donor",
+     "expr": "smile",
+     "at": 6.255
+    },
+    {
+     "who": "q",
+     "cue": "Always",
+     "expr": "grin",
+     "at": 8.259
+    }
+   ],
+   "fx": [
+    {
+     "kind": "heart",
+     "who": "p",
+     "cue": "donor",
+     "at": 6.255
+    },
+    {
+     "kind": "eye",
+     "who": "q",
+     "cue": "Always",
+     "at": 8.259
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "donor",
+     "shot": "wide",
+     "at": 6.255
+    },
+    {
+     "cue": "Always",
+     "shot": "actor",
+     "who": "q",
+     "at": 8.259
+    }
+   ],
+   "audio": "audio/w6-11.mp3",
+   "leadIn": 0.45,
+   "seconds": 9.93,
+   "words": [
+    {
+     "w": "The",
+     "t": 0.5
+    },
+    {
+     "w": "proof",
+     "t": 0.665
+    },
+    {
+     "w": "on",
+     "t": 1.432
+    },
+    {
+     "w": "the",
+     "t": 1.561
+    },
+    {
+     "w": "ground",
+     "t": 1.609
+    },
+    {
+     "w": "in",
+     "t": 1.962
+    },
+    {
+     "w": "over",
+     "t": 2.104
+    },
+    {
+     "w": "a",
+     "t": 2.316
+    },
+    {
+     "w": "hundred",
+     "t": 2.351
+    },
+    {
+     "w": "and",
+     "t": 2.611
+    },
+    {
+     "w": "ninety",
+     "t": 2.646
+    },
+    {
+     "w": "countries",
+     "t": 2.859
+    },
+    {
+     "w": "help",
+     "t": 3.637
+    },
+    {
+     "w": "within",
+     "t": 3.908
+    },
+    {
+     "w": "forty",
+     "t": 4.132
+    },
+    {
+     "w": "eight",
+     "t": 4.486
+    },
+    {
+     "w": "hours",
+     "t": 4.616
+    },
+    {
+     "w": "and",
+     "t": 5.241
+    },
+    {
+     "w": "one",
+     "t": 5.417
+    },
+    {
+     "w": "hundred",
+     "t": 5.594
+    },
+    {
+     "w": "percent",
+     "t": 5.866
+    },
+    {
+     "w": "donor",
+     "t": 6.255
+    },
+    {
+     "w": "funded",
+     "t": 6.514
+    },
+    {
+     "w": "The",
+     "t": 7.304
+    },
+    {
+     "w": "message",
+     "t": 7.434
+    },
+    {
+     "w": "Always",
+     "t": 8.259
+    },
+    {
+     "w": "there",
+     "t": 8.66
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Consistency isn't how you look. It's the place you hold in people's minds: one message, again and again, until you're sick of it and the public remembers.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "c",
+     "pose": "present"
+    },
+    {
+     "id": "e1",
+     "look": "exec",
+     "v": 1,
+     "at": "table",
+     "expr": "dazed"
+    },
+    {
+     "id": "e2",
+     "look": "exec_f",
+     "v": 5,
+     "at": "table2",
+     "expr": "dazed"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "again",
+     "pose": "up",
+     "expr": "grin",
+     "at": 5.618
+    },
+    {
+     "who": "e1",
+     "cue": "sick",
+     "expr": "pained",
+     "at": 7.269
+    },
+    {
+     "who": "host",
+     "cue": "remembers",
+     "pose": "cheer",
+     "expr": "laugh",
+     "at": 8.33
+    }
+   ],
+   "fx": [
+    {
+     "kind": "brain",
+     "who": "host",
+     "cue": "minds",
+     "at": 3.991
+    },
+    {
+     "kind": "zzz",
+     "who": "e1",
+     "cue": "sick",
+     "at": 7.269
+    },
+    {
+     "kind": "tick",
+     "who": "host",
+     "cue": "remembers",
+     "at": 8.33
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "host",
+     "at": 0.2
+    },
+    {
+     "cue": "again",
+     "shot": "wide",
+     "at": 5.618
+    },
+    {
+     "cue": "remembers",
+     "shot": "close",
+     "at": 8.33
+    }
+   ],
+   "audio": "audio/w6-12.mp3",
+   "leadIn": 0.45,
+   "seconds": 9.834,
+   "words": [
+    {
+     "w": "Consistency",
+     "t": 0.5
+    },
+    {
+     "w": "isn't",
+     "t": 1.349
+    },
+    {
+     "w": "how",
+     "t": 1.656
+    },
+    {
+     "w": "you",
+     "t": 1.821
+    },
+    {
+     "w": "look",
+     "t": 1.939
+    },
+    {
+     "w": "It's",
+     "t": 2.623
+    },
+    {
+     "w": "the",
+     "t": 2.823
+    },
+    {
+     "w": "place",
+     "t": 2.906
+    },
+    {
+     "w": "you",
+     "t": 3.236
+    },
+    {
+     "w": "hold",
+     "t": 3.318
+    },
+    {
+     "w": "in",
+     "t": 3.578
+    },
+    {
+     "w": "people's",
+     "t": 3.66
+    },
+    {
+     "w": "minds",
+     "t": 3.991
+    },
+    {
+     "w": "one",
+     "t": 4.734
+    },
+    {
+     "w": "message",
+     "t": 4.993
+    },
+    {
+     "w": "again",
+     "t": 5.618
+    },
+    {
+     "w": "and",
+     "t": 6.019
+    },
+    {
+     "w": "again",
+     "t": 6.149
+    },
+    {
+     "w": "until",
+     "t": 6.844
+    },
+    {
+     "w": "you're",
+     "t": 7.151
+    },
+    {
+     "w": "sick",
+     "t": 7.269
+    },
+    {
+     "w": "of",
+     "t": 7.516
+    },
+    {
+     "w": "it",
+     "t": 7.599
+    },
+    {
+     "w": "and",
+     "t": 7.764
+    },
+    {
+     "w": "the",
+     "t": 7.906
+    },
+    {
+     "w": "public",
+     "t": 7.976
+    },
+    {
+     "w": "remembers",
+     "t": 8.33
+    }
+   ]
+  },
+  {
+   "set": "home",
+   "say": "Earned media was key, with ambassadors matched to the moment. From 2020 to 2024, broadcast share of voice rose from twenty to fifty five percent, and news mentions rose two hundred and seventy percent.",
+   "board": {
+    "title": "Share of **broadcast voice**",
+    "bars": [
+     {
+      "label": "2020",
+      "value": 20,
+      "display": "20%",
+      "cue": "twenty",
+      "at": 7.552
+     },
+     {
+      "label": "2024",
+      "value": 55,
+      "display": "55%",
+      "cue": "fifty",
+      "at": 7.87
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "tv",
+     "pose": "point"
+    },
+    {
+     "id": "a",
+     "look": "elder",
+     "v": 4,
+     "at": "sofa",
+     "mode": "sit"
+    },
+    {
+     "id": "b",
+     "look": "shopper",
+     "v": 7,
+     "at": "sofa2",
+     "mode": "sit"
+    }
+   ],
+   "acts": [
+    {
+     "who": "a",
+     "cue": "ambassadors",
+     "expr": "smile",
+     "at": 2.186
+    },
+    {
+     "who": "b",
+     "cue": "news",
+     "expr": "grin",
+     "pose": "up",
+     "at": 9.262
+    }
+   ],
+   "fx": [
+    {
+     "kind": "eye",
+     "who": "a",
+     "cue": "ambassadors",
+     "at": 2.186
+    },
+    {
+     "kind": "chart",
+     "who": "host",
+     "cue": "fifty",
+     "at": 7.87
+    },
+    {
+     "kind": "exclaim",
+     "who": "b",
+     "cue": "news",
+     "at": 9.262
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "broadcast",
+     "shot": "board",
+     "at": 5.984
+    },
+    {
+     "cue": "news",
+     "shot": "actor",
+     "who": "b",
+     "at": 9.262
+    }
+   ],
+   "audio": "audio/w6-13.mp3",
+   "leadIn": 0.45,
+   "seconds": 12.306,
+   "words": [
+    {
+     "w": "Earned",
+     "t": 0.5
+    },
+    {
+     "w": "media",
+     "t": 0.807
+    },
+    {
+     "w": "was",
+     "t": 1.184
+    },
+    {
+     "w": "key",
+     "t": 1.337
+    },
+    {
+     "w": "with",
+     "t": 2.033
+    },
+    {
+     "w": "ambassadors",
+     "t": 2.186
+    },
+    {
+     "w": "matched",
+     "t": 2.835
+    },
+    {
+     "w": "to",
+     "t": 3.165
+    },
+    {
+     "w": "the",
+     "t": 3.236
+    },
+    {
+     "w": "moment",
+     "t": 3.295
+    },
+    {
+     "w": "From 2020 to 2024",
+     "t": 4.061
+    },
+    {
+     "w": "broadcast",
+     "t": 5.984
+    },
+    {
+     "w": "share",
+     "t": 6.502
+    },
+    {
+     "w": "of",
+     "t": 6.726
+    },
+    {
+     "w": "voice",
+     "t": 6.797
+    },
+    {
+     "w": "rose",
+     "t": 7.116
+    },
+    {
+     "w": "from",
+     "t": 7.387
+    },
+    {
+     "w": "twenty",
+     "t": 7.552
+    },
+    {
+     "w": "to",
+     "t": 7.8
+    },
+    {
+     "w": "fifty",
+     "t": 7.87
+    },
+    {
+     "w": "five",
+     "t": 8.118
+    },
+    {
+     "w": "percent",
+     "t": 8.342
+    },
+    {
+     "w": "and",
+     "t": 9.12
+    },
+    {
+     "w": "news",
+     "t": 9.262
+    },
+    {
+     "w": "mentions",
+     "t": 9.521
+    },
+    {
+     "w": "rose",
+     "t": 9.946
+    },
+    {
+     "w": "two",
+     "t": 10.217
+    },
+    {
+     "w": "hundred",
+     "t": 10.417
+    },
+    {
+     "w": "and",
+     "t": 10.606
+    },
+    {
+     "w": "seventy",
+     "t": 10.641
+    },
+    {
+     "w": "percent",
+     "t": 10.913
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "It was a whole of organisation job. The team moved from generalists to experts, and scrapped the digital marketing team so everyone could do digital.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "front",
+     "pose": "present"
+    },
+    {
+     "id": "a",
+     "look": "worker",
+     "v": 2,
+     "at": "r",
+     "hold": "laptop",
+     "pose": "hold"
+    },
+    {
+     "id": "b",
+     "look": "exec_f",
+     "v": 6,
+     "at": "desk2",
+     "mode": "sit",
+     "hold": "laptop",
+     "pose": "hold"
+    },
+    {
+     "id": "c",
+     "look": "student",
+     "v": 1,
+     "at": "walkL",
+     "to": "l",
+     "walkCue": "experts",
+     "hold": "phone",
+     "pose": "hold",
+     "walkAt": 4.45
+    }
+   ],
+   "acts": [
+    {
+     "who": "a",
+     "cue": "experts",
+     "expr": "smile",
+     "at": 4.45
+    },
+    {
+     "who": "c",
+     "cue": "everyone",
+     "pose": "cheer",
+     "expr": "grin",
+     "at": 7.08
+    }
+   ],
+   "fx": [
+    {
+     "kind": "brain",
+     "who": "a",
+     "cue": "experts",
+     "at": 4.45
+    },
+    {
+     "kind": "sparkle",
+     "who": "c",
+     "cue": "digital",
+     "at": 5.842
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "experts",
+     "shot": "actor",
+     "who": "a",
+     "at": 4.45
+    },
+    {
+     "cue": "everyone",
+     "shot": "actor",
+     "who": "c",
+     "at": 7.08
+    }
+   ],
+   "audio": "audio/w6-14.mp3",
+   "leadIn": 0.45,
+   "seconds": 9.258,
+   "words": [
+    {
+     "w": "It",
+     "t": 0.5
+    },
+    {
+     "w": "was",
+     "t": 0.677
+    },
+    {
+     "w": "a",
+     "t": 0.818
+    },
+    {
+     "w": "whole",
+     "t": 0.877
+    },
+    {
+     "w": "of",
+     "t": 1.196
+    },
+    {
+     "w": "organisation",
+     "t": 1.408
+    },
+    {
+     "w": "job",
+     "t": 2.163
+    },
+    {
+     "w": "The",
+     "t": 2.835
+    },
+    {
+     "w": "team",
+     "t": 2.976
+    },
+    {
+     "w": "moved",
+     "t": 3.248
+    },
+    {
+     "w": "from",
+     "t": 3.554
+    },
+    {
+     "w": "generalists",
+     "t": 3.743
+    },
+    {
+     "w": "to",
+     "t": 4.321
+    },
+    {
+     "w": "experts",
+     "t": 4.45
+    },
+    {
+     "w": "and",
+     "t": 5.288
+    },
+    {
+     "w": "scrapped",
+     "t": 5.429
+    },
+    {
+     "w": "the",
+     "t": 5.771
+    },
+    {
+     "w": "digital",
+     "t": 5.842
+    },
+    {
+     "w": "marketing",
+     "t": 6.196
+    },
+    {
+     "w": "team",
+     "t": 6.609
+    },
+    {
+     "w": "so",
+     "t": 6.868
+    },
+    {
+     "w": "everyone",
+     "t": 7.08
+    },
+    {
+     "w": "could",
+     "t": 7.575
+    },
+    {
+     "w": "do",
+     "t": 7.752
+    },
+    {
+     "w": "digital",
+     "t": 7.87
+    }
+   ]
+  },
+  {
+   "set": "stage",
+   "say": "Did it work? Ad awareness and share of voice lift unprompted awareness, then donation intent, then market share. Top of mind tracked alongside revenue growth.",
+   "board": {
+    "title": "The **measurement chain**",
+    "steps": [
+     {
+      "text": "**Ad awareness** and share of voice",
+      "cue": "ad",
+      "at": 1.573
+     },
+     {
+      "text": "**Unprompted** awareness",
+      "cue": "unprompted",
+      "at": 3.283
+     },
+     {
+      "text": "**Donation** intent",
+      "cue": "donation",
+      "at": 4.745
+     },
+     {
+      "text": "**Market share**",
+      "cue": "market",
+      "at": 5.995
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "revenue",
+     "pose": "cheer",
+     "expr": "grin",
+     "at": 8.778
+    }
+   ],
+   "fx": [
+    {
+     "kind": "question",
+     "who": "host",
+     "cue": "work",
+     "at": 0.795
+    },
+    {
+     "kind": "money",
+     "who": "host",
+     "cue": "revenue",
+     "at": 8.778
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "host",
+     "at": 0.2
+    },
+    {
+     "cue": "ad",
+     "shot": "board",
+     "at": 1.573
+    },
+    {
+     "cue": "revenue",
+     "shot": "close",
+     "at": 8.778
+    }
+   ],
+   "audio": "audio/w6-15.mp3",
+   "leadIn": 0.45,
+   "seconds": 10.482,
+   "words": [
+    {
+     "w": "Did",
+     "t": 0.5
+    },
+    {
+     "w": "it",
+     "t": 0.689
+    },
+    {
+     "w": "work",
+     "t": 0.795
+    },
+    {
+     "w": "Ad",
+     "t": 1.573
+    },
+    {
+     "w": "awareness",
+     "t": 1.762
+    },
+    {
+     "w": "and",
+     "t": 2.198
+    },
+    {
+     "w": "share",
+     "t": 2.304
+    },
+    {
+     "w": "of",
+     "t": 2.599
+    },
+    {
+     "w": "voice",
+     "t": 2.682
+    },
+    {
+     "w": "lift",
+     "t": 3.035
+    },
+    {
+     "w": "unprompted",
+     "t": 3.283
+    },
+    {
+     "w": "awareness",
+     "t": 3.743
+    },
+    {
+     "w": "then",
+     "t": 4.545
+    },
+    {
+     "w": "donation",
+     "t": 4.745
+    },
+    {
+     "w": "intent",
+     "t": 5.205
+    },
+    {
+     "w": "then",
+     "t": 5.818
+    },
+    {
+     "w": "market",
+     "t": 5.995
+    },
+    {
+     "w": "share",
+     "t": 6.337
+    },
+    {
+     "w": "Top",
+     "t": 7.033
+    },
+    {
+     "w": "of",
+     "t": 7.281
+    },
+    {
+     "w": "mind",
+     "t": 7.387
+    },
+    {
+     "w": "tracked",
+     "t": 7.87
+    },
+    {
+     "w": "alongside",
+     "t": 8.165
+    },
+    {
+     "w": "revenue",
+     "t": 8.778
+    },
+    {
+     "w": "growth",
+     "t": 9.12
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "After 2024 metrics dipped, but there's no tired brand, just a bored brand manager. Always there became Let's be there. And climate change fits, because it's changing childhood.",
+   "board": {
+    "title": "Evolution, **not revolution**",
+    "vs": {
+     "left": "Always there",
+     "right": "Let's be there",
+     "leftItems": [
+      "States what UNICEF does",
+      "Crisis framing"
+     ],
+     "rightItems": [
+      "Invites people in",
+      "More hopeful"
+     ],
+     "cue": "became",
+     "at": 6.314
+    }
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "bm",
+     "look": "exec",
+     "v": 7,
+     "at": "table",
+     "expr": "dazed"
+    }
+   ],
+   "acts": [
+    {
+     "who": "bm",
+     "cue": "bored",
+     "expr": "nervous",
+     "at": 4.25
+    },
+    {
+     "who": "host",
+     "cue": "childhood",
+     "pose": "cheer",
+     "expr": "grin",
+     "at": 10.158
+    }
+   ],
+   "fx": [
+    {
+     "kind": "zzz",
+     "who": "bm",
+     "cue": "tired",
+     "at": 2.976
+    },
+    {
+     "kind": "heart",
+     "who": "host",
+     "cue": "childhood",
+     "at": 10.158
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "bored",
+     "shot": "close",
+     "who": "bm",
+     "at": 4.25
+    },
+    {
+     "cue": "became",
+     "shot": "board",
+     "at": 6.314
+    }
+   ],
+   "audio": "audio/w6-16.mp3",
+   "leadIn": 0.45,
+   "seconds": 11.682,
+   "words": [
+    {
+     "w": "After 2024",
+     "t": 0.5
+    },
+    {
+     "w": "metrics",
+     "t": 1.432
+    },
+    {
+     "w": "dipped",
+     "t": 1.833
+    },
+    {
+     "w": "but",
+     "t": 2.458
+    },
+    {
+     "w": "there's",
+     "t": 2.587
+    },
+    {
+     "w": "no",
+     "t": 2.776
+    },
+    {
+     "w": "tired",
+     "t": 2.976
+    },
+    {
+     "w": "brand",
+     "t": 3.295
+    },
+    {
+     "w": "just",
+     "t": 3.955
+    },
+    {
+     "w": "a",
+     "t": 4.203
+    },
+    {
+     "w": "bored",
+     "t": 4.25
+    },
+    {
+     "w": "brand",
+     "t": 4.627
+    },
+    {
+     "w": "manager",
+     "t": 4.875
+    },
+    {
+     "w": "Always",
+     "t": 5.689
+    },
+    {
+     "w": "there",
+     "t": 6.172
+    },
+    {
+     "w": "became",
+     "t": 6.314
+    },
+    {
+     "w": "Let's",
+     "t": 6.715
+    },
+    {
+     "w": "be",
+     "t": 6.962
+    },
+    {
+     "w": "there",
+     "t": 7.092
+    },
+    {
+     "w": "And",
+     "t": 7.764
+    },
+    {
+     "w": "climate",
+     "t": 7.965
+    },
+    {
+     "w": "change",
+     "t": 8.33
+    },
+    {
+     "w": "fits",
+     "t": 8.649
+    },
+    {
+     "w": "because",
+     "t": 9.309
+    },
+    {
+     "w": "it's",
+     "t": 9.604
+    },
+    {
+     "w": "changing",
+     "t": 9.757
+    },
+    {
+     "w": "childhood",
+     "t": 10.158
+    }
+   ]
+  },
+  {
+   "set": "stage",
+   "say": "The lessons: it's a whole of organisation task, stay the course, measure everything, skilled people matter, and trust the data but still take risks. That's week six.",
+   "board": {
+    "title": "Lessons **learned**",
+    "steps": [
+     {
+      "text": "**Whole of organisation**",
+      "cue": "whole",
+      "at": 1.62
+     },
+     {
+      "text": "**Stay the course**",
+      "cue": "stay",
+      "at": 3.177
+     },
+     {
+      "text": "**Measure** everything",
+      "cue": "measure",
+      "at": 4.25
+     },
+     {
+      "text": "**Skilled people** matter",
+      "cue": "skilled",
+      "at": 5.323
+     },
+     {
+      "text": "Trust data, **take risks**",
+      "cue": "trust",
+      "at": 6.726
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "a",
+     "look": "student",
+     "v": 2,
+     "at": "aisle"
+    },
+    {
+     "id": "b",
+     "look": "student",
+     "v": 5,
+     "at": "aisle2"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "week",
+     "pose": "cheer",
+     "expr": "grin",
+     "at": 9.191
+    }
+   ],
+   "fx": [
+    {
+     "kind": "stars",
+     "who": "host",
+     "cue": "week",
+     "at": 9.191
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "week",
+     "shot": "close",
+     "at": 9.191
+    }
+   ],
+   "audio": "audio/w6-17.mp3",
+   "leadIn": 0.45,
+   "seconds": 10.818,
+   "words": [
+    {
+     "w": "The",
+     "t": 0.5
+    },
+    {
+     "w": "lessons",
+     "t": 0.63
+    },
+    {
+     "w": "it's",
+     "t": 1.443
+    },
+    {
+     "w": "a",
+     "t": 1.573
+    },
+    {
+     "w": "whole",
+     "t": 1.62
+    },
+    {
+     "w": "of",
+     "t": 1.833
+    },
+    {
+     "w": "organisation",
+     "t": 1.915
+    },
+    {
+     "w": "task",
+     "t": 2.611
+    },
+    {
+     "w": "stay",
+     "t": 3.177
+    },
+    {
+     "w": "the",
+     "t": 3.484
+    },
+    {
+     "w": "course",
+     "t": 3.566
+    },
+    {
+     "w": "measure",
+     "t": 4.25
+    },
+    {
+     "w": "everything",
+     "t": 4.616
+    },
+    {
+     "w": "skilled",
+     "t": 5.323
+    },
+    {
+     "w": "people",
+     "t": 5.736
+    },
+    {
+     "w": "matter",
+     "t": 5.995
+    },
+    {
+     "w": "and",
+     "t": 6.585
+    },
+    {
+     "w": "trust",
+     "t": 6.726
+    },
+    {
+     "w": "the",
+     "t": 6.998
+    },
+    {
+     "w": "data",
+     "t": 7.068
+    },
+    {
+     "w": "but",
+     "t": 7.422
+    },
+    {
+     "w": "still",
+     "t": 7.575
+    },
+    {
+     "w": "take",
+     "t": 7.835
+    },
+    {
+     "w": "risks",
+     "t": 8.059
+    },
+    {
+     "w": "That's",
+     "t": 8.825
+    },
+    {
+     "w": "week",
+     "t": 9.191
+    },
+    {
+     "w": "six",
+     "t": 9.415
+    }
+   ]
+  }
+ ],
+ "id": "w6",
+ "total": 191.5
+}

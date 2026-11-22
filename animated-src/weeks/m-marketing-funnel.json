@@ -1,0 +1,284 @@
+{
+ "week": 0,
+ "title": "The marketing funnel (with reach and frequency)",
+ "speaker": "Andrew Baxter, Week 8; Libby Hogson, Week 6; Nicky Barton, Week 12",
+ "beats": [
+  {
+   "set": "office",
+   "say": "The marketing funnel moves buyers from awareness and knowledge, to liking and preference, to conviction and purchase.",
+   "board": {
+    "title": "The marketing **funnel**",
+    "steps": [
+     {
+      "text": "**Awareness** and knowledge",
+      "cue": "awareness"
+     },
+     {
+      "text": "**Liking** and preference",
+      "cue": "liking"
+     },
+     {
+      "text": "**Conviction** and purchase",
+      "cue": "conviction"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "e1",
+     "look": "exec",
+     "at": "table",
+     "v": 3
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "awareness",
+     "pose": "point"
+    },
+    {
+     "who": "e1",
+     "cue": "purchase",
+     "pose": "chin",
+     "expr": "smile"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "liking",
+     "shot": "two",
+     "who": "e1"
+    },
+    {
+     "cue": "conviction",
+     "shot": "board"
+    }
+   ]
+  },
+  {
+   "set": "plaza",
+   "say": "A shopper notices a new juice on the big screen. Next visit, she prefers it to the others. Then she grabs one and buys.",
+   "board": {
+    "title": "**New!** Fresh juice",
+    "lines": [
+     {
+      "text": "Now at **Daily Fresh**",
+      "cue": "notices"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "c"
+    },
+    {
+     "id": "s1",
+     "look": "shopper",
+     "at": "front",
+     "v": 1
+    }
+   ],
+   "acts": [
+    {
+     "who": "s1",
+     "cue": "notices",
+     "pose": "point",
+     "expr": "smile"
+    },
+    {
+     "who": "s1",
+     "cue": "prefers",
+     "pose": "chin",
+     "expr": "grin"
+    },
+    {
+     "who": "s1",
+     "cue": "grabs",
+     "pose": "none",
+     "to": "shelf"
+    },
+    {
+     "who": "s1",
+     "cue": "buys",
+     "pose": "cheer",
+     "expr": "laugh"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "eye",
+     "who": "s1",
+     "cue": "notices"
+    },
+    {
+     "kind": "heart",
+     "who": "s1",
+     "cue": "prefers"
+    },
+    {
+     "kind": "money",
+     "who": "s1",
+     "cue": "buys"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "prefers",
+     "shot": "actor",
+     "who": "s1"
+    },
+    {
+     "cue": "buys",
+     "shot": "actor",
+     "who": "s1"
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Baxter's media rule: reach about sixty-five percent of the audience at least three times. One exposure isn't enough.",
+   "board": {
+    "title": "Reach and **frequency**",
+    "big": "65% x 3+",
+    "caption": "of the audience, **three times** or more",
+    "cue": "sixty"
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "point"
+    },
+    {
+     "id": "e1",
+     "look": "exec_f",
+     "at": "table",
+     "v": 4,
+     "hold": "laptop",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "e1",
+     "cue": "enough",
+     "pose": "none",
+     "expr": "nervous"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "exclaim",
+     "who": "e1",
+     "cue": "enough"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "enough",
+     "shot": "actor",
+     "who": "e1"
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "UNICEF spent ninety-five percent at the bottom and starved the top. So set an objective for every stage, and keep the top full.",
+   "board": {
+    "title": "Don't **starve the top**",
+    "bars": [
+     {
+      "label": "Bottom",
+      "value": 95,
+      "display": "95%",
+      "cue": "ninety"
+     },
+     {
+      "label": "Top",
+      "value": 5,
+      "display": "5%",
+      "cue": "starved"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "e1",
+     "look": "exec",
+     "at": "table",
+     "v": 2
+    }
+   ],
+   "acts": [
+    {
+     "who": "e1",
+     "cue": "starved",
+     "pose": "none",
+     "expr": "shock"
+    },
+    {
+     "who": "host",
+     "cue": "full",
+     "pose": "up",
+     "expr": "grin"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "cross",
+     "who": "e1",
+     "cue": "starved"
+    },
+    {
+     "kind": "tick",
+     "who": "host",
+     "cue": "full"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "starved",
+     "shot": "actor",
+     "who": "e1"
+    },
+    {
+     "cue": "objective",
+     "shot": "board"
+    }
+   ],
+   "hold": 1.0
+  }
+ ]
+}

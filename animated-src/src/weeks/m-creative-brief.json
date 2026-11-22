@@ -1,0 +1,750 @@
+{
+ "week": 0,
+ "title": "The creative brief (Kraft Easy Mac)",
+ "speaker": "Andrew Baxter, Australian Pork Limited, Week 8",
+ "beats": [
+  {
+   "set": "stage",
+   "say": "The creative brief is a set of questions, answered in order. What's the problem? Who's the audience, and what's the insight? What's different? What's the one thing to say? And why should anyone believe it?",
+   "board": {
+    "title": "The **creative brief**",
+    "steps": [
+     {
+      "text": "**Problem**: what must ads solve",
+      "cue": "problem",
+      "at": 4.521
+     },
+     {
+      "text": "**Audience** and insight",
+      "cue": "audience",
+      "at": 5.889
+     },
+     {
+      "text": "**Difference**: what's unique",
+      "cue": "different",
+      "at": 8.472
+     },
+     {
+      "text": "**One thing** to say",
+      "cue": "one",
+      "at": 9.828
+     },
+     {
+      "text": "**Reason to believe**, and tone",
+      "cue": "believe",
+      "at": 12.316
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "a",
+     "look": "student",
+     "v": 3,
+     "at": "r"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "problem",
+     "pose": "point",
+     "at": 4.521
+    },
+    {
+     "who": "a",
+     "cue": "believe",
+     "pose": "chin",
+     "at": 12.316
+    }
+   ],
+   "fx": [
+    {
+     "kind": "question",
+     "who": "a",
+     "cue": "believe",
+     "at": 12.316
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "creative",
+     "shot": "board",
+     "at": 0.665
+    },
+    {
+     "cue": "believe",
+     "shot": "actor",
+     "who": "a",
+     "at": 12.316
+    }
+   ],
+   "audio": "audio/m-creative-brief-00.mp3",
+   "leadIn": 0.45,
+   "seconds": 13.818,
+   "words": [
+    {
+     "w": "The",
+     "t": 0.5
+    },
+    {
+     "w": "creative",
+     "t": 0.665
+    },
+    {
+     "w": "brief",
+     "t": 1.137
+    },
+    {
+     "w": "is",
+     "t": 1.514
+    },
+    {
+     "w": "a",
+     "t": 1.656
+    },
+    {
+     "w": "set",
+     "t": 1.703
+    },
+    {
+     "w": "of",
+     "t": 1.915
+    },
+    {
+     "w": "questions",
+     "t": 2.009
+    },
+    {
+     "w": "answered",
+     "t": 2.823
+    },
+    {
+     "w": "in",
+     "t": 3.165
+    },
+    {
+     "w": "order",
+     "t": 3.271
+    },
+    {
+     "w": "What's",
+     "t": 3.991
+    },
+    {
+     "w": "the",
+     "t": 4.415
+    },
+    {
+     "w": "problem",
+     "t": 4.521
+    },
+    {
+     "w": "Who's",
+     "t": 5.394
+    },
+    {
+     "w": "the",
+     "t": 5.724
+    },
+    {
+     "w": "audience",
+     "t": 5.889
+    },
+    {
+     "w": "and",
+     "t": 6.644
+    },
+    {
+     "w": "what's",
+     "t": 6.809
+    },
+    {
+     "w": "the",
+     "t": 7.08
+    },
+    {
+     "w": "insight",
+     "t": 7.234
+    },
+    {
+     "w": "What's",
+     "t": 8.059
+    },
+    {
+     "w": "different",
+     "t": 8.472
+    },
+    {
+     "w": "What's",
+     "t": 9.333
+    },
+    {
+     "w": "the",
+     "t": 9.722
+    },
+    {
+     "w": "one",
+     "t": 9.828
+    },
+    {
+     "w": "thing",
+     "t": 10.099
+    },
+    {
+     "w": "to",
+     "t": 10.311
+    },
+    {
+     "w": "say",
+     "t": 10.382
+    },
+    {
+     "w": "And",
+     "t": 11.149
+    },
+    {
+     "w": "why",
+     "t": 11.361
+    },
+    {
+     "w": "should",
+     "t": 11.632
+    },
+    {
+     "w": "anyone",
+     "t": 11.974
+    },
+    {
+     "w": "believe",
+     "t": 12.316
+    },
+    {
+     "w": "it",
+     "t": 12.646
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Take Kraft's Easy Mac. The brief targets mums, for teenage boys who get home starving. The one thing to say: it fills them up, fast.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "l",
+     "pose": "none"
+    },
+    {
+     "id": "m",
+     "look": "exec_f",
+     "v": 2,
+     "at": "table",
+     "hold": "clipboard",
+     "pose": "hold"
+    },
+    {
+     "id": "k",
+     "look": "kid",
+     "v": 4,
+     "at": "walkR",
+     "to": "r",
+     "walkCue": "boys",
+     "walkAt": 4.285
+    }
+   ],
+   "acts": [
+    {
+     "who": "k",
+     "cue": "starving",
+     "pose": "chin",
+     "expr": "pained",
+     "at": 5.052
+    },
+    {
+     "who": "m",
+     "cue": "fills",
+     "pose": "cheer",
+     "expr": "grin",
+     "at": 7.328
+    }
+   ],
+   "fx": [
+    {
+     "kind": "think",
+     "who": "k",
+     "cue": "starving",
+     "text": "So hungry!",
+     "at": 5.052
+    },
+    {
+     "kind": "bulb",
+     "who": "m",
+     "cue": "fast",
+     "at": 8.13
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "boys",
+     "shot": "actor",
+     "who": "k",
+     "at": 4.285
+    },
+    {
+     "cue": "fills",
+     "shot": "two",
+     "who": "m",
+     "at": 7.328
+    }
+   ],
+   "audio": "audio/m-creative-brief-01.mp3",
+   "leadIn": 0.45,
+   "seconds": 9.666,
+   "words": [
+    {
+     "w": "Take",
+     "t": 0.5
+    },
+    {
+     "w": "Kraft's",
+     "t": 0.807
+    },
+    {
+     "w": "Easy",
+     "t": 1.325
+    },
+    {
+     "w": "Mac",
+     "t": 1.597
+    },
+    {
+     "w": "The",
+     "t": 2.304
+    },
+    {
+     "w": "brief",
+     "t": 2.446
+    },
+    {
+     "w": "targets",
+     "t": 2.741
+    },
+    {
+     "w": "mums",
+     "t": 3.13
+    },
+    {
+     "w": "for",
+     "t": 3.719
+    },
+    {
+     "w": "teenage",
+     "t": 3.849
+    },
+    {
+     "w": "boys",
+     "t": 4.285
+    },
+    {
+     "w": "who",
+     "t": 4.627
+    },
+    {
+     "w": "get",
+     "t": 4.71
+    },
+    {
+     "w": "home",
+     "t": 4.84
+    },
+    {
+     "w": "starving",
+     "t": 5.052
+    },
+    {
+     "w": "The",
+     "t": 5.901
+    },
+    {
+     "w": "one",
+     "t": 6.054
+    },
+    {
+     "w": "thing",
+     "t": 6.29
+    },
+    {
+     "w": "to",
+     "t": 6.467
+    },
+    {
+     "w": "say",
+     "t": 6.538
+    },
+    {
+     "w": "it",
+     "t": 7.186
+    },
+    {
+     "w": "fills",
+     "t": 7.328
+    },
+    {
+     "w": "them",
+     "t": 7.658
+    },
+    {
+     "w": "up",
+     "t": 7.788
+    },
+    {
+     "w": "fast",
+     "t": 8.13
+    }
+   ]
+  },
+  {
+   "set": "home",
+   "say": "The line was kill hunger fast. The client balked at the word kill, so it became the hunger blaster.",
+   "board": {
+    "title": "The **hunger blaster**",
+    "lines": [
+     {
+      "text": "Kill hunger fast? **No.**",
+      "cue": "balked",
+      "at": 3.165
+     },
+     {
+      "text": "Hunger **blaster**",
+      "cue": "blaster",
+      "at": 5.547
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "r",
+     "pose": "none"
+    },
+    {
+     "id": "k",
+     "look": "kid",
+     "v": 4,
+     "at": "sofa",
+     "mode": "sit"
+    },
+    {
+     "id": "m",
+     "look": "shopper",
+     "v": 1,
+     "at": "sofa2",
+     "mode": "sit"
+    }
+   ],
+   "acts": [
+    {
+     "who": "m",
+     "cue": "balked",
+     "expr": "stern",
+     "at": 3.165
+    },
+    {
+     "who": "k",
+     "cue": "blaster",
+     "pose": "cheer",
+     "expr": "laugh",
+     "at": 5.547
+    }
+   ],
+   "fx": [
+    {
+     "kind": "cross",
+     "who": "m",
+     "cue": "balked",
+     "at": 3.165
+    },
+    {
+     "kind": "stars",
+     "who": "k",
+     "cue": "blaster",
+     "at": 5.547
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "balked",
+     "shot": "close",
+     "who": "m",
+     "at": 3.165
+    },
+    {
+     "cue": "blaster",
+     "shot": "board",
+     "at": 5.547
+    }
+   ],
+   "audio": "audio/m-creative-brief-02.mp3",
+   "leadIn": 0.45,
+   "seconds": 7.002,
+   "words": [
+    {
+     "w": "The",
+     "t": 0.5
+    },
+    {
+     "w": "line",
+     "t": 0.63
+    },
+    {
+     "w": "was",
+     "t": 1.007
+    },
+    {
+     "w": "kill",
+     "t": 1.208
+    },
+    {
+     "w": "hunger",
+     "t": 1.502
+    },
+    {
+     "w": "fast",
+     "t": 1.762
+    },
+    {
+     "w": "The",
+     "t": 2.623
+    },
+    {
+     "w": "client",
+     "t": 2.764
+    },
+    {
+     "w": "balked",
+     "t": 3.165
+    },
+    {
+     "w": "at",
+     "t": 3.472
+    },
+    {
+     "w": "the",
+     "t": 3.542
+    },
+    {
+     "w": "word",
+     "t": 3.601
+    },
+    {
+     "w": "kill",
+     "t": 3.849
+    },
+    {
+     "w": "so",
+     "t": 4.557
+    },
+    {
+     "w": "it",
+     "t": 4.781
+    },
+    {
+     "w": "became",
+     "t": 4.84
+    },
+    {
+     "w": "the",
+     "t": 5.229
+    },
+    {
+     "w": "hunger",
+     "t": 5.3
+    },
+    {
+     "w": "blaster",
+     "t": 5.547
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Use it like this: one line per answer, ending in one message and one reason to believe, both tied to the insight.",
+   "board": {
+    "title": "Use it like **this**",
+    "lines": [
+     {
+      "text": "One line per **answer**",
+      "cue": "answer",
+      "at": 2.399
+     },
+     {
+      "text": "One **message**",
+      "cue": "message",
+      "at": 3.649
+     },
+     {
+      "text": "Tied to the **insight**",
+      "cue": "insight",
+      "at": 6.302
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "point"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "insight",
+     "pose": "cheer",
+     "expr": "grin",
+     "at": 6.302
+    }
+   ],
+   "fx": [
+    {
+     "kind": "tick",
+     "who": "host",
+     "cue": "insight",
+     "at": 6.302
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "insight",
+     "shot": "close",
+     "at": 6.302
+    }
+   ],
+   "hold": 1.0,
+   "audio": "audio/m-creative-brief-03.mp3",
+   "leadIn": 0.45,
+   "seconds": 8.122,
+   "words": [
+    {
+     "w": "Use",
+     "t": 0.5
+    },
+    {
+     "w": "it",
+     "t": 0.807
+    },
+    {
+     "w": "like",
+     "t": 0.877
+    },
+    {
+     "w": "this",
+     "t": 1.09
+    },
+    {
+     "w": "one",
+     "t": 1.726
+    },
+    {
+     "w": "line",
+     "t": 1.998
+    },
+    {
+     "w": "per",
+     "t": 2.234
+    },
+    {
+     "w": "answer",
+     "t": 2.399
+    },
+    {
+     "w": "ending",
+     "t": 3.083
+    },
+    {
+     "w": "in",
+     "t": 3.354
+    },
+    {
+     "w": "one",
+     "t": 3.46
+    },
+    {
+     "w": "message",
+     "t": 3.649
+    },
+    {
+     "w": "and",
+     "t": 4.038
+    },
+    {
+     "w": "one",
+     "t": 4.226
+    },
+    {
+     "w": "reason",
+     "t": 4.462
+    },
+    {
+     "w": "to",
+     "t": 4.769
+    },
+    {
+     "w": "believe",
+     "t": 4.84
+    },
+    {
+     "w": "both",
+     "t": 5.594
+    },
+    {
+     "w": "tied",
+     "t": 5.83
+    },
+    {
+     "w": "to",
+     "t": 6.113
+    },
+    {
+     "w": "the",
+     "t": 6.172
+    },
+    {
+     "w": "insight",
+     "t": 6.302
+    }
+   ]
+  }
+ ],
+ "id": "m-creative-brief",
+ "total": 38.63
+}

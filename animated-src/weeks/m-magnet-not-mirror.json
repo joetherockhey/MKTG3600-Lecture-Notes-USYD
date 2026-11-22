@@ -1,0 +1,292 @@
+{
+ "week": 0,
+ "title": "A magnet, not a mirror (the mirror test)",
+ "speaker": "Brent Smart, B.Smart, Week 4",
+ "beats": [
+  {
+   "set": "stage",
+   "say": "A magnet, not a mirror. Most ads mirror the category and look like everyone else. A magnet is distinctive enough to pull people in.",
+   "board": {
+    "title": "A **magnet**, not a mirror",
+    "steps": [
+     {
+      "text": "**Mirror**: looks like everyone",
+      "cue": "category"
+     },
+     {
+      "text": "**Magnet**: distinctive",
+      "cue": "distinctive"
+     },
+     {
+      "text": "**Pulls** attention and emotion",
+      "cue": "pull"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "a",
+     "look": "student",
+     "at": "front",
+     "v": 1
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "everyone",
+     "pose": "shrug"
+    },
+    {
+     "who": "host",
+     "cue": "pull",
+     "pose": "cheer",
+     "expr": "grin"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "heart",
+     "who": "a",
+     "cue": "pull"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "everyone",
+     "shot": "close"
+    },
+    {
+     "cue": "distinctive",
+     "shot": "board"
+    }
+   ]
+  },
+  {
+   "set": "home",
+   "say": "On the TV, three ads in a row: real people being real people. The family can't tell which brand is which.",
+   "board": {
+    "title": "Real people, **being real**",
+    "lines": [
+     {
+      "text": "Which brand? **Any of them**",
+      "cue": "tell"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "l"
+    },
+    {
+     "id": "a",
+     "look": "shopper",
+     "at": "sofa",
+     "v": 1,
+     "mode": "sit"
+    },
+    {
+     "id": "b",
+     "look": "kid",
+     "at": "sofa2",
+     "v": 2,
+     "mode": "sit"
+    }
+   ],
+   "acts": [
+    {
+     "who": "a",
+     "cue": "row",
+     "expr": "dazed"
+    },
+    {
+     "who": "b",
+     "cue": "tell",
+     "pose": "shrug",
+     "expr": "nervous"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "zzz",
+     "who": "a",
+     "cue": "row"
+    },
+    {
+     "kind": "question",
+     "who": "b",
+     "cue": "tell"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "row",
+     "shot": "board"
+    },
+    {
+     "cue": "tell",
+     "shot": "actor",
+     "who": "b"
+    }
+   ]
+  },
+  {
+   "set": "street",
+   "say": "That's the mirror test. Take a still, remove the logo, and put it beside three rivals. If nobody can pick yours, it's a mirror.",
+   "board": {
+    "title": "The **mirror test**",
+    "lines": [
+     {
+      "text": "Take a still, **remove the logo**",
+      "cue": "still"
+     },
+     {
+      "text": "Beside **three** rivals",
+      "cue": "three"
+     },
+     {
+      "text": "Can't pick it? **Mirror**",
+      "cue": "nobody"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "front"
+    },
+    {
+     "id": "p1",
+     "look": "elder",
+     "at": "bus",
+     "v": 3
+    },
+    {
+     "id": "p2",
+     "look": "shopper",
+     "at": "r",
+     "v": 5
+    }
+   ],
+   "acts": [
+    {
+     "who": "p1",
+     "cue": "nobody",
+     "pose": "shrug",
+     "expr": "dazed"
+    },
+    {
+     "who": "p2",
+     "cue": "mirror",
+     "pose": "shrug",
+     "expr": "nervous"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "question",
+     "who": "p1",
+     "cue": "nobody"
+    },
+    {
+     "kind": "cross",
+     "who": "p2",
+     "cue": "mirror"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "close"
+    },
+    {
+     "cue": "Take",
+     "shot": "board"
+    },
+    {
+     "cue": "nobody",
+     "shot": "wide"
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Use it like this: run the test on the brand's ads, then pitch a distinctive direction tied to its positioning.",
+   "board": {
+    "title": "Use it like **this**",
+    "lines": [
+     {
+      "text": "Run the **mirror test**",
+      "cue": "run"
+     },
+     {
+      "text": "Pitch a **distinctive** direction",
+      "cue": "distinctive"
+     },
+     {
+      "text": "Tie it to **positioning**",
+      "cue": "positioning"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "point"
+    },
+    {
+     "id": "e1",
+     "look": "exec",
+     "at": "table",
+     "v": 2
+    }
+   ],
+   "acts": [
+    {
+     "who": "e1",
+     "cue": "positioning",
+     "pose": "cheer",
+     "expr": "grin"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "bulb",
+     "who": "e1",
+     "cue": "distinctive"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "distinctive",
+     "shot": "two",
+     "who": "e1"
+    }
+   ],
+   "hold": 1.0
+  }
+ ]
+}

@@ -1,0 +1,284 @@
+{
+ "week": 0,
+ "title": "Excess share of voice (ESOV)",
+ "speaker": "John Philip Jones, 1990; extended by Les Binet and Peter Field",
+ "beats": [
+  {
+   "set": "office",
+   "say": "Excess share of voice compares your slice of category advertising with your share of market. Voice minus market is the excess.",
+   "board": {
+    "title": "Excess **share of voice**",
+    "steps": [
+     {
+      "text": "**Share of voice** your slice of ads",
+      "cue": "slice"
+     },
+     {
+      "text": "**Share of market** your slice of sales",
+      "cue": "market"
+     },
+     {
+      "text": "**ESOV** voice minus market",
+      "cue": "minus"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "e1",
+     "look": "exec",
+     "v": 5,
+     "at": "table"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "minus",
+     "pose": "point"
+    },
+    {
+     "who": "e1",
+     "cue": "excess",
+     "pose": "chin"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "minus",
+     "shot": "close"
+    },
+    {
+     "cue": "excess",
+     "shot": "board"
+    }
+   ]
+  },
+  {
+   "set": "street",
+   "say": "Brands that shout louder than their size tend to grow. Every ten points of excess is worth roughly half to one point of market share a year.",
+   "board": {
+    "title": "The **rule of thumb**",
+    "big": "+10 ESOV",
+    "caption": "about **0.5 to 1** share point a year",
+    "cue": "ten"
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "l"
+    },
+    {
+     "id": "p1",
+     "look": "shopper",
+     "v": 1,
+     "at": "bus"
+    },
+    {
+     "id": "p2",
+     "look": "student",
+     "v": 3,
+     "at": "r"
+    }
+   ],
+   "acts": [
+    {
+     "who": "p1",
+     "cue": "louder",
+     "pose": "point",
+     "expr": "grin"
+    },
+    {
+     "who": "p2",
+     "cue": "grow",
+     "pose": "cheer",
+     "expr": "smile"
+    },
+    {
+     "who": "host",
+     "cue": "share",
+     "pose": "present",
+     "expr": "grin"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "eye",
+     "who": "p1",
+     "cue": "louder"
+    },
+    {
+     "kind": "chart",
+     "who": "p2",
+     "cue": "grow"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "louder",
+     "shot": "actor",
+     "who": "p1"
+    },
+    {
+     "cue": "ten",
+     "shot": "board"
+    }
+   ]
+  },
+  {
+   "set": "home",
+   "say": "UNICEF Australia lifted its broadcast share of voice from twenty to fifty-five percent, far above its share of donations, and awareness rose.",
+   "board": {
+    "title": "UNICEF **share of voice**",
+    "bars": [
+     {
+      "label": "2020",
+      "value": 20,
+      "display": "20%",
+      "cue": "twenty"
+     },
+     {
+      "label": "2024",
+      "value": 55,
+      "display": "55%",
+      "cue": "fifty"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "l"
+    },
+    {
+     "id": "a",
+     "look": "elder",
+     "v": 2,
+     "at": "sofa",
+     "mode": "sit"
+    },
+    {
+     "id": "b",
+     "look": "shopper",
+     "v": 3,
+     "at": "sofa2",
+     "mode": "sit"
+    }
+   ],
+   "acts": [
+    {
+     "who": "a",
+     "cue": "fifty",
+     "expr": "shock"
+    },
+    {
+     "who": "b",
+     "cue": "awareness",
+     "pose": "cheer",
+     "expr": "smile"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "eye",
+     "who": "a",
+     "cue": "fifty"
+    },
+    {
+     "kind": "heart",
+     "who": "b",
+     "cue": "awareness"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "twenty",
+     "shot": "board"
+    },
+    {
+     "cue": "awareness",
+     "shot": "actor",
+     "who": "b"
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Use it like this: compare share of voice with share of market, set the gap to fit your growth goal, and make the work creative.",
+   "board": {
+    "title": "Use it **like this**",
+    "lines": [
+     {
+      "text": "**Compare** voice with market",
+      "cue": "compare"
+     },
+     {
+      "text": "Set the **gap** to your goal",
+      "cue": "gap"
+     },
+     {
+      "text": "Make it **creative**",
+      "cue": "creative"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "e1",
+     "look": "exec",
+     "v": 5,
+     "at": "table"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "gap",
+     "pose": "point"
+    },
+    {
+     "who": "e1",
+     "cue": "creative",
+     "expr": "smile"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "creative",
+     "shot": "close"
+    }
+   ],
+   "hold": 1.0
+  }
+ ]
+}

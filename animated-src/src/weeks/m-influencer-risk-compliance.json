@@ -1,0 +1,684 @@
+{
+ "week": 0,
+ "title": "Influencer risk and compliance (disclosure, AIMCO, brand safety)",
+ "speaker": "Bryce Coombe, Hypetap, Week 10",
+ "beats": [
+  {
+   "set": "office",
+   "say": "With influencers, the brand carries the legal risk, not the creator. A free product counts as paid advertising, so disclose it. Know the risk types, follow the industry code, and check brand safety properly.",
+   "board": {
+    "title": "Influencer **risk**",
+    "steps": [
+     {
+      "text": "**Disclose**: gifted means paid",
+      "cue": "disclose",
+      "at": 7.316
+     },
+     {
+      "text": "**Risk types**: legal, reputation, ROI, ops",
+      "cue": "types",
+      "at": 8.873
+     },
+     {
+      "text": "**AIMCO code**: governance",
+      "cue": "code",
+      "at": 10.323
+     },
+     {
+      "text": "**Brand safety**: dig deep",
+      "cue": "safety",
+      "at": 11.608
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "e",
+     "look": "exec_f",
+     "v": 3,
+     "at": "table"
+    }
+   ],
+   "acts": [
+    {
+     "who": "e",
+     "cue": "legal",
+     "expr": "nervous",
+     "at": 2.564
+    },
+    {
+     "who": "host",
+     "cue": "safety",
+     "pose": "point",
+     "at": 11.608
+    }
+   ],
+   "fx": [
+    {
+     "kind": "exclaim",
+     "who": "e",
+     "cue": "legal",
+     "at": 2.564
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "legal",
+     "shot": "actor",
+     "who": "e",
+     "at": 2.564
+    },
+    {
+     "cue": "disclose",
+     "shot": "board",
+     "at": 7.316
+    }
+   ],
+   "audio": "audio/m-influencer-risk-compliance-00.mp3",
+   "leadIn": 0.45,
+   "seconds": 13.362,
+   "words": [
+    {
+     "w": "With",
+     "t": 0.5
+    },
+    {
+     "w": "influencers",
+     "t": 0.748
+    },
+    {
+     "w": "the",
+     "t": 1.703
+    },
+    {
+     "w": "brand",
+     "t": 1.797
+    },
+    {
+     "w": "carries",
+     "t": 2.139
+    },
+    {
+     "w": "the",
+     "t": 2.481
+    },
+    {
+     "w": "legal",
+     "t": 2.564
+    },
+    {
+     "w": "risk",
+     "t": 2.906
+    },
+    {
+     "w": "not",
+     "t": 3.448
+    },
+    {
+     "w": "the",
+     "t": 3.708
+    },
+    {
+     "w": "creator",
+     "t": 3.802
+    },
+    {
+     "w": "A",
+     "t": 4.651
+    },
+    {
+     "w": "free",
+     "t": 4.769
+    },
+    {
+     "w": "product",
+     "t": 5.04
+    },
+    {
+     "w": "counts",
+     "t": 5.406
+    },
+    {
+     "w": "as",
+     "t": 5.736
+    },
+    {
+     "w": "paid",
+     "t": 5.842
+    },
+    {
+     "w": "advertising",
+     "t": 6.125
+    },
+    {
+     "w": "so",
+     "t": 7.092
+    },
+    {
+     "w": "disclose",
+     "t": 7.316
+    },
+    {
+     "w": "it",
+     "t": 7.729
+    },
+    {
+     "w": "Know",
+     "t": 8.259
+    },
+    {
+     "w": "the",
+     "t": 8.554
+    },
+    {
+     "w": "risk",
+     "t": 8.649
+    },
+    {
+     "w": "types",
+     "t": 8.873
+    },
+    {
+     "w": "follow",
+     "t": 9.486
+    },
+    {
+     "w": "the",
+     "t": 9.816
+    },
+    {
+     "w": "industry",
+     "t": 9.981
+    },
+    {
+     "w": "code",
+     "t": 10.323
+    },
+    {
+     "w": "and",
+     "t": 10.913
+    },
+    {
+     "w": "check",
+     "t": 11.078
+    },
+    {
+     "w": "brand",
+     "t": 11.337
+    },
+    {
+     "w": "safety",
+     "t": 11.608
+    },
+    {
+     "w": "properly",
+     "t": 11.939
+    }
+   ]
+  },
+  {
+   "set": "home",
+   "say": "One washing powder brand signed a creator without checking her other content, and left the comments open. The brand, not the creator, wore it.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "l",
+     "pose": "none"
+    },
+    {
+     "id": "p",
+     "look": "student",
+     "v": 3,
+     "at": "sofa",
+     "mode": "sit",
+     "hold": "phone",
+     "pose": "hold"
+    },
+    {
+     "id": "q",
+     "look": "shopper",
+     "v": 6,
+     "at": "sofa2",
+     "mode": "sit"
+    }
+   ],
+   "acts": [
+    {
+     "who": "p",
+     "cue": "comments",
+     "expr": "shock",
+     "at": 4.804
+    },
+    {
+     "who": "q",
+     "cue": "creator",
+     "expr": "laugh",
+     "at": 7.021
+    },
+    {
+     "who": "host",
+     "cue": "wore",
+     "pose": "shrug",
+     "expr": "pained",
+     "at": 7.729
+    }
+   ],
+   "fx": [
+    {
+     "kind": "exclaim",
+     "who": "p",
+     "cue": "comments",
+     "at": 4.804
+    },
+    {
+     "kind": "cross",
+     "who": "host",
+     "cue": "wore",
+     "at": 7.729
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "comments",
+     "shot": "actor",
+     "who": "p",
+     "at": 4.804
+    },
+    {
+     "cue": "wore",
+     "shot": "close",
+     "at": 7.729
+    }
+   ],
+   "audio": "audio/m-influencer-risk-compliance-01.mp3",
+   "leadIn": 0.45,
+   "seconds": 9.162,
+   "words": [
+    {
+     "w": "One",
+     "t": 0.5
+    },
+    {
+     "w": "washing",
+     "t": 0.842
+    },
+    {
+     "w": "powder",
+     "t": 1.125
+    },
+    {
+     "w": "brand",
+     "t": 1.373
+    },
+    {
+     "w": "signed",
+     "t": 1.726
+    },
+    {
+     "w": "a",
+     "t": 2.009
+    },
+    {
+     "w": "creator",
+     "t": 2.045
+    },
+    {
+     "w": "without",
+     "t": 2.517
+    },
+    {
+     "w": "checking",
+     "t": 2.882
+    },
+    {
+     "w": "her",
+     "t": 3.189
+    },
+    {
+     "w": "other",
+     "t": 3.366
+    },
+    {
+     "w": "content",
+     "t": 3.531
+    },
+    {
+     "w": "and",
+     "t": 4.285
+    },
+    {
+     "w": "left",
+     "t": 4.439
+    },
+    {
+     "w": "the",
+     "t": 4.722
+    },
+    {
+     "w": "comments",
+     "t": 4.804
+    },
+    {
+     "w": "open",
+     "t": 5.134
+    },
+    {
+     "w": "The",
+     "t": 5.842
+    },
+    {
+     "w": "brand",
+     "t": 5.972
+    },
+    {
+     "w": "not",
+     "t": 6.691
+    },
+    {
+     "w": "the",
+     "t": 6.939
+    },
+    {
+     "w": "creator",
+     "t": 7.021
+    },
+    {
+     "w": "wore",
+     "t": 7.729
+    },
+    {
+     "w": "it",
+     "t": 8.035
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Never trust a screen grab. Check deleted posts, fit, swearing and politics before you sign.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "l",
+     "pose": "none"
+    },
+    {
+     "id": "e",
+     "look": "exec_f",
+     "v": 4,
+     "at": "table",
+     "hold": "laptop",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "e",
+     "cue": "grab",
+     "expr": "nervous",
+     "at": 1.667
+    },
+    {
+     "who": "e",
+     "cue": "deleted",
+     "pose": "chin",
+     "at": 2.752
+    },
+    {
+     "who": "host",
+     "cue": "sign",
+     "pose": "point",
+     "expr": "stern",
+     "at": 5.972
+    }
+   ],
+   "fx": [
+    {
+     "kind": "eye",
+     "who": "e",
+     "cue": "deleted",
+     "at": 2.752
+    },
+    {
+     "kind": "tick",
+     "who": "host",
+     "cue": "sign",
+     "at": 5.972
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "deleted",
+     "shot": "actor",
+     "who": "e",
+     "at": 2.752
+    },
+    {
+     "cue": "sign",
+     "shot": "close",
+     "at": 5.972
+    }
+   ],
+   "audio": "audio/m-influencer-risk-compliance-02.mp3",
+   "leadIn": 0.45,
+   "seconds": 7.386,
+   "words": [
+    {
+     "w": "Never",
+     "t": 0.5
+    },
+    {
+     "w": "trust",
+     "t": 0.936
+    },
+    {
+     "w": "a",
+     "t": 1.278
+    },
+    {
+     "w": "screen",
+     "t": 1.314
+    },
+    {
+     "w": "grab",
+     "t": 1.667
+    },
+    {
+     "w": "Check",
+     "t": 2.422
+    },
+    {
+     "w": "deleted",
+     "t": 2.752
+    },
+    {
+     "w": "posts",
+     "t": 3.13
+    },
+    {
+     "w": "fit",
+     "t": 3.849
+    },
+    {
+     "w": "swearing",
+     "t": 4.439
+    },
+    {
+     "w": "and",
+     "t": 4.981
+    },
+    {
+     "w": "politics",
+     "t": 5.111
+    },
+    {
+     "w": "before",
+     "t": 5.594
+    },
+    {
+     "w": "you",
+     "t": 5.889
+    },
+    {
+     "w": "sign",
+     "t": 5.972
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Use it like this: disclose, vet, contract and measure, and name the risk each one cuts.",
+   "board": {
+    "title": "Use it like **this**",
+    "lines": [
+     {
+      "text": "**Disclose** and vet",
+      "cue": "disclose",
+      "at": 1.679
+     },
+     {
+      "text": "**Contract** and measure",
+      "cue": "contract",
+      "at": 3.118
+     },
+     {
+      "text": "Name the **risk** it cuts",
+      "cue": "risk",
+      "at": 4.84
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "point"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "cuts",
+     "pose": "cheer",
+     "expr": "grin",
+     "at": 5.535
+    }
+   ],
+   "fx": [
+    {
+     "kind": "tick",
+     "who": "host",
+     "cue": "cuts",
+     "at": 5.535
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "cuts",
+     "shot": "close",
+     "at": 5.535
+    }
+   ],
+   "hold": 1.0,
+   "audio": "audio/m-influencer-risk-compliance-03.mp3",
+   "leadIn": 0.45,
+   "seconds": 7.306,
+   "words": [
+    {
+     "w": "Use",
+     "t": 0.5
+    },
+    {
+     "w": "it",
+     "t": 0.818
+    },
+    {
+     "w": "like",
+     "t": 0.889
+    },
+    {
+     "w": "this",
+     "t": 1.078
+    },
+    {
+     "w": "disclose",
+     "t": 1.679
+    },
+    {
+     "w": "vet",
+     "t": 2.505
+    },
+    {
+     "w": "contract",
+     "t": 3.118
+    },
+    {
+     "w": "and",
+     "t": 3.578
+    },
+    {
+     "w": "measure",
+     "t": 3.672
+    },
+    {
+     "w": "and",
+     "t": 4.309
+    },
+    {
+     "w": "name",
+     "t": 4.498
+    },
+    {
+     "w": "the",
+     "t": 4.757
+    },
+    {
+     "w": "risk",
+     "t": 4.84
+    },
+    {
+     "w": "each",
+     "t": 5.17
+    },
+    {
+     "w": "one",
+     "t": 5.382
+    },
+    {
+     "w": "cuts",
+     "t": 5.535
+    }
+   ]
+  }
+ ],
+ "id": "m-influencer-risk-compliance",
+ "total": 37.23
+}

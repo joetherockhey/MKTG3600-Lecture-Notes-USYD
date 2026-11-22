@@ -1,0 +1,301 @@
+{
+ "week": 0,
+ "title": "Segmentation, targeting and positioning (STP)",
+ "speaker": "Justin Papps, Week 3; Estelle Gohil, Week 2",
+ "beats": [
+  {
+   "set": "stage",
+   "say": "Segmentation, targeting and positioning. Split the market into groups, choose which ones to serve, then own a distinct place in their minds.",
+   "board": {
+    "title": "**STP**",
+    "steps": [
+     {
+      "text": "**Segment** by needs or behaviour",
+      "cue": "Split"
+     },
+     {
+      "text": "**Target** the groups to serve",
+      "cue": "choose"
+     },
+     {
+      "text": "**Position** in their minds",
+      "cue": "own"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "a",
+     "look": "student",
+     "at": "front",
+     "v": 6
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "own",
+     "pose": "up",
+     "expr": "grin"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "own",
+     "shot": "close"
+    }
+   ]
+  },
+  {
+   "set": "plaza",
+   "say": "Picture the plaza. Students want cheap and quick, parents want healthy, and seniors want a chat. Each group is a segment.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "front"
+    },
+    {
+     "id": "s1",
+     "look": "student",
+     "at": "l",
+     "v": 2
+    },
+    {
+     "id": "s2",
+     "look": "shopper",
+     "at": "shelf",
+     "v": 1,
+     "hold": "bag",
+     "pose": "hold"
+    },
+    {
+     "id": "s3",
+     "look": "elder",
+     "at": "r",
+     "v": 4
+    }
+   ],
+   "acts": [
+    {
+     "who": "s1",
+     "cue": "cheap",
+     "expr": "grin"
+    },
+    {
+     "who": "s2",
+     "cue": "healthy",
+     "expr": "smile"
+    },
+    {
+     "who": "s3",
+     "cue": "chat",
+     "expr": "laugh"
+    },
+    {
+     "who": "host",
+     "cue": "segment",
+     "pose": "present"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "money",
+     "who": "s1",
+     "cue": "cheap"
+    },
+    {
+     "kind": "heart",
+     "who": "s2",
+     "cue": "healthy"
+    },
+    {
+     "kind": "say",
+     "who": "s3",
+     "cue": "chat",
+     "text": "Lovely day!"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "Students",
+     "shot": "actor",
+     "who": "s1"
+    },
+    {
+     "cue": "parents",
+     "shot": "actor",
+     "who": "s2"
+    },
+    {
+     "cue": "seniors",
+     "shot": "actor",
+     "who": "s3"
+    },
+    {
+     "cue": "segment",
+     "shot": "wide"
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Targeting means choosing, with trade-offs. Apple picked people who value premium tech and simplicity, and positioned itself on unlocking their creativity.",
+   "board": {
+    "title": "**Apple**",
+    "lines": [
+     {
+      "text": "Target: **premium + simple**",
+      "cue": "premium"
+     },
+     {
+      "text": "Position: **unlock creativity**",
+      "cue": "creativity"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "l"
+    },
+    {
+     "id": "e1",
+     "look": "exec_f",
+     "at": "table",
+     "v": 2,
+     "hold": "laptop",
+     "pose": "hold"
+    },
+    {
+     "id": "e2",
+     "look": "exec",
+     "at": "table2",
+     "v": 3
+    }
+   ],
+   "acts": [
+    {
+     "who": "e2",
+     "cue": "trade",
+     "pose": "shrug",
+     "expr": "nervous"
+    },
+    {
+     "who": "e1",
+     "cue": "creativity",
+     "pose": "cheer",
+     "expr": "grin"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "question",
+     "who": "e2",
+     "cue": "trade"
+    },
+    {
+     "kind": "bulb",
+     "who": "e1",
+     "cue": "creativity"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "trade",
+     "shot": "actor",
+     "who": "e2"
+    },
+    {
+     "cue": "premium",
+     "shot": "board"
+    },
+    {
+     "cue": "creativity",
+     "shot": "two",
+     "who": "e1"
+    }
+   ]
+  },
+  {
+   "set": "stage",
+   "say": "Use it like this: for any brand, name the segment you'd target, why, and the single position you'd own.",
+   "board": {
+    "title": "Use it like **this**",
+    "lines": [
+     {
+      "text": "Name the **segment**",
+      "cue": "segment"
+     },
+     {
+      "text": "Say **why**",
+      "cue": "why"
+     },
+     {
+      "text": "Own **one** position",
+      "cue": "position"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "a",
+     "look": "student",
+     "at": "front",
+     "v": 3
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "own",
+     "pose": "point",
+     "expr": "grin"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "tick",
+     "who": "a",
+     "cue": "own"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "own",
+     "shot": "close"
+    }
+   ],
+   "hold": 1.0
+  }
+ ]
+}

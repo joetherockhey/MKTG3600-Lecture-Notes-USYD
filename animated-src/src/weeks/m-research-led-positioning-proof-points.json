@@ -1,0 +1,666 @@
+{
+ "week": 0,
+ "title": "Research-led positioning with proof points",
+ "speaker": "Libby Hogson, UNICEF Australia, Week 6",
+ "beats": [
+  {
+   "set": "office",
+   "say": "Research-led positioning has four steps. Plot the facts, write the positioning, back it with proof points, then repeat a single message.",
+   "board": {
+    "title": "Research-led **positioning**",
+    "steps": [
+     {
+      "text": "**Plot facts**: opinion lift vs known",
+      "cue": "Plot",
+      "at": 3.0
+     },
+     {
+      "text": "**Positioning** fitted to the moment",
+      "cue": "write",
+      "at": 3.979
+     },
+     {
+      "text": "**Proof points** that make it credible",
+      "cue": "proof",
+      "at": 5.524
+     },
+     {
+      "text": "**One message**, repeated",
+      "cue": "single",
+      "at": 6.95
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "e1",
+     "look": "exec_f",
+     "at": "table",
+     "v": 2
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "Plot",
+     "pose": "point",
+     "at": 3.0
+    },
+    {
+     "who": "e1",
+     "cue": "single",
+     "pose": "chin",
+     "expr": "smile",
+     "at": 6.95
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "proof",
+     "shot": "two",
+     "who": "e1",
+     "at": 5.524
+    },
+    {
+     "cue": "single",
+     "shot": "board",
+     "at": 6.95
+    }
+   ],
+   "audio": "audio/m-research-led-positioning-proof-points-00.mp3",
+   "leadIn": 0.45,
+   "seconds": 8.658,
+   "words": [
+    {
+     "w": "Research-led",
+     "t": 0.5
+    },
+    {
+     "w": "positioning",
+     "t": 1.196
+    },
+    {
+     "w": "has",
+     "t": 1.715
+    },
+    {
+     "w": "four",
+     "t": 1.939
+    },
+    {
+     "w": "steps",
+     "t": 2.163
+    },
+    {
+     "w": "Plot",
+     "t": 3.0
+    },
+    {
+     "w": "the",
+     "t": 3.259
+    },
+    {
+     "w": "facts",
+     "t": 3.33
+    },
+    {
+     "w": "write",
+     "t": 3.979
+    },
+    {
+     "w": "the",
+     "t": 4.238
+    },
+    {
+     "w": "positioning",
+     "t": 4.309
+    },
+    {
+     "w": "back",
+     "t": 5.123
+    },
+    {
+     "w": "it",
+     "t": 5.311
+    },
+    {
+     "w": "with",
+     "t": 5.394
+    },
+    {
+     "w": "proof",
+     "t": 5.524
+    },
+    {
+     "w": "points",
+     "t": 5.748
+    },
+    {
+     "w": "then",
+     "t": 6.384
+    },
+    {
+     "w": "repeat",
+     "t": 6.561
+    },
+    {
+     "w": "a",
+     "t": 6.915
+    },
+    {
+     "w": "single",
+     "t": 6.95
+    },
+    {
+     "w": "message",
+     "t": 7.222
+    }
+   ]
+  },
+  {
+   "set": "street",
+   "say": "UNICEF's research found most people didn't know it was a hundred percent donor funded. Hearing that lifted opinion. Little known, big lift: back that fact.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "front"
+    },
+    {
+     "id": "w",
+     "look": "worker",
+     "at": "kerb",
+     "v": 2,
+     "hold": "clipboard",
+     "pose": "hold"
+    },
+    {
+     "id": "p1",
+     "look": "shopper",
+     "at": "r",
+     "v": 7
+    }
+   ],
+   "acts": [
+    {
+     "who": "p1",
+     "cue": "funded",
+     "pose": "none",
+     "expr": "shock",
+     "at": 4.226
+    },
+    {
+     "who": "p1",
+     "cue": "lifted",
+     "expr": "grin",
+     "at": 5.712
+    },
+    {
+     "who": "host",
+     "cue": "back",
+     "pose": "point",
+     "expr": "smile",
+     "at": 8.79
+    }
+   ],
+   "fx": [
+    {
+     "kind": "say",
+     "who": "p1",
+     "cue": "funded",
+     "text": "Wait, really?",
+     "at": 4.226
+    },
+    {
+     "kind": "heart",
+     "who": "p1",
+     "cue": "lifted",
+     "at": 5.712
+    },
+    {
+     "kind": "bulb",
+     "who": "host",
+     "cue": "fact",
+     "at": 9.191
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "funded",
+     "shot": "actor",
+     "who": "p1",
+     "at": 4.226
+    },
+    {
+     "cue": "Little",
+     "shot": "close",
+     "at": 6.95
+    }
+   ],
+   "audio": "audio/m-research-led-positioning-proof-points-01.mp3",
+   "leadIn": 0.45,
+   "seconds": 10.53,
+   "words": [
+    {
+     "w": "UNICEF's",
+     "t": 0.5
+    },
+    {
+     "w": "research",
+     "t": 1.078
+    },
+    {
+     "w": "found",
+     "t": 1.573
+    },
+    {
+     "w": "most",
+     "t": 1.856
+    },
+    {
+     "w": "people",
+     "t": 2.116
+    },
+    {
+     "w": "didn't",
+     "t": 2.399
+    },
+    {
+     "w": "know",
+     "t": 2.658
+    },
+    {
+     "w": "it",
+     "t": 2.988
+    },
+    {
+     "w": "was",
+     "t": 3.106
+    },
+    {
+     "w": "a",
+     "t": 3.224
+    },
+    {
+     "w": "hundred",
+     "t": 3.271
+    },
+    {
+     "w": "percent",
+     "t": 3.625
+    },
+    {
+     "w": "donor",
+     "t": 3.991
+    },
+    {
+     "w": "funded",
+     "t": 4.226
+    },
+    {
+     "w": "Hearing",
+     "t": 5.016
+    },
+    {
+     "w": "that",
+     "t": 5.5
+    },
+    {
+     "w": "lifted",
+     "t": 5.712
+    },
+    {
+     "w": "opinion",
+     "t": 6.09
+    },
+    {
+     "w": "Little",
+     "t": 6.95
+    },
+    {
+     "w": "known",
+     "t": 7.281
+    },
+    {
+     "w": "big",
+     "t": 7.929
+    },
+    {
+     "w": "lift",
+     "t": 8.118
+    },
+    {
+     "w": "back",
+     "t": 8.79
+    },
+    {
+     "w": "that",
+     "t": 9.014
+    },
+    {
+     "w": "fact",
+     "t": 9.191
+    }
+   ]
+  },
+  {
+   "set": "home",
+   "say": "So the proof points went on air: there in over a hundred and ninety countries, help within forty-eight hours. One message: Always there.",
+   "board": {
+    "title": "UNICEF: **Always there**",
+    "lines": [
+     {
+      "text": "In **190+** countries",
+      "cue": "countries",
+      "at": 3.389
+     },
+     {
+      "text": "Help within **48 hours**",
+      "cue": "forty",
+      "at": 4.604
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "l"
+    },
+    {
+     "id": "a",
+     "look": "shopper",
+     "at": "sofa",
+     "v": 3,
+     "mode": "sit"
+    },
+    {
+     "id": "b",
+     "look": "kid",
+     "at": "sofa2",
+     "v": 2,
+     "mode": "sit"
+    }
+   ],
+   "acts": [
+    {
+     "who": "a",
+     "cue": "countries",
+     "expr": "smile",
+     "at": 3.389
+    },
+    {
+     "who": "b",
+     "cue": "Always",
+     "pose": "cheer",
+     "expr": "grin",
+     "at": 6.903
+    }
+   ],
+   "fx": [
+    {
+     "kind": "tick",
+     "who": "a",
+     "cue": "countries",
+     "at": 3.389
+    },
+    {
+     "kind": "heart",
+     "who": "b",
+     "cue": "Always",
+     "at": 6.903
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "countries",
+     "shot": "board",
+     "at": 3.389
+    },
+    {
+     "cue": "Always",
+     "shot": "actor",
+     "who": "b",
+     "at": 6.903
+    }
+   ],
+   "audio": "audio/m-research-led-positioning-proof-points-02.mp3",
+   "leadIn": 0.45,
+   "seconds": 8.586,
+   "words": [
+    {
+     "w": "So",
+     "t": 0.5
+    },
+    {
+     "w": "the",
+     "t": 0.724
+    },
+    {
+     "w": "proof",
+     "t": 0.807
+    },
+    {
+     "w": "points",
+     "t": 1.066
+    },
+    {
+     "w": "went",
+     "t": 1.349
+    },
+    {
+     "w": "on",
+     "t": 1.526
+    },
+    {
+     "w": "air",
+     "t": 1.656
+    },
+    {
+     "w": "there",
+     "t": 2.281
+    },
+    {
+     "w": "in",
+     "t": 2.469
+    },
+    {
+     "w": "over",
+     "t": 2.599
+    },
+    {
+     "w": "a",
+     "t": 2.823
+    },
+    {
+     "w": "hundred",
+     "t": 2.859
+    },
+    {
+     "w": "and",
+     "t": 3.13
+    },
+    {
+     "w": "ninety",
+     "t": 3.165
+    },
+    {
+     "w": "countries",
+     "t": 3.389
+    },
+    {
+     "w": "help",
+     "t": 4.085
+    },
+    {
+     "w": "within",
+     "t": 4.356
+    },
+    {
+     "w": "forty-eight",
+     "t": 4.604
+    },
+    {
+     "w": "hours",
+     "t": 5.075
+    },
+    {
+     "w": "One",
+     "t": 5.854
+    },
+    {
+     "w": "message",
+     "t": 6.137
+    },
+    {
+     "w": "Always",
+     "t": 6.903
+    },
+    {
+     "w": "there",
+     "t": 7.304
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "So research, position, prove, then say one thing again and again.",
+   "board": {
+    "title": "Use it **like this**",
+    "lines": [
+     {
+      "text": "**Research** the facts",
+      "cue": "research",
+      "at": 0.807
+     },
+     {
+      "text": "**Position** and **prove**",
+      "cue": "prove",
+      "at": 2.351
+     },
+     {
+      "text": "Say **one thing**, again",
+      "cue": "one",
+      "at": 3.59
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "point"
+    },
+    {
+     "id": "e1",
+     "look": "exec",
+     "at": "table",
+     "v": 5
+    }
+   ],
+   "acts": [
+    {
+     "who": "e1",
+     "cue": "again",
+     "expr": "smile",
+     "at": 4.002
+    }
+   ],
+   "fx": [
+    {
+     "kind": "tick",
+     "who": "e1",
+     "cue": "again",
+     "at": 4.002
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "again",
+     "shot": "two",
+     "who": "e1",
+     "at": 4.002
+    }
+   ],
+   "hold": 1.0,
+   "audio": "audio/m-research-led-positioning-proof-points-03.mp3",
+   "leadIn": 0.45,
+   "seconds": 6.082,
+   "words": [
+    {
+     "w": "So",
+     "t": 0.5
+    },
+    {
+     "w": "research",
+     "t": 0.807
+    },
+    {
+     "w": "position",
+     "t": 1.597
+    },
+    {
+     "w": "prove",
+     "t": 2.351
+    },
+    {
+     "w": "then",
+     "t": 3.165
+    },
+    {
+     "w": "say",
+     "t": 3.342
+    },
+    {
+     "w": "one",
+     "t": 3.59
+    },
+    {
+     "w": "thing",
+     "t": 3.837
+    },
+    {
+     "w": "again",
+     "t": 4.002
+    },
+    {
+     "w": "and",
+     "t": 4.238
+    },
+    {
+     "w": "again",
+     "t": 4.321
+    }
+   ]
+  }
+ ],
+ "id": "m-research-led-positioning-proof-points",
+ "total": 33.87
+}

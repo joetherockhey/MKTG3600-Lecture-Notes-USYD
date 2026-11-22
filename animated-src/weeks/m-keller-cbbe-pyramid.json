@@ -1,0 +1,268 @@
+{
+ "week": 0,
+ "title": "Keller's brand equity pyramid (CBBE)",
+ "speaker": "Kevin Lane Keller, 1993 and 2001",
+ "beats": [
+  {
+   "set": "office",
+   "say": "Keller's brand equity pyramid builds a brand in four steps. Salience first, then meaning, then response, and finally resonance at the top.",
+   "board": {
+    "title": "**Keller's** CBBE pyramid",
+    "steps": [
+     {
+      "text": "**Salience** do people know it?",
+      "cue": "Salience"
+     },
+     {
+      "text": "**Meaning** performance and imagery",
+      "cue": "meaning"
+     },
+     {
+      "text": "**Response** judgements and feelings",
+      "cue": "response"
+     },
+     {
+      "text": "**Resonance** loyalty and community",
+      "cue": "resonance"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "e1",
+     "look": "exec_f",
+     "v": 4,
+     "at": "table"
+    }
+   ],
+   "acts": [
+    {
+     "who": "e1",
+     "cue": "resonance",
+     "expr": "smile"
+    },
+    {
+     "who": "host",
+     "cue": "top",
+     "pose": "up",
+     "expr": "grin"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "meaning",
+     "shot": "board"
+    },
+    {
+     "cue": "top",
+     "shot": "close"
+    }
+   ]
+  },
+  {
+   "set": "plaza",
+   "say": "Salience asks: do shoppers think of you when they buy? Meaning is what you do and stand for. Response is what they think and feel about it.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "front"
+    },
+    {
+     "id": "s1",
+     "look": "shopper",
+     "v": 3,
+     "at": "shelf"
+    },
+    {
+     "id": "s2",
+     "look": "shopper",
+     "v": 6,
+     "at": "shelf2"
+    }
+   ],
+   "acts": [
+    {
+     "who": "s1",
+     "cue": "Salience",
+     "pose": "chin",
+     "expr": "nervous"
+    },
+    {
+     "who": "s2",
+     "cue": "stand",
+     "pose": "chin"
+    },
+    {
+     "who": "s2",
+     "cue": "feel",
+     "expr": "smile"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "think",
+     "who": "s1",
+     "text": "Which brand was it?",
+     "cue": "Salience"
+    },
+    {
+     "kind": "brain",
+     "who": "s2",
+     "cue": "stand"
+    },
+    {
+     "kind": "heart",
+     "who": "s2",
+     "cue": "feel"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "Salience",
+     "shot": "actor",
+     "who": "s1"
+    },
+    {
+     "cue": "feel",
+     "shot": "actor",
+     "who": "s2"
+    }
+   ]
+  },
+  {
+   "set": "plaza",
+   "say": "Resonance is the peak: loyal fans who feel they belong, like Apple fans queueing for a launch.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "r"
+    },
+    {
+     "id": "s1",
+     "look": "student",
+     "v": 1,
+     "at": "l",
+     "hold": "phone",
+     "pose": "hold"
+    },
+    {
+     "id": "s2",
+     "look": "student",
+     "v": 5,
+     "at": "c"
+    }
+   ],
+   "acts": [
+    {
+     "who": "s1",
+     "cue": "loyal",
+     "expr": "grin"
+    },
+    {
+     "who": "s2",
+     "cue": "belong",
+     "pose": "cheer",
+     "expr": "laugh"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "heart",
+     "who": "s1",
+     "cue": "loyal"
+    },
+    {
+     "kind": "stars",
+     "who": "s2",
+     "cue": "belong"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "belong",
+     "shot": "actor",
+     "who": "s2"
+    },
+    {
+     "cue": "queueing",
+     "shot": "two",
+     "who": "s1"
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Use it like this: find the level where the brand is stuck, then plan activity to lift it one step up.",
+   "board": {
+    "title": "Use it **like this**",
+    "lines": [
+     {
+      "text": "Find where the brand is **stuck**",
+      "cue": "stuck"
+     },
+     {
+      "text": "**Lift** it one step up",
+      "cue": "lift"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "e1",
+     "look": "exec_f",
+     "v": 4,
+     "at": "table"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "stuck",
+     "pose": "point"
+    },
+    {
+     "who": "e1",
+     "cue": "lift",
+     "expr": "smile"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "lift",
+     "shot": "close"
+    }
+   ],
+   "hold": 1.0
+  }
+ ]
+}

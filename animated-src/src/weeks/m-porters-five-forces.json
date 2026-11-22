@@ -1,0 +1,714 @@
+{
+ "week": 0,
+ "title": "Porter's five forces",
+ "speaker": "Michael Porter, Harvard Business School, 1979",
+ "beats": [
+  {
+   "set": "office",
+   "say": "Porter's five forces explain why some industries make more money than others. Rivalry, new entrants, substitutes, the power of buyers and the power of suppliers. Strong forces squeeze margins.",
+   "board": {
+    "title": "**Porter's** five forces",
+    "steps": [
+     {
+      "text": "**Rivalry** among competitors",
+      "cue": "Rivalry",
+      "at": 4.675
+     },
+     {
+      "text": "**New entrants** and barriers",
+      "cue": "entrants",
+      "at": 5.795
+     },
+     {
+      "text": "**Substitutes** for the need",
+      "cue": "substitutes",
+      "at": 6.42
+     },
+     {
+      "text": "**Buyer** power",
+      "cue": "buyers",
+      "at": 7.917
+     },
+     {
+      "text": "**Supplier** power",
+      "cue": "suppliers",
+      "at": 8.979
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "e1",
+     "look": "exec",
+     "v": 1,
+     "at": "table"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "squeeze",
+     "pose": "point",
+     "expr": "stern",
+     "at": 10.854
+    },
+    {
+     "who": "e1",
+     "cue": "margins",
+     "pose": "none",
+     "expr": "nervous",
+     "at": 11.219
+    }
+   ],
+   "fx": [
+    {
+     "kind": "money",
+     "who": "e1",
+     "cue": "margins",
+     "at": 11.219
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "buyers",
+     "shot": "board",
+     "at": 7.917
+    },
+    {
+     "cue": "squeeze",
+     "shot": "two",
+     "who": "e1",
+     "at": 10.854
+    }
+   ],
+   "audio": "audio/m-porters-five-forces-00.mp3",
+   "leadIn": 0.45,
+   "seconds": 12.738,
+   "words": [
+    {
+     "w": "Porter's",
+     "t": 0.5
+    },
+    {
+     "w": "five",
+     "t": 0.889
+    },
+    {
+     "w": "forces",
+     "t": 1.184
+    },
+    {
+     "w": "explain",
+     "t": 1.632
+    },
+    {
+     "w": "why",
+     "t": 2.127
+    },
+    {
+     "w": "some",
+     "t": 2.351
+    },
+    {
+     "w": "industries",
+     "t": 2.564
+    },
+    {
+     "w": "make",
+     "t": 3.142
+    },
+    {
+     "w": "more",
+     "t": 3.342
+    },
+    {
+     "w": "money",
+     "t": 3.531
+    },
+    {
+     "w": "than",
+     "t": 3.802
+    },
+    {
+     "w": "others",
+     "t": 3.92
+    },
+    {
+     "w": "Rivalry",
+     "t": 4.675
+    },
+    {
+     "w": "new",
+     "t": 5.547
+    },
+    {
+     "w": "entrants",
+     "t": 5.795
+    },
+    {
+     "w": "substitutes",
+     "t": 6.42
+    },
+    {
+     "w": "the",
+     "t": 7.41
+    },
+    {
+     "w": "power",
+     "t": 7.505
+    },
+    {
+     "w": "of",
+     "t": 7.823
+    },
+    {
+     "w": "buyers",
+     "t": 7.917
+    },
+    {
+     "w": "and",
+     "t": 8.366
+    },
+    {
+     "w": "the",
+     "t": 8.495
+    },
+    {
+     "w": "power",
+     "t": 8.566
+    },
+    {
+     "w": "of",
+     "t": 8.908
+    },
+    {
+     "w": "suppliers",
+     "t": 8.979
+    },
+    {
+     "w": "Strong",
+     "t": 9.946
+    },
+    {
+     "w": "forces",
+     "t": 10.382
+    },
+    {
+     "w": "squeeze",
+     "t": 10.854
+    },
+    {
+     "w": "margins",
+     "t": 11.219
+    }
+   ]
+  },
+  {
+   "set": "plaza",
+   "say": "Bottled water feels all five. Rivals everywhere, anyone can launch one, and tap water is free. So most brands fight on price.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "r"
+    },
+    {
+     "id": "s1",
+     "look": "shopper",
+     "v": 3,
+     "at": "walkL",
+     "to": "shelf"
+    },
+    {
+     "id": "s2",
+     "look": "shopper",
+     "v": 2,
+     "at": "l"
+    }
+   ],
+   "acts": [
+    {
+     "who": "s2",
+     "cue": "tap",
+     "pose": "shrug",
+     "expr": "smile",
+     "at": 5.547
+    },
+    {
+     "who": "s1",
+     "cue": "price",
+     "pose": "chin",
+     "expr": "nervous",
+     "at": 8.413
+    }
+   ],
+   "fx": [
+    {
+     "kind": "question",
+     "who": "s1",
+     "cue": "Rivals",
+     "at": 2.741
+    },
+    {
+     "kind": "think",
+     "who": "s2",
+     "text": "Tap water is free.",
+     "cue": "tap",
+     "at": 5.547
+    },
+    {
+     "kind": "money",
+     "who": "s1",
+     "cue": "price",
+     "at": 8.413
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "tap",
+     "shot": "actor",
+     "who": "s2",
+     "at": 5.547
+    },
+    {
+     "cue": "price",
+     "shot": "actor",
+     "who": "s1",
+     "at": 8.413
+    }
+   ],
+   "audio": "audio/m-porters-five-forces-01.mp3",
+   "leadIn": 0.45,
+   "seconds": 9.834,
+   "words": [
+    {
+     "w": "Bottled",
+     "t": 0.5
+    },
+    {
+     "w": "water",
+     "t": 0.866
+    },
+    {
+     "w": "feels",
+     "t": 1.208
+    },
+    {
+     "w": "all",
+     "t": 1.679
+    },
+    {
+     "w": "five",
+     "t": 1.88
+    },
+    {
+     "w": "Rivals",
+     "t": 2.741
+    },
+    {
+     "w": "everywhere",
+     "t": 3.307
+    },
+    {
+     "w": "anyone",
+     "t": 4.073
+    },
+    {
+     "w": "can",
+     "t": 4.486
+    },
+    {
+     "w": "launch",
+     "t": 4.616
+    },
+    {
+     "w": "one",
+     "t": 4.875
+    },
+    {
+     "w": "and",
+     "t": 5.37
+    },
+    {
+     "w": "tap",
+     "t": 5.547
+    },
+    {
+     "w": "water",
+     "t": 5.807
+    },
+    {
+     "w": "is",
+     "t": 6.078
+    },
+    {
+     "w": "free",
+     "t": 6.243
+    },
+    {
+     "w": "So",
+     "t": 6.974
+    },
+    {
+     "w": "most",
+     "t": 7.281
+    },
+    {
+     "w": "brands",
+     "t": 7.564
+    },
+    {
+     "w": "fight",
+     "t": 7.976
+    },
+    {
+     "w": "on",
+     "t": 8.283
+    },
+    {
+     "w": "price",
+     "t": 8.413
+    }
+   ]
+  },
+  {
+   "set": "plaza",
+   "say": "Then Liquid Death built a brand nobody could copy. Buyers happily paid more, and rivals were locked out.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "r"
+    },
+    {
+     "id": "s1",
+     "look": "student",
+     "v": 4,
+     "at": "shelf",
+     "hold": "box",
+     "pose": "hold",
+     "holdCol": "#222222"
+    },
+    {
+     "id": "s2",
+     "look": "shopper",
+     "v": 2,
+     "at": "l"
+    }
+   ],
+   "acts": [
+    {
+     "who": "s1",
+     "cue": "copy",
+     "pose": "cheer",
+     "expr": "grin",
+     "at": 2.693
+    },
+    {
+     "who": "s2",
+     "cue": "paid",
+     "expr": "laugh",
+     "at": 4.191
+    },
+    {
+     "who": "host",
+     "cue": "locked",
+     "pose": "up",
+     "expr": "grin",
+     "at": 5.771
+    }
+   ],
+   "fx": [
+    {
+     "kind": "stars",
+     "who": "s1",
+     "cue": "copy",
+     "at": 2.693
+    },
+    {
+     "kind": "money",
+     "who": "s2",
+     "cue": "paid",
+     "at": 4.191
+    },
+    {
+     "kind": "tick",
+     "who": "host",
+     "cue": "locked",
+     "at": 5.771
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "copy",
+     "shot": "actor",
+     "who": "s1",
+     "at": 2.693
+    },
+    {
+     "cue": "locked",
+     "shot": "close",
+     "at": 5.771
+    }
+   ],
+   "audio": "audio/m-porters-five-forces-02.mp3",
+   "leadIn": 0.45,
+   "seconds": 7.29,
+   "words": [
+    {
+     "w": "Then",
+     "t": 0.5
+    },
+    {
+     "w": "Liquid",
+     "t": 0.83
+    },
+    {
+     "w": "Death",
+     "t": 1.196
+    },
+    {
+     "w": "built",
+     "t": 1.514
+    },
+    {
+     "w": "a",
+     "t": 1.75
+    },
+    {
+     "w": "brand",
+     "t": 1.797
+    },
+    {
+     "w": "nobody",
+     "t": 2.175
+    },
+    {
+     "w": "could",
+     "t": 2.54
+    },
+    {
+     "w": "copy",
+     "t": 2.693
+    },
+    {
+     "w": "Buyers",
+     "t": 3.448
+    },
+    {
+     "w": "happily",
+     "t": 3.825
+    },
+    {
+     "w": "paid",
+     "t": 4.191
+    },
+    {
+     "w": "more",
+     "t": 4.45
+    },
+    {
+     "w": "and",
+     "t": 5.052
+    },
+    {
+     "w": "rivals",
+     "t": 5.217
+    },
+    {
+     "w": "were",
+     "t": 5.7
+    },
+    {
+     "w": "locked",
+     "t": 5.771
+    },
+    {
+     "w": "out",
+     "t": 6.031
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Use it like this: rate each force high, medium or low, find the strongest, and show how the brand can weaken it.",
+   "board": {
+    "title": "Use it **like this**",
+    "lines": [
+     {
+      "text": "Rate each force **high to low**",
+      "cue": "rate",
+      "at": 1.726
+     },
+     {
+      "text": "Find the **strongest**",
+      "cue": "strongest",
+      "at": 4.792
+     },
+     {
+      "text": "Use the **brand** to weaken it",
+      "cue": "weaken",
+      "at": 6.644
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "e1",
+     "look": "exec",
+     "v": 1,
+     "at": "table"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "strongest",
+     "pose": "point",
+     "at": 4.792
+    },
+    {
+     "who": "e1",
+     "cue": "weaken",
+     "expr": "smile",
+     "at": 6.644
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "weaken",
+     "shot": "close",
+     "at": 6.644
+    }
+   ],
+   "hold": 1.0,
+   "audio": "audio/m-porters-five-forces-03.mp3",
+   "leadIn": 0.45,
+   "seconds": 8.41,
+   "words": [
+    {
+     "w": "Use",
+     "t": 0.5
+    },
+    {
+     "w": "it",
+     "t": 0.818
+    },
+    {
+     "w": "like",
+     "t": 0.889
+    },
+    {
+     "w": "this",
+     "t": 1.09
+    },
+    {
+     "w": "rate",
+     "t": 1.726
+    },
+    {
+     "w": "each",
+     "t": 2.057
+    },
+    {
+     "w": "force",
+     "t": 2.257
+    },
+    {
+     "w": "high",
+     "t": 2.528
+    },
+    {
+     "w": "medium",
+     "t": 3.13
+    },
+    {
+     "w": "or",
+     "t": 3.731
+    },
+    {
+     "w": "low",
+     "t": 3.825
+    },
+    {
+     "w": "find",
+     "t": 4.439
+    },
+    {
+     "w": "the",
+     "t": 4.745
+    },
+    {
+     "w": "strongest",
+     "t": 4.792
+    },
+    {
+     "w": "and",
+     "t": 5.547
+    },
+    {
+     "w": "show",
+     "t": 5.665
+    },
+    {
+     "w": "how",
+     "t": 5.936
+    },
+    {
+     "w": "the",
+     "t": 6.078
+    },
+    {
+     "w": "brand",
+     "t": 6.16
+    },
+    {
+     "w": "can",
+     "t": 6.502
+    },
+    {
+     "w": "weaken",
+     "t": 6.644
+    },
+    {
+     "w": "it",
+     "t": 6.88
+    }
+   ]
+  }
+ ],
+ "id": "m-porters-five-forces",
+ "total": 38.27
+}

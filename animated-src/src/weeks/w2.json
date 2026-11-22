@@ -1,0 +1,3394 @@
+{
+ "week": 2,
+ "title": "Market research and consumer insights",
+ "speaker": "Estelle Gohil",
+ "beats": [
+  {
+   "set": "stage",
+   "say": "Week two. Market research and consumer insights, with Estelle Gohil from Fifty-five Five. Her job is to take complexity and make it simple enough to decide on.",
+   "board": {
+    "photo": "photos/w2.jpg",
+    "title": "Market research and **consumer insights**",
+    "name": "Estelle Gohil",
+    "org": "Fiftyfive5, a qualitative research agency"
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "a",
+     "look": "student",
+     "v": 1,
+     "at": "front"
+    },
+    {
+     "id": "b",
+     "look": "student",
+     "v": 4,
+     "at": "r"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "simple",
+     "pose": "up",
+     "expr": "grin",
+     "at": 8.436
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "Estelle",
+     "shot": "board",
+     "at": 4.097
+    },
+    {
+     "cue": "complexity",
+     "shot": "close",
+     "at": 7.375
+    }
+   ],
+   "audio": "audio/w2-00.mp3",
+   "leadIn": 0.45,
+   "seconds": 10.722,
+   "words": [
+    {
+     "w": "Week",
+     "t": 0.5
+    },
+    {
+     "w": "two",
+     "t": 0.866
+    },
+    {
+     "w": "Market",
+     "t": 1.609
+    },
+    {
+     "w": "research",
+     "t": 2.021
+    },
+    {
+     "w": "and",
+     "t": 2.505
+    },
+    {
+     "w": "consumer",
+     "t": 2.658
+    },
+    {
+     "w": "insights",
+     "t": 3.118
+    },
+    {
+     "w": "with",
+     "t": 3.932
+    },
+    {
+     "w": "Estelle",
+     "t": 4.097
+    },
+    {
+     "w": "Gohil",
+     "t": 4.45
+    },
+    {
+     "w": "from",
+     "t": 4.887
+    },
+    {
+     "w": "Fifty-five",
+     "t": 5.075
+    },
+    {
+     "w": "Five",
+     "t": 5.571
+    },
+    {
+     "w": "Her",
+     "t": 6.373
+    },
+    {
+     "w": "job",
+     "t": 6.585
+    },
+    {
+     "w": "is",
+     "t": 6.915
+    },
+    {
+     "w": "to",
+     "t": 7.068
+    },
+    {
+     "w": "take",
+     "t": 7.151
+    },
+    {
+     "w": "complexity",
+     "t": 7.375
+    },
+    {
+     "w": "and",
+     "t": 7.988
+    },
+    {
+     "w": "make",
+     "t": 8.141
+    },
+    {
+     "w": "it",
+     "t": 8.354
+    },
+    {
+     "w": "simple",
+     "t": 8.436
+    },
+    {
+     "w": "enough",
+     "t": 8.79
+    },
+    {
+     "w": "to",
+     "t": 9.026
+    },
+    {
+     "w": "decide",
+     "t": 9.108
+    },
+    {
+     "w": "on",
+     "t": 9.462
+    }
+   ]
+  },
+  {
+   "set": "plaza",
+   "say": "Behavioural data tells you what happened, like people drinking less. It can't tell you why, and the why decides what the business does.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "c",
+     "pose": "chin"
+    },
+    {
+     "id": "s1",
+     "look": "shopper",
+     "v": 1,
+     "at": "walkL",
+     "to": "shelf",
+     "hold": "bag",
+     "pose": "hold"
+    },
+    {
+     "id": "s2",
+     "look": "shopper",
+     "v": 2,
+     "at": "stall"
+    }
+   ],
+   "acts": [
+    {
+     "who": "s1",
+     "cue": "drinking",
+     "pose": "shrug",
+     "expr": "neutral",
+     "at": 3.177
+    },
+    {
+     "who": "host",
+     "cue": "why",
+     "pose": "shrug",
+     "expr": "nervous",
+     "at": 4.934
+    }
+   ],
+   "fx": [
+    {
+     "kind": "chart",
+     "who": "host",
+     "cue": "data",
+     "at": 1.031
+    },
+    {
+     "kind": "question",
+     "who": "s1",
+     "cue": "why",
+     "at": 4.934
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "drinking",
+     "shot": "actor",
+     "who": "s1",
+     "at": 3.177
+    },
+    {
+     "cue": "why",
+     "shot": "two",
+     "who": "s1",
+     "at": 4.934
+    }
+   ],
+   "audio": "audio/w2-01.mp3",
+   "leadIn": 0.45,
+   "seconds": 8.418,
+   "words": [
+    {
+     "w": "Behavioural",
+     "t": 0.5
+    },
+    {
+     "w": "data",
+     "t": 1.031
+    },
+    {
+     "w": "tells",
+     "t": 1.396
+    },
+    {
+     "w": "you",
+     "t": 1.691
+    },
+    {
+     "w": "what",
+     "t": 1.762
+    },
+    {
+     "w": "happened",
+     "t": 1.88
+    },
+    {
+     "w": "like",
+     "t": 2.599
+    },
+    {
+     "w": "people",
+     "t": 2.847
+    },
+    {
+     "w": "drinking",
+     "t": 3.177
+    },
+    {
+     "w": "less",
+     "t": 3.519
+    },
+    {
+     "w": "It",
+     "t": 4.262
+    },
+    {
+     "w": "can't",
+     "t": 4.439
+    },
+    {
+     "w": "tell",
+     "t": 4.675
+    },
+    {
+     "w": "you",
+     "t": 4.84
+    },
+    {
+     "w": "why",
+     "t": 4.934
+    },
+    {
+     "w": "and",
+     "t": 5.583
+    },
+    {
+     "w": "the",
+     "t": 5.712
+    },
+    {
+     "w": "why",
+     "t": 5.783
+    },
+    {
+     "w": "decides",
+     "t": 6.031
+    },
+    {
+     "w": "what",
+     "t": 6.526
+    },
+    {
+     "w": "the",
+     "t": 6.667
+    },
+    {
+     "w": "business",
+     "t": 6.738
+    },
+    {
+     "w": "does",
+     "t": 7.092
+    }
+   ]
+  },
+  {
+   "set": "plaza",
+   "say": "A shopper says, I want something cheaper. But the real driver might be value for money or saving time. So keep asking why.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "l"
+    },
+    {
+     "id": "s1",
+     "look": "shopper",
+     "v": 3,
+     "at": "shelf",
+     "hold": "box",
+     "pose": "hold"
+    },
+    {
+     "id": "s2",
+     "look": "elder",
+     "v": 2,
+     "at": "walkR",
+     "to": "shop",
+     "walkCue": "real",
+     "walkAt": 3.33
+    }
+   ],
+   "acts": [
+    {
+     "who": "s1",
+     "cue": "cheaper",
+     "expr": "smile",
+     "at": 2.292
+    },
+    {
+     "who": "host",
+     "cue": "real",
+     "pose": "point",
+     "at": 3.33
+    },
+    {
+     "who": "host",
+     "cue": "keep",
+     "pose": "up",
+     "expr": "grin",
+     "at": 6.597
+    }
+   ],
+   "fx": [
+    {
+     "kind": "say",
+     "who": "s1",
+     "text": "Something cheaper!",
+     "cue": "cheaper",
+     "at": 2.292
+    },
+    {
+     "kind": "think",
+     "who": "s1",
+     "text": "Save me time...",
+     "cue": "value",
+     "at": 4.262
+    },
+    {
+     "kind": "question",
+     "who": "host",
+     "cue": "asking",
+     "at": 6.844
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "shopper",
+     "shot": "actor",
+     "who": "s1",
+     "at": 0.606
+    },
+    {
+     "cue": "real",
+     "shot": "close",
+     "who": "s1",
+     "at": 3.33
+    },
+    {
+     "cue": "keep",
+     "shot": "host",
+     "at": 6.597
+    }
+   ],
+   "audio": "audio/w2-02.mp3",
+   "leadIn": 0.45,
+   "seconds": 8.562,
+   "words": [
+    {
+     "w": "A",
+     "t": 0.5
+    },
+    {
+     "w": "shopper",
+     "t": 0.606
+    },
+    {
+     "w": "says",
+     "t": 0.948
+    },
+    {
+     "w": "I",
+     "t": 1.609
+    },
+    {
+     "w": "want",
+     "t": 1.703
+    },
+    {
+     "w": "something",
+     "t": 1.939
+    },
+    {
+     "w": "cheaper",
+     "t": 2.292
+    },
+    {
+     "w": "But",
+     "t": 3.059
+    },
+    {
+     "w": "the",
+     "t": 3.248
+    },
+    {
+     "w": "real",
+     "t": 3.33
+    },
+    {
+     "w": "driver",
+     "t": 3.566
+    },
+    {
+     "w": "might",
+     "t": 3.908
+    },
+    {
+     "w": "be",
+     "t": 4.167
+    },
+    {
+     "w": "value",
+     "t": 4.262
+    },
+    {
+     "w": "for",
+     "t": 4.58
+    },
+    {
+     "w": "money",
+     "t": 4.686
+    },
+    {
+     "w": "or",
+     "t": 5.052
+    },
+    {
+     "w": "saving",
+     "t": 5.158
+    },
+    {
+     "w": "time",
+     "t": 5.547
+    },
+    {
+     "w": "So",
+     "t": 6.29
+    },
+    {
+     "w": "keep",
+     "t": 6.597
+    },
+    {
+     "w": "asking",
+     "t": 6.844
+    },
+    {
+     "w": "why",
+     "t": 7.234
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Meanwhile the dashboards pile up, CRM and sales data. But too much data creates complexity, not simplicity, and none of it makes a decision on its own.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "c"
+    },
+    {
+     "id": "e1",
+     "look": "exec",
+     "v": 1,
+     "at": "desk",
+     "hold": "laptop",
+     "pose": "hold"
+    },
+    {
+     "id": "e2",
+     "look": "exec_f",
+     "v": 3,
+     "at": "desk2",
+     "hold": "clipboard",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "e1",
+     "cue": "complexity",
+     "expr": "dazed",
+     "at": 5.559
+    },
+    {
+     "who": "e2",
+     "cue": "decision",
+     "pose": "shrug",
+     "expr": "nervous",
+     "at": 8.448
+    },
+    {
+     "who": "host",
+     "cue": "own",
+     "pose": "hips",
+     "expr": "stern",
+     "at": 9.156
+    }
+   ],
+   "fx": [
+    {
+     "kind": "chart",
+     "who": "e1",
+     "cue": "dashboards",
+     "at": 1.137
+    },
+    {
+     "kind": "chart",
+     "who": "e2",
+     "cue": "sales",
+     "at": 3.248
+    },
+    {
+     "kind": "burst",
+     "who": "e1",
+     "cue": "complexity",
+     "at": 5.559
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "complexity",
+     "shot": "actor",
+     "who": "e1",
+     "at": 5.559
+    },
+    {
+     "cue": "none",
+     "shot": "host",
+     "at": 7.788
+    }
+   ],
+   "audio": "audio/w2-03.mp3",
+   "leadIn": 0.45,
+   "seconds": 10.482,
+   "words": [
+    {
+     "w": "Meanwhile",
+     "t": 0.5
+    },
+    {
+     "w": "the",
+     "t": 1.054
+    },
+    {
+     "w": "dashboards",
+     "t": 1.137
+    },
+    {
+     "w": "pile",
+     "t": 1.691
+    },
+    {
+     "w": "up",
+     "t": 1.986
+    },
+    {
+     "w": "CRM",
+     "t": 2.458
+    },
+    {
+     "w": "and",
+     "t": 3.106
+    },
+    {
+     "w": "sales",
+     "t": 3.248
+    },
+    {
+     "w": "data",
+     "t": 3.59
+    },
+    {
+     "w": "But",
+     "t": 4.297
+    },
+    {
+     "w": "too",
+     "t": 4.498
+    },
+    {
+     "w": "much",
+     "t": 4.663
+    },
+    {
+     "w": "data",
+     "t": 4.875
+    },
+    {
+     "w": "creates",
+     "t": 5.205
+    },
+    {
+     "w": "complexity",
+     "t": 5.559
+    },
+    {
+     "w": "not",
+     "t": 6.455
+    },
+    {
+     "w": "simplicity",
+     "t": 6.726
+    },
+    {
+     "w": "and",
+     "t": 7.623
+    },
+    {
+     "w": "none",
+     "t": 7.788
+    },
+    {
+     "w": "of",
+     "t": 7.976
+    },
+    {
+     "w": "it",
+     "t": 8.071
+    },
+    {
+     "w": "makes",
+     "t": 8.189
+    },
+    {
+     "w": "a",
+     "t": 8.413
+    },
+    {
+     "w": "decision",
+     "t": 8.448
+    },
+    {
+     "w": "on",
+     "t": 8.908
+    },
+    {
+     "w": "its",
+     "t": 9.026
+    },
+    {
+     "w": "own",
+     "t": 9.156
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Research drives growth three ways. Identify where to play. Execute how to win, from the value proposition to pricing. And evaluate what matters.",
+   "board": {
+    "title": "Research drives **growth**",
+    "steps": [
+     {
+      "text": "**Identify** where to play",
+      "cue": "identify",
+      "at": 2.87
+     },
+     {
+      "text": "**Execute** how to win",
+      "cue": "execute",
+      "at": 4.686
+     },
+     {
+      "text": "**Evaluate** metrics that matter",
+      "cue": "evaluate",
+      "at": 8.413
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "point"
+    },
+    {
+     "id": "e1",
+     "look": "exec_f",
+     "v": 1,
+     "at": "table",
+     "hold": "coffee",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "e1",
+     "cue": "pricing",
+     "expr": "smile",
+     "at": 7.34
+    }
+   ],
+   "fx": [
+    {
+     "kind": "tick",
+     "who": "e1",
+     "cue": "evaluate",
+     "at": 8.413
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "proposition",
+     "shot": "two",
+     "who": "e1",
+     "at": 6.656
+    },
+    {
+     "cue": "evaluate",
+     "shot": "board",
+     "at": 8.413
+    }
+   ],
+   "audio": "audio/w2-04.mp3",
+   "leadIn": 0.45,
+   "seconds": 10.65,
+   "words": [
+    {
+     "w": "Research",
+     "t": 0.5
+    },
+    {
+     "w": "drives",
+     "t": 1.066
+    },
+    {
+     "w": "growth",
+     "t": 1.479
+    },
+    {
+     "w": "three",
+     "t": 1.785
+    },
+    {
+     "w": "ways",
+     "t": 2.045
+    },
+    {
+     "w": "Identify",
+     "t": 2.87
+    },
+    {
+     "w": "where",
+     "t": 3.578
+    },
+    {
+     "w": "to",
+     "t": 3.79
+    },
+    {
+     "w": "play",
+     "t": 3.896
+    },
+    {
+     "w": "Execute",
+     "t": 4.686
+    },
+    {
+     "w": "how",
+     "t": 5.193
+    },
+    {
+     "w": "to",
+     "t": 5.37
+    },
+    {
+     "w": "win",
+     "t": 5.465
+    },
+    {
+     "w": "from",
+     "t": 6.078
+    },
+    {
+     "w": "the",
+     "t": 6.266
+    },
+    {
+     "w": "value",
+     "t": 6.314
+    },
+    {
+     "w": "proposition",
+     "t": 6.656
+    },
+    {
+     "w": "to",
+     "t": 7.269
+    },
+    {
+     "w": "pricing",
+     "t": 7.34
+    },
+    {
+     "w": "And",
+     "t": 8.224
+    },
+    {
+     "w": "evaluate",
+     "t": 8.413
+    },
+    {
+     "w": "what",
+     "t": 8.991
+    },
+    {
+     "w": "matters",
+     "t": 9.215
+    }
+   ]
+  },
+  {
+   "set": "stage",
+   "say": "Why not just add gen AI? It can't close three gaps: cultural understanding, data that doesn't exist yet, and the analysis itself. Keep a human in the lead.",
+   "board": {
+    "title": "Three gaps **gen AI** can't close",
+    "lines": [
+     {
+      "text": "**Cultural** understanding",
+      "cue": "cultural",
+      "at": 4.344
+     },
+     {
+      "text": "Data that **doesn't exist** yet",
+      "cue": "exist",
+      "at": 6.361
+     },
+     {
+      "text": "LLMs can't do the **analysis**",
+      "cue": "analysis",
+      "at": 7.481
+     },
+     {
+      "text": "Human **in the lead**, in the loop",
+      "cue": "lead",
+      "at": 9.757
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "a",
+     "look": "student",
+     "v": 2,
+     "at": "front"
+    }
+   ],
+   "acts": [
+    {
+     "who": "a",
+     "cue": "AI",
+     "pose": "up",
+     "expr": "grin",
+     "at": 1.833
+    },
+    {
+     "who": "host",
+     "cue": "gaps",
+     "pose": "hips",
+     "expr": "stern",
+     "at": 3.637
+    },
+    {
+     "who": "a",
+     "cue": "analysis",
+     "pose": "none",
+     "expr": "nervous",
+     "at": 7.481
+    }
+   ],
+   "fx": [
+    {
+     "kind": "bulb",
+     "who": "a",
+     "cue": "AI",
+     "at": 1.833
+    },
+    {
+     "kind": "cross",
+     "who": "host",
+     "cue": "close",
+     "at": 3.071
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "three",
+     "shot": "board",
+     "at": 3.389
+    },
+    {
+     "cue": "human",
+     "shot": "close",
+     "at": 9.144
+    }
+   ],
+   "audio": "audio/w2-05.mp3",
+   "leadIn": 0.45,
+   "seconds": 11.13,
+   "words": [
+    {
+     "w": "Why",
+     "t": 0.5
+    },
+    {
+     "w": "not",
+     "t": 0.807
+    },
+    {
+     "w": "just",
+     "t": 1.019
+    },
+    {
+     "w": "add",
+     "t": 1.314
+    },
+    {
+     "w": "gen",
+     "t": 1.632
+    },
+    {
+     "w": "AI",
+     "t": 1.833
+    },
+    {
+     "w": "It",
+     "t": 2.634
+    },
+    {
+     "w": "can't",
+     "t": 2.823
+    },
+    {
+     "w": "close",
+     "t": 3.071
+    },
+    {
+     "w": "three",
+     "t": 3.389
+    },
+    {
+     "w": "gaps",
+     "t": 3.637
+    },
+    {
+     "w": "cultural",
+     "t": 4.344
+    },
+    {
+     "w": "understanding",
+     "t": 4.769
+    },
+    {
+     "w": "data",
+     "t": 5.665
+    },
+    {
+     "w": "that",
+     "t": 5.936
+    },
+    {
+     "w": "doesn't",
+     "t": 6.09
+    },
+    {
+     "w": "exist",
+     "t": 6.361
+    },
+    {
+     "w": "yet",
+     "t": 6.715
+    },
+    {
+     "w": "and",
+     "t": 7.234
+    },
+    {
+     "w": "the",
+     "t": 7.375
+    },
+    {
+     "w": "analysis",
+     "t": 7.481
+    },
+    {
+     "w": "itself",
+     "t": 7.941
+    },
+    {
+     "w": "Keep",
+     "t": 8.79
+    },
+    {
+     "w": "a",
+     "t": 9.085
+    },
+    {
+     "w": "human",
+     "t": 9.144
+    },
+    {
+     "w": "in",
+     "t": 9.545
+    },
+    {
+     "w": "the",
+     "t": 9.71
+    },
+    {
+     "w": "lead",
+     "t": 9.757
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "The toolkit starts with talking. Discussion groups of six to ten. Conflict encounters, putting Apple fans with Samsung fans. And consumer juries that deliver a verdict.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "l"
+    },
+    {
+     "id": "a",
+     "look": "student",
+     "v": 1,
+     "at": "table",
+     "hold": "phone",
+     "pose": "hold",
+     "holdCol": "#dddddd"
+    },
+    {
+     "id": "b",
+     "look": "shopper",
+     "v": 2,
+     "at": "table2",
+     "hold": "phone",
+     "pose": "hold",
+     "holdCol": "#2255aa"
+    },
+    {
+     "id": "c",
+     "look": "elder",
+     "v": 3,
+     "at": "r"
+    }
+   ],
+   "acts": [
+    {
+     "who": "a",
+     "cue": "Apple",
+     "pose": "point",
+     "expr": "stern",
+     "at": 6.278
+    },
+    {
+     "who": "b",
+     "cue": "Samsung",
+     "pose": "point",
+     "expr": "stern",
+     "mirror": true,
+     "at": 7.057
+    },
+    {
+     "who": "c",
+     "cue": "verdict",
+     "pose": "up",
+     "expr": "smile_closed",
+     "at": 10.123
+    }
+   ],
+   "fx": [
+    {
+     "kind": "say",
+     "who": "a",
+     "text": "Apple, obviously.",
+     "cue": "Apple",
+     "at": 6.278
+    },
+    {
+     "kind": "say",
+     "who": "b",
+     "text": "Samsung wins!",
+     "cue": "Samsung",
+     "at": 7.057
+    },
+    {
+     "kind": "tick",
+     "who": "c",
+     "cue": "verdict",
+     "at": 10.123
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "Apple",
+     "shot": "actor",
+     "who": "a",
+     "at": 6.278
+    },
+    {
+     "cue": "Samsung",
+     "shot": "actor",
+     "who": "b",
+     "at": 7.057
+    },
+    {
+     "cue": "juries",
+     "shot": "actor",
+     "who": "c",
+     "at": 9.073
+    }
+   ],
+   "audio": "audio/w2-06.mp3",
+   "leadIn": 0.45,
+   "seconds": 11.562,
+   "words": [
+    {
+     "w": "The",
+     "t": 0.5
+    },
+    {
+     "w": "toolkit",
+     "t": 0.665
+    },
+    {
+     "w": "starts",
+     "t": 1.101
+    },
+    {
+     "w": "with",
+     "t": 1.526
+    },
+    {
+     "w": "talking",
+     "t": 1.667
+    },
+    {
+     "w": "Discussion",
+     "t": 2.493
+    },
+    {
+     "w": "groups",
+     "t": 3.047
+    },
+    {
+     "w": "of",
+     "t": 3.366
+    },
+    {
+     "w": "six",
+     "t": 3.448
+    },
+    {
+     "w": "to",
+     "t": 3.778
+    },
+    {
+     "w": "ten",
+     "t": 3.873
+    },
+    {
+     "w": "Conflict",
+     "t": 4.604
+    },
+    {
+     "w": "encounters",
+     "t": 5.04
+    },
+    {
+     "w": "putting",
+     "t": 5.96
+    },
+    {
+     "w": "Apple",
+     "t": 6.278
+    },
+    {
+     "w": "fans",
+     "t": 6.573
+    },
+    {
+     "w": "with",
+     "t": 6.927
+    },
+    {
+     "w": "Samsung",
+     "t": 7.057
+    },
+    {
+     "w": "fans",
+     "t": 7.481
+    },
+    {
+     "w": "And",
+     "t": 8.318
+    },
+    {
+     "w": "consumer",
+     "t": 8.566
+    },
+    {
+     "w": "juries",
+     "t": 9.073
+    },
+    {
+     "w": "that",
+     "t": 9.521
+    },
+    {
+     "w": "deliver",
+     "t": 9.675
+    },
+    {
+     "w": "a",
+     "t": 10.099
+    },
+    {
+     "w": "verdict",
+     "t": 10.123
+    }
+   ]
+  },
+  {
+   "set": "home",
+   "say": "Cognitive interviewing uses memory to reach emotion. What made you hesitate? In mobile ethnography, people film their own lives on their phones, in the moment.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "l",
+     "pose": "chin"
+    },
+    {
+     "id": "a",
+     "look": "shopper",
+     "v": 5,
+     "at": "sofa",
+     "mode": "sit"
+    },
+    {
+     "id": "b",
+     "look": "student",
+     "v": 3,
+     "at": "r",
+     "hold": "phone",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "a",
+     "cue": "hesitate",
+     "pose": "chin",
+     "expr": "nervous",
+     "at": 4.356
+    },
+    {
+     "who": "b",
+     "cue": "film",
+     "expr": "grin",
+     "at": 7.068
+    }
+   ],
+   "fx": [
+    {
+     "kind": "brain",
+     "who": "a",
+     "cue": "memory",
+     "at": 2.045
+    },
+    {
+     "kind": "think",
+     "who": "a",
+     "text": "I nearly didn't buy it...",
+     "cue": "hesitate",
+     "at": 4.356
+    },
+    {
+     "kind": "eye",
+     "who": "b",
+     "cue": "film",
+     "at": 7.068
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "hesitate",
+     "shot": "close",
+     "who": "a",
+     "at": 4.356
+    },
+    {
+     "cue": "Mobile",
+     "shot": "actor",
+     "who": "b",
+     "at": 5.476
+    }
+   ],
+   "audio": "audio/w2-07.mp3",
+   "leadIn": 0.45,
+   "seconds": 10.554,
+   "words": [
+    {
+     "w": "Cognitive",
+     "t": 0.5
+    },
+    {
+     "w": "interviewing",
+     "t": 1.137
+    },
+    {
+     "w": "uses",
+     "t": 1.656
+    },
+    {
+     "w": "memory",
+     "t": 2.045
+    },
+    {
+     "w": "to",
+     "t": 2.434
+    },
+    {
+     "w": "reach",
+     "t": 2.564
+    },
+    {
+     "w": "emotion",
+     "t": 2.823
+    },
+    {
+     "w": "What",
+     "t": 3.672
+    },
+    {
+     "w": "made",
+     "t": 4.026
+    },
+    {
+     "w": "you",
+     "t": 4.25
+    },
+    {
+     "w": "hesitate",
+     "t": 4.356
+    },
+    {
+     "w": "In",
+     "t": 5.311
+    },
+    {
+     "w": "mobile",
+     "t": 5.476
+    },
+    {
+     "w": "ethnography",
+     "t": 5.889
+    },
+    {
+     "w": "people",
+     "t": 6.774
+    },
+    {
+     "w": "film",
+     "t": 7.068
+    },
+    {
+     "w": "their",
+     "t": 7.363
+    },
+    {
+     "w": "own",
+     "t": 7.528
+    },
+    {
+     "w": "lives",
+     "t": 7.752
+    },
+    {
+     "w": "on",
+     "t": 8.141
+    },
+    {
+     "w": "their",
+     "t": 8.224
+    },
+    {
+     "w": "phones",
+     "t": 8.307
+    },
+    {
+     "w": "in",
+     "t": 9.014
+    },
+    {
+     "w": "the",
+     "t": 9.132
+    },
+    {
+     "w": "moment",
+     "t": 9.167
+    }
+   ]
+  },
+  {
+   "set": "plaza",
+   "say": "Then there's watching. On a shopping safari you follow someone. What do they pick up, then put back? What people say isn't what they do.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "l",
+     "hold": "clipboard",
+     "pose": "hold"
+    },
+    {
+     "id": "s1",
+     "look": "shopper",
+     "v": 7,
+     "at": "walkR",
+     "to": "shelf",
+     "hold": "bag",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "follow",
+     "to": "c",
+     "at": 3.189
+    },
+    {
+     "who": "s1",
+     "cue": "pick",
+     "pose": "up",
+     "expr": "smile",
+     "at": 4.887
+    },
+    {
+     "who": "s1",
+     "cue": "back",
+     "pose": "none",
+     "expr": "nervous",
+     "at": 5.972
+    },
+    {
+     "who": "host",
+     "cue": "say",
+     "pose": "point",
+     "expr": "grin",
+     "at": 7.281
+    }
+   ],
+   "fx": [
+    {
+     "kind": "eye",
+     "who": "host",
+     "cue": "watching",
+     "at": 1.101
+    },
+    {
+     "kind": "exclaim",
+     "who": "s1",
+     "cue": "pick",
+     "at": 4.887
+    },
+    {
+     "kind": "cross",
+     "who": "s1",
+     "cue": "back",
+     "at": 5.972
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "pick",
+     "shot": "actor",
+     "who": "s1",
+     "at": 4.887
+    },
+    {
+     "cue": "say",
+     "shot": "two",
+     "who": "s1",
+     "at": 7.281
+    }
+   ],
+   "audio": "audio/w2-08.mp3",
+   "leadIn": 0.45,
+   "seconds": 9.642,
+   "words": [
+    {
+     "w": "Then",
+     "t": 0.5
+    },
+    {
+     "w": "there's",
+     "t": 0.866
+    },
+    {
+     "w": "watching",
+     "t": 1.101
+    },
+    {
+     "w": "On",
+     "t": 1.927
+    },
+    {
+     "w": "a",
+     "t": 2.092
+    },
+    {
+     "w": "shopping",
+     "t": 2.127
+    },
+    {
+     "w": "safari",
+     "t": 2.505
+    },
+    {
+     "w": "you",
+     "t": 3.024
+    },
+    {
+     "w": "follow",
+     "t": 3.189
+    },
+    {
+     "w": "someone",
+     "t": 3.495
+    },
+    {
+     "w": "What",
+     "t": 4.333
+    },
+    {
+     "w": "do",
+     "t": 4.651
+    },
+    {
+     "w": "they",
+     "t": 4.734
+    },
+    {
+     "w": "pick",
+     "t": 4.887
+    },
+    {
+     "w": "up",
+     "t": 5.099
+    },
+    {
+     "w": "then",
+     "t": 5.559
+    },
+    {
+     "w": "put",
+     "t": 5.771
+    },
+    {
+     "w": "back",
+     "t": 5.972
+    },
+    {
+     "w": "What",
+     "t": 6.667
+    },
+    {
+     "w": "people",
+     "t": 6.986
+    },
+    {
+     "w": "say",
+     "t": 7.281
+    },
+    {
+     "w": "isn't",
+     "t": 7.658
+    },
+    {
+     "w": "what",
+     "t": 8.0
+    },
+    {
+     "w": "they",
+     "t": 8.189
+    },
+    {
+     "w": "do",
+     "t": 8.318
+    }
+   ]
+  },
+  {
+   "set": "street",
+   "say": "Consumer immersions put the client on a bus into a lower socio-economic neighbourhood. Not to interview the consumer, but to briefly become them.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "front"
+    },
+    {
+     "id": "e1",
+     "look": "exec",
+     "v": 4,
+     "at": "walkL",
+     "to": "bus",
+     "hold": "laptop",
+     "pose": "hold"
+    },
+    {
+     "id": "w",
+     "look": "worker",
+     "v": 2,
+     "at": "kerb"
+    }
+   ],
+   "acts": [
+    {
+     "who": "e1",
+     "cue": "neighbourhood",
+     "pose": "none",
+     "expr": "nervous",
+     "at": 4.274
+    },
+    {
+     "who": "e1",
+     "cue": "become",
+     "expr": "relief_open",
+     "at": 7.658
+    }
+   ],
+   "fx": [
+    {
+     "kind": "think",
+     "who": "e1",
+     "text": "So this is their day.",
+     "cue": "become",
+     "at": 7.658
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "bus",
+     "shot": "actor",
+     "who": "e1",
+     "at": 2.399
+    },
+    {
+     "cue": "become",
+     "shot": "close",
+     "who": "e1",
+     "at": 7.658
+    }
+   ],
+   "audio": "audio/w2-09.mp3",
+   "leadIn": 0.45,
+   "seconds": 9.21,
+   "words": [
+    {
+     "w": "Consumer",
+     "t": 0.5
+    },
+    {
+     "w": "immersions",
+     "t": 1.042
+    },
+    {
+     "w": "put",
+     "t": 1.561
+    },
+    {
+     "w": "the",
+     "t": 1.726
+    },
+    {
+     "w": "client",
+     "t": 1.797
+    },
+    {
+     "w": "on",
+     "t": 2.234
+    },
+    {
+     "w": "a",
+     "t": 2.351
+    },
+    {
+     "w": "bus",
+     "t": 2.399
+    },
+    {
+     "w": "into",
+     "t": 2.776
+    },
+    {
+     "w": "a",
+     "t": 3.059
+    },
+    {
+     "w": "lower",
+     "t": 3.094
+    },
+    {
+     "w": "socio-economic",
+     "t": 3.413
+    },
+    {
+     "w": "neighbourhood",
+     "t": 4.274
+    },
+    {
+     "w": "Not",
+     "t": 5.146
+    },
+    {
+     "w": "to",
+     "t": 5.465
+    },
+    {
+     "w": "interview",
+     "t": 5.618
+    },
+    {
+     "w": "the",
+     "t": 5.995
+    },
+    {
+     "w": "consumer",
+     "t": 6.078
+    },
+    {
+     "w": "but",
+     "t": 6.974
+    },
+    {
+     "w": "to",
+     "t": 7.104
+    },
+    {
+     "w": "briefly",
+     "t": 7.198
+    },
+    {
+     "w": "become",
+     "t": 7.658
+    },
+    {
+     "w": "them",
+     "t": 7.988
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Longer methods include agile innovation loops, digital communities and case studies from many angles. Social listening is where AI genuinely helps.",
+   "board": {
+    "title": "Longer and **secondary**",
+    "lines": [
+     {
+      "text": "**Agile** innovation loops",
+      "cue": "Agile",
+      "at": 1.656
+     },
+     {
+      "text": "**Digital** communities",
+      "cue": "Digital",
+      "at": 3.2
+     },
+     {
+      "text": "**Case studies**, many angles",
+      "cue": "Case",
+      "at": 4.262
+     },
+     {
+      "text": "**Social listening**: AI helps",
+      "cue": "social",
+      "at": 6.125
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "point"
+    },
+    {
+     "id": "e1",
+     "look": "exec_f",
+     "v": 5,
+     "at": "desk",
+     "hold": "laptop",
+     "pose": "hold"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "tick",
+     "who": "e1",
+     "cue": "genuinely",
+     "at": 7.8
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "social",
+     "shot": "two",
+     "who": "e1",
+     "at": 6.125
+    }
+   ],
+   "audio": "audio/w2-10.mp3",
+   "leadIn": 0.45,
+   "seconds": 9.714,
+   "words": [
+    {
+     "w": "Longer",
+     "t": 0.5
+    },
+    {
+     "w": "methods",
+     "t": 0.854
+    },
+    {
+     "w": "include",
+     "t": 1.243
+    },
+    {
+     "w": "agile",
+     "t": 1.656
+    },
+    {
+     "w": "innovation",
+     "t": 2.092
+    },
+    {
+     "w": "loops",
+     "t": 2.587
+    },
+    {
+     "w": "digital",
+     "t": 3.2
+    },
+    {
+     "w": "communities",
+     "t": 3.531
+    },
+    {
+     "w": "and",
+     "t": 4.085
+    },
+    {
+     "w": "case",
+     "t": 4.262
+    },
+    {
+     "w": "studies",
+     "t": 4.533
+    },
+    {
+     "w": "from",
+     "t": 4.91
+    },
+    {
+     "w": "many",
+     "t": 5.064
+    },
+    {
+     "w": "angles",
+     "t": 5.323
+    },
+    {
+     "w": "Social",
+     "t": 6.125
+    },
+    {
+     "w": "listening",
+     "t": 6.597
+    },
+    {
+     "w": "is",
+     "t": 7.021
+    },
+    {
+     "w": "where",
+     "t": 7.163
+    },
+    {
+     "w": "AI",
+     "t": 7.41
+    },
+    {
+     "w": "genuinely",
+     "t": 7.8
+    },
+    {
+     "w": "helps",
+     "t": 8.33
+    }
+   ]
+  },
+  {
+   "set": "plaza",
+   "say": "One project put body cameras on baristas. At speed, they weren't thinking about plant milk cartons. Watching the footage back surfaced opening, storage and disposal problems.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "c"
+    },
+    {
+     "id": "b1",
+     "look": "chef",
+     "v": 1,
+     "at": "stall",
+     "hold": "box",
+     "pose": "hold",
+     "holdCol": "#f2efe4"
+    },
+    {
+     "id": "s1",
+     "look": "shopper",
+     "v": 2,
+     "at": "r",
+     "hold": "coffee",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "b1",
+     "cue": "speed",
+     "expr": "pained",
+     "at": 3.448
+    },
+    {
+     "who": "host",
+     "cue": "footage",
+     "pose": "chin",
+     "at": 6.95
+    },
+    {
+     "who": "b1",
+     "cue": "surfaced",
+     "pose": "shrug",
+     "expr": "relief_open",
+     "at": 7.575
+    }
+   ],
+   "fx": [
+    {
+     "kind": "eye",
+     "who": "b1",
+     "cue": "cameras",
+     "at": 1.738
+    },
+    {
+     "kind": "clock",
+     "who": "b1",
+     "cue": "speed",
+     "at": 3.448
+    },
+    {
+     "kind": "bulb",
+     "who": "host",
+     "cue": "surfaced",
+     "at": 7.575
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "baristas",
+     "shot": "actor",
+     "who": "b1",
+     "at": 2.292
+    },
+    {
+     "cue": "footage",
+     "shot": "two",
+     "who": "b1",
+     "at": 6.95
+    }
+   ],
+   "audio": "audio/w2-11.mp3",
+   "leadIn": 0.45,
+   "seconds": 11.442,
+   "words": [
+    {
+     "w": "One",
+     "t": 0.5
+    },
+    {
+     "w": "project",
+     "t": 0.842
+    },
+    {
+     "w": "put",
+     "t": 1.278
+    },
+    {
+     "w": "body",
+     "t": 1.491
+    },
+    {
+     "w": "cameras",
+     "t": 1.738
+    },
+    {
+     "w": "on",
+     "t": 2.127
+    },
+    {
+     "w": "baristas",
+     "t": 2.292
+    },
+    {
+     "w": "At",
+     "t": 3.259
+    },
+    {
+     "w": "speed",
+     "t": 3.448
+    },
+    {
+     "w": "they",
+     "t": 4.179
+    },
+    {
+     "w": "weren't",
+     "t": 4.309
+    },
+    {
+     "w": "thinking",
+     "t": 4.533
+    },
+    {
+     "w": "about",
+     "t": 4.851
+    },
+    {
+     "w": "plant",
+     "t": 5.099
+    },
+    {
+     "w": "milk",
+     "t": 5.406
+    },
+    {
+     "w": "cartons",
+     "t": 5.583
+    },
+    {
+     "w": "Watching",
+     "t": 6.455
+    },
+    {
+     "w": "the",
+     "t": 6.891
+    },
+    {
+     "w": "footage",
+     "t": 6.95
+    },
+    {
+     "w": "back",
+     "t": 7.351
+    },
+    {
+     "w": "surfaced",
+     "t": 7.575
+    },
+    {
+     "w": "opening",
+     "t": 8.012
+    },
+    {
+     "w": "storage",
+     "t": 8.625
+    },
+    {
+     "w": "and",
+     "t": 9.344
+    },
+    {
+     "w": "disposal",
+     "t": 9.474
+    },
+    {
+     "w": "problems",
+     "t": 9.958
+    }
+   ]
+  },
+  {
+   "set": "street",
+   "say": "A tea brand ran seven markets together to find the similarities, not make separate campaigns. And an ad built on jokes is hard to land across seven cultures.",
+   "board": {
+    "title": "One story, **seven markets**",
+    "lines": [
+     {
+      "text": "Look for the **similarities**",
+      "cue": "similarities",
+      "at": 2.988
+     },
+     {
+      "text": "Jokes don't **travel**",
+      "cue": "jokes",
+      "at": 6.762
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "front"
+    },
+    {
+     "id": "p1",
+     "look": "elder",
+     "v": 1,
+     "at": "l"
+    },
+    {
+     "id": "p2",
+     "look": "student",
+     "v": 6,
+     "at": "r",
+     "hold": "phone",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "p1",
+     "cue": "jokes",
+     "expr": "laugh",
+     "at": 6.762
+    },
+    {
+     "who": "p2",
+     "cue": "hard",
+     "pose": "shrug",
+     "expr": "dazed",
+     "at": 7.269
+    }
+   ],
+   "fx": [
+    {
+     "kind": "question",
+     "who": "p2",
+     "cue": "hard",
+     "at": 7.269
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "jokes",
+     "shot": "wide",
+     "at": 6.762
+    },
+    {
+     "cue": "cultures",
+     "shot": "actor",
+     "who": "p2",
+     "at": 8.46
+    }
+   ],
+   "audio": "audio/w2-12.mp3",
+   "leadIn": 0.45,
+   "seconds": 9.954,
+   "words": [
+    {
+     "w": "A",
+     "t": 0.5
+    },
+    {
+     "w": "tea",
+     "t": 0.641
+    },
+    {
+     "w": "brand",
+     "t": 0.889
+    },
+    {
+     "w": "ran",
+     "t": 1.208
+    },
+    {
+     "w": "seven",
+     "t": 1.455
+    },
+    {
+     "w": "markets",
+     "t": 1.774
+    },
+    {
+     "w": "together",
+     "t": 2.151
+    },
+    {
+     "w": "to",
+     "t": 2.552
+    },
+    {
+     "w": "find",
+     "t": 2.658
+    },
+    {
+     "w": "the",
+     "t": 2.941
+    },
+    {
+     "w": "similarities",
+     "t": 2.988
+    },
+    {
+     "w": "not",
+     "t": 3.991
+    },
+    {
+     "w": "make",
+     "t": 4.262
+    },
+    {
+     "w": "separate",
+     "t": 4.45
+    },
+    {
+     "w": "campaigns",
+     "t": 4.792
+    },
+    {
+     "w": "And",
+     "t": 5.818
+    },
+    {
+     "w": "an",
+     "t": 6.007
+    },
+    {
+     "w": "ad",
+     "t": 6.137
+    },
+    {
+     "w": "built",
+     "t": 6.408
+    },
+    {
+     "w": "on",
+     "t": 6.644
+    },
+    {
+     "w": "jokes",
+     "t": 6.762
+    },
+    {
+     "w": "is",
+     "t": 7.151
+    },
+    {
+     "w": "hard",
+     "t": 7.269
+    },
+    {
+     "w": "to",
+     "t": 7.528
+    },
+    {
+     "w": "land",
+     "t": 7.587
+    },
+    {
+     "w": "across",
+     "t": 7.882
+    },
+    {
+     "w": "seven",
+     "t": 8.153
+    },
+    {
+     "w": "cultures",
+     "t": 8.46
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "For universities, demand and performance data make two maps. Existing programs plot performance against attractiveness, new ones momentum against size. But numbers can't explain why students choose.",
+   "board": {
+    "title": "Predicting **student demand**",
+    "vs": {
+     "left": "Existing programs",
+     "right": "New programs",
+     "leftItems": [
+      "Performance",
+      "vs attractiveness"
+     ],
+     "rightItems": [
+      "Momentum",
+      "vs size"
+     ],
+     "cue": "Existing",
+     "at": 4.592
+    }
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "s1",
+     "look": "student",
+     "v": 5,
+     "at": "r"
+    }
+   ],
+   "acts": [
+    {
+     "who": "s1",
+     "cue": "numbers",
+     "pose": "shrug",
+     "expr": "nervous",
+     "at": 10.134
+    }
+   ],
+   "fx": [
+    {
+     "kind": "question",
+     "who": "s1",
+     "cue": "why",
+     "at": 11.278
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "numbers",
+     "shot": "actor",
+     "who": "s1",
+     "at": 10.134
+    }
+   ],
+   "audio": "audio/w2-13.mp3",
+   "leadIn": 0.45,
+   "seconds": 13.458,
+   "words": [
+    {
+     "w": "For",
+     "t": 0.5
+    },
+    {
+     "w": "universities",
+     "t": 0.795
+    },
+    {
+     "w": "demand",
+     "t": 1.844
+    },
+    {
+     "w": "and",
+     "t": 2.458
+    },
+    {
+     "w": "performance",
+     "t": 2.611
+    },
+    {
+     "w": "data",
+     "t": 3.071
+    },
+    {
+     "w": "make",
+     "t": 3.366
+    },
+    {
+     "w": "two",
+     "t": 3.637
+    },
+    {
+     "w": "maps",
+     "t": 3.825
+    },
+    {
+     "w": "Existing",
+     "t": 4.592
+    },
+    {
+     "w": "programs",
+     "t": 5.111
+    },
+    {
+     "w": "plot",
+     "t": 5.665
+    },
+    {
+     "w": "performance",
+     "t": 5.913
+    },
+    {
+     "w": "against",
+     "t": 6.455
+    },
+    {
+     "w": "attractiveness",
+     "t": 6.75
+    },
+    {
+     "w": "new",
+     "t": 7.764
+    },
+    {
+     "w": "ones",
+     "t": 8.0
+    },
+    {
+     "w": "momentum",
+     "t": 8.295
+    },
+    {
+     "w": "against",
+     "t": 8.731
+    },
+    {
+     "w": "size",
+     "t": 9.085
+    },
+    {
+     "w": "But",
+     "t": 9.946
+    },
+    {
+     "w": "numbers",
+     "t": 10.134
+    },
+    {
+     "w": "can't",
+     "t": 10.512
+    },
+    {
+     "w": "explain",
+     "t": 10.771
+    },
+    {
+     "w": "why",
+     "t": 11.278
+    },
+    {
+     "w": "students",
+     "t": 11.526
+    },
+    {
+     "w": "choose",
+     "t": 12.021
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Their tool Ubersight layers cultural drivers, macro trends, micro trends and tension. Dynamic personas use the client's own data, so you can question a segment.",
+   "board": {
+    "title": "**Ubersight** layers",
+    "steps": [
+     {
+      "text": "**Cultural drivers**",
+      "cue": "drivers",
+      "at": 2.127
+     },
+     {
+      "text": "**Macro** trends",
+      "cue": "macro",
+      "at": 2.87
+     },
+     {
+      "text": "**Micro** trends",
+      "cue": "micro",
+      "at": 3.979
+     },
+     {
+      "text": "**Tension**: the opportunity",
+      "cue": "tension",
+      "at": 5.075
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "point"
+    },
+    {
+     "id": "e1",
+     "look": "exec",
+     "v": 6,
+     "at": "table",
+     "hold": "laptop",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "e1",
+     "cue": "personas",
+     "expr": "grin",
+     "at": 6.337
+    }
+   ],
+   "fx": [
+    {
+     "kind": "say",
+     "who": "e1",
+     "text": "How would you respond?",
+     "cue": "question",
+     "at": 8.943
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "personas",
+     "shot": "actor",
+     "who": "e1",
+     "at": 6.337
+    }
+   ],
+   "audio": "audio/w2-14.mp3",
+   "leadIn": 0.45,
+   "seconds": 10.818,
+   "words": [
+    {
+     "w": "Their",
+     "t": 0.5
+    },
+    {
+     "w": "tool",
+     "t": 0.689
+    },
+    {
+     "w": "Ubersight",
+     "t": 0.96
+    },
+    {
+     "w": "layers",
+     "t": 1.491
+    },
+    {
+     "w": "cultural",
+     "t": 1.785
+    },
+    {
+     "w": "drivers",
+     "t": 2.127
+    },
+    {
+     "w": "macro",
+     "t": 2.87
+    },
+    {
+     "w": "trends",
+     "t": 3.271
+    },
+    {
+     "w": "micro",
+     "t": 3.979
+    },
+    {
+     "w": "trends",
+     "t": 4.368
+    },
+    {
+     "w": "and",
+     "t": 4.934
+    },
+    {
+     "w": "tension",
+     "t": 5.075
+    },
+    {
+     "w": "Dynamic",
+     "t": 5.889
+    },
+    {
+     "w": "personas",
+     "t": 6.337
+    },
+    {
+     "w": "use",
+     "t": 6.903
+    },
+    {
+     "w": "the",
+     "t": 7.127
+    },
+    {
+     "w": "client's",
+     "t": 7.21
+    },
+    {
+     "w": "own",
+     "t": 7.623
+    },
+    {
+     "w": "data",
+     "t": 7.8
+    },
+    {
+     "w": "so",
+     "t": 8.507
+    },
+    {
+     "w": "you",
+     "t": 8.672
+    },
+    {
+     "w": "can",
+     "t": 8.802
+    },
+    {
+     "w": "question",
+     "t": 8.943
+    },
+    {
+     "w": "a",
+     "t": 9.333
+    },
+    {
+     "w": "segment",
+     "t": 9.368
+    }
+   ]
+  },
+  {
+   "set": "stage",
+   "say": "AI does help. It scans every transcript, and one real consumer clip beats a slide deck. But it makes mistakes, and words miss tone and body language.",
+   "board": {
+    "title": "AI in **qual research**",
+    "vs": {
+     "left": "Dos",
+     "right": "Don'ts",
+     "leftItems": [
+      "Efficiency",
+      "Every transcript",
+      "One real clip"
+     ],
+     "rightItems": [
+      "Makes mistakes",
+      "Words miss tone",
+      "Not always secure"
+     ],
+     "cue": "help",
+     "at": 1.149
+    }
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "e1",
+     "look": "exec",
+     "v": 2,
+     "at": "r"
+    }
+   ],
+   "acts": [
+    {
+     "who": "e1",
+     "cue": "clip",
+     "pose": "cheer",
+     "expr": "grin",
+     "at": 4.734
+    },
+    {
+     "who": "host",
+     "cue": "mistakes",
+     "pose": "shrug",
+     "expr": "nervous",
+     "at": 6.833
+    }
+   ],
+   "fx": [
+    {
+     "kind": "tick",
+     "who": "e1",
+     "cue": "clip",
+     "at": 4.734
+    },
+    {
+     "kind": "cross",
+     "who": "host",
+     "cue": "mistakes",
+     "at": 6.833
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "clip",
+     "shot": "actor",
+     "who": "e1",
+     "at": 4.734
+    },
+    {
+     "cue": "mistakes",
+     "shot": "close",
+     "at": 6.833
+    }
+   ],
+   "audio": "audio/w2-15.mp3",
+   "leadIn": 0.45,
+   "seconds": 10.506,
+   "words": [
+    {
+     "w": "AI",
+     "t": 0.5
+    },
+    {
+     "w": "does",
+     "t": 0.913
+    },
+    {
+     "w": "help",
+     "t": 1.149
+    },
+    {
+     "w": "It",
+     "t": 1.88
+    },
+    {
+     "w": "scans",
+     "t": 2.057
+    },
+    {
+     "w": "every",
+     "t": 2.517
+    },
+    {
+     "w": "transcript",
+     "t": 2.776
+    },
+    {
+     "w": "and",
+     "t": 3.637
+    },
+    {
+     "w": "one",
+     "t": 3.825
+    },
+    {
+     "w": "real",
+     "t": 4.073
+    },
+    {
+     "w": "consumer",
+     "t": 4.297
+    },
+    {
+     "w": "clip",
+     "t": 4.734
+    },
+    {
+     "w": "beats",
+     "t": 5.052
+    },
+    {
+     "w": "a",
+     "t": 5.311
+    },
+    {
+     "w": "slide",
+     "t": 5.347
+    },
+    {
+     "w": "deck",
+     "t": 5.677
+    },
+    {
+     "w": "But",
+     "t": 6.361
+    },
+    {
+     "w": "it",
+     "t": 6.491
+    },
+    {
+     "w": "makes",
+     "t": 6.585
+    },
+    {
+     "w": "mistakes",
+     "t": 6.833
+    },
+    {
+     "w": "and",
+     "t": 7.599
+    },
+    {
+     "w": "words",
+     "t": 7.776
+    },
+    {
+     "w": "miss",
+     "t": 8.083
+    },
+    {
+     "w": "tone",
+     "t": 8.307
+    },
+    {
+     "w": "and",
+     "t": 8.649
+    },
+    {
+     "w": "body",
+     "t": 8.802
+    },
+    {
+     "w": "language",
+     "t": 9.085
+    }
+   ]
+  },
+  {
+   "set": "stage",
+   "say": "Her lingering worry is the Emperor's New Clothes: everyone agrees the output is good when it may not be. Watch for bias, in the tool and in yourself.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "c"
+    },
+    {
+     "id": "a",
+     "look": "exec",
+     "v": 3,
+     "at": "l"
+    },
+    {
+     "id": "b",
+     "look": "exec_f",
+     "v": 2,
+     "at": "r"
+    },
+    {
+     "id": "k",
+     "look": "kid",
+     "v": 1,
+     "at": "front"
+    }
+   ],
+   "acts": [
+    {
+     "who": "a",
+     "cue": "agrees",
+     "pose": "cheer",
+     "expr": "grin",
+     "at": 3.413
+    },
+    {
+     "who": "b",
+     "cue": "good",
+     "pose": "cheer",
+     "expr": "grin",
+     "at": 4.356
+    },
+    {
+     "who": "k",
+     "cue": "may",
+     "pose": "point",
+     "expr": "shock",
+     "at": 4.875
+    },
+    {
+     "who": "host",
+     "cue": "yourself",
+     "pose": "point",
+     "expr": "stern",
+     "at": 8.047
+    }
+   ],
+   "fx": [
+    {
+     "kind": "stars",
+     "who": "a",
+     "cue": "agrees",
+     "at": 3.413
+    },
+    {
+     "kind": "say",
+     "who": "k",
+     "text": "But is it good?",
+     "cue": "may",
+     "at": 4.875
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "may",
+     "shot": "close",
+     "who": "k",
+     "at": 4.875
+    },
+    {
+     "cue": "watch",
+     "shot": "host",
+     "at": 5.901
+    }
+   ],
+   "audio": "audio/w2-16.mp3",
+   "leadIn": 0.45,
+   "seconds": 9.522,
+   "words": [
+    {
+     "w": "Her",
+     "t": 0.5
+    },
+    {
+     "w": "lingering",
+     "t": 0.712
+    },
+    {
+     "w": "worry",
+     "t": 1.113
+    },
+    {
+     "w": "is",
+     "t": 1.467
+    },
+    {
+     "w": "the",
+     "t": 1.597
+    },
+    {
+     "w": "Emperor's",
+     "t": 1.75
+    },
+    {
+     "w": "New",
+     "t": 2.057
+    },
+    {
+     "w": "Clothes",
+     "t": 2.186
+    },
+    {
+     "w": "everyone",
+     "t": 3.035
+    },
+    {
+     "w": "agrees",
+     "t": 3.413
+    },
+    {
+     "w": "the",
+     "t": 3.743
+    },
+    {
+     "w": "output",
+     "t": 3.908
+    },
+    {
+     "w": "is",
+     "t": 4.238
+    },
+    {
+     "w": "good",
+     "t": 4.356
+    },
+    {
+     "w": "when",
+     "t": 4.604
+    },
+    {
+     "w": "it",
+     "t": 4.781
+    },
+    {
+     "w": "may",
+     "t": 4.875
+    },
+    {
+     "w": "not",
+     "t": 5.04
+    },
+    {
+     "w": "be",
+     "t": 5.241
+    },
+    {
+     "w": "Watch",
+     "t": 5.901
+    },
+    {
+     "w": "for",
+     "t": 6.255
+    },
+    {
+     "w": "bias",
+     "t": 6.373
+    },
+    {
+     "w": "in",
+     "t": 7.104
+    },
+    {
+     "w": "the",
+     "t": 7.222
+    },
+    {
+     "w": "tool",
+     "t": 7.316
+    },
+    {
+     "w": "and",
+     "t": 7.729
+    },
+    {
+     "w": "in",
+     "t": 7.882
+    },
+    {
+     "w": "yourself",
+     "t": 8.047
+    }
+   ]
+  },
+  {
+   "set": "stage",
+   "say": "So understand people, don't just collect data. Keep asking why. Insight must enable a decision, and AI is a tool, not a replacement. That's week two.",
+   "board": {
+    "title": "Week 2 **takeaways**",
+    "lines": [
+     {
+      "text": "Understand **people**, not data",
+      "cue": "understand",
+      "at": 0.925
+     },
+     {
+      "text": "Keep asking **why**",
+      "cue": "asking",
+      "at": 3.932
+     },
+     {
+      "text": "Insight must enable a **decision**",
+      "cue": "decision",
+      "at": 6.125
+     },
+     {
+      "text": "AI is a **tool**, not a replacement",
+      "cue": "tool",
+      "at": 7.859
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "a",
+     "look": "student",
+     "v": 1,
+     "at": "front"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "That's",
+     "pose": "cheer",
+     "expr": "grin",
+     "at": 9.769
+    }
+   ],
+   "fx": [
+    {
+     "kind": "tick",
+     "who": "a",
+     "cue": "decision",
+     "at": 6.125
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "tool",
+     "shot": "close",
+     "at": 7.859
+    },
+    {
+     "cue": "That's",
+     "shot": "wide",
+     "glide": true,
+     "at": 9.769
+    }
+   ],
+   "hold": 1.2,
+   "audio": "audio/w2-17.mp3",
+   "leadIn": 0.45,
+   "seconds": 12.282,
+   "words": [
+    {
+     "w": "So",
+     "t": 0.5
+    },
+    {
+     "w": "understand",
+     "t": 0.925
+    },
+    {
+     "w": "people",
+     "t": 1.455
+    },
+    {
+     "w": "don't",
+     "t": 2.127
+    },
+    {
+     "w": "just",
+     "t": 2.351
+    },
+    {
+     "w": "collect",
+     "t": 2.611
+    },
+    {
+     "w": "data",
+     "t": 2.894
+    },
+    {
+     "w": "Keep",
+     "t": 3.637
+    },
+    {
+     "w": "asking",
+     "t": 3.932
+    },
+    {
+     "w": "why",
+     "t": 4.333
+    },
+    {
+     "w": "Insight",
+     "t": 5.064
+    },
+    {
+     "w": "must",
+     "t": 5.524
+    },
+    {
+     "w": "enable",
+     "t": 5.748
+    },
+    {
+     "w": "a",
+     "t": 6.101
+    },
+    {
+     "w": "decision",
+     "t": 6.125
+    },
+    {
+     "w": "and",
+     "t": 6.95
+    },
+    {
+     "w": "AI",
+     "t": 7.21
+    },
+    {
+     "w": "is",
+     "t": 7.658
+    },
+    {
+     "w": "a",
+     "t": 7.8
+    },
+    {
+     "w": "tool",
+     "t": 7.859
+    },
+    {
+     "w": "not",
+     "t": 8.507
+    },
+    {
+     "w": "a",
+     "t": 8.766
+    },
+    {
+     "w": "replacement",
+     "t": 8.802
+    },
+    {
+     "w": "That's",
+     "t": 9.769
+    },
+    {
+     "w": "week",
+     "t": 10.123
+    },
+    {
+     "w": "two",
+     "t": 10.358
+    }
+   ]
+  }
+ ],
+ "id": "w2",
+ "total": 188.67
+}

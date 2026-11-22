@@ -1,0 +1,642 @@
+{
+ "week": 0,
+ "title": "The volatility moat: equity, reputation and crisis response",
+ "speaker": "Justin Papps, Tenet, Week 3",
+ "beats": [
+  {
+   "set": "stage",
+   "say": "The volatility moat. Strong brands survive turbulence when brand equity, reputation and crisis response all work together.",
+   "board": {
+    "title": "The **volatility moat**",
+    "steps": [
+     {
+      "text": "**Brand equity**: mind + money",
+      "cue": "equity",
+      "at": 4.132
+     },
+     {
+      "text": "**Reputation**: how you're judged",
+      "cue": "reputation",
+      "at": 4.769
+     },
+     {
+      "text": "**Crisis response**: how you act",
+      "cue": "crisis",
+      "at": 5.783
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "a",
+     "look": "student",
+     "at": "front",
+     "v": 2
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "together",
+     "pose": "up",
+     "expr": "grin",
+     "at": 7.092
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "together",
+     "shot": "close",
+     "at": 7.092
+    }
+   ],
+   "audio": "audio/m-volatility-moat-00.mp3",
+   "leadIn": 0.45,
+   "seconds": 8.49,
+   "words": [
+    {
+     "w": "The",
+     "t": 0.5
+    },
+    {
+     "w": "volatility",
+     "t": 0.653
+    },
+    {
+     "w": "moat",
+     "t": 1.314
+    },
+    {
+     "w": "Strong",
+     "t": 2.033
+    },
+    {
+     "w": "brands",
+     "t": 2.481
+    },
+    {
+     "w": "survive",
+     "t": 2.764
+    },
+    {
+     "w": "turbulence",
+     "t": 3.118
+    },
+    {
+     "w": "when",
+     "t": 3.625
+    },
+    {
+     "w": "brand",
+     "t": 3.79
+    },
+    {
+     "w": "equity",
+     "t": 4.132
+    },
+    {
+     "w": "reputation",
+     "t": 4.769
+    },
+    {
+     "w": "and",
+     "t": 5.641
+    },
+    {
+     "w": "crisis",
+     "t": 5.783
+    },
+    {
+     "w": "response",
+     "t": 6.219
+    },
+    {
+     "w": "all",
+     "t": 6.656
+    },
+    {
+     "w": "work",
+     "t": 6.891
+    },
+    {
+     "w": "together",
+     "t": 7.092
+    }
+   ]
+  },
+  {
+   "set": "plaza",
+   "say": "KFC in the UK once ran out of chicken. Customers turned up to closed doors, and they were furious.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "l"
+    },
+    {
+     "id": "s1",
+     "look": "shopper",
+     "at": "shop",
+     "v": 3
+    },
+    {
+     "id": "s2",
+     "look": "student",
+     "at": "r",
+     "v": 2
+    }
+   ],
+   "acts": [
+    {
+     "who": "s1",
+     "cue": "closed",
+     "expr": "shock",
+     "at": 4.391
+    },
+    {
+     "who": "s2",
+     "cue": "furious",
+     "pose": "hips",
+     "expr": "stern",
+     "at": 5.854
+    }
+   ],
+   "fx": [
+    {
+     "kind": "exclaim",
+     "who": "s1",
+     "cue": "closed",
+     "at": 4.391
+    },
+    {
+     "kind": "cross",
+     "who": "s2",
+     "cue": "furious",
+     "at": 5.854
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "closed",
+     "shot": "actor",
+     "who": "s1",
+     "at": 4.391
+    },
+    {
+     "cue": "furious",
+     "shot": "actor",
+     "who": "s2",
+     "at": 5.854
+    }
+   ],
+   "audio": "audio/m-volatility-moat-01.mp3",
+   "leadIn": 0.45,
+   "seconds": 7.386,
+   "words": [
+    {
+     "w": "KFC",
+     "t": 0.5
+    },
+    {
+     "w": "in",
+     "t": 1.172
+    },
+    {
+     "w": "the",
+     "t": 1.314
+    },
+    {
+     "w": "UK",
+     "t": 1.361
+    },
+    {
+     "w": "once",
+     "t": 1.844
+    },
+    {
+     "w": "ran",
+     "t": 2.198
+    },
+    {
+     "w": "out",
+     "t": 2.481
+    },
+    {
+     "w": "of",
+     "t": 2.587
+    },
+    {
+     "w": "chicken",
+     "t": 2.67
+    },
+    {
+     "w": "Customers",
+     "t": 3.436
+    },
+    {
+     "w": "turned",
+     "t": 3.943
+    },
+    {
+     "w": "up",
+     "t": 4.179
+    },
+    {
+     "w": "to",
+     "t": 4.309
+    },
+    {
+     "w": "closed",
+     "t": 4.391
+    },
+    {
+     "w": "doors",
+     "t": 4.734
+    },
+    {
+     "w": "and",
+     "t": 5.453
+    },
+    {
+     "w": "they",
+     "t": 5.606
+    },
+    {
+     "w": "were",
+     "t": 5.759
+    },
+    {
+     "w": "furious",
+     "t": 5.854
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "But the brand owned it with a cheeky apology, and kept its equity and reputation. Tesla broke all three legs. VW survived on equity alone.",
+   "board": {
+    "title": "Three **legs**",
+    "lines": [
+     {
+      "text": "**KFC UK**: kept all three",
+      "cue": "kept",
+      "at": 2.976
+     },
+     {
+      "text": "**Tesla**: broke all three",
+      "cue": "Tesla",
+      "at": 5.016
+     },
+     {
+      "text": "**VW**: equity alone",
+      "cue": "survived",
+      "at": 7.705
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "l"
+    },
+    {
+     "id": "e1",
+     "look": "exec_f",
+     "at": "table",
+     "v": 1,
+     "hold": "laptop",
+     "pose": "hold"
+    },
+    {
+     "id": "e2",
+     "look": "exec",
+     "at": "table2",
+     "v": 2
+    }
+   ],
+   "acts": [
+    {
+     "who": "e1",
+     "cue": "apology",
+     "expr": "laugh",
+     "at": 1.986
+    },
+    {
+     "who": "e2",
+     "cue": "broke",
+     "expr": "shock",
+     "at": 5.417
+    },
+    {
+     "who": "host",
+     "cue": "survived",
+     "pose": "shrug",
+     "at": 7.705
+    }
+   ],
+   "fx": [
+    {
+     "kind": "heart",
+     "who": "e1",
+     "cue": "apology",
+     "at": 1.986
+    },
+    {
+     "kind": "tick",
+     "who": "e1",
+     "cue": "kept",
+     "at": 2.976
+    },
+    {
+     "kind": "cross",
+     "who": "e2",
+     "cue": "broke",
+     "at": 5.417
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "apology",
+     "shot": "actor",
+     "who": "e1",
+     "at": 1.986
+    },
+    {
+     "cue": "Tesla",
+     "shot": "board",
+     "at": 5.016
+    },
+    {
+     "cue": "survived",
+     "shot": "close",
+     "at": 7.705
+    }
+   ],
+   "audio": "audio/m-volatility-moat-02.mp3",
+   "leadIn": 0.45,
+   "seconds": 10.218,
+   "words": [
+    {
+     "w": "But",
+     "t": 0.5
+    },
+    {
+     "w": "the",
+     "t": 0.665
+    },
+    {
+     "w": "brand",
+     "t": 0.736
+    },
+    {
+     "w": "owned",
+     "t": 1.16
+    },
+    {
+     "w": "it",
+     "t": 1.325
+    },
+    {
+     "w": "with",
+     "t": 1.443
+    },
+    {
+     "w": "a",
+     "t": 1.573
+    },
+    {
+     "w": "cheeky",
+     "t": 1.62
+    },
+    {
+     "w": "apology",
+     "t": 1.986
+    },
+    {
+     "w": "and",
+     "t": 2.823
+    },
+    {
+     "w": "kept",
+     "t": 2.976
+    },
+    {
+     "w": "its",
+     "t": 3.224
+    },
+    {
+     "w": "equity",
+     "t": 3.366
+    },
+    {
+     "w": "and",
+     "t": 3.814
+    },
+    {
+     "w": "reputation",
+     "t": 3.967
+    },
+    {
+     "w": "Tesla",
+     "t": 5.016
+    },
+    {
+     "w": "broke",
+     "t": 5.417
+    },
+    {
+     "w": "all",
+     "t": 5.736
+    },
+    {
+     "w": "three",
+     "t": 5.972
+    },
+    {
+     "w": "legs",
+     "t": 6.219
+    },
+    {
+     "w": "VW",
+     "t": 7.033
+    },
+    {
+     "w": "survived",
+     "t": 7.705
+    },
+    {
+     "w": "on",
+     "t": 8.259
+    },
+    {
+     "w": "equity",
+     "t": 8.472
+    },
+    {
+     "w": "alone",
+     "t": 8.814
+    }
+   ]
+  },
+  {
+   "set": "stage",
+   "say": "Use it like this: test a brand on all three legs before a crisis hits, not after.",
+   "board": {
+    "title": "Use it like **this**",
+    "lines": [
+     {
+      "text": "Test **all three** legs",
+      "cue": "test",
+      "at": 1.762
+     },
+     {
+      "text": "**Before** the crisis",
+      "cue": "before",
+      "at": 3.342
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "a",
+     "look": "student",
+     "at": "front",
+     "v": 5
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "after",
+     "pose": "point",
+     "expr": "stern",
+     "at": 4.781
+    }
+   ],
+   "fx": [
+    {
+     "kind": "exclaim",
+     "who": "a",
+     "cue": "after",
+     "at": 4.781
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "after",
+     "shot": "close",
+     "at": 4.781
+    }
+   ],
+   "hold": 1.0,
+   "audio": "audio/m-volatility-moat-03.mp3",
+   "leadIn": 0.45,
+   "seconds": 6.538,
+   "words": [
+    {
+     "w": "Use",
+     "t": 0.5
+    },
+    {
+     "w": "it",
+     "t": 0.818
+    },
+    {
+     "w": "like",
+     "t": 0.901
+    },
+    {
+     "w": "this",
+     "t": 1.113
+    },
+    {
+     "w": "test",
+     "t": 1.762
+    },
+    {
+     "w": "a",
+     "t": 2.033
+    },
+    {
+     "w": "brand",
+     "t": 2.068
+    },
+    {
+     "w": "on",
+     "t": 2.422
+    },
+    {
+     "w": "all",
+     "t": 2.575
+    },
+    {
+     "w": "three",
+     "t": 2.788
+    },
+    {
+     "w": "legs",
+     "t": 3.024
+    },
+    {
+     "w": "before",
+     "t": 3.342
+    },
+    {
+     "w": "a",
+     "t": 3.637
+    },
+    {
+     "w": "crisis",
+     "t": 3.672
+    },
+    {
+     "w": "hits",
+     "t": 4.073
+    },
+    {
+     "w": "not",
+     "t": 4.58
+    },
+    {
+     "w": "after",
+     "t": 4.781
+    }
+   ]
+  }
+ ],
+ "id": "m-volatility-moat",
+ "total": 32.67
+}

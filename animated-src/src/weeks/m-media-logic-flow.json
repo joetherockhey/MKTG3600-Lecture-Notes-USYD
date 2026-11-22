@@ -1,0 +1,717 @@
+{
+ "week": 0,
+ "title": "The logic flow in media decision-making (and eight channel inputs)",
+ "speaker": "Ali Coysh, Initiative, Week 11",
+ "beats": [
+  {
+   "set": "office",
+   "say": "Media decisions follow a logic flow. Start with the journey stage. Find the bond or barrier. Set the media role. Then narrow down channel, platform and environment, guided by eight inputs.",
+   "board": {
+    "title": "The media **logic flow**",
+    "steps": [
+     {
+      "text": "**Journey stage**: where they are",
+      "cue": "journey",
+      "at": 3.825
+     },
+     {
+      "text": "**Bond or barrier**",
+      "cue": "barrier",
+      "at": 6.078
+     },
+     {
+      "text": "**Media role**: what media must do",
+      "cue": "role",
+      "at": 7.8
+     },
+     {
+      "text": "**Channel**, platform, environment",
+      "cue": "channel",
+      "at": 9.427
+     },
+     {
+      "text": "**Eight inputs** guide it",
+      "cue": "eight",
+      "at": 12.245
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "e",
+     "look": "exec_f",
+     "v": 5,
+     "at": "table"
+    }
+   ],
+   "acts": [
+    {
+     "who": "e",
+     "cue": "barrier",
+     "pose": "chin",
+     "at": 6.078
+    },
+    {
+     "who": "host",
+     "cue": "narrow",
+     "pose": "point",
+     "at": 8.861
+    }
+   ],
+   "fx": [
+    {
+     "kind": "brain",
+     "who": "e",
+     "cue": "barrier",
+     "at": 6.078
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "barrier",
+     "shot": "actor",
+     "who": "e",
+     "at": 6.078
+    },
+    {
+     "cue": "narrow",
+     "shot": "board",
+     "at": 8.861
+    }
+   ],
+   "audio": "audio/m-media-logic-flow-00.mp3",
+   "leadIn": 0.45,
+   "seconds": 13.938,
+   "words": [
+    {
+     "w": "Media",
+     "t": 0.5
+    },
+    {
+     "w": "decisions",
+     "t": 0.96
+    },
+    {
+     "w": "follow",
+     "t": 1.526
+    },
+    {
+     "w": "a",
+     "t": 1.868
+    },
+    {
+     "w": "logic",
+     "t": 1.95
+    },
+    {
+     "w": "flow",
+     "t": 2.34
+    },
+    {
+     "w": "Start",
+     "t": 3.106
+    },
+    {
+     "w": "with",
+     "t": 3.578
+    },
+    {
+     "w": "the",
+     "t": 3.743
+    },
+    {
+     "w": "journey",
+     "t": 3.825
+    },
+    {
+     "w": "stage",
+     "t": 4.167
+    },
+    {
+     "w": "Find",
+     "t": 5.028
+    },
+    {
+     "w": "the",
+     "t": 5.453
+    },
+    {
+     "w": "bond",
+     "t": 5.535
+    },
+    {
+     "w": "or",
+     "t": 5.936
+    },
+    {
+     "w": "barrier",
+     "t": 6.078
+    },
+    {
+     "w": "Set",
+     "t": 6.927
+    },
+    {
+     "w": "the",
+     "t": 7.304
+    },
+    {
+     "w": "media",
+     "t": 7.387
+    },
+    {
+     "w": "role",
+     "t": 7.8
+    },
+    {
+     "w": "Then",
+     "t": 8.554
+    },
+    {
+     "w": "narrow",
+     "t": 8.861
+    },
+    {
+     "w": "down",
+     "t": 9.179
+    },
+    {
+     "w": "channel",
+     "t": 9.427
+    },
+    {
+     "w": "platform",
+     "t": 10.005
+    },
+    {
+     "w": "and",
+     "t": 10.689
+    },
+    {
+     "w": "environment",
+     "t": 10.818
+    },
+    {
+     "w": "guided",
+     "t": 11.667
+    },
+    {
+     "w": "by",
+     "t": 11.998
+    },
+    {
+     "w": "eight",
+     "t": 12.245
+    },
+    {
+     "w": "inputs",
+     "t": 12.446
+    }
+   ]
+  },
+  {
+   "set": "street",
+   "say": "NRMA Insurance in Queensland had a barrier: locals saw it as an outsider. So media's role was building local credibility.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "front",
+     "pose": "none"
+    },
+    {
+     "id": "p1",
+     "look": "elder",
+     "v": 3,
+     "at": "bus"
+    },
+    {
+     "id": "p2",
+     "look": "shopper",
+     "v": 4,
+     "at": "kerb"
+    }
+   ],
+   "acts": [
+    {
+     "who": "p1",
+     "cue": "outsider",
+     "pose": "shrug",
+     "expr": "stern",
+     "at": 4.191
+    },
+    {
+     "who": "host",
+     "cue": "credibility",
+     "pose": "up",
+     "expr": "grin",
+     "at": 7.151
+    }
+   ],
+   "fx": [
+    {
+     "kind": "think",
+     "who": "p1",
+     "cue": "outsider",
+     "text": "Not from here.",
+     "at": 4.191
+    },
+    {
+     "kind": "tick",
+     "who": "host",
+     "cue": "credibility",
+     "at": 7.151
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "outsider",
+     "shot": "actor",
+     "who": "p1",
+     "at": 4.191
+    },
+    {
+     "cue": "credibility",
+     "shot": "host",
+     "at": 7.151
+    }
+   ],
+   "audio": "audio/m-media-logic-flow-01.mp3",
+   "leadIn": 0.45,
+   "seconds": 8.754,
+   "words": [
+    {
+     "w": "NRMA",
+     "t": 0.5
+    },
+    {
+     "w": "Insurance",
+     "t": 1.078
+    },
+    {
+     "w": "in",
+     "t": 1.585
+    },
+    {
+     "w": "Queensland",
+     "t": 1.679
+    },
+    {
+     "w": "had",
+     "t": 2.175
+    },
+    {
+     "w": "a",
+     "t": 2.328
+    },
+    {
+     "w": "barrier",
+     "t": 2.363
+    },
+    {
+     "w": "locals",
+     "t": 3.153
+    },
+    {
+     "w": "saw",
+     "t": 3.566
+    },
+    {
+     "w": "it",
+     "t": 3.837
+    },
+    {
+     "w": "as",
+     "t": 3.943
+    },
+    {
+     "w": "an",
+     "t": 4.097
+    },
+    {
+     "w": "outsider",
+     "t": 4.191
+    },
+    {
+     "w": "So",
+     "t": 5.146
+    },
+    {
+     "w": "media's",
+     "t": 5.476
+    },
+    {
+     "w": "role",
+     "t": 5.866
+    },
+    {
+     "w": "was",
+     "t": 6.208
+    },
+    {
+     "w": "building",
+     "t": 6.396
+    },
+    {
+     "w": "local",
+     "t": 6.785
+    },
+    {
+     "w": "credibility",
+     "t": 7.151
+    }
+   ]
+  },
+  {
+   "set": "home",
+   "say": "The environment was The Courier Mail. A Help Our Highway partnership pushed to fix the Bruce Highway, and the government committed four hundred and sixty-seven million dollars.",
+   "board": {
+    "big": "$467m",
+    "caption": "committed to the **Bruce Highway**",
+    "cue": "committed",
+    "at": 6.325
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "l",
+     "pose": "none"
+    },
+    {
+     "id": "p",
+     "look": "elder",
+     "v": 5,
+     "at": "sofa",
+     "mode": "sit",
+     "hold": "phone",
+     "pose": "hold"
+    },
+    {
+     "id": "q",
+     "look": "shopper",
+     "v": 2,
+     "at": "sofa2",
+     "mode": "sit"
+    }
+   ],
+   "acts": [
+    {
+     "who": "p",
+     "cue": "Highway",
+     "expr": "smile",
+     "at": 3.13
+    },
+    {
+     "who": "q",
+     "cue": "committed",
+     "pose": "cheer",
+     "expr": "laugh",
+     "at": 6.325
+    }
+   ],
+   "fx": [
+    {
+     "kind": "heart",
+     "who": "p",
+     "cue": "Highway",
+     "at": 3.13
+    },
+    {
+     "kind": "money",
+     "who": "q",
+     "cue": "committed",
+     "at": 6.325
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "Highway",
+     "shot": "actor",
+     "who": "p",
+     "at": 3.13
+    },
+    {
+     "cue": "committed",
+     "shot": "board",
+     "at": 6.325
+    }
+   ],
+   "audio": "audio/m-media-logic-flow-02.mp3",
+   "leadIn": 0.45,
+   "seconds": 9.426,
+   "words": [
+    {
+     "w": "The",
+     "t": 0.5
+    },
+    {
+     "w": "environment",
+     "t": 0.677
+    },
+    {
+     "w": "was",
+     "t": 1.231
+    },
+    {
+     "w": "The",
+     "t": 1.455
+    },
+    {
+     "w": "Courier",
+     "t": 1.55
+    },
+    {
+     "w": "Mail",
+     "t": 1.88
+    },
+    {
+     "w": "A",
+     "t": 2.634
+    },
+    {
+     "w": "Help",
+     "t": 2.752
+    },
+    {
+     "w": "Our",
+     "t": 3.0
+    },
+    {
+     "w": "Highway",
+     "t": 3.13
+    },
+    {
+     "w": "partnership",
+     "t": 3.484
+    },
+    {
+     "w": "pushed",
+     "t": 4.05
+    },
+    {
+     "w": "to",
+     "t": 4.321
+    },
+    {
+     "w": "fix",
+     "t": 4.38
+    },
+    {
+     "w": "the",
+     "t": 4.627
+    },
+    {
+     "w": "Bruce",
+     "t": 4.71
+    },
+    {
+     "w": "Highway",
+     "t": 4.969
+    },
+    {
+     "w": "and",
+     "t": 5.748
+    },
+    {
+     "w": "the",
+     "t": 5.866
+    },
+    {
+     "w": "government",
+     "t": 5.913
+    },
+    {
+     "w": "committed",
+     "t": 6.325
+    },
+    {
+     "w": "four",
+     "t": 6.667
+    },
+    {
+     "w": "hundred",
+     "t": 6.927
+    },
+    {
+     "w": "and",
+     "t": 7.139
+    },
+    {
+     "w": "sixty-seven",
+     "t": 7.186
+    },
+    {
+     "w": "million",
+     "t": 7.752
+    },
+    {
+     "w": "dollars",
+     "t": 8.047
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Use it like this: name the barrier first, make the media role answer it, then pick the place.",
+   "board": {
+    "title": "Use it like **this**",
+    "lines": [
+     {
+      "text": "Name the **barrier**",
+      "cue": "barrier",
+      "at": 2.068
+     },
+     {
+      "text": "Role **answers** it",
+      "cue": "answer",
+      "at": 4.014
+     },
+     {
+      "text": "Then the **place**",
+      "cue": "place",
+      "at": 5.123
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "point"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "place",
+     "pose": "cheer",
+     "expr": "grin",
+     "at": 5.123
+    }
+   ],
+   "fx": [
+    {
+     "kind": "tick",
+     "who": "host",
+     "cue": "place",
+     "at": 5.123
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "place",
+     "shot": "close",
+     "at": 5.123
+    }
+   ],
+   "hold": 1.0,
+   "audio": "audio/m-media-logic-flow-03.mp3",
+   "leadIn": 0.45,
+   "seconds": 6.946,
+   "words": [
+    {
+     "w": "Use",
+     "t": 0.5
+    },
+    {
+     "w": "it",
+     "t": 0.818
+    },
+    {
+     "w": "like",
+     "t": 0.889
+    },
+    {
+     "w": "this",
+     "t": 1.066
+    },
+    {
+     "w": "name",
+     "t": 1.703
+    },
+    {
+     "w": "the",
+     "t": 2.009
+    },
+    {
+     "w": "barrier",
+     "t": 2.068
+    },
+    {
+     "w": "first",
+     "t": 2.41
+    },
+    {
+     "w": "make",
+     "t": 3.13
+    },
+    {
+     "w": "the",
+     "t": 3.354
+    },
+    {
+     "w": "media",
+     "t": 3.413
+    },
+    {
+     "w": "role",
+     "t": 3.767
+    },
+    {
+     "w": "answer",
+     "t": 4.014
+    },
+    {
+     "w": "it",
+     "t": 4.274
+    },
+    {
+     "w": "then",
+     "t": 4.627
+    },
+    {
+     "w": "pick",
+     "t": 4.828
+    },
+    {
+     "w": "the",
+     "t": 5.04
+    },
+    {
+     "w": "place",
+     "t": 5.123
+    }
+   ]
+  }
+ ],
+ "id": "m-media-logic-flow",
+ "total": 39.07
+}

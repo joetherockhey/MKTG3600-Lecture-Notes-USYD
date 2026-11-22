@@ -1,0 +1,1377 @@
+{
+ "week": 3,
+ "title": "What are brands and why do they matter?",
+ "speaker": "Justin Papps",
+ "beats": [
+  {
+   "set": "stage",
+   "say": "Week three. Why do brands matter? Justin Papps from Tenet defines a brand as beliefs and perceptions that create a positive predisposition at the point of choice.",
+   "board": {
+    "photo": "photos/w3.jpg",
+    "title": "What are **brands** and why do they matter?",
+    "name": "Justin Papps",
+    "org": "Tenet, Advisory and Investments"
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "a",
+     "look": "student",
+     "v": 2,
+     "at": "front"
+    },
+    {
+     "id": "b",
+     "look": "student",
+     "v": 5,
+     "at": "r"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "positive",
+     "pose": "up",
+     "expr": "grin"
+    },
+    {
+     "who": "a",
+     "cue": "choice",
+     "pose": "chin"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "Justin",
+     "shot": "board"
+    },
+    {
+     "cue": "positive",
+     "shot": "close"
+    }
+   ]
+  },
+  {
+   "set": "plaza",
+   "say": "So a brand lives in the customer's head, not your guidelines, and the work happens before purchase. Marketing is persuasion.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "l"
+    },
+    {
+     "id": "s1",
+     "look": "shopper",
+     "v": 1,
+     "at": "walkR",
+     "to": "shelf",
+     "hold": "bag",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "head",
+     "pose": "point"
+    },
+    {
+     "who": "s1",
+     "cue": "purchase",
+     "pose": "up",
+     "expr": "smile"
+    },
+    {
+     "who": "host",
+     "cue": "persuasion",
+     "pose": "present",
+     "expr": "grin"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "brain",
+     "who": "s1",
+     "cue": "head"
+    },
+    {
+     "kind": "heart",
+     "who": "s1",
+     "cue": "purchase"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "head",
+     "shot": "actor",
+     "who": "s1"
+    },
+    {
+     "cue": "persuasion",
+     "shot": "host"
+    }
+   ]
+  },
+  {
+   "set": "stage",
+   "say": "Brand first meant to burn. Then the mark showed ownership, then who made it, then a reputation for quality. Now it means what it says about you.",
+   "board": {
+    "title": "Five stages of the **mark**",
+    "steps": [
+     {
+      "text": "**Burn**",
+      "cue": "burn"
+     },
+     {
+      "text": "**Ownership**",
+      "cue": "ownership"
+     },
+     {
+      "text": "**Identity**: who made it",
+      "cue": "made"
+     },
+     {
+      "text": "**Reputation**: quality",
+      "cue": "reputation"
+     },
+     {
+      "text": "**Meaning**: says about you",
+      "cue": "means"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "point"
+    },
+    {
+     "id": "f",
+     "look": "farmer",
+     "v": 1,
+     "at": "r"
+    }
+   ],
+   "acts": [
+    {
+     "who": "f",
+     "cue": "burn",
+     "pose": "cheer",
+     "expr": "grin"
+    },
+    {
+     "who": "f",
+     "cue": "means",
+     "pose": "hips",
+     "expr": "smile_closed"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "burst",
+     "who": "f",
+     "cue": "burn"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "burn",
+     "shot": "actor",
+     "who": "f"
+    },
+    {
+     "cue": "reputation",
+     "shot": "board"
+    }
+   ]
+  },
+  {
+   "set": "street",
+   "say": "Associations cluster around the founder, what the company does, and adjectives. Tesla shows the founder link cuts both ways. Keep the link positive and consistent.",
+   "board": {
+    "title": "What comes to **mind**?",
+    "lines": [
+     {
+      "text": "The **founder**",
+      "cue": "founder"
+     },
+     {
+      "text": "What the company **does**",
+      "cue": "does"
+     },
+     {
+      "text": "**Adjectives**",
+      "cue": "adjectives"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "front"
+    },
+    {
+     "id": "p1",
+     "look": "exec",
+     "v": 2,
+     "at": "l"
+    },
+    {
+     "id": "p2",
+     "look": "shopper",
+     "v": 3,
+     "at": "r",
+     "hold": "phone",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "p1",
+     "cue": "both",
+     "pose": "up",
+     "expr": "grin"
+    },
+    {
+     "who": "p2",
+     "cue": "ways",
+     "pose": "shrug",
+     "expr": "stern",
+     "mirror": true
+    },
+    {
+     "who": "host",
+     "cue": "consistent",
+     "pose": "point"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "heart",
+     "who": "p1",
+     "cue": "both"
+    },
+    {
+     "kind": "cross",
+     "who": "p2",
+     "cue": "ways"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "Tesla",
+     "shot": "wide"
+    },
+    {
+     "cue": "Keep",
+     "shot": "host"
+    }
+   ]
+  },
+  {
+   "set": "street",
+   "say": "Brand exposures went from ten to twenty a day in the seventeen hundreds to ten thousand today, and our brains haven't grown. The battle moved from the aisle to a phone screen.",
+   "board": {
+    "title": "Brand exposures **per day**",
+    "bars": [
+     {
+      "label": "1700s",
+      "value": 20,
+      "display": "10-20",
+      "cue": "ten"
+     },
+     {
+      "label": "1800s",
+      "value": 100,
+      "display": "50-100",
+      "cue": "twenty"
+     },
+     {
+      "label": "1900s",
+      "value": 1500,
+      "display": "500-1,500",
+      "cue": "hundreds"
+     },
+     {
+      "label": "Today",
+      "value": 10000,
+      "display": "5,000-10,000",
+      "cue": "today"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "front"
+    },
+    {
+     "id": "p1",
+     "look": "student",
+     "v": 1,
+     "at": "r",
+     "hold": "phone",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "p1",
+     "cue": "today",
+     "pose": "none",
+     "expr": "dazed"
+    },
+    {
+     "who": "host",
+     "cue": "brains",
+     "pose": "shrug"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "burst",
+     "who": "p1",
+     "cue": "today"
+    },
+    {
+     "kind": "brain",
+     "who": "host",
+     "cue": "brains"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "today",
+     "shot": "actor",
+     "who": "p1"
+    },
+    {
+     "cue": "brains",
+     "shot": "close"
+    },
+    {
+     "cue": "phone",
+     "shot": "wide"
+    }
+   ]
+  },
+  {
+   "set": "stage",
+   "say": "Five reasons brands matter: economic engines, behavioural shortcuts, strategy in action, shaping culture, and volatility moats.",
+   "board": {
+    "title": "Five reasons **brands matter**",
+    "steps": [
+     {
+      "text": "**Economic** engines",
+      "cue": "economic"
+     },
+     {
+      "text": "**Behavioural** shortcuts",
+      "cue": "behavioural"
+     },
+     {
+      "text": "**Strategy** in action",
+      "cue": "strategy"
+     },
+     {
+      "text": "Shape **culture**",
+      "cue": "culture"
+     },
+     {
+      "text": "**Volatility** moats",
+      "cue": "volatility"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "culture",
+     "shot": "host"
+    }
+   ]
+  },
+  {
+   "set": "plaza",
+   "say": "One, economic engines. A Louis Vuitton backpack costs fifteen point six times a Maverick and Co bag that beats it on compartments and warranty.",
+   "board": {
+    "title": "The backpack test",
+    "big": "15.6x",
+    "caption": "the price, for a **weaker spec**",
+    "cue": "fifteen"
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "point"
+    },
+    {
+     "id": "s1",
+     "look": "exec_f",
+     "v": 1,
+     "at": "shop",
+     "hold": "bag",
+     "pose": "hold",
+     "holdCol": "#7a5230"
+    },
+    {
+     "id": "s2",
+     "look": "student",
+     "v": 4,
+     "at": "r",
+     "hold": "bag",
+     "pose": "hold",
+     "holdCol": "#333333"
+    }
+   ],
+   "acts": [
+    {
+     "who": "s1",
+     "cue": "Vuitton",
+     "expr": "grin"
+    },
+    {
+     "who": "s2",
+     "cue": "warranty",
+     "pose": "shrug",
+     "expr": "nervous"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "money",
+     "who": "s1",
+     "cue": "fifteen"
+    },
+    {
+     "kind": "tick",
+     "who": "s2",
+     "cue": "compartments"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "Vuitton",
+     "shot": "actor",
+     "who": "s1"
+    },
+    {
+     "cue": "compartments",
+     "shot": "actor",
+     "who": "s2"
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "An iPhone costs about four hundred and fifty to make and sells for up to sixteen hundred, a margin of sixty-seven percent plus. If brands didn't matter, Amazon would list products alphabetically.",
+   "board": {
+    "title": "iPhone 16 economics",
+    "big": "67%+",
+    "caption": "margin, and a **$500bn** brand",
+    "cue": "sixty"
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "e1",
+     "look": "exec",
+     "v": 5,
+     "at": "table",
+     "hold": "phone",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "e1",
+     "cue": "sixty",
+     "pose": "cheer",
+     "expr": "laugh"
+    },
+    {
+     "who": "host",
+     "cue": "Amazon",
+     "pose": "up",
+     "expr": "grin"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "money",
+     "who": "e1",
+     "cue": "sixty"
+    },
+    {
+     "kind": "bulb",
+     "who": "host",
+     "cue": "alphabetically"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "sixty",
+     "shot": "actor",
+     "who": "e1"
+    },
+    {
+     "cue": "Amazon",
+     "shot": "close"
+    }
+   ]
+  },
+  {
+   "set": "plaza",
+   "say": "Two, behavioural shortcuts. Kahneman's System One is about ninety-five percent of thinking: fast and unconscious. System Two is slow and logical, for big decisions. Brands aim at System One.",
+   "board": {
+    "title": "Kahneman's **two systems**",
+    "vs": {
+     "left": "System 1, ~95%",
+     "right": "System 2, ~5%",
+     "leftItems": [
+      "Fast",
+      "Unconscious",
+      "Everyday"
+     ],
+     "rightItems": [
+      "Slow",
+      "Logical",
+      "Expensive choices"
+     ],
+     "cue": "System"
+    }
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "s1",
+     "look": "shopper",
+     "v": 5,
+     "at": "walkR",
+     "to": "shelf",
+     "hold": "box",
+     "pose": "hold"
+    },
+    {
+     "id": "s2",
+     "look": "elder",
+     "v": 4,
+     "at": "stall",
+     "pose": "chin"
+    }
+   ],
+   "acts": [
+    {
+     "who": "s1",
+     "cue": "fast",
+     "expr": "smile"
+    },
+    {
+     "who": "s2",
+     "cue": "slow",
+     "expr": "nervous"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "sparkle",
+     "who": "s1",
+     "cue": "fast"
+    },
+    {
+     "kind": "think",
+     "who": "s2",
+     "text": "Compare every spec...",
+     "cue": "slow"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "fast",
+     "shot": "actor",
+     "who": "s1"
+    },
+    {
+     "cue": "slow",
+     "shot": "actor",
+     "who": "s2"
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Brand strategy rests on four pillars: relevance, distinctiveness, consistency and availability. Land all four and you get cut-through and salience.",
+   "board": {
+    "title": "Four pillars of **brand strategy**",
+    "steps": [
+     {
+      "text": "**Relevance**",
+      "cue": "relevance"
+     },
+     {
+      "text": "**Distinctiveness**",
+      "cue": "distinctiveness"
+     },
+     {
+      "text": "**Consistency**",
+      "cue": "consistency"
+     },
+     {
+      "text": "**Availability**",
+      "cue": "availability"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "point"
+    },
+    {
+     "id": "e1",
+     "look": "exec_f",
+     "v": 3,
+     "at": "table",
+     "hold": "clipboard",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "e1",
+     "cue": "salience",
+     "pose": "cheer",
+     "expr": "grin"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "stars",
+     "who": "e1",
+     "cue": "salience"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "salience",
+     "shot": "two",
+     "who": "e1"
+    }
+   ]
+  },
+  {
+   "set": "street",
+   "say": "Distinctive assets compound with age. But Ipsos found a paradox: logos are in ninety-four percent of ads and return one point four times. Sonic cues are in six percent and return eight point five.",
+   "board": {
+    "title": "The DBA **paradox**",
+    "bars": [
+     {
+      "label": "Logos",
+      "value": 1.4,
+      "display": "1.4x",
+      "cue": "Logos"
+     },
+     {
+      "label": "Colours",
+      "value": 1.5,
+      "display": "1.5x",
+      "cue": "percent"
+     },
+     {
+      "label": "Taglines",
+      "value": 2.2,
+      "display": "2.2x",
+      "cue": "return"
+     },
+     {
+      "label": "Characters",
+      "value": 6.0,
+      "display": "6.0x",
+      "cue": "Sonic"
+     },
+     {
+      "label": "Sonic cues",
+      "value": 8.5,
+      "display": "8.5x",
+      "cue": "eight"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "front"
+    },
+    {
+     "id": "p1",
+     "look": "worker",
+     "v": 3,
+     "at": "walkL",
+     "to": "l",
+     "walkCue": "Sonic"
+    }
+   ],
+   "acts": [
+    {
+     "who": "p1",
+     "cue": "eight",
+     "pose": "up",
+     "expr": "whistle"
+    },
+    {
+     "who": "host",
+     "cue": "five",
+     "pose": "cheer",
+     "expr": "grin"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "sparkle",
+     "who": "p1",
+     "cue": "Sonic"
+    },
+    {
+     "kind": "exclaim",
+     "who": "host",
+     "cue": "eight"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "Ipsos",
+     "shot": "wide"
+    },
+    {
+     "cue": "Sonic",
+     "shot": "board"
+    },
+    {
+     "cue": "eight",
+     "shot": "two",
+     "who": "p1"
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Three, strategy in action. Segmentation, targeting and positioning are business decisions with trade-offs. Get them right for a positive return on marketing investment.",
+   "board": {
+    "title": "Strategy **in action**",
+    "steps": [
+     {
+      "text": "**Segmentation**: know your customers",
+      "cue": "Segmentation"
+     },
+     {
+      "text": "**Targeting**: where and how often",
+      "cue": "targeting"
+     },
+     {
+      "text": "**Positioning**: distinct, relevant",
+      "cue": "positioning"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "point"
+    },
+    {
+     "id": "e1",
+     "look": "exec",
+     "v": 1,
+     "at": "table",
+     "pose": "chin"
+    },
+    {
+     "id": "e2",
+     "look": "exec_f",
+     "v": 4,
+     "at": "table2",
+     "hold": "laptop",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "e1",
+     "cue": "trade",
+     "pose": "shrug",
+     "expr": "nervous"
+    },
+    {
+     "who": "e2",
+     "cue": "positive",
+     "expr": "grin"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "chart",
+     "who": "e2",
+     "cue": "positive"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "trade",
+     "shot": "wide"
+    },
+    {
+     "cue": "positive",
+     "shot": "actor",
+     "who": "e2"
+    }
+   ]
+  },
+  {
+   "set": "home",
+   "say": "Four, brands shape culture. Harley-Davidson, Nike's Kaepernick ad and the RTA speeding campaign work. Pepsi's Kendall Jenner ad failed, borrowing a movement it had no standing in.",
+   "board": {
+    "title": "Brands shape **culture**",
+    "vs": {
+     "left": "Works",
+     "right": "Fails",
+     "leftItems": [
+      "Harley-Davidson",
+      "Nike, Kaepernick",
+      "RTA speeding"
+     ],
+     "rightItems": [
+      "Pepsi, Kendall Jenner"
+     ],
+     "cue": "Harley"
+    }
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "l"
+    },
+    {
+     "id": "a",
+     "look": "shopper",
+     "v": 2,
+     "at": "sofa",
+     "mode": "sit"
+    },
+    {
+     "id": "b",
+     "look": "elder",
+     "v": 1,
+     "at": "sofa2",
+     "mode": "sit"
+    }
+   ],
+   "acts": [
+    {
+     "who": "a",
+     "cue": "work",
+     "pose": "cheer",
+     "expr": "grin"
+    },
+    {
+     "who": "b",
+     "cue": "Pepsi",
+     "expr": "pained"
+    },
+    {
+     "who": "a",
+     "cue": "failed",
+     "pose": "none",
+     "expr": "shock"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "heart",
+     "who": "a",
+     "cue": "work"
+    },
+    {
+     "kind": "cross",
+     "who": "b",
+     "cue": "failed"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "work",
+     "shot": "board"
+    },
+    {
+     "cue": "Pepsi",
+     "shot": "actor",
+     "who": "b"
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Five, volatility moats: equity, reputation and crisis response. Tesla broke all three. Volkswagen survived Dieselgate on equity alone. KFC's FCK bucket rebuilt equity.",
+   "board": {
+    "title": "Volatility **moats**",
+    "lines": [
+     {
+      "text": "Equity + reputation + **crisis response**",
+      "cue": "equity"
+     },
+     {
+      "text": "**Tesla**: broke all three",
+      "cue": "Tesla"
+     },
+     {
+      "text": "**VW**: survived on equity",
+      "cue": "Volkswagen"
+     },
+     {
+      "text": "**KFC UK**: rebuilt equity",
+      "cue": "KFC"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "point"
+    },
+    {
+     "id": "e1",
+     "look": "exec",
+     "v": 7,
+     "at": "door",
+     "pose": "hips"
+    }
+   ],
+   "acts": [
+    {
+     "who": "e1",
+     "cue": "broke",
+     "pose": "none",
+     "expr": "shock"
+    },
+    {
+     "who": "e1",
+     "cue": "survived",
+     "expr": "relief"
+    },
+    {
+     "who": "e1",
+     "cue": "rebuilt",
+     "pose": "cheer",
+     "expr": "grin"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "cross",
+     "who": "e1",
+     "cue": "broke"
+    },
+    {
+     "kind": "tick",
+     "who": "e1",
+     "cue": "rebuilt"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "broke",
+     "shot": "actor",
+     "who": "e1"
+    },
+    {
+     "cue": "KFC",
+     "shot": "board"
+    }
+   ]
+  },
+  {
+   "set": "home",
+   "say": "Consumer equity grows most through referral from family and friends. Stop advertising and you fade from memory, and getting back costs more than holding on.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "r"
+    },
+    {
+     "id": "a",
+     "look": "shopper",
+     "v": 3,
+     "at": "sofa",
+     "mode": "sit"
+    },
+    {
+     "id": "b",
+     "look": "shopper",
+     "v": 4,
+     "at": "sofa2",
+     "mode": "sit"
+    }
+   ],
+   "acts": [
+    {
+     "who": "a",
+     "cue": "referral",
+     "pose": "point",
+     "expr": "smile"
+    },
+    {
+     "who": "b",
+     "cue": "friends",
+     "expr": "grin"
+    },
+    {
+     "who": "host",
+     "cue": "fade",
+     "pose": "shrug",
+     "expr": "nervous"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "say",
+     "who": "a",
+     "text": "You have to try it!",
+     "cue": "referral"
+    },
+    {
+     "kind": "heart",
+     "who": "b",
+     "cue": "friends"
+    },
+    {
+     "kind": "zzz",
+     "who": "host",
+     "cue": "memory"
+    },
+    {
+     "kind": "money",
+     "who": "host",
+     "cue": "costs"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "referral",
+     "shot": "two",
+     "who": "a"
+    },
+    {
+     "cue": "Stop",
+     "shot": "host"
+    }
+   ]
+  },
+  {
+   "set": "street",
+   "say": "An unknown laptop brand can have the best specs and still no trust. Brands must be machine readable and human loveable, not AI slop.",
+   "board": {
+    "title": "The **agentic** era",
+    "lines": [
+     {
+      "text": "Machine **readable**",
+      "cue": "machine"
+     },
+     {
+      "text": "Human **loveable**",
+      "cue": "loveable"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "front"
+    },
+    {
+     "id": "p1",
+     "look": "student",
+     "v": 7,
+     "at": "r",
+     "hold": "phone",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "p1",
+     "cue": "unknown",
+     "pose": "chin",
+     "expr": "nervous"
+    },
+    {
+     "who": "host",
+     "cue": "machine",
+     "pose": "point"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "question",
+     "who": "p1",
+     "cue": "trust"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "unknown",
+     "shot": "actor",
+     "who": "p1"
+    },
+    {
+     "cue": "machine",
+     "shot": "board"
+    }
+   ]
+  },
+  {
+   "set": "plaza",
+   "say": "Marketing is a long game, often two to three years. Sampling breaks the uncertainty barrier. And in B2B, lean on the rational case and keep clear promises.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "l"
+    },
+    {
+     "id": "c1",
+     "look": "chef",
+     "v": 2,
+     "at": "stall",
+     "hold": "box",
+     "pose": "hold"
+    },
+    {
+     "id": "s1",
+     "look": "shopper",
+     "v": 6,
+     "at": "walkR",
+     "to": "c",
+     "walkCue": "Sampling"
+    }
+   ],
+   "acts": [
+    {
+     "who": "s1",
+     "cue": "uncertainty",
+     "pose": "up",
+     "expr": "lick"
+    },
+    {
+     "who": "host",
+     "cue": "promises",
+     "pose": "present"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "clock",
+     "who": "host",
+     "cue": "long"
+    },
+    {
+     "kind": "heart",
+     "who": "s1",
+     "cue": "barrier"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "Sampling",
+     "shot": "two",
+     "who": "s1"
+    },
+    {
+     "cue": "B2B",
+     "shot": "host"
+    }
+   ]
+  },
+  {
+   "set": "stage",
+   "say": "So win before the point of choice, and audit your assets. Attention is cheap. Memory is expensive. Preference is priceless. That's week three.",
+   "board": {
+    "title": "Week 3 **takeaways**",
+    "lines": [
+     {
+      "text": "Win **before** the point of choice",
+      "cue": "win"
+     },
+     {
+      "text": "**Audit** your assets",
+      "cue": "audit"
+     },
+     {
+      "text": "Attention is **cheap**",
+      "cue": "Attention"
+     },
+     {
+      "text": "Memory **expensive**, preference **priceless**",
+      "cue": "Memory"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "a",
+     "look": "student",
+     "v": 2,
+     "at": "front"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "priceless",
+     "pose": "cheer",
+     "expr": "grin"
+    },
+    {
+     "who": "a",
+     "cue": "That's",
+     "pose": "cheer",
+     "expr": "laugh"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "stars",
+     "who": "host",
+     "cue": "priceless"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "Attention",
+     "shot": "close"
+    },
+    {
+     "cue": "That's",
+     "shot": "wide",
+     "glide": true
+    }
+   ],
+   "hold": 1.2
+  }
+ ]
+}

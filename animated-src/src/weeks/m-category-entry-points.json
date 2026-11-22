@@ -1,0 +1,771 @@
+{
+ "week": 0,
+ "title": "Category entry points (CEPs)",
+ "speaker": "Jenni Romaniuk, Ehrenberg-Bass Institute, Better Brand Health, 2022",
+ "beats": [
+  {
+   "set": "plaza",
+   "say": "Category entry points are the cues that send people into a category: occasions, needs, places and people. The more of them a brand links to, the more often it comes to mind.",
+   "board": {
+    "title": "**Category entry points**",
+    "steps": [
+     {
+      "text": "**Occasions** and times",
+      "cue": "occasions",
+      "at": 3.743
+     },
+     {
+      "text": "**Needs** and motives",
+      "cue": "needs",
+      "at": 4.616
+     },
+     {
+      "text": "**Places** and people",
+      "cue": "places",
+      "at": 5.3
+     },
+     {
+      "text": "More links, **more mental availability**",
+      "cue": "links",
+      "at": 7.729
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "s1",
+     "look": "shopper",
+     "v": 5,
+     "at": "front"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "links",
+     "pose": "up",
+     "expr": "grin",
+     "at": 7.729
+    },
+    {
+     "who": "s1",
+     "cue": "mind",
+     "pose": "chin",
+     "at": 9.58
+    }
+   ],
+   "fx": [
+    {
+     "kind": "brain",
+     "who": "s1",
+     "cue": "mind",
+     "at": 9.58
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "links",
+     "shot": "close",
+     "at": 7.729
+    },
+    {
+     "cue": "mind",
+     "shot": "board",
+     "at": 9.58
+    }
+   ],
+   "audio": "audio/m-category-entry-points-00.mp3",
+   "leadIn": 0.45,
+   "seconds": 10.962,
+   "words": [
+    {
+     "w": "Category",
+     "t": 0.5
+    },
+    {
+     "w": "entry",
+     "t": 0.925
+    },
+    {
+     "w": "points",
+     "t": 1.172
+    },
+    {
+     "w": "are",
+     "t": 1.526
+    },
+    {
+     "w": "the",
+     "t": 1.597
+    },
+    {
+     "w": "cues",
+     "t": 1.679
+    },
+    {
+     "w": "that",
+     "t": 1.986
+    },
+    {
+     "w": "send",
+     "t": 2.116
+    },
+    {
+     "w": "people",
+     "t": 2.375
+    },
+    {
+     "w": "into",
+     "t": 2.682
+    },
+    {
+     "w": "a",
+     "t": 2.906
+    },
+    {
+     "w": "category",
+     "t": 2.929
+    },
+    {
+     "w": "occasions",
+     "t": 3.743
+    },
+    {
+     "w": "needs",
+     "t": 4.616
+    },
+    {
+     "w": "places",
+     "t": 5.3
+    },
+    {
+     "w": "and",
+     "t": 5.783
+    },
+    {
+     "w": "people",
+     "t": 5.936
+    },
+    {
+     "w": "The",
+     "t": 6.726
+    },
+    {
+     "w": "more",
+     "t": 6.868
+    },
+    {
+     "w": "of",
+     "t": 7.104
+    },
+    {
+     "w": "them",
+     "t": 7.175
+    },
+    {
+     "w": "a",
+     "t": 7.363
+    },
+    {
+     "w": "brand",
+     "t": 7.399
+    },
+    {
+     "w": "links",
+     "t": 7.729
+    },
+    {
+     "w": "to",
+     "t": 7.976
+    },
+    {
+     "w": "the",
+     "t": 8.507
+    },
+    {
+     "w": "more",
+     "t": 8.59
+    },
+    {
+     "w": "often",
+     "t": 8.896
+    },
+    {
+     "w": "it",
+     "t": 9.203
+    },
+    {
+     "w": "comes",
+     "t": 9.285
+    },
+    {
+     "w": "to",
+     "t": 9.509
+    },
+    {
+     "w": "mind",
+     "t": 9.58
+    }
+   ]
+  },
+  {
+   "set": "plaza",
+   "say": "Three people want a snack. One is studying late, one is on a road trip, one just needs a break. KitKat owns the break.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "far"
+    },
+    {
+     "id": "s1",
+     "look": "student",
+     "v": 1,
+     "at": "l",
+     "hold": "laptop",
+     "pose": "hold"
+    },
+    {
+     "id": "s2",
+     "look": "student",
+     "v": 6,
+     "at": "c"
+    },
+    {
+     "id": "s3",
+     "look": "worker",
+     "v": 2,
+     "at": "r"
+    }
+   ],
+   "acts": [
+    {
+     "who": "s1",
+     "cue": "studying",
+     "expr": "dazed",
+     "at": 2.67
+    },
+    {
+     "who": "s2",
+     "cue": "road",
+     "pose": "cheer",
+     "expr": "grin",
+     "at": 4.132
+    },
+    {
+     "who": "s3",
+     "cue": "break",
+     "pose": "chin",
+     "expr": "relief",
+     "at": 5.583
+    },
+    {
+     "who": "host",
+     "cue": "owns",
+     "pose": "point",
+     "expr": "grin",
+     "at": 6.891
+    }
+   ],
+   "fx": [
+    {
+     "kind": "think",
+     "who": "s1",
+     "text": "Brain needs fuel...",
+     "cue": "studying",
+     "at": 2.67
+    },
+    {
+     "kind": "think",
+     "who": "s2",
+     "text": "Road trip snacks!",
+     "cue": "road",
+     "at": 4.132
+    },
+    {
+     "kind": "think",
+     "who": "s3",
+     "text": "I need a break.",
+     "cue": "break",
+     "at": 5.583
+    },
+    {
+     "kind": "tick",
+     "who": "host",
+     "cue": "owns",
+     "at": 6.891
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "studying",
+     "shot": "actor",
+     "who": "s1",
+     "at": 2.67
+    },
+    {
+     "cue": "road",
+     "shot": "actor",
+     "who": "s2",
+     "at": 4.132
+    },
+    {
+     "cue": "owns",
+     "shot": "actor",
+     "who": "s3",
+     "at": 6.891
+    }
+   ],
+   "audio": "audio/m-category-entry-points-01.mp3",
+   "leadIn": 0.45,
+   "seconds": 8.658,
+   "words": [
+    {
+     "w": "Three",
+     "t": 0.5
+    },
+    {
+     "w": "people",
+     "t": 0.854
+    },
+    {
+     "w": "want",
+     "t": 1.219
+    },
+    {
+     "w": "a",
+     "t": 1.432
+    },
+    {
+     "w": "snack",
+     "t": 1.467
+    },
+    {
+     "w": "One",
+     "t": 2.281
+    },
+    {
+     "w": "is",
+     "t": 2.587
+    },
+    {
+     "w": "studying",
+     "t": 2.67
+    },
+    {
+     "w": "late",
+     "t": 3.083
+    },
+    {
+     "w": "one",
+     "t": 3.684
+    },
+    {
+     "w": "is",
+     "t": 3.896
+    },
+    {
+     "w": "on",
+     "t": 4.002
+    },
+    {
+     "w": "a",
+     "t": 4.085
+    },
+    {
+     "w": "road",
+     "t": 4.132
+    },
+    {
+     "w": "trip",
+     "t": 4.356
+    },
+    {
+     "w": "one",
+     "t": 4.84
+    },
+    {
+     "w": "just",
+     "t": 5.087
+    },
+    {
+     "w": "needs",
+     "t": 5.347
+    },
+    {
+     "w": "a",
+     "t": 5.547
+    },
+    {
+     "w": "break",
+     "t": 5.583
+    },
+    {
+     "w": "KitKat",
+     "t": 6.325
+    },
+    {
+     "w": "owns",
+     "t": 6.891
+    },
+    {
+     "w": "the",
+     "t": 7.198
+    },
+    {
+     "w": "break",
+     "t": 7.281
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "To grow, KitKat can link itself to new entry points, like after study or a road trip. Each new link is another moment it comes to mind.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "l"
+    },
+    {
+     "id": "e1",
+     "look": "exec_f",
+     "v": 3,
+     "at": "table"
+    },
+    {
+     "id": "e2",
+     "look": "exec",
+     "v": 1,
+     "at": "table2"
+    }
+   ],
+   "acts": [
+    {
+     "who": "e1",
+     "cue": "grow",
+     "pose": "up",
+     "expr": "grin",
+     "at": 0.653
+    },
+    {
+     "who": "e2",
+     "cue": "moment",
+     "pose": "cheer",
+     "expr": "laugh",
+     "at": 6.785
+    }
+   ],
+   "fx": [
+    {
+     "kind": "bulb",
+     "who": "e1",
+     "cue": "grow",
+     "at": 0.653
+    },
+    {
+     "kind": "chart",
+     "who": "e2",
+     "cue": "moment",
+     "at": 6.785
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "grow",
+     "shot": "actor",
+     "who": "e1",
+     "at": 0.653
+    },
+    {
+     "cue": "moment",
+     "shot": "two",
+     "who": "e2",
+     "at": 6.785
+    }
+   ],
+   "audio": "audio/m-category-entry-points-02.mp3",
+   "leadIn": 0.45,
+   "seconds": 8.994,
+   "words": [
+    {
+     "w": "To",
+     "t": 0.5
+    },
+    {
+     "w": "grow",
+     "t": 0.653
+    },
+    {
+     "w": "KitKat",
+     "t": 1.29
+    },
+    {
+     "w": "can",
+     "t": 1.738
+    },
+    {
+     "w": "link",
+     "t": 1.868
+    },
+    {
+     "w": "itself",
+     "t": 2.057
+    },
+    {
+     "w": "to",
+     "t": 2.458
+    },
+    {
+     "w": "new",
+     "t": 2.552
+    },
+    {
+     "w": "entry",
+     "t": 2.788
+    },
+    {
+     "w": "points",
+     "t": 3.024
+    },
+    {
+     "w": "like",
+     "t": 3.672
+    },
+    {
+     "w": "after",
+     "t": 3.884
+    },
+    {
+     "w": "study",
+     "t": 4.12
+    },
+    {
+     "w": "or",
+     "t": 4.545
+    },
+    {
+     "w": "a",
+     "t": 4.686
+    },
+    {
+     "w": "road",
+     "t": 4.745
+    },
+    {
+     "w": "trip",
+     "t": 4.958
+    },
+    {
+     "w": "Each",
+     "t": 5.583
+    },
+    {
+     "w": "new",
+     "t": 5.901
+    },
+    {
+     "w": "link",
+     "t": 6.054
+    },
+    {
+     "w": "is",
+     "t": 6.349
+    },
+    {
+     "w": "another",
+     "t": 6.479
+    },
+    {
+     "w": "moment",
+     "t": 6.785
+    },
+    {
+     "w": "it",
+     "t": 7.175
+    },
+    {
+     "w": "comes",
+     "t": 7.292
+    },
+    {
+     "w": "to",
+     "t": 7.528
+    },
+    {
+     "w": "mind",
+     "t": 7.599
+    }
+   ]
+  },
+  {
+   "set": "plaza",
+   "say": "Use it like this: list the category's entry points, see which ones rivals own, and claim an under-used one.",
+   "board": {
+    "title": "Use it **like this**",
+    "lines": [
+     {
+      "text": "**List** the category's entry points",
+      "cue": "list",
+      "at": 1.738
+     },
+     {
+      "text": "See which **rivals** own",
+      "cue": "rivals",
+      "at": 4.097
+     },
+     {
+      "text": "**Claim** an under-used one",
+      "cue": "claim",
+      "at": 5.182
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "s1",
+     "look": "shopper",
+     "v": 5,
+     "at": "front"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "rivals",
+     "pose": "point",
+     "at": 4.097
+    },
+    {
+     "who": "s1",
+     "cue": "claim",
+     "expr": "smile",
+     "at": 5.182
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "claim",
+     "shot": "close",
+     "at": 5.182
+    }
+   ],
+   "hold": 1.0,
+   "audio": "audio/m-category-entry-points-03.mp3",
+   "leadIn": 0.45,
+   "seconds": 7.714,
+   "words": [
+    {
+     "w": "Use",
+     "t": 0.5
+    },
+    {
+     "w": "it",
+     "t": 0.818
+    },
+    {
+     "w": "like",
+     "t": 0.889
+    },
+    {
+     "w": "this",
+     "t": 1.101
+    },
+    {
+     "w": "list",
+     "t": 1.738
+    },
+    {
+     "w": "the",
+     "t": 2.033
+    },
+    {
+     "w": "category's",
+     "t": 2.116
+    },
+    {
+     "w": "entry",
+     "t": 2.564
+    },
+    {
+     "w": "points",
+     "t": 2.776
+    },
+    {
+     "w": "see",
+     "t": 3.389
+    },
+    {
+     "w": "which",
+     "t": 3.66
+    },
+    {
+     "w": "ones",
+     "t": 3.825
+    },
+    {
+     "w": "rivals",
+     "t": 4.097
+    },
+    {
+     "w": "own",
+     "t": 4.474
+    },
+    {
+     "w": "and",
+     "t": 5.016
+    },
+    {
+     "w": "claim",
+     "t": 5.182
+    },
+    {
+     "w": "an",
+     "t": 5.465
+    },
+    {
+     "w": "under-used",
+     "t": 5.618
+    },
+    {
+     "w": "one",
+     "t": 6.066
+    }
+   ]
+  }
+ ],
+ "id": "m-category-entry-points",
+ "total": 36.33
+}

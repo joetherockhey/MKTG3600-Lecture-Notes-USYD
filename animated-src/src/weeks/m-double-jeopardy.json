@@ -1,0 +1,648 @@
+{
+ "week": 0,
+ "title": "Double jeopardy law",
+ "speaker": "Andrew Ehrenberg; popularised by Byron Sharp, How Brands Grow, 2010",
+ "beats": [
+  {
+   "set": "plaza",
+   "say": "Double jeopardy says small brands suffer twice. They have fewer buyers, and those buyers are slightly less loyal. So growth comes from penetration.",
+   "board": {
+    "title": "**Double jeopardy**",
+    "steps": [
+     {
+      "text": "**Fewer buyers** for small brands",
+      "cue": "fewer",
+      "at": 3.719
+     },
+     {
+      "text": "Those buyers **slightly less loyal**",
+      "cue": "loyal",
+      "at": 6.349
+     },
+     {
+      "text": "Grow through **penetration**",
+      "cue": "penetration",
+      "at": 8.366
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "s1",
+     "look": "shopper",
+     "v": 3,
+     "at": "front"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "twice",
+     "pose": "up",
+     "expr": "stern",
+     "at": 2.469
+    },
+    {
+     "who": "s1",
+     "cue": "penetration",
+     "pose": "chin",
+     "at": 8.366
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "twice",
+     "shot": "close",
+     "at": 2.469
+    },
+    {
+     "cue": "fewer",
+     "shot": "board",
+     "at": 3.719
+    }
+   ],
+   "audio": "audio/m-double-jeopardy-00.mp3",
+   "leadIn": 0.45,
+   "seconds": 10.026,
+   "words": [
+    {
+     "w": "Double",
+     "t": 0.5
+    },
+    {
+     "w": "jeopardy",
+     "t": 0.818
+    },
+    {
+     "w": "says",
+     "t": 1.231
+    },
+    {
+     "w": "small",
+     "t": 1.467
+    },
+    {
+     "w": "brands",
+     "t": 1.774
+    },
+    {
+     "w": "suffer",
+     "t": 2.151
+    },
+    {
+     "w": "twice",
+     "t": 2.469
+    },
+    {
+     "w": "They",
+     "t": 3.307
+    },
+    {
+     "w": "have",
+     "t": 3.531
+    },
+    {
+     "w": "fewer",
+     "t": 3.719
+    },
+    {
+     "w": "buyers",
+     "t": 4.014
+    },
+    {
+     "w": "and",
+     "t": 4.781
+    },
+    {
+     "w": "those",
+     "t": 4.969
+    },
+    {
+     "w": "buyers",
+     "t": 5.205
+    },
+    {
+     "w": "are",
+     "t": 5.583
+    },
+    {
+     "w": "slightly",
+     "t": 5.63
+    },
+    {
+     "w": "less",
+     "t": 6.137
+    },
+    {
+     "w": "loyal",
+     "t": 6.349
+    },
+    {
+     "w": "So",
+     "t": 7.092
+    },
+    {
+     "w": "growth",
+     "t": 7.422
+    },
+    {
+     "w": "comes",
+     "t": 7.835
+    },
+    {
+     "w": "from",
+     "t": 8.189
+    },
+    {
+     "w": "penetration",
+     "t": 8.366
+    }
+   ]
+  },
+  {
+   "set": "plaza",
+   "say": "Watch the cola fridge. Coke buyers stream past. Pepsi gets fewer of them, and even its own buyers often grab a Coke.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "r"
+    },
+    {
+     "id": "s1",
+     "look": "shopper",
+     "v": 1,
+     "at": "walkL",
+     "to": "shelf",
+     "hold": "bag",
+     "pose": "hold"
+    },
+    {
+     "id": "s2",
+     "look": "student",
+     "v": 2,
+     "at": "shelf2"
+    }
+   ],
+   "acts": [
+    {
+     "who": "s1",
+     "cue": "stream",
+     "expr": "smile",
+     "at": 2.8
+    },
+    {
+     "who": "s2",
+     "cue": "often",
+     "pose": "shrug",
+     "expr": "smile_closed",
+     "at": 6.715
+    }
+   ],
+   "fx": [
+    {
+     "kind": "tick",
+     "who": "s1",
+     "cue": "stream",
+     "at": 2.8
+    },
+    {
+     "kind": "question",
+     "who": "host",
+     "cue": "fewer",
+     "at": 4.568
+    },
+    {
+     "kind": "think",
+     "who": "s2",
+     "text": "Eh, Coke's fine.",
+     "cue": "often",
+     "at": 6.715
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "fewer",
+     "shot": "host",
+     "at": 4.568
+    },
+    {
+     "cue": "often",
+     "shot": "actor",
+     "who": "s2",
+     "at": 6.715
+    }
+   ],
+   "audio": "audio/m-double-jeopardy-01.mp3",
+   "leadIn": 0.45,
+   "seconds": 8.61,
+   "words": [
+    {
+     "w": "Watch",
+     "t": 0.5
+    },
+    {
+     "w": "the",
+     "t": 0.913
+    },
+    {
+     "w": "cola",
+     "t": 1.031
+    },
+    {
+     "w": "fridge",
+     "t": 1.325
+    },
+    {
+     "w": "Coke",
+     "t": 2.151
+    },
+    {
+     "w": "buyers",
+     "t": 2.458
+    },
+    {
+     "w": "stream",
+     "t": 2.8
+    },
+    {
+     "w": "past",
+     "t": 3.153
+    },
+    {
+     "w": "Pepsi",
+     "t": 3.979
+    },
+    {
+     "w": "gets",
+     "t": 4.356
+    },
+    {
+     "w": "fewer",
+     "t": 4.568
+    },
+    {
+     "w": "of",
+     "t": 4.816
+    },
+    {
+     "w": "them",
+     "t": 4.899
+    },
+    {
+     "w": "and",
+     "t": 5.465
+    },
+    {
+     "w": "even",
+     "t": 5.7
+    },
+    {
+     "w": "its",
+     "t": 5.925
+    },
+    {
+     "w": "own",
+     "t": 6.066
+    },
+    {
+     "w": "buyers",
+     "t": 6.278
+    },
+    {
+     "w": "often",
+     "t": 6.715
+    },
+    {
+     "w": "grab",
+     "t": 7.009
+    },
+    {
+     "w": "a",
+     "t": 7.234
+    },
+    {
+     "w": "Coke",
+     "t": 7.269
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "So a Pepsi loyalty app hits a ceiling. The answer is broad reach and wider availability, to recruit light buyers.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "l"
+    },
+    {
+     "id": "e1",
+     "look": "exec",
+     "v": 3,
+     "at": "table"
+    },
+    {
+     "id": "e2",
+     "look": "exec_f",
+     "v": 4,
+     "at": "table2",
+     "hold": "laptop",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "e2",
+     "cue": "ceiling",
+     "pose": "none",
+     "expr": "pained",
+     "at": 2.033
+    },
+    {
+     "who": "e1",
+     "cue": "reach",
+     "pose": "up",
+     "expr": "grin",
+     "at": 3.932
+    },
+    {
+     "who": "host",
+     "cue": "recruit",
+     "pose": "point",
+     "expr": "smile",
+     "at": 5.854
+    }
+   ],
+   "fx": [
+    {
+     "kind": "cross",
+     "who": "e2",
+     "cue": "ceiling",
+     "at": 2.033
+    },
+    {
+     "kind": "bulb",
+     "who": "e1",
+     "cue": "reach",
+     "at": 3.932
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "ceiling",
+     "shot": "actor",
+     "who": "e2",
+     "at": 2.033
+    },
+    {
+     "cue": "reach",
+     "shot": "two",
+     "who": "e1",
+     "at": 3.932
+    }
+   ],
+   "audio": "audio/m-double-jeopardy-02.mp3",
+   "leadIn": 0.45,
+   "seconds": 7.89,
+   "words": [
+    {
+     "w": "So",
+     "t": 0.5
+    },
+    {
+     "w": "a",
+     "t": 0.795
+    },
+    {
+     "w": "Pepsi",
+     "t": 0.83
+    },
+    {
+     "w": "loyalty",
+     "t": 1.208
+    },
+    {
+     "w": "app",
+     "t": 1.632
+    },
+    {
+     "w": "hits",
+     "t": 1.797
+    },
+    {
+     "w": "a",
+     "t": 1.998
+    },
+    {
+     "w": "ceiling",
+     "t": 2.033
+    },
+    {
+     "w": "The",
+     "t": 2.882
+    },
+    {
+     "w": "answer",
+     "t": 3.094
+    },
+    {
+     "w": "is",
+     "t": 3.46
+    },
+    {
+     "w": "broad",
+     "t": 3.613
+    },
+    {
+     "w": "reach",
+     "t": 3.932
+    },
+    {
+     "w": "and",
+     "t": 4.226
+    },
+    {
+     "w": "wider",
+     "t": 4.38
+    },
+    {
+     "w": "availability",
+     "t": 4.757
+    },
+    {
+     "w": "to",
+     "t": 5.748
+    },
+    {
+     "w": "recruit",
+     "t": 5.854
+    },
+    {
+     "w": "light",
+     "t": 6.243
+    },
+    {
+     "w": "buyers",
+     "t": 6.479
+    }
+   ]
+  },
+  {
+   "set": "plaza",
+   "say": "Use it like this: when a plan bets on loyalty, argue for reach instead. Loyalty follows share.",
+   "board": {
+    "title": "Use it **like this**",
+    "lines": [
+     {
+      "text": "Loyalty plan? **Argue for reach**",
+      "cue": "argue",
+      "at": 3.318
+     },
+     {
+      "text": "Loyalty **follows** share",
+      "cue": "follows",
+      "at": 5.512
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "s1",
+     "look": "shopper",
+     "v": 3,
+     "at": "front"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "argue",
+     "pose": "point",
+     "at": 3.318
+    },
+    {
+     "who": "s1",
+     "cue": "follows",
+     "expr": "smile",
+     "at": 5.512
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "follows",
+     "shot": "close",
+     "at": 5.512
+    }
+   ],
+   "hold": 1.0,
+   "audio": "audio/m-double-jeopardy-03.mp3",
+   "leadIn": 0.45,
+   "seconds": 7.642,
+   "words": [
+    {
+     "w": "Use",
+     "t": 0.5
+    },
+    {
+     "w": "it",
+     "t": 0.818
+    },
+    {
+     "w": "like",
+     "t": 0.889
+    },
+    {
+     "w": "this",
+     "t": 1.09
+    },
+    {
+     "w": "when",
+     "t": 1.738
+    },
+    {
+     "w": "a",
+     "t": 1.88
+    },
+    {
+     "w": "plan",
+     "t": 1.927
+    },
+    {
+     "w": "bets",
+     "t": 2.245
+    },
+    {
+     "w": "on",
+     "t": 2.458
+    },
+    {
+     "w": "loyalty",
+     "t": 2.552
+    },
+    {
+     "w": "argue",
+     "t": 3.318
+    },
+    {
+     "w": "for",
+     "t": 3.672
+    },
+    {
+     "w": "reach",
+     "t": 3.814
+    },
+    {
+     "w": "instead",
+     "t": 4.097
+    },
+    {
+     "w": "Loyalty",
+     "t": 4.946
+    },
+    {
+     "w": "follows",
+     "t": 5.512
+    },
+    {
+     "w": "share",
+     "t": 5.877
+    }
+   ]
+  }
+ ],
+ "id": "m-double-jeopardy",
+ "total": 34.17
+}

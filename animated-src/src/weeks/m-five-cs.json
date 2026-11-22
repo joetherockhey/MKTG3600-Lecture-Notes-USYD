@@ -1,0 +1,624 @@
+{
+ "week": 0,
+ "title": "The 5Cs framework",
+ "speaker": "Tim Collier, Cummins & Partners, Week 7",
+ "beats": [
+  {
+   "set": "office",
+   "say": "Before writing a brief, scan the five Cs: company, culture, category, connections and consumer.",
+   "board": {
+    "title": "The **five Cs**",
+    "steps": [
+     {
+      "text": "**Company**: what's up with the client",
+      "cue": "company",
+      "at": 3.259
+     },
+     {
+      "text": "**Culture**: the wider world",
+      "cue": "culture",
+      "at": 3.955
+     },
+     {
+      "text": "**Category**: market and rivals",
+      "cue": "category",
+      "at": 4.675
+     },
+     {
+      "text": "**Connections**: the medium",
+      "cue": "connections",
+      "at": 5.394
+     },
+     {
+      "text": "**Consumer**: the audience's world",
+      "cue": "consumer",
+      "at": 6.29
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "e1",
+     "look": "exec_f",
+     "at": "table",
+     "v": 2
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "company",
+     "pose": "point",
+     "at": 3.259
+    },
+    {
+     "who": "e1",
+     "cue": "consumer",
+     "pose": "chin",
+     "expr": "smile",
+     "at": 6.29
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "category",
+     "shot": "two",
+     "who": "e1",
+     "at": 4.675
+    },
+    {
+     "cue": "connections",
+     "shot": "board",
+     "at": 5.394
+    }
+   ],
+   "audio": "audio/m-five-cs-00.mp3",
+   "leadIn": 0.45,
+   "seconds": 7.818,
+   "words": [
+    {
+     "w": "Before",
+     "t": 0.5
+    },
+    {
+     "w": "writing",
+     "t": 0.842
+    },
+    {
+     "w": "a",
+     "t": 1.125
+    },
+    {
+     "w": "brief",
+     "t": 1.16
+    },
+    {
+     "w": "scan",
+     "t": 1.785
+    },
+    {
+     "w": "the",
+     "t": 2.104
+    },
+    {
+     "w": "five",
+     "t": 2.151
+    },
+    {
+     "w": "Cs",
+     "t": 2.458
+    },
+    {
+     "w": "company",
+     "t": 3.259
+    },
+    {
+     "w": "culture",
+     "t": 3.955
+    },
+    {
+     "w": "category",
+     "t": 4.675
+    },
+    {
+     "w": "connections",
+     "t": 5.394
+    },
+    {
+     "w": "and",
+     "t": 6.125
+    },
+    {
+     "w": "consumer",
+     "t": 6.29
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Say the brief is a low-sugar sports drink. The company has a new line. And culture? Run clubs are booming.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "c"
+    },
+    {
+     "id": "e1",
+     "look": "exec_f",
+     "at": "table",
+     "v": 2,
+     "hold": "clipboard",
+     "pose": "hold"
+    },
+    {
+     "id": "e2",
+     "look": "student",
+     "at": "table2",
+     "v": 4,
+     "hold": "laptop",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "e1",
+     "cue": "company",
+     "expr": "smile",
+     "at": 3.142
+    },
+    {
+     "who": "e2",
+     "cue": "booming",
+     "pose": "cheer",
+     "expr": "grin",
+     "at": 6.738
+    }
+   ],
+   "fx": [
+    {
+     "kind": "say",
+     "who": "e1",
+     "cue": "company",
+     "text": "New low-sugar line!",
+     "at": 3.142
+    },
+    {
+     "kind": "stars",
+     "who": "e2",
+     "cue": "booming",
+     "at": 6.738
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "company",
+     "shot": "actor",
+     "who": "e1",
+     "at": 3.142
+    },
+    {
+     "cue": "booming",
+     "shot": "actor",
+     "who": "e2",
+     "at": 6.738
+    }
+   ],
+   "audio": "audio/m-five-cs-01.mp3",
+   "leadIn": 0.45,
+   "seconds": 8.202,
+   "words": [
+    {
+     "w": "Say",
+     "t": 0.5
+    },
+    {
+     "w": "the",
+     "t": 0.795
+    },
+    {
+     "w": "brief",
+     "t": 0.877
+    },
+    {
+     "w": "is",
+     "t": 1.278
+    },
+    {
+     "w": "a",
+     "t": 1.432
+    },
+    {
+     "w": "low-sugar",
+     "t": 1.479
+    },
+    {
+     "w": "sports",
+     "t": 1.962
+    },
+    {
+     "w": "drink",
+     "t": 2.316
+    },
+    {
+     "w": "The",
+     "t": 2.988
+    },
+    {
+     "w": "company",
+     "t": 3.142
+    },
+    {
+     "w": "has",
+     "t": 3.554
+    },
+    {
+     "w": "a",
+     "t": 3.767
+    },
+    {
+     "w": "new",
+     "t": 3.802
+    },
+    {
+     "w": "line",
+     "t": 4.014
+    },
+    {
+     "w": "And",
+     "t": 4.816
+    },
+    {
+     "w": "culture",
+     "t": 5.064
+    },
+    {
+     "w": "Run",
+     "t": 5.948
+    },
+    {
+     "w": "clubs",
+     "t": 6.302
+    },
+    {
+     "w": "are",
+     "t": 6.691
+    },
+    {
+     "w": "booming",
+     "t": 6.738
+    }
+   ]
+  },
+  {
+   "set": "street",
+   "say": "Gatorade and Powerade own the category. Runners live on Strava and TikTok. And the consumer? Someone who just finished a race.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "front"
+    },
+    {
+     "id": "p1",
+     "look": "student",
+     "at": "walkL",
+     "v": 4,
+     "to": "l",
+     "walkCue": "Runners",
+     "hold": "phone",
+     "pose": "hold",
+     "walkAt": 3.059
+    },
+    {
+     "id": "p2",
+     "look": "student",
+     "at": "r",
+     "v": 7
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "own",
+     "pose": "shrug",
+     "at": 1.962
+    },
+    {
+     "who": "p1",
+     "cue": "TikTok",
+     "expr": "grin",
+     "at": 4.545
+    },
+    {
+     "who": "p2",
+     "cue": "finished",
+     "pose": "cheer",
+     "expr": "laugh",
+     "at": 7.894
+    }
+   ],
+   "fx": [
+    {
+     "kind": "eye",
+     "who": "p1",
+     "cue": "TikTok",
+     "at": 4.545
+    },
+    {
+     "kind": "think",
+     "who": "p2",
+     "cue": "finished",
+     "text": "Done! So thirsty.",
+     "at": 7.894
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "Runners",
+     "shot": "actor",
+     "who": "p1",
+     "at": 3.059
+    },
+    {
+     "cue": "finished",
+     "shot": "actor",
+     "who": "p2",
+     "at": 7.894
+    }
+   ],
+   "audio": "audio/m-five-cs-02.mp3",
+   "leadIn": 0.45,
+   "seconds": 9.666,
+   "words": [
+    {
+     "w": "Gatorade",
+     "t": 0.5
+    },
+    {
+     "w": "and",
+     "t": 1.125
+    },
+    {
+     "w": "Powerade",
+     "t": 1.29
+    },
+    {
+     "w": "own",
+     "t": 1.962
+    },
+    {
+     "w": "the",
+     "t": 2.139
+    },
+    {
+     "w": "category",
+     "t": 2.198
+    },
+    {
+     "w": "Runners",
+     "t": 3.059
+    },
+    {
+     "w": "live",
+     "t": 3.531
+    },
+    {
+     "w": "on",
+     "t": 3.731
+    },
+    {
+     "w": "Strava",
+     "t": 3.861
+    },
+    {
+     "w": "and",
+     "t": 4.38
+    },
+    {
+     "w": "TikTok",
+     "t": 4.545
+    },
+    {
+     "w": "And",
+     "t": 5.429
+    },
+    {
+     "w": "the",
+     "t": 5.748
+    },
+    {
+     "w": "consumer",
+     "t": 5.889
+    },
+    {
+     "w": "Someone",
+     "t": 6.903
+    },
+    {
+     "w": "who",
+     "t": 7.41
+    },
+    {
+     "w": "just",
+     "t": 7.564
+    },
+    {
+     "w": "finished",
+     "t": 7.894
+    },
+    {
+     "w": "a",
+     "t": 8.248
+    },
+    {
+     "w": "race",
+     "t": 8.295
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "So pull one implication from each C, then boil them down to a single insight for the brief.",
+   "board": {
+    "title": "Use it **like this**",
+    "lines": [
+     {
+      "text": "One **implication** per C",
+      "cue": "implication",
+      "at": 1.266
+     },
+     {
+      "text": "Boil down to **one insight**",
+      "cue": "insight",
+      "at": 4.344
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "point"
+    },
+    {
+     "id": "e1",
+     "look": "exec",
+     "at": "table",
+     "v": 3
+    }
+   ],
+   "acts": [
+    {
+     "who": "e1",
+     "cue": "insight",
+     "expr": "smile",
+     "at": 4.344
+    }
+   ],
+   "fx": [
+    {
+     "kind": "bulb",
+     "who": "e1",
+     "cue": "insight",
+     "at": 4.344
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "insight",
+     "shot": "two",
+     "who": "e1",
+     "at": 4.344
+    }
+   ],
+   "hold": 1.0,
+   "audio": "audio/m-five-cs-03.mp3",
+   "leadIn": 0.45,
+   "seconds": 6.706,
+   "words": [
+    {
+     "w": "So",
+     "t": 0.5
+    },
+    {
+     "w": "pull",
+     "t": 0.818
+    },
+    {
+     "w": "one",
+     "t": 1.066
+    },
+    {
+     "w": "implication",
+     "t": 1.266
+    },
+    {
+     "w": "from",
+     "t": 1.88
+    },
+    {
+     "w": "each",
+     "t": 2.057
+    },
+    {
+     "w": "C",
+     "t": 2.234
+    },
+    {
+     "w": "then",
+     "t": 2.941
+    },
+    {
+     "w": "boil",
+     "t": 3.13
+    },
+    {
+     "w": "them",
+     "t": 3.436
+    },
+    {
+     "w": "down",
+     "t": 3.578
+    },
+    {
+     "w": "to",
+     "t": 3.849
+    },
+    {
+     "w": "a",
+     "t": 3.955
+    },
+    {
+     "w": "single",
+     "t": 3.991
+    },
+    {
+     "w": "insight",
+     "t": 4.344
+    },
+    {
+     "w": "for",
+     "t": 4.781
+    },
+    {
+     "w": "the",
+     "t": 4.875
+    },
+    {
+     "w": "brief",
+     "t": 4.946
+    }
+   ]
+  }
+ ],
+ "id": "m-five-cs",
+ "total": 32.4
+}

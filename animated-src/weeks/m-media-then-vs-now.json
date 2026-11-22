@@ -1,0 +1,295 @@
+{
+ "week": 0,
+ "title": "Then vs now: the role of media (paid, owned, earned, shared)",
+ "speaker": "Ali Coysh, Initiative, Week 11",
+ "beats": [
+  {
+   "set": "office",
+   "say": "Media used to plan, buy and report on paid space. Now it orchestrates whole experiences across owned, earned, shared and paid. That's the shift.",
+   "board": {
+    "title": "Media: **then vs now**",
+    "vs": {
+     "left": "Then",
+     "right": "Now",
+     "leftItems": [
+      "Plan paid",
+      "Buy paid",
+      "Report"
+     ],
+     "rightItems": [
+      "Owned",
+      "Earned",
+      "Shared",
+      "Paid"
+     ],
+     "cue": "used"
+    }
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "e",
+     "look": "exec",
+     "v": 2,
+     "at": "table"
+    }
+   ],
+   "acts": [
+    {
+     "who": "e",
+     "cue": "orchestrates",
+     "expr": "smile"
+    },
+    {
+     "who": "host",
+     "cue": "shift",
+     "pose": "up",
+     "expr": "grin"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "sparkle",
+     "who": "host",
+     "cue": "shift"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "orchestrates",
+     "shot": "actor",
+     "who": "e"
+    },
+    {
+     "cue": "shift",
+     "shot": "close"
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Why the change? More channels, more specialists, tighter budgets, and a data boom under privacy laws. Creative and media agencies now compete for strategy.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "l",
+     "pose": "none"
+    },
+    {
+     "id": "e1",
+     "look": "exec",
+     "v": 5,
+     "at": "table",
+     "hold": "laptop",
+     "pose": "hold"
+    },
+    {
+     "id": "e2",
+     "look": "exec_f",
+     "v": 6,
+     "at": "table2",
+     "hold": "clipboard",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "e1",
+     "cue": "channels",
+     "expr": "dazed"
+    },
+    {
+     "who": "e2",
+     "cue": "budgets",
+     "pose": "shrug",
+     "expr": "nervous"
+    },
+    {
+     "who": "host",
+     "cue": "compete",
+     "pose": "chin"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "question",
+     "who": "e1",
+     "cue": "channels"
+    },
+    {
+     "kind": "money",
+     "who": "e2",
+     "cue": "budgets"
+    },
+    {
+     "kind": "brain",
+     "who": "host",
+     "cue": "data"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "channels",
+     "shot": "actor",
+     "who": "e1"
+    },
+    {
+     "cue": "budgets",
+     "shot": "actor",
+     "who": "e2"
+    },
+    {
+     "cue": "compete",
+     "shot": "close"
+    }
+   ]
+  },
+  {
+   "set": "street",
+   "say": "NRMA's highway campaign did all four: a paid news partnership, earned coverage, shared talk, and its own channels.",
+   "board": {
+    "title": "All **four** at once",
+    "lines": [
+     {
+      "text": "**Paid** partnership",
+      "cue": "paid"
+     },
+     {
+      "text": "**Earned** coverage",
+      "cue": "earned"
+     },
+     {
+      "text": "**Shared** talk",
+      "cue": "shared"
+     },
+     {
+      "text": "**Owned** channels",
+      "cue": "own"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "front",
+     "pose": "none"
+    },
+    {
+     "id": "p",
+     "look": "shopper",
+     "v": 5,
+     "at": "kerb",
+     "hold": "phone",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "p",
+     "cue": "talk",
+     "expr": "laugh"
+    },
+    {
+     "who": "host",
+     "cue": "channels",
+     "pose": "cheer",
+     "expr": "grin"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "say",
+     "who": "p",
+     "cue": "talk",
+     "text": "Fix the highway!"
+    },
+    {
+     "kind": "tick",
+     "who": "host",
+     "cue": "channels"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "talk",
+     "shot": "actor",
+     "who": "p"
+    },
+    {
+     "cue": "channels",
+     "shot": "board"
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Use it like this: plan all four connections together, not paid media alone.",
+   "board": {
+    "title": "Use it like **this**",
+    "lines": [
+     {
+      "text": "Plan all **four** together",
+      "cue": "four"
+     },
+     {
+      "text": "Not paid **alone**",
+      "cue": "alone"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "point"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "alone",
+     "pose": "cheer",
+     "expr": "grin"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "tick",
+     "who": "host",
+     "cue": "alone"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "alone",
+     "shot": "close"
+    }
+   ],
+   "hold": 1.0
+  }
+ ]
+}

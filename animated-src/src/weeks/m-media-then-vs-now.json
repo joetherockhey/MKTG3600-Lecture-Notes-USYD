@@ -1,0 +1,667 @@
+{
+ "week": 0,
+ "title": "Then vs now: the role of media (paid, owned, earned, shared)",
+ "speaker": "Ali Coysh, Initiative, Week 11",
+ "beats": [
+  {
+   "set": "office",
+   "say": "Media used to plan, buy and report on paid space. Now it orchestrates whole experiences across owned, earned, shared and paid. That's the shift.",
+   "board": {
+    "title": "Media: **then vs now**",
+    "vs": {
+     "left": "Then",
+     "right": "Now",
+     "leftItems": [
+      "Plan paid",
+      "Buy paid",
+      "Report"
+     ],
+     "rightItems": [
+      "Owned",
+      "Earned",
+      "Shared",
+      "Paid"
+     ],
+     "cue": "used",
+     "at": 0.913
+    }
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "e",
+     "look": "exec",
+     "v": 2,
+     "at": "table"
+    }
+   ],
+   "acts": [
+    {
+     "who": "e",
+     "cue": "orchestrates",
+     "expr": "smile",
+     "at": 4.568
+    },
+    {
+     "who": "host",
+     "cue": "shift",
+     "pose": "up",
+     "expr": "grin",
+     "at": 9.71
+    }
+   ],
+   "fx": [
+    {
+     "kind": "sparkle",
+     "who": "host",
+     "cue": "shift",
+     "at": 9.71
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "orchestrates",
+     "shot": "actor",
+     "who": "e",
+     "at": 4.568
+    },
+    {
+     "cue": "shift",
+     "shot": "close",
+     "at": 9.71
+    }
+   ],
+   "audio": "audio/m-media-then-vs-now-00.mp3",
+   "leadIn": 0.45,
+   "seconds": 11.154,
+   "words": [
+    {
+     "w": "Media",
+     "t": 0.5
+    },
+    {
+     "w": "used",
+     "t": 0.913
+    },
+    {
+     "w": "to",
+     "t": 1.16
+    },
+    {
+     "w": "plan",
+     "t": 1.208
+    },
+    {
+     "w": "buy",
+     "t": 1.891
+    },
+    {
+     "w": "and",
+     "t": 2.351
+    },
+    {
+     "w": "report",
+     "t": 2.493
+    },
+    {
+     "w": "on",
+     "t": 2.917
+    },
+    {
+     "w": "paid",
+     "t": 3.071
+    },
+    {
+     "w": "space",
+     "t": 3.318
+    },
+    {
+     "w": "Now",
+     "t": 4.144
+    },
+    {
+     "w": "it",
+     "t": 4.474
+    },
+    {
+     "w": "orchestrates",
+     "t": 4.568
+    },
+    {
+     "w": "whole",
+     "t": 5.099
+    },
+    {
+     "w": "experiences",
+     "t": 5.323
+    },
+    {
+     "w": "across",
+     "t": 5.96
+    },
+    {
+     "w": "owned",
+     "t": 6.337
+    },
+    {
+     "w": "earned",
+     "t": 7.009
+    },
+    {
+     "w": "shared",
+     "t": 7.599
+    },
+    {
+     "w": "and",
+     "t": 8.236
+    },
+    {
+     "w": "paid",
+     "t": 8.389
+    },
+    {
+     "w": "That's",
+     "t": 9.215
+    },
+    {
+     "w": "the",
+     "t": 9.627
+    },
+    {
+     "w": "shift",
+     "t": 9.71
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Why the change? More channels, more specialists, tighter budgets, and a data boom under privacy laws. Creative and media agencies now compete for strategy.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "l",
+     "pose": "none"
+    },
+    {
+     "id": "e1",
+     "look": "exec",
+     "v": 5,
+     "at": "table",
+     "hold": "laptop",
+     "pose": "hold"
+    },
+    {
+     "id": "e2",
+     "look": "exec_f",
+     "v": 6,
+     "at": "table2",
+     "hold": "clipboard",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "e1",
+     "cue": "channels",
+     "expr": "dazed",
+     "at": 2.139
+    },
+    {
+     "who": "e2",
+     "cue": "budgets",
+     "pose": "shrug",
+     "expr": "nervous",
+     "at": 4.25
+    },
+    {
+     "who": "host",
+     "cue": "compete",
+     "pose": "chin",
+     "at": 8.825
+    }
+   ],
+   "fx": [
+    {
+     "kind": "question",
+     "who": "e1",
+     "cue": "channels",
+     "at": 2.139
+    },
+    {
+     "kind": "money",
+     "who": "e2",
+     "cue": "budgets",
+     "at": 4.25
+    },
+    {
+     "kind": "brain",
+     "who": "host",
+     "cue": "data",
+     "at": 5.158
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "channels",
+     "shot": "actor",
+     "who": "e1",
+     "at": 2.139
+    },
+    {
+     "cue": "budgets",
+     "shot": "actor",
+     "who": "e2",
+     "at": 4.25
+    },
+    {
+     "cue": "compete",
+     "shot": "close",
+     "at": 8.825
+    }
+   ],
+   "audio": "audio/m-media-then-vs-now-01.mp3",
+   "leadIn": 0.45,
+   "seconds": 10.938,
+   "words": [
+    {
+     "w": "Why",
+     "t": 0.5
+    },
+    {
+     "w": "the",
+     "t": 0.842
+    },
+    {
+     "w": "change",
+     "t": 0.96
+    },
+    {
+     "w": "More",
+     "t": 1.856
+    },
+    {
+     "w": "channels",
+     "t": 2.139
+    },
+    {
+     "w": "more",
+     "t": 2.859
+    },
+    {
+     "w": "specialists",
+     "t": 3.083
+    },
+    {
+     "w": "tighter",
+     "t": 3.991
+    },
+    {
+     "w": "budgets",
+     "t": 4.25
+    },
+    {
+     "w": "and",
+     "t": 4.969
+    },
+    {
+     "w": "a",
+     "t": 5.111
+    },
+    {
+     "w": "data",
+     "t": 5.158
+    },
+    {
+     "w": "boom",
+     "t": 5.476
+    },
+    {
+     "w": "under",
+     "t": 5.736
+    },
+    {
+     "w": "privacy",
+     "t": 5.936
+    },
+    {
+     "w": "laws",
+     "t": 6.302
+    },
+    {
+     "w": "Creative",
+     "t": 7.057
+    },
+    {
+     "w": "and",
+     "t": 7.587
+    },
+    {
+     "w": "media",
+     "t": 7.741
+    },
+    {
+     "w": "agencies",
+     "t": 8.106
+    },
+    {
+     "w": "now",
+     "t": 8.625
+    },
+    {
+     "w": "compete",
+     "t": 8.825
+    },
+    {
+     "w": "for",
+     "t": 9.285
+    },
+    {
+     "w": "strategy",
+     "t": 9.403
+    }
+   ]
+  },
+  {
+   "set": "street",
+   "say": "NRMA's highway campaign did all four: a paid news partnership, earned coverage, shared talk, and its own channels.",
+   "board": {
+    "title": "All **four** at once",
+    "lines": [
+     {
+      "text": "**Paid** partnership",
+      "cue": "paid",
+      "at": 3.059
+     },
+     {
+      "text": "**Earned** coverage",
+      "cue": "earned",
+      "at": 4.309
+     },
+     {
+      "text": "**Shared** talk",
+      "cue": "shared",
+      "at": 5.17
+     },
+     {
+      "text": "**Owned** channels",
+      "cue": "own",
+      "at": 6.314
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "front",
+     "pose": "none"
+    },
+    {
+     "id": "p",
+     "look": "shopper",
+     "v": 5,
+     "at": "kerb",
+     "hold": "phone",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "p",
+     "cue": "talk",
+     "expr": "laugh",
+     "at": 5.512
+    },
+    {
+     "who": "host",
+     "cue": "channels",
+     "pose": "cheer",
+     "expr": "grin",
+     "at": 6.467
+    }
+   ],
+   "fx": [
+    {
+     "kind": "say",
+     "who": "p",
+     "cue": "talk",
+     "text": "Fix the highway!",
+     "at": 5.512
+    },
+    {
+     "kind": "tick",
+     "who": "host",
+     "cue": "channels",
+     "at": 6.467
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "talk",
+     "shot": "actor",
+     "who": "p",
+     "at": 5.512
+    },
+    {
+     "cue": "channels",
+     "shot": "board",
+     "at": 6.467
+    }
+   ],
+   "audio": "audio/m-media-then-vs-now-02.mp3",
+   "leadIn": 0.45,
+   "seconds": 7.89,
+   "words": [
+    {
+     "w": "NRMA's",
+     "t": 0.5
+    },
+    {
+     "w": "highway",
+     "t": 1.101
+    },
+    {
+     "w": "campaign",
+     "t": 1.455
+    },
+    {
+     "w": "did",
+     "t": 1.927
+    },
+    {
+     "w": "all",
+     "t": 2.057
+    },
+    {
+     "w": "four",
+     "t": 2.281
+    },
+    {
+     "w": "a",
+     "t": 2.965
+    },
+    {
+     "w": "paid",
+     "t": 3.059
+    },
+    {
+     "w": "news",
+     "t": 3.354
+    },
+    {
+     "w": "partnership",
+     "t": 3.542
+    },
+    {
+     "w": "earned",
+     "t": 4.309
+    },
+    {
+     "w": "coverage",
+     "t": 4.498
+    },
+    {
+     "w": "shared",
+     "t": 5.17
+    },
+    {
+     "w": "talk",
+     "t": 5.512
+    },
+    {
+     "w": "and",
+     "t": 6.078
+    },
+    {
+     "w": "its",
+     "t": 6.196
+    },
+    {
+     "w": "own",
+     "t": 6.314
+    },
+    {
+     "w": "channels",
+     "t": 6.467
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Use it like this: plan all four connections together, not paid media alone.",
+   "board": {
+    "title": "Use it like **this**",
+    "lines": [
+     {
+      "text": "Plan all **four** together",
+      "cue": "four",
+      "at": 2.351
+     },
+     {
+      "text": "Not paid **alone**",
+      "cue": "alone",
+      "at": 4.568
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "point"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "alone",
+     "pose": "cheer",
+     "expr": "grin",
+     "at": 4.568
+    }
+   ],
+   "fx": [
+    {
+     "kind": "tick",
+     "who": "host",
+     "cue": "alone",
+     "at": 4.568
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "alone",
+     "shot": "close",
+     "at": 4.568
+    }
+   ],
+   "hold": 1.0,
+   "audio": "audio/m-media-then-vs-now-03.mp3",
+   "leadIn": 0.45,
+   "seconds": 6.37,
+   "words": [
+    {
+     "w": "Use",
+     "t": 0.5
+    },
+    {
+     "w": "it",
+     "t": 0.83
+    },
+    {
+     "w": "like",
+     "t": 0.901
+    },
+    {
+     "w": "this",
+     "t": 1.101
+    },
+    {
+     "w": "plan",
+     "t": 1.75
+    },
+    {
+     "w": "all",
+     "t": 2.104
+    },
+    {
+     "w": "four",
+     "t": 2.351
+    },
+    {
+     "w": "connections",
+     "t": 2.575
+    },
+    {
+     "w": "together",
+     "t": 3.035
+    },
+    {
+     "w": "not",
+     "t": 3.684
+    },
+    {
+     "w": "paid",
+     "t": 3.955
+    },
+    {
+     "w": "media",
+     "t": 4.238
+    },
+    {
+     "w": "alone",
+     "t": 4.568
+    }
+   ]
+  }
+ ],
+ "id": "m-media-then-vs-now",
+ "total": 36.37
+}

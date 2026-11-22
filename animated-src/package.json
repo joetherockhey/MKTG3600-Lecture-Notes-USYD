@@ -1,0 +1,26 @@
+{
+  "name": "mktg3600-animated",
+  "private": true,
+  "scripts": {
+    "dev": "remotion studio"
+  },
+  "dependencies": {
+    "@react-three/fiber": "^9.8.2",
+    "@react-three/postprocessing": "^3.2.2",
+    "@remotion/cli": "4.0.526",
+    "@remotion/three": "4.0.526",
+    "postprocessing": "^6.39.6",
+    "react": "19.2.3",
+    "react-dom": "19.2.3",
+    "remotion": "4.0.526",
+    "three": "^0.180.0"
+  },
+  "devDependencies": {
+    "@types/react": "19.2.7",
+    "@types/three": "*",
+    "typescript": "5.9.3"
+  },
+  "allowScripts": {
+    "esbuild@0.28.1": true
+  }
+}

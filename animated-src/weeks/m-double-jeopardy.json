@@ -1,0 +1,268 @@
+{
+ "week": 0,
+ "title": "Double jeopardy law",
+ "speaker": "Andrew Ehrenberg; popularised by Byron Sharp, How Brands Grow, 2010",
+ "beats": [
+  {
+   "set": "plaza",
+   "say": "Double jeopardy says small brands suffer twice. They have fewer buyers, and those buyers are slightly less loyal. So growth comes from penetration.",
+   "board": {
+    "title": "**Double jeopardy**",
+    "steps": [
+     {
+      "text": "**Fewer buyers** for small brands",
+      "cue": "fewer"
+     },
+     {
+      "text": "Those buyers **slightly less loyal**",
+      "cue": "loyal"
+     },
+     {
+      "text": "Grow through **penetration**",
+      "cue": "penetration"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "s1",
+     "look": "shopper",
+     "v": 3,
+     "at": "front"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "twice",
+     "pose": "up",
+     "expr": "stern"
+    },
+    {
+     "who": "s1",
+     "cue": "penetration",
+     "pose": "chin"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "twice",
+     "shot": "close"
+    },
+    {
+     "cue": "fewer",
+     "shot": "board"
+    }
+   ]
+  },
+  {
+   "set": "plaza",
+   "say": "Watch the cola fridge. Coke buyers stream past. Pepsi gets fewer of them, and even its own buyers often grab a Coke.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "r"
+    },
+    {
+     "id": "s1",
+     "look": "shopper",
+     "v": 1,
+     "at": "walkL",
+     "to": "shelf",
+     "hold": "bag",
+     "pose": "hold"
+    },
+    {
+     "id": "s2",
+     "look": "student",
+     "v": 2,
+     "at": "shelf2"
+    }
+   ],
+   "acts": [
+    {
+     "who": "s1",
+     "cue": "stream",
+     "expr": "smile"
+    },
+    {
+     "who": "s2",
+     "cue": "often",
+     "pose": "shrug",
+     "expr": "smile_closed"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "tick",
+     "who": "s1",
+     "cue": "stream"
+    },
+    {
+     "kind": "question",
+     "who": "host",
+     "cue": "fewer"
+    },
+    {
+     "kind": "think",
+     "who": "s2",
+     "text": "Eh, Coke's fine.",
+     "cue": "often"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "fewer",
+     "shot": "host"
+    },
+    {
+     "cue": "often",
+     "shot": "actor",
+     "who": "s2"
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "So a Pepsi loyalty app hits a ceiling. The answer is broad reach and wider availability, to recruit light buyers.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "l"
+    },
+    {
+     "id": "e1",
+     "look": "exec",
+     "v": 3,
+     "at": "table"
+    },
+    {
+     "id": "e2",
+     "look": "exec_f",
+     "v": 4,
+     "at": "table2",
+     "hold": "laptop",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "e2",
+     "cue": "ceiling",
+     "pose": "none",
+     "expr": "pained"
+    },
+    {
+     "who": "e1",
+     "cue": "reach",
+     "pose": "up",
+     "expr": "grin"
+    },
+    {
+     "who": "host",
+     "cue": "recruit",
+     "pose": "point",
+     "expr": "smile"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "cross",
+     "who": "e2",
+     "cue": "ceiling"
+    },
+    {
+     "kind": "bulb",
+     "who": "e1",
+     "cue": "reach"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "ceiling",
+     "shot": "actor",
+     "who": "e2"
+    },
+    {
+     "cue": "reach",
+     "shot": "two",
+     "who": "e1"
+    }
+   ]
+  },
+  {
+   "set": "plaza",
+   "say": "Use it like this: when a plan bets on loyalty, argue for reach instead. Loyalty follows share.",
+   "board": {
+    "title": "Use it **like this**",
+    "lines": [
+     {
+      "text": "Loyalty plan? **Argue for reach**",
+      "cue": "argue"
+     },
+     {
+      "text": "Loyalty **follows** share",
+      "cue": "follows"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "s1",
+     "look": "shopper",
+     "v": 3,
+     "at": "front"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "argue",
+     "pose": "point"
+    },
+    {
+     "who": "s1",
+     "cue": "follows",
+     "expr": "smile"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "follows",
+     "shot": "close"
+    }
+   ],
+   "hold": 1.0
+  }
+ ]
+}

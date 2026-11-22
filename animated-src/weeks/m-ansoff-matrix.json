@@ -1,0 +1,275 @@
+{
+ "week": 0,
+ "title": "Ansoff matrix",
+ "speaker": "Igor Ansoff, Harvard Business Review, 1957",
+ "beats": [
+  {
+   "set": "office",
+   "say": "The Ansoff matrix maps four ways to grow. Penetration sells more to the same market. Market development finds new markets, product development makes new products, and diversification does both.",
+   "board": {
+    "title": "**Ansoff** matrix",
+    "steps": [
+     {
+      "text": "**Penetration** same product, same market",
+      "cue": "Penetration"
+     },
+     {
+      "text": "**Market development** new markets",
+      "cue": "finds"
+     },
+     {
+      "text": "**Product development** new products",
+      "cue": "makes"
+     },
+     {
+      "text": "**Diversification** both new, riskiest",
+      "cue": "diversification"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "e1",
+     "look": "exec_f",
+     "v": 3,
+     "at": "table"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "grow",
+     "pose": "up",
+     "expr": "grin"
+    },
+    {
+     "who": "e1",
+     "cue": "diversification",
+     "pose": "chin",
+     "expr": "nervous"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "exclaim",
+     "who": "e1",
+     "cue": "both"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "grow",
+     "shot": "close"
+    },
+    {
+     "cue": "finds",
+     "shot": "board"
+    }
+   ]
+  },
+  {
+   "set": "plaza",
+   "say": "Picture Allen's lollies. Penetration means more of the lolly aisle. Selling nostalgia to adults is market development. Intense flavours for Gen Z is product development.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "front"
+    },
+    {
+     "id": "s1",
+     "look": "elder",
+     "v": 2,
+     "at": "shelf",
+     "hold": "bag",
+     "pose": "hold"
+    },
+    {
+     "id": "s2",
+     "look": "student",
+     "v": 4,
+     "at": "shelf2"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "aisle",
+     "pose": "point"
+    },
+    {
+     "who": "s1",
+     "cue": "nostalgia",
+     "expr": "smile_closed"
+    },
+    {
+     "who": "s2",
+     "cue": "Intense",
+     "pose": "cheer",
+     "expr": "laugh"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "heart",
+     "who": "s1",
+     "cue": "nostalgia"
+    },
+    {
+     "kind": "burst",
+     "who": "s2",
+     "cue": "Intense"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "nostalgia",
+     "shot": "actor",
+     "who": "s1"
+    },
+    {
+     "cue": "Intense",
+     "shot": "actor",
+     "who": "s2"
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Drinks would be diversification, the riskiest corner. So test it cheaply first, with a collaboration.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "l"
+    },
+    {
+     "id": "e1",
+     "look": "exec_f",
+     "v": 3,
+     "at": "table"
+    },
+    {
+     "id": "e2",
+     "look": "exec",
+     "v": 5,
+     "at": "table2"
+    }
+   ],
+   "acts": [
+    {
+     "who": "e2",
+     "cue": "riskiest",
+     "pose": "none",
+     "expr": "shock"
+    },
+    {
+     "who": "e1",
+     "cue": "collaboration",
+     "pose": "up",
+     "expr": "grin"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "exclaim",
+     "who": "e2",
+     "cue": "riskiest"
+    },
+    {
+     "kind": "bulb",
+     "who": "e1",
+     "cue": "collaboration"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "riskiest",
+     "shot": "actor",
+     "who": "e2"
+    },
+    {
+     "cue": "collaboration",
+     "shot": "two",
+     "who": "e1"
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Use it like this: put an option in each box, weigh the risk against the brand's strengths, and recommend one.",
+   "board": {
+    "title": "Use it **like this**",
+    "lines": [
+     {
+      "text": "An **option** in each box",
+      "cue": "option"
+     },
+     {
+      "text": "Weigh **risk** against strengths",
+      "cue": "risk"
+     },
+     {
+      "text": "**Recommend** one",
+      "cue": "recommend"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "e1",
+     "look": "exec_f",
+     "v": 3,
+     "at": "table"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "risk",
+     "pose": "point"
+    },
+    {
+     "who": "e1",
+     "cue": "recommend",
+     "expr": "smile"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "recommend",
+     "shot": "close"
+    }
+   ],
+   "hold": 1.0
+  }
+ ]
+}

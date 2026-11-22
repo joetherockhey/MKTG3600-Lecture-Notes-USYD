@@ -1,0 +1,3299 @@
+{
+ "week": 13,
+ "title": "What the exam looks like",
+ "speaker": "Unit coordinator Q&A",
+ "beats": [
+  {
+   "set": "stage",
+   "say": "Week thirteen is different. No guest speaker, just a Q and A with the unit coordinator about the final exam, plus Teresa's email to the class.",
+   "board": {
+    "title": "What the **exam** looks like",
+    "lines": [
+     {
+      "text": "Unit coordinator **Q&A**",
+      "cue": "coordinator",
+      "at": 4.875
+     },
+     {
+      "text": "Plus **Teresa's email**",
+      "cue": "Teresa's",
+      "at": 7.092
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "s1",
+     "look": "student",
+     "v": 1,
+     "at": "aisle"
+    },
+    {
+     "id": "s2",
+     "look": "student",
+     "v": 2,
+     "at": "aisle2"
+    }
+   ],
+   "acts": [
+    {
+     "who": "s1",
+     "cue": "exam",
+     "pose": "up",
+     "expr": "nervous",
+     "at": 6.125
+    }
+   ],
+   "fx": [
+    {
+     "kind": "question",
+     "who": "s1",
+     "cue": "exam",
+     "at": 6.125
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "coordinator",
+     "shot": "board",
+     "at": 4.875
+    },
+    {
+     "cue": "email",
+     "shot": "actor",
+     "who": "s1",
+     "at": 7.587
+    }
+   ],
+   "audio": "audio/w13-00.mp3",
+   "leadIn": 0.45,
+   "seconds": 9.522,
+   "words": [
+    {
+     "w": "Week",
+     "t": 0.5
+    },
+    {
+     "w": "thirteen",
+     "t": 0.866
+    },
+    {
+     "w": "is",
+     "t": 1.384
+    },
+    {
+     "w": "different",
+     "t": 1.573
+    },
+    {
+     "w": "No",
+     "t": 2.375
+    },
+    {
+     "w": "guest",
+     "t": 2.67
+    },
+    {
+     "w": "speaker",
+     "t": 2.894
+    },
+    {
+     "w": "just",
+     "t": 3.554
+    },
+    {
+     "w": "a",
+     "t": 3.79
+    },
+    {
+     "w": "Q",
+     "t": 3.825
+    },
+    {
+     "w": "and",
+     "t": 4.085
+    },
+    {
+     "w": "A",
+     "t": 4.215
+    },
+    {
+     "w": "with",
+     "t": 4.391
+    },
+    {
+     "w": "the",
+     "t": 4.533
+    },
+    {
+     "w": "unit",
+     "t": 4.592
+    },
+    {
+     "w": "coordinator",
+     "t": 4.875
+    },
+    {
+     "w": "about",
+     "t": 5.476
+    },
+    {
+     "w": "the",
+     "t": 5.724
+    },
+    {
+     "w": "final",
+     "t": 5.783
+    },
+    {
+     "w": "exam",
+     "t": 6.125
+    },
+    {
+     "w": "plus",
+     "t": 6.833
+    },
+    {
+     "w": "Teresa's",
+     "t": 7.092
+    },
+    {
+     "w": "email",
+     "t": 7.587
+    },
+    {
+     "w": "to",
+     "t": 7.953
+    },
+    {
+     "w": "the",
+     "t": 8.035
+    },
+    {
+     "w": "class",
+     "t": 8.106
+    }
+   ]
+  },
+  {
+   "set": "home",
+   "say": "It's Monday the twenty-third of November at one pm. Venues vary, so check your own timetable, and find the personal email from the exams office. Look in junk too.",
+   "board": {
+    "title": "Exam **day**",
+    "big": "Mon 23 Nov",
+    "caption": "**1pm**, venues vary",
+    "cue": "Monday",
+    "at": 0.724
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "l",
+     "pose": "point"
+    },
+    {
+     "id": "a",
+     "look": "student",
+     "v": 3,
+     "at": "sofa",
+     "mode": "sit",
+     "hold": "phone",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "a",
+     "cue": "timetable",
+     "expr": "nervous",
+     "at": 5.347
+    },
+    {
+     "who": "a",
+     "cue": "junk",
+     "expr": "relief_open",
+     "at": 9.356
+    }
+   ],
+   "fx": [
+    {
+     "kind": "clock",
+     "who": "host",
+     "cue": "one",
+     "at": 2.505
+    },
+    {
+     "kind": "exclaim",
+     "who": "a",
+     "cue": "junk",
+     "at": 9.356
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "timetable",
+     "shot": "actor",
+     "who": "a",
+     "at": 5.347
+    },
+    {
+     "cue": "junk",
+     "shot": "close",
+     "who": "a",
+     "at": 9.356
+    }
+   ],
+   "audio": "audio/w13-01.mp3",
+   "leadIn": 0.45,
+   "seconds": 10.962,
+   "words": [
+    {
+     "w": "It's",
+     "t": 0.5
+    },
+    {
+     "w": "Monday",
+     "t": 0.724
+    },
+    {
+     "w": "the",
+     "t": 1.137
+    },
+    {
+     "w": "twenty-third",
+     "t": 1.255
+    },
+    {
+     "w": "of",
+     "t": 1.715
+    },
+    {
+     "w": "November",
+     "t": 1.797
+    },
+    {
+     "w": "at",
+     "t": 2.328
+    },
+    {
+     "w": "one",
+     "t": 2.505
+    },
+    {
+     "w": "pm",
+     "t": 2.705
+    },
+    {
+     "w": "Venues",
+     "t": 3.484
+    },
+    {
+     "w": "vary",
+     "t": 3.932
+    },
+    {
+     "w": "so",
+     "t": 4.58
+    },
+    {
+     "w": "check",
+     "t": 4.769
+    },
+    {
+     "w": "your",
+     "t": 5.028
+    },
+    {
+     "w": "own",
+     "t": 5.17
+    },
+    {
+     "w": "timetable",
+     "t": 5.347
+    },
+    {
+     "w": "and",
+     "t": 6.208
+    },
+    {
+     "w": "find",
+     "t": 6.349
+    },
+    {
+     "w": "the",
+     "t": 6.632
+    },
+    {
+     "w": "personal",
+     "t": 6.691
+    },
+    {
+     "w": "email",
+     "t": 7.163
+    },
+    {
+     "w": "from",
+     "t": 7.516
+    },
+    {
+     "w": "the",
+     "t": 7.67
+    },
+    {
+     "w": "exams",
+     "t": 7.752
+    },
+    {
+     "w": "office",
+     "t": 8.094
+    },
+    {
+     "w": "Look",
+     "t": 8.837
+    },
+    {
+     "w": "in",
+     "t": 9.191
+    },
+    {
+     "w": "junk",
+     "t": 9.356
+    },
+    {
+     "w": "too",
+     "t": 9.616
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Bring your own device. Your phone gets you the start passcode, then goes to the front desk. Your laptop needs Respondus lockdown software installed beforehand.",
+   "board": {
+    "title": "Bring your own **device**",
+    "lines": [
+     {
+      "text": "**Phone** for the passcode",
+      "cue": "phone",
+      "at": 2.434
+     },
+     {
+      "text": "Then it goes to the **desk**",
+      "cue": "front",
+      "at": 4.887
+     },
+     {
+      "text": "**Laptop** with Respondus",
+      "cue": "laptop",
+      "at": 6.066
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "st",
+     "look": "student",
+     "v": 4,
+     "at": "desk",
+     "hold": "phone",
+     "pose": "hold"
+    },
+    {
+     "id": "inv",
+     "look": "exec_f",
+     "v": 3,
+     "at": "desk2",
+     "hold": "clipboard",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "st",
+     "cue": "front",
+     "expr": "smile",
+     "at": 4.887
+    }
+   ],
+   "fx": [
+    {
+     "kind": "tick",
+     "who": "inv",
+     "cue": "front",
+     "at": 4.887
+    },
+    {
+     "kind": "tick",
+     "who": "st",
+     "cue": "installed",
+     "at": 8.224
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "front",
+     "shot": "two",
+     "who": "st",
+     "at": 4.887
+    },
+    {
+     "cue": "laptop",
+     "shot": "wide",
+     "at": 6.066
+    }
+   ],
+   "audio": "audio/w13-02.mp3",
+   "leadIn": 0.45,
+   "seconds": 10.314,
+   "words": [
+    {
+     "w": "Bring",
+     "t": 0.5
+    },
+    {
+     "w": "your",
+     "t": 0.783
+    },
+    {
+     "w": "own",
+     "t": 1.078
+    },
+    {
+     "w": "device",
+     "t": 1.302
+    },
+    {
+     "w": "Your",
+     "t": 2.21
+    },
+    {
+     "w": "phone",
+     "t": 2.434
+    },
+    {
+     "w": "gets",
+     "t": 2.752
+    },
+    {
+     "w": "you",
+     "t": 2.953
+    },
+    {
+     "w": "the",
+     "t": 3.012
+    },
+    {
+     "w": "start",
+     "t": 3.094
+    },
+    {
+     "w": "passcode",
+     "t": 3.389
+    },
+    {
+     "w": "then",
+     "t": 4.226
+    },
+    {
+     "w": "goes",
+     "t": 4.427
+    },
+    {
+     "w": "to",
+     "t": 4.722
+    },
+    {
+     "w": "the",
+     "t": 4.804
+    },
+    {
+     "w": "front",
+     "t": 4.887
+    },
+    {
+     "w": "desk",
+     "t": 5.111
+    },
+    {
+     "w": "Your",
+     "t": 5.818
+    },
+    {
+     "w": "laptop",
+     "t": 6.066
+    },
+    {
+     "w": "needs",
+     "t": 6.561
+    },
+    {
+     "w": "Respondus",
+     "t": 6.785
+    },
+    {
+     "w": "lockdown",
+     "t": 7.34
+    },
+    {
+     "w": "software",
+     "t": 7.764
+    },
+    {
+     "w": "installed",
+     "t": 8.224
+    },
+    {
+     "w": "beforehand",
+     "t": 8.696
+    }
+   ]
+  },
+  {
+   "set": "home",
+   "say": "Before the day, try the practice test on the exam site so the form isn't new to you. And only a pre-approved dictionary is allowed.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "c"
+    },
+    {
+     "id": "a",
+     "look": "student",
+     "v": 5,
+     "at": "sofa",
+     "mode": "sit",
+     "hold": "laptop",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "a",
+     "cue": "practice",
+     "expr": "smile",
+     "at": 1.903
+    },
+    {
+     "who": "host",
+     "cue": "dictionary",
+     "pose": "up",
+     "at": 6.349
+    }
+   ],
+   "fx": [
+    {
+     "kind": "tick",
+     "who": "a",
+     "cue": "new",
+     "at": 4.179
+    },
+    {
+     "kind": "exclaim",
+     "who": "host",
+     "cue": "pre-approved",
+     "at": 5.689
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "practice",
+     "shot": "actor",
+     "who": "a",
+     "at": 1.903
+    },
+    {
+     "cue": "dictionary",
+     "shot": "host",
+     "at": 6.349
+    }
+   ],
+   "audio": "audio/w13-03.mp3",
+   "leadIn": 0.45,
+   "seconds": 8.466,
+   "words": [
+    {
+     "w": "Before",
+     "t": 0.5
+    },
+    {
+     "w": "the",
+     "t": 0.83
+    },
+    {
+     "w": "day",
+     "t": 0.913
+    },
+    {
+     "w": "try",
+     "t": 1.55
+    },
+    {
+     "w": "the",
+     "t": 1.821
+    },
+    {
+     "w": "practice",
+     "t": 1.903
+    },
+    {
+     "w": "test",
+     "t": 2.269
+    },
+    {
+     "w": "on",
+     "t": 2.552
+    },
+    {
+     "w": "the",
+     "t": 2.634
+    },
+    {
+     "w": "exam",
+     "t": 2.741
+    },
+    {
+     "w": "site",
+     "t": 3.071
+    },
+    {
+     "w": "so",
+     "t": 3.389
+    },
+    {
+     "w": "the",
+     "t": 3.542
+    },
+    {
+     "w": "form",
+     "t": 3.625
+    },
+    {
+     "w": "isn't",
+     "t": 3.943
+    },
+    {
+     "w": "new",
+     "t": 4.179
+    },
+    {
+     "w": "to",
+     "t": 4.321
+    },
+    {
+     "w": "you",
+     "t": 4.415
+    },
+    {
+     "w": "And",
+     "t": 5.052
+    },
+    {
+     "w": "only",
+     "t": 5.335
+    },
+    {
+     "w": "a",
+     "t": 5.641
+    },
+    {
+     "w": "pre-approved",
+     "t": 5.689
+    },
+    {
+     "w": "dictionary",
+     "t": 6.349
+    },
+    {
+     "w": "is",
+     "t": 6.88
+    },
+    {
+     "w": "allowed",
+     "t": 7.009
+    }
+   ]
+  },
+  {
+   "set": "stage",
+   "say": "The format is five short essay or scenario questions, six marks each, thirty marks in total. Answer every part, a, b and so on.",
+   "board": {
+    "title": "The **format**",
+    "big": "5 x 6",
+    "caption": "= **30 marks** in total",
+    "cue": "five",
+    "at": 1.208
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "point"
+    },
+    {
+     "id": "s1",
+     "look": "student",
+     "v": 6,
+     "at": "aisle",
+     "hold": "laptop",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "s1",
+     "cue": "every",
+     "expr": "nervous",
+     "at": 6.455
+    }
+   ],
+   "fx": [
+    {
+     "kind": "brain",
+     "who": "s1",
+     "cue": "every",
+     "at": 6.455
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "five",
+     "shot": "board",
+     "at": 1.208
+    },
+    {
+     "cue": "every",
+     "shot": "actor",
+     "who": "s1",
+     "at": 6.455
+    }
+   ],
+   "audio": "audio/w13-04.mp3",
+   "leadIn": 0.45,
+   "seconds": 9.81,
+   "words": [
+    {
+     "w": "The",
+     "t": 0.5
+    },
+    {
+     "w": "format",
+     "t": 0.641
+    },
+    {
+     "w": "is",
+     "t": 1.042
+    },
+    {
+     "w": "five",
+     "t": 1.208
+    },
+    {
+     "w": "short",
+     "t": 1.514
+    },
+    {
+     "w": "essay",
+     "t": 1.809
+    },
+    {
+     "w": "or",
+     "t": 2.163
+    },
+    {
+     "w": "scenario",
+     "t": 2.269
+    },
+    {
+     "w": "questions",
+     "t": 2.741
+    },
+    {
+     "w": "six",
+     "t": 3.578
+    },
+    {
+     "w": "marks",
+     "t": 3.884
+    },
+    {
+     "w": "each",
+     "t": 4.132
+    },
+    {
+     "w": "thirty",
+     "t": 4.639
+    },
+    {
+     "w": "marks",
+     "t": 4.934
+    },
+    {
+     "w": "in",
+     "t": 5.229
+    },
+    {
+     "w": "total",
+     "t": 5.3
+    },
+    {
+     "w": "Answer",
+     "t": 6.054
+    },
+    {
+     "w": "every",
+     "t": 6.455
+    },
+    {
+     "w": "part",
+     "t": 6.738
+    },
+    {
+     "w": "a",
+     "t": 7.387
+    },
+    {
+     "w": "b",
+     "t": 7.906
+    },
+    {
+     "w": "and",
+     "t": 8.189
+    },
+    {
+     "w": "so",
+     "t": 8.33
+    },
+    {
+     "w": "on",
+     "t": 8.578
+    }
+   ]
+  },
+  {
+   "set": "stage",
+   "say": "Aim for about three to four hundred words an answer, and five hundred at most. There's no formal minimum, so keep it to the point.",
+   "board": {
+    "title": "How **long**?",
+    "big": "300-400",
+    "caption": "words an answer, **500** at most",
+    "cue": "three",
+    "at": 1.208
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "s1",
+     "look": "student",
+     "v": 6,
+     "at": "aisle",
+     "hold": "laptop",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "s1",
+     "cue": "minimum",
+     "expr": "relief",
+     "at": 5.476
+    }
+   ],
+   "fx": [
+    {
+     "kind": "tick",
+     "who": "host",
+     "cue": "point",
+     "at": 6.88
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "minimum",
+     "shot": "actor",
+     "who": "s1",
+     "at": 5.476
+    }
+   ],
+   "audio": "audio/w13-05.mp3",
+   "leadIn": 0.45,
+   "seconds": 8.226,
+   "words": [
+    {
+     "w": "Aim",
+     "t": 0.5
+    },
+    {
+     "w": "for",
+     "t": 0.795
+    },
+    {
+     "w": "about",
+     "t": 0.96
+    },
+    {
+     "w": "three",
+     "t": 1.208
+    },
+    {
+     "w": "to",
+     "t": 1.491
+    },
+    {
+     "w": "four",
+     "t": 1.573
+    },
+    {
+     "w": "hundred",
+     "t": 1.774
+    },
+    {
+     "w": "words",
+     "t": 2.021
+    },
+    {
+     "w": "an",
+     "t": 2.292
+    },
+    {
+     "w": "answer",
+     "t": 2.351
+    },
+    {
+     "w": "and",
+     "t": 3.071
+    },
+    {
+     "w": "five",
+     "t": 3.224
+    },
+    {
+     "w": "hundred",
+     "t": 3.507
+    },
+    {
+     "w": "at",
+     "t": 3.802
+    },
+    {
+     "w": "most",
+     "t": 3.884
+    },
+    {
+     "w": "There's",
+     "t": 4.639
+    },
+    {
+     "w": "no",
+     "t": 4.91
+    },
+    {
+     "w": "formal",
+     "t": 5.146
+    },
+    {
+     "w": "minimum",
+     "t": 5.476
+    },
+    {
+     "w": "so",
+     "t": 6.16
+    },
+    {
+     "w": "keep",
+     "t": 6.396
+    },
+    {
+     "w": "it",
+     "t": 6.632
+    },
+    {
+     "w": "to",
+     "t": 6.726
+    },
+    {
+     "w": "the",
+     "t": 6.797
+    },
+    {
+     "w": "point",
+     "t": 6.88
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "What's tested? The concepts, models and ideas from the guest lectures and the workshop recaps. Where a speaker named a model, expect a question on it.",
+   "board": {
+    "title": "What's **tested**",
+    "lines": [
+     {
+      "text": "**Concepts**, models and ideas",
+      "cue": "concepts",
+      "at": 1.939
+     },
+     {
+      "text": "Guest lectures and **workshop recaps**",
+      "cue": "workshop",
+      "at": 5.016
+     },
+     {
+      "text": "Named model? Expect a **question**",
+      "cue": "expect",
+      "at": 8.0
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "point"
+    },
+    {
+     "id": "st",
+     "look": "student",
+     "v": 7,
+     "at": "table",
+     "hold": "clipboard",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "st",
+     "cue": "model",
+     "expr": "smile",
+     "at": 2.682
+    }
+   ],
+   "fx": [
+    {
+     "kind": "bulb",
+     "who": "st",
+     "cue": "expect",
+     "at": 8.0
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "speaker",
+     "shot": "two",
+     "who": "st",
+     "at": 6.644
+    }
+   ],
+   "audio": "audio/w13-06.mp3",
+   "leadIn": 0.45,
+   "seconds": 10.05,
+   "words": [
+    {
+     "w": "What's",
+     "t": 0.5
+    },
+    {
+     "w": "tested",
+     "t": 0.913
+    },
+    {
+     "w": "The",
+     "t": 1.774
+    },
+    {
+     "w": "concepts",
+     "t": 1.939
+    },
+    {
+     "w": "models",
+     "t": 2.682
+    },
+    {
+     "w": "and",
+     "t": 3.295
+    },
+    {
+     "w": "ideas",
+     "t": 3.46
+    },
+    {
+     "w": "from",
+     "t": 3.979
+    },
+    {
+     "w": "the",
+     "t": 4.109
+    },
+    {
+     "w": "guest",
+     "t": 4.156
+    },
+    {
+     "w": "lectures",
+     "t": 4.391
+    },
+    {
+     "w": "and",
+     "t": 4.769
+    },
+    {
+     "w": "the",
+     "t": 4.934
+    },
+    {
+     "w": "workshop",
+     "t": 5.016
+    },
+    {
+     "w": "recaps",
+     "t": 5.453
+    },
+    {
+     "w": "Where",
+     "t": 6.314
+    },
+    {
+     "w": "a",
+     "t": 6.609
+    },
+    {
+     "w": "speaker",
+     "t": 6.644
+    },
+    {
+     "w": "named",
+     "t": 7.08
+    },
+    {
+     "w": "a",
+     "t": 7.328
+    },
+    {
+     "w": "model",
+     "t": 7.351
+    },
+    {
+     "w": "expect",
+     "t": 8.0
+    },
+    {
+     "w": "a",
+     "t": 8.413
+    },
+    {
+     "w": "question",
+     "t": 8.46
+    },
+    {
+     "w": "on",
+     "t": 8.814
+    },
+    {
+     "w": "it",
+     "t": 8.92
+    }
+   ]
+  },
+  {
+   "set": "street",
+   "say": "What's not tested? Speakers' career paths, exact dates, and full media plans. Background on a company will mostly be given to you in the question.",
+   "board": {
+    "title": "Not **tested**",
+    "lines": [
+     {
+      "text": "Speakers' **career paths**",
+      "cue": "career",
+      "at": 2.458
+     },
+     {
+      "text": "**Exact dates**",
+      "cue": "dates",
+      "at": 3.802
+     },
+     {
+      "text": "Full **media plans**",
+      "cue": "media",
+      "at": 4.745
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "st",
+     "look": "student",
+     "v": 8,
+     "at": "bus",
+     "hold": "box",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "st",
+     "cue": "media",
+     "to": "kerb",
+     "pose": "none",
+     "expr": "relief_open",
+     "at": 4.745
+    }
+   ],
+   "fx": [
+    {
+     "kind": "cross",
+     "who": "host",
+     "cue": "career",
+     "at": 2.458
+    },
+    {
+     "kind": "cross",
+     "who": "host",
+     "cue": "dates",
+     "at": 3.802
+    },
+    {
+     "kind": "sparkle",
+     "who": "st",
+     "cue": "given",
+     "at": 7.682
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "plans",
+     "shot": "wide",
+     "at": 5.04
+    },
+    {
+     "cue": "given",
+     "shot": "close",
+     "who": "st",
+     "at": 7.682
+    }
+   ],
+   "audio": "audio/w13-07.mp3",
+   "leadIn": 0.45,
+   "seconds": 9.978,
+   "words": [
+    {
+     "w": "What's",
+     "t": 0.5
+    },
+    {
+     "w": "not",
+     "t": 0.901
+    },
+    {
+     "w": "tested",
+     "t": 1.101
+    },
+    {
+     "w": "Speakers'",
+     "t": 1.962
+    },
+    {
+     "w": "career",
+     "t": 2.458
+    },
+    {
+     "w": "paths",
+     "t": 2.752
+    },
+    {
+     "w": "exact",
+     "t": 3.436
+    },
+    {
+     "w": "dates",
+     "t": 3.802
+    },
+    {
+     "w": "and",
+     "t": 4.38
+    },
+    {
+     "w": "full",
+     "t": 4.521
+    },
+    {
+     "w": "media",
+     "t": 4.745
+    },
+    {
+     "w": "plans",
+     "t": 5.04
+    },
+    {
+     "w": "Background",
+     "t": 5.889
+    },
+    {
+     "w": "on",
+     "t": 6.42
+    },
+    {
+     "w": "a",
+     "t": 6.514
+    },
+    {
+     "w": "company",
+     "t": 6.561
+    },
+    {
+     "w": "will",
+     "t": 6.962
+    },
+    {
+     "w": "mostly",
+     "t": 7.151
+    },
+    {
+     "w": "be",
+     "t": 7.564
+    },
+    {
+     "w": "given",
+     "t": 7.682
+    },
+    {
+     "w": "to",
+     "t": 7.988
+    },
+    {
+     "w": "you",
+     "t": 8.083
+    },
+    {
+     "w": "in",
+     "t": 8.342
+    },
+    {
+     "w": "the",
+     "t": 8.472
+    },
+    {
+     "w": "question",
+     "t": 8.519
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Each question sticks to one lecture. Speakers wrote questions on their own talk, so learn each lecture's own concepts, even where themes overlap.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "front"
+    },
+    {
+     "id": "sp1",
+     "look": "speaker",
+     "v": 1,
+     "at": "desk",
+     "hold": "clipboard",
+     "pose": "hold"
+    },
+    {
+     "id": "sp2",
+     "look": "speaker",
+     "v": 4,
+     "at": "desk2",
+     "hold": "laptop",
+     "pose": "hold"
+    },
+    {
+     "id": "sp3",
+     "look": "exec_f",
+     "v": 5,
+     "at": "table",
+     "hold": "clipboard",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "one",
+     "pose": "up",
+     "at": 1.667
+    },
+    {
+     "who": "sp1",
+     "cue": "own",
+     "expr": "smile_closed",
+     "at": 4.05
+    },
+    {
+     "who": "host",
+     "cue": "overlap",
+     "pose": "point",
+     "at": 7.741
+    }
+   ],
+   "fx": [
+    {
+     "kind": "think",
+     "who": "sp1",
+     "text": "Only my talk",
+     "cue": "own",
+     "at": 4.05
+    },
+    {
+     "kind": "think",
+     "who": "sp2",
+     "text": "Mine too",
+     "cue": "concepts",
+     "at": 6.196
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "own",
+     "shot": "actor",
+     "who": "sp1",
+     "at": 4.05
+    },
+    {
+     "cue": "overlap",
+     "shot": "host",
+     "at": 7.741
+    }
+   ],
+   "audio": "audio/w13-08.mp3",
+   "leadIn": 0.45,
+   "seconds": 9.138,
+   "words": [
+    {
+     "w": "Each",
+     "t": 0.5
+    },
+    {
+     "w": "question",
+     "t": 0.771
+    },
+    {
+     "w": "sticks",
+     "t": 1.208
+    },
+    {
+     "w": "to",
+     "t": 1.561
+    },
+    {
+     "w": "one",
+     "t": 1.667
+    },
+    {
+     "w": "lecture",
+     "t": 1.868
+    },
+    {
+     "w": "Speakers",
+     "t": 2.646
+    },
+    {
+     "w": "wrote",
+     "t": 3.165
+    },
+    {
+     "w": "questions",
+     "t": 3.354
+    },
+    {
+     "w": "on",
+     "t": 3.861
+    },
+    {
+     "w": "their",
+     "t": 3.943
+    },
+    {
+     "w": "own",
+     "t": 4.05
+    },
+    {
+     "w": "talk",
+     "t": 4.238
+    },
+    {
+     "w": "so",
+     "t": 4.91
+    },
+    {
+     "w": "learn",
+     "t": 5.099
+    },
+    {
+     "w": "each",
+     "t": 5.465
+    },
+    {
+     "w": "lecture's",
+     "t": 5.665
+    },
+    {
+     "w": "own",
+     "t": 6.031
+    },
+    {
+     "w": "concepts",
+     "t": 6.196
+    },
+    {
+     "w": "even",
+     "t": 6.974
+    },
+    {
+     "w": "where",
+     "t": 7.245
+    },
+    {
+     "w": "themes",
+     "t": 7.422
+    },
+    {
+     "w": "overlap",
+     "t": 7.741
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Job roles aren't a framework to learn. But a question could describe a company problem and ask who would be involved, and what process they'd follow.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "front",
+     "pose": "chin"
+    },
+    {
+     "id": "boss",
+     "look": "exec",
+     "v": 2,
+     "at": "c",
+     "pose": "shrug",
+     "expr": "nervous"
+    },
+    {
+     "id": "strat",
+     "look": "exec_f",
+     "v": 1,
+     "at": "l"
+    },
+    {
+     "id": "plan",
+     "look": "worker",
+     "v": 3,
+     "at": "r",
+     "hold": "laptop",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "strat",
+     "cue": "involved",
+     "pose": "up",
+     "expr": "smile",
+     "at": 5.571
+    },
+    {
+     "who": "plan",
+     "cue": "process",
+     "expr": "smile",
+     "at": 6.715
+    }
+   ],
+   "fx": [
+    {
+     "kind": "say",
+     "who": "boss",
+     "text": "We have a problem",
+     "cue": "problem",
+     "at": 4.344
+    },
+    {
+     "kind": "bulb",
+     "who": "strat",
+     "cue": "involved",
+     "at": 5.571
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "host",
+     "at": 0.2
+    },
+    {
+     "cue": "problem",
+     "shot": "wide",
+     "at": 4.344
+    },
+    {
+     "cue": "process",
+     "shot": "actor",
+     "who": "plan",
+     "at": 6.715
+    }
+   ],
+   "audio": "audio/w13-09.mp3",
+   "leadIn": 0.45,
+   "seconds": 8.706,
+   "words": [
+    {
+     "w": "Job",
+     "t": 0.5
+    },
+    {
+     "w": "roles",
+     "t": 0.818
+    },
+    {
+     "w": "aren't",
+     "t": 1.231
+    },
+    {
+     "w": "a",
+     "t": 1.408
+    },
+    {
+     "w": "framework",
+     "t": 1.455
+    },
+    {
+     "w": "to",
+     "t": 1.95
+    },
+    {
+     "w": "learn",
+     "t": 2.021
+    },
+    {
+     "w": "But",
+     "t": 2.788
+    },
+    {
+     "w": "a",
+     "t": 2.929
+    },
+    {
+     "w": "question",
+     "t": 2.976
+    },
+    {
+     "w": "could",
+     "t": 3.436
+    },
+    {
+     "w": "describe",
+     "t": 3.578
+    },
+    {
+     "w": "a",
+     "t": 3.991
+    },
+    {
+     "w": "company",
+     "t": 4.038
+    },
+    {
+     "w": "problem",
+     "t": 4.344
+    },
+    {
+     "w": "and",
+     "t": 4.769
+    },
+    {
+     "w": "ask",
+     "t": 4.993
+    },
+    {
+     "w": "who",
+     "t": 5.276
+    },
+    {
+     "w": "would",
+     "t": 5.347
+    },
+    {
+     "w": "be",
+     "t": 5.465
+    },
+    {
+     "w": "involved",
+     "t": 5.571
+    },
+    {
+     "w": "and",
+     "t": 6.373
+    },
+    {
+     "w": "what",
+     "t": 6.538
+    },
+    {
+     "w": "process",
+     "t": 6.715
+    },
+    {
+     "w": "they'd",
+     "t": 7.151
+    },
+    {
+     "w": "follow",
+     "t": 7.316
+    }
+   ]
+  },
+  {
+   "set": "street",
+   "say": "The big skill is transfer. A concept a speaker showed with Telstra might be asked about Qantas. Know the concept, not just the example.",
+   "board": {
+    "title": "**Transfer** is the skill",
+    "vs": {
+     "left": "In the lecture",
+     "right": "In the exam",
+     "leftItems": [
+      "Telstra"
+     ],
+     "rightItems": [
+      "Qantas"
+     ],
+     "cue": "Telstra",
+     "at": 3.814
+    }
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "point"
+    },
+    {
+     "id": "st",
+     "look": "student",
+     "v": 9,
+     "at": "kerb"
+    }
+   ],
+   "acts": [
+    {
+     "who": "st",
+     "cue": "Qantas",
+     "pose": "chin",
+     "expr": "nervous",
+     "at": 5.134
+    },
+    {
+     "who": "st",
+     "cue": "concept",
+     "pose": "cheer",
+     "expr": "grin",
+     "at": 6.42
+    }
+   ],
+   "fx": [
+    {
+     "kind": "question",
+     "who": "st",
+     "cue": "Qantas",
+     "at": 5.134
+    },
+    {
+     "kind": "bulb",
+     "who": "st",
+     "cue": "example",
+     "at": 7.847
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "Qantas",
+     "shot": "actor",
+     "who": "st",
+     "at": 5.134
+    },
+    {
+     "cue": "example",
+     "shot": "close",
+     "who": "st",
+     "at": 7.847
+    }
+   ],
+   "audio": "audio/w13-10.mp3",
+   "leadIn": 0.45,
+   "seconds": 9.33,
+   "words": [
+    {
+     "w": "The",
+     "t": 0.5
+    },
+    {
+     "w": "big",
+     "t": 0.653
+    },
+    {
+     "w": "skill",
+     "t": 0.889
+    },
+    {
+     "w": "is",
+     "t": 1.243
+    },
+    {
+     "w": "transfer",
+     "t": 1.432
+    },
+    {
+     "w": "A",
+     "t": 2.375
+    },
+    {
+     "w": "concept",
+     "t": 2.505
+    },
+    {
+     "w": "a",
+     "t": 2.917
+    },
+    {
+     "w": "speaker",
+     "t": 2.953
+    },
+    {
+     "w": "showed",
+     "t": 3.401
+    },
+    {
+     "w": "with",
+     "t": 3.684
+    },
+    {
+     "w": "Telstra",
+     "t": 3.814
+    },
+    {
+     "w": "might",
+     "t": 4.238
+    },
+    {
+     "w": "be",
+     "t": 4.486
+    },
+    {
+     "w": "asked",
+     "t": 4.639
+    },
+    {
+     "w": "about",
+     "t": 4.922
+    },
+    {
+     "w": "Qantas",
+     "t": 5.134
+    },
+    {
+     "w": "Know",
+     "t": 6.031
+    },
+    {
+     "w": "the",
+     "t": 6.337
+    },
+    {
+     "w": "concept",
+     "t": 6.42
+    },
+    {
+     "w": "not",
+     "t": 7.21
+    },
+    {
+     "w": "just",
+     "t": 7.469
+    },
+    {
+     "w": "the",
+     "t": 7.729
+    },
+    {
+     "w": "example",
+     "t": 7.847
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Watch the wording. Why did X do this wants the speaker's reasoning. Could Y do it too wants your own justified view.",
+   "board": {
+    "title": "Read the **question**",
+    "vs": {
+     "left": "Why did X?",
+     "right": "Could Y?",
+     "leftItems": [
+      "The speaker's reasons"
+     ],
+     "rightItems": [
+      "Your justified view"
+     ],
+     "cue": "Why",
+     "at": 1.88
+    }
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "st",
+     "look": "student",
+     "v": 2,
+     "at": "table",
+     "hold": "laptop",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "st",
+     "cue": "justified",
+     "expr": "smile",
+     "at": 6.502
+    }
+   ],
+   "fx": [
+    {
+     "kind": "eye",
+     "who": "host",
+     "cue": "wording",
+     "at": 1.042
+    },
+    {
+     "kind": "tick",
+     "who": "st",
+     "cue": "view",
+     "at": 7.033
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "host",
+     "at": 0.2
+    },
+    {
+     "cue": "Why",
+     "shot": "board",
+     "at": 1.88
+    },
+    {
+     "cue": "view",
+     "shot": "two",
+     "who": "st",
+     "at": 7.033
+    }
+   ],
+   "audio": "audio/w13-11.mp3",
+   "leadIn": 0.45,
+   "seconds": 8.37,
+   "words": [
+    {
+     "w": "Watch",
+     "t": 0.5
+    },
+    {
+     "w": "the",
+     "t": 0.925
+    },
+    {
+     "w": "wording",
+     "t": 1.042
+    },
+    {
+     "w": "Why",
+     "t": 1.88
+    },
+    {
+     "w": "did",
+     "t": 2.21
+    },
+    {
+     "w": "X",
+     "t": 2.493
+    },
+    {
+     "w": "do",
+     "t": 2.741
+    },
+    {
+     "w": "this",
+     "t": 2.941
+    },
+    {
+     "w": "wants",
+     "t": 3.177
+    },
+    {
+     "w": "the",
+     "t": 3.413
+    },
+    {
+     "w": "speaker's",
+     "t": 3.484
+    },
+    {
+     "w": "reasoning",
+     "t": 3.896
+    },
+    {
+     "w": "Could",
+     "t": 4.734
+    },
+    {
+     "w": "Y",
+     "t": 4.934
+    },
+    {
+     "w": "do",
+     "t": 5.182
+    },
+    {
+     "w": "it",
+     "t": 5.37
+    },
+    {
+     "w": "too",
+     "t": 5.453
+    },
+    {
+     "w": "wants",
+     "t": 5.759
+    },
+    {
+     "w": "your",
+     "t": 6.031
+    },
+    {
+     "w": "own",
+     "t": 6.219
+    },
+    {
+     "w": "justified",
+     "t": 6.502
+    },
+    {
+     "w": "view",
+     "t": 7.033
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "There's no universal marking formula and no fixed one mark per element. Follow the exact task and every subpart, and be precise. A formal essay structure isn't needed.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "front"
+    },
+    {
+     "id": "tu",
+     "look": "exec",
+     "v": 6,
+     "at": "desk",
+     "hold": "clipboard",
+     "pose": "hold"
+    },
+    {
+     "id": "st",
+     "look": "student",
+     "v": 1,
+     "at": "table"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "formula",
+     "pose": "shrug",
+     "at": 1.821
+    },
+    {
+     "who": "tu",
+     "cue": "precise",
+     "pose": "point",
+     "expr": "stern",
+     "at": 7.292
+    },
+    {
+     "who": "st",
+     "cue": "essay",
+     "expr": "relief_open",
+     "at": 8.861
+    }
+   ],
+   "fx": [
+    {
+     "kind": "cross",
+     "who": "host",
+     "cue": "formula",
+     "at": 1.821
+    },
+    {
+     "kind": "tick",
+     "who": "tu",
+     "cue": "subpart",
+     "at": 6.208
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "subpart",
+     "shot": "actor",
+     "who": "tu",
+     "at": 6.208
+    },
+    {
+     "cue": "essay",
+     "shot": "close",
+     "who": "st",
+     "at": 8.861
+    }
+   ],
+   "audio": "audio/w13-12.mp3",
+   "leadIn": 0.45,
+   "seconds": 11.274,
+   "words": [
+    {
+     "w": "There's",
+     "t": 0.5
+    },
+    {
+     "w": "no",
+     "t": 0.759
+    },
+    {
+     "w": "universal",
+     "t": 0.948
+    },
+    {
+     "w": "marking",
+     "t": 1.479
+    },
+    {
+     "w": "formula",
+     "t": 1.821
+    },
+    {
+     "w": "and",
+     "t": 2.304
+    },
+    {
+     "w": "no",
+     "t": 2.469
+    },
+    {
+     "w": "fixed",
+     "t": 2.67
+    },
+    {
+     "w": "one",
+     "t": 2.976
+    },
+    {
+     "w": "mark",
+     "t": 3.2
+    },
+    {
+     "w": "per",
+     "t": 3.507
+    },
+    {
+     "w": "element",
+     "t": 3.708
+    },
+    {
+     "w": "Follow",
+     "t": 4.486
+    },
+    {
+     "w": "the",
+     "t": 4.899
+    },
+    {
+     "w": "exact",
+     "t": 5.04
+    },
+    {
+     "w": "task",
+     "t": 5.382
+    },
+    {
+     "w": "and",
+     "t": 5.783
+    },
+    {
+     "w": "every",
+     "t": 5.984
+    },
+    {
+     "w": "subpart",
+     "t": 6.208
+    },
+    {
+     "w": "and",
+     "t": 6.998
+    },
+    {
+     "w": "be",
+     "t": 7.151
+    },
+    {
+     "w": "precise",
+     "t": 7.292
+    },
+    {
+     "w": "A",
+     "t": 8.248
+    },
+    {
+     "w": "formal",
+     "t": 8.366
+    },
+    {
+     "w": "essay",
+     "t": 8.861
+    },
+    {
+     "w": "structure",
+     "t": 9.108
+    },
+    {
+     "w": "isn't",
+     "t": 9.627
+    },
+    {
+     "w": "needed",
+     "t": 9.887
+    }
+   ]
+  },
+  {
+   "set": "stage",
+   "say": "So for each answer: name and explain the concept, apply it step by step to the brand in the question, then link it to the outcome. An opinion alone won't cut it.",
+   "board": {
+    "title": "A six-mark **answer**",
+    "steps": [
+     {
+      "text": "**Name** and explain the concept",
+      "cue": "name",
+      "at": 1.844
+     },
+     {
+      "text": "**Apply** it to the brand",
+      "cue": "apply",
+      "at": 3.436
+     },
+     {
+      "text": "**Link** it to the outcome",
+      "cue": "link",
+      "at": 6.054
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "point"
+    },
+    {
+     "id": "s1",
+     "look": "student",
+     "v": 3,
+     "at": "aisle",
+     "hold": "laptop",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "s1",
+     "cue": "outcome",
+     "expr": "grin",
+     "at": 6.585
+    }
+   ],
+   "fx": [
+    {
+     "kind": "tick",
+     "who": "s1",
+     "cue": "outcome",
+     "at": 6.585
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "outcome",
+     "shot": "actor",
+     "who": "s1",
+     "at": 6.585
+    }
+   ],
+   "audio": "audio/w13-13.mp3",
+   "leadIn": 0.45,
+   "seconds": 9.93,
+   "words": [
+    {
+     "w": "So",
+     "t": 0.5
+    },
+    {
+     "w": "for",
+     "t": 0.771
+    },
+    {
+     "w": "each",
+     "t": 0.96
+    },
+    {
+     "w": "answer",
+     "t": 1.172
+    },
+    {
+     "w": "name",
+     "t": 1.844
+    },
+    {
+     "w": "and",
+     "t": 2.186
+    },
+    {
+     "w": "explain",
+     "t": 2.304
+    },
+    {
+     "w": "the",
+     "t": 2.658
+    },
+    {
+     "w": "concept",
+     "t": 2.705
+    },
+    {
+     "w": "apply",
+     "t": 3.436
+    },
+    {
+     "w": "it",
+     "t": 3.814
+    },
+    {
+     "w": "step",
+     "t": 3.884
+    },
+    {
+     "w": "by",
+     "t": 4.167
+    },
+    {
+     "w": "step",
+     "t": 4.297
+    },
+    {
+     "w": "to",
+     "t": 4.568
+    },
+    {
+     "w": "the",
+     "t": 4.639
+    },
+    {
+     "w": "brand",
+     "t": 4.71
+    },
+    {
+     "w": "in",
+     "t": 5.052
+    },
+    {
+     "w": "the",
+     "t": 5.123
+    },
+    {
+     "w": "question",
+     "t": 5.17
+    },
+    {
+     "w": "then",
+     "t": 5.889
+    },
+    {
+     "w": "link",
+     "t": 6.054
+    },
+    {
+     "w": "it",
+     "t": 6.278
+    },
+    {
+     "w": "to",
+     "t": 6.384
+    },
+    {
+     "w": "the",
+     "t": 6.467
+    },
+    {
+     "w": "outcome",
+     "t": 6.585
+    },
+    {
+     "w": "An",
+     "t": 7.375
+    },
+    {
+     "w": "opinion",
+     "t": 7.528
+    },
+    {
+     "w": "alone",
+     "t": 7.929
+    },
+    {
+     "w": "won't",
+     "t": 8.33
+    },
+    {
+     "w": "cut",
+     "t": 8.578
+    },
+    {
+     "w": "it",
+     "t": 8.755
+    }
+   ]
+  },
+  {
+   "set": "home",
+   "say": "To revise, go back through every lecture's notes, the workshop and tutorial questions, and the pre-work. Focus on the lectures, not your report or presentation.",
+   "board": {
+    "title": "How to **revise**",
+    "lines": [
+     {
+      "text": "Every **lecture's** notes",
+      "cue": "lecture's",
+      "at": 2.363
+     },
+     {
+      "text": "**Workshop** and tutorial questions",
+      "cue": "workshop",
+      "at": 3.354
+     },
+     {
+      "text": "The **pre-work**",
+      "cue": "pre-work",
+      "at": 5.583
+     },
+     {
+      "text": "Not your report or **presentation**",
+      "cue": "report",
+      "at": 8.271
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "tv",
+     "pose": "point"
+    },
+    {
+     "id": "a",
+     "look": "student",
+     "v": 5,
+     "at": "sofa",
+     "mode": "sit",
+     "hold": "laptop",
+     "pose": "hold"
+    },
+    {
+     "id": "b",
+     "look": "student",
+     "v": 6,
+     "at": "sofa2",
+     "mode": "sit",
+     "hold": "clipboard",
+     "pose": "hold"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "brain",
+     "who": "a",
+     "cue": "workshop",
+     "at": 3.354
+    },
+    {
+     "kind": "bulb",
+     "who": "b",
+     "cue": "Focus",
+     "at": 6.479
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "pre-work",
+     "shot": "wide",
+     "at": 5.583
+    }
+   ],
+   "audio": "audio/w13-14.mp3",
+   "leadIn": 0.45,
+   "seconds": 10.554,
+   "words": [
+    {
+     "w": "To",
+     "t": 0.5
+    },
+    {
+     "w": "revise",
+     "t": 0.641
+    },
+    {
+     "w": "go",
+     "t": 1.455
+    },
+    {
+     "w": "back",
+     "t": 1.62
+    },
+    {
+     "w": "through",
+     "t": 1.856
+    },
+    {
+     "w": "every",
+     "t": 2.104
+    },
+    {
+     "w": "lecture's",
+     "t": 2.363
+    },
+    {
+     "w": "notes",
+     "t": 2.682
+    },
+    {
+     "w": "the",
+     "t": 3.248
+    },
+    {
+     "w": "workshop",
+     "t": 3.354
+    },
+    {
+     "w": "and",
+     "t": 3.932
+    },
+    {
+     "w": "tutorial",
+     "t": 4.085
+    },
+    {
+     "w": "questions",
+     "t": 4.58
+    },
+    {
+     "w": "and",
+     "t": 5.37
+    },
+    {
+     "w": "the",
+     "t": 5.512
+    },
+    {
+     "w": "pre-work",
+     "t": 5.583
+    },
+    {
+     "w": "Focus",
+     "t": 6.479
+    },
+    {
+     "w": "on",
+     "t": 6.95
+    },
+    {
+     "w": "the",
+     "t": 7.021
+    },
+    {
+     "w": "lectures",
+     "t": 7.068
+    },
+    {
+     "w": "not",
+     "t": 7.847
+    },
+    {
+     "w": "your",
+     "t": 8.13
+    },
+    {
+     "w": "report",
+     "t": 8.271
+    },
+    {
+     "w": "or",
+     "t": 8.719
+    },
+    {
+     "w": "presentation",
+     "t": 8.825
+    }
+   ]
+  },
+  {
+   "set": "plaza",
+   "say": "And don't bother asking your tutor what's in the exam. Tutors genuinely don't know the questions.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "front"
+    },
+    {
+     "id": "st",
+     "look": "student",
+     "v": 7,
+     "at": "walkL",
+     "to": "l"
+    },
+    {
+     "id": "tu",
+     "look": "exec_f",
+     "v": 4,
+     "at": "c",
+     "hold": "coffee",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "st",
+     "cue": "asking",
+     "pose": "up",
+     "expr": "grin",
+     "at": 1.29
+    },
+    {
+     "who": "tu",
+     "cue": "genuinely",
+     "pose": "shrug",
+     "expr": "laugh",
+     "at": 3.884
+    }
+   ],
+   "fx": [
+    {
+     "kind": "say",
+     "who": "st",
+     "text": "Any hints?",
+     "cue": "asking",
+     "at": 1.29
+    },
+    {
+     "kind": "say",
+     "who": "tu",
+     "text": "No idea!",
+     "cue": "genuinely",
+     "at": 3.884
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "asking",
+     "shot": "two",
+     "who": "st",
+     "at": 1.29
+    },
+    {
+     "cue": "know",
+     "shot": "close",
+     "who": "tu",
+     "at": 4.757
+    }
+   ],
+   "audio": "audio/w13-15.mp3",
+   "leadIn": 0.45,
+   "seconds": 6.57,
+   "words": [
+    {
+     "w": "And",
+     "t": 0.5
+    },
+    {
+     "w": "don't",
+     "t": 0.7
+    },
+    {
+     "w": "bother",
+     "t": 0.96
+    },
+    {
+     "w": "asking",
+     "t": 1.29
+    },
+    {
+     "w": "your",
+     "t": 1.632
+    },
+    {
+     "w": "tutor",
+     "t": 1.75
+    },
+    {
+     "w": "what's",
+     "t": 2.116
+    },
+    {
+     "w": "in",
+     "t": 2.422
+    },
+    {
+     "w": "the",
+     "t": 2.493
+    },
+    {
+     "w": "exam",
+     "t": 2.587
+    },
+    {
+     "w": "Tutors",
+     "t": 3.436
+    },
+    {
+     "w": "genuinely",
+     "t": 3.884
+    },
+    {
+     "w": "don't",
+     "t": 4.462
+    },
+    {
+     "w": "know",
+     "t": 4.757
+    },
+    {
+     "w": "the",
+     "t": 4.958
+    },
+    {
+     "w": "questions",
+     "t": 5.028
+    }
+   ]
+  },
+  {
+   "set": "street",
+   "say": "On the day, have Respondus installed and tested, your laptop charged with the charger packed, your phone for the passcode, and your venue checked. Arrive early.",
+   "board": {
+    "title": "Exam-day **checklist**",
+    "lines": [
+     {
+      "text": "**Respondus** installed and tested",
+      "cue": "Respondus",
+      "at": 1.514
+     },
+     {
+      "text": "Laptop **charged**, charger packed",
+      "cue": "charged",
+      "at": 3.802
+     },
+     {
+      "text": "**Phone** for the passcode",
+      "cue": "phone",
+      "at": 5.323
+     },
+     {
+      "text": "Venue checked, **arrive early**",
+      "cue": "venue",
+      "at": 6.797
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "st",
+     "look": "student",
+     "v": 4,
+     "at": "walkR",
+     "to": "bus",
+     "walkCue": "venue",
+     "hold": "laptop",
+     "pose": "hold",
+     "walkAt": 6.797
+    }
+   ],
+   "acts": [
+    {
+     "who": "st",
+     "cue": "early",
+     "expr": "grin",
+     "at": 8.307
+    }
+   ],
+   "fx": [
+    {
+     "kind": "clock",
+     "who": "st",
+     "cue": "early",
+     "at": 8.307
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "venue",
+     "shot": "wide",
+     "at": 6.797
+    }
+   ],
+   "audio": "audio/w13-16.mp3",
+   "leadIn": 0.45,
+   "seconds": 9.642,
+   "words": [
+    {
+     "w": "On",
+     "t": 0.5
+    },
+    {
+     "w": "the",
+     "t": 0.689
+    },
+    {
+     "w": "day",
+     "t": 0.748
+    },
+    {
+     "w": "have",
+     "t": 1.314
+    },
+    {
+     "w": "Respondus",
+     "t": 1.514
+    },
+    {
+     "w": "installed",
+     "t": 2.009
+    },
+    {
+     "w": "and",
+     "t": 2.399
+    },
+    {
+     "w": "tested",
+     "t": 2.493
+    },
+    {
+     "w": "your",
+     "t": 3.224
+    },
+    {
+     "w": "laptop",
+     "t": 3.377
+    },
+    {
+     "w": "charged",
+     "t": 3.802
+    },
+    {
+     "w": "with",
+     "t": 4.156
+    },
+    {
+     "w": "the",
+     "t": 4.238
+    },
+    {
+     "w": "charger",
+     "t": 4.297
+    },
+    {
+     "w": "packed",
+     "t": 4.604
+    },
+    {
+     "w": "your",
+     "t": 5.182
+    },
+    {
+     "w": "phone",
+     "t": 5.323
+    },
+    {
+     "w": "for",
+     "t": 5.606
+    },
+    {
+     "w": "the",
+     "t": 5.689
+    },
+    {
+     "w": "passcode",
+     "t": 5.759
+    },
+    {
+     "w": "and",
+     "t": 6.538
+    },
+    {
+     "w": "your",
+     "t": 6.679
+    },
+    {
+     "w": "venue",
+     "t": 6.797
+    },
+    {
+     "w": "checked",
+     "t": 7.08
+    },
+    {
+     "w": "Arrive",
+     "t": 7.823
+    },
+    {
+     "w": "early",
+     "t": 8.307
+    }
+   ]
+  },
+  {
+   "set": "stage",
+   "say": "So: five questions, six marks each, one lecture per question. Know each concept well enough to use it on a brand the speaker never mentioned. Good luck. That's week thirteen.",
+   "board": {
+    "title": "Week 13 **takeaways**",
+    "lines": [
+     {
+      "text": "**5 questions**, 6 marks each",
+      "cue": "five",
+      "at": 1.16
+     },
+     {
+      "text": "**One lecture** per question",
+      "cue": "lecture",
+      "at": 3.637
+     },
+     {
+      "text": "**Transfer** the concept",
+      "cue": "concept",
+      "at": 5.488
+     },
+     {
+      "text": "Good **luck**",
+      "cue": "luck",
+      "at": 9.132
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "s1",
+     "look": "student",
+     "v": 1,
+     "at": "aisle"
+    },
+    {
+     "id": "s2",
+     "look": "student",
+     "v": 2,
+     "at": "aisle2"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "luck",
+     "pose": "cheer",
+     "expr": "grin",
+     "at": 9.132
+    },
+    {
+     "who": "s1",
+     "cue": "week",
+     "pose": "cheer",
+     "expr": "laugh",
+     "at": 10.193
+    }
+   ],
+   "fx": [
+    {
+     "kind": "stars",
+     "who": "host",
+     "cue": "luck",
+     "at": 9.132
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "luck",
+     "shot": "wide",
+     "at": 9.132
+    }
+   ],
+   "audio": "audio/w13-17.mp3",
+   "leadIn": 0.45,
+   "seconds": 12.018,
+   "words": [
+    {
+     "w": "So",
+     "t": 0.5
+    },
+    {
+     "w": "five",
+     "t": 1.16
+    },
+    {
+     "w": "questions",
+     "t": 1.514
+    },
+    {
+     "w": "six",
+     "t": 2.257
+    },
+    {
+     "w": "marks",
+     "t": 2.575
+    },
+    {
+     "w": "each",
+     "t": 2.823
+    },
+    {
+     "w": "one",
+     "t": 3.377
+    },
+    {
+     "w": "lecture",
+     "t": 3.637
+    },
+    {
+     "w": "per",
+     "t": 3.932
+    },
+    {
+     "w": "question",
+     "t": 4.038
+    },
+    {
+     "w": "Know",
+     "t": 4.875
+    },
+    {
+     "w": "each",
+     "t": 5.252
+    },
+    {
+     "w": "concept",
+     "t": 5.488
+    },
+    {
+     "w": "well",
+     "t": 5.901
+    },
+    {
+     "w": "enough",
+     "t": 6.113
+    },
+    {
+     "w": "to",
+     "t": 6.337
+    },
+    {
+     "w": "use",
+     "t": 6.432
+    },
+    {
+     "w": "it",
+     "t": 6.691
+    },
+    {
+     "w": "on",
+     "t": 6.856
+    },
+    {
+     "w": "a",
+     "t": 6.986
+    },
+    {
+     "w": "brand",
+     "t": 7.033
+    },
+    {
+     "w": "the",
+     "t": 7.363
+    },
+    {
+     "w": "speaker",
+     "t": 7.434
+    },
+    {
+     "w": "never",
+     "t": 7.811
+    },
+    {
+     "w": "mentioned",
+     "t": 8.047
+    },
+    {
+     "w": "Good",
+     "t": 8.884
+    },
+    {
+     "w": "luck",
+     "t": 9.132
+    },
+    {
+     "w": "That's",
+     "t": 9.851
+    },
+    {
+     "w": "week",
+     "t": 10.193
+    },
+    {
+     "w": "thirteen",
+     "t": 10.453
+    }
+   ]
+  }
+ ],
+ "id": "w13",
+ "total": 172.87
+}

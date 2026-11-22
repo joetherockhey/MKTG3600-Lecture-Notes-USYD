@@ -1,0 +1,669 @@
+{
+ "week": 0,
+ "title": "Keller's brand equity pyramid (CBBE)",
+ "speaker": "Kevin Lane Keller, 1993 and 2001",
+ "beats": [
+  {
+   "set": "office",
+   "say": "Keller's brand equity pyramid builds a brand in four steps. Salience first, then meaning, then response, and finally resonance at the top.",
+   "board": {
+    "title": "**Keller's** CBBE pyramid",
+    "steps": [
+     {
+      "text": "**Salience** do people know it?",
+      "cue": "Salience",
+      "at": 3.896
+     },
+     {
+      "text": "**Meaning** performance and imagery",
+      "cue": "meaning",
+      "at": 5.3
+     },
+     {
+      "text": "**Response** judgements and feelings",
+      "cue": "response",
+      "at": 6.137
+     },
+     {
+      "text": "**Resonance** loyalty and community",
+      "cue": "resonance",
+      "at": 7.505
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "e1",
+     "look": "exec_f",
+     "v": 4,
+     "at": "table"
+    }
+   ],
+   "acts": [
+    {
+     "who": "e1",
+     "cue": "resonance",
+     "expr": "smile",
+     "at": 7.505
+    },
+    {
+     "who": "host",
+     "cue": "top",
+     "pose": "up",
+     "expr": "grin",
+     "at": 8.106
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "meaning",
+     "shot": "board",
+     "at": 5.3
+    },
+    {
+     "cue": "top",
+     "shot": "close",
+     "at": 8.106
+    }
+   ],
+   "audio": "audio/m-keller-cbbe-pyramid-00.mp3",
+   "leadIn": 0.45,
+   "seconds": 9.426,
+   "words": [
+    {
+     "w": "Keller's",
+     "t": 0.5
+    },
+    {
+     "w": "brand",
+     "t": 0.842
+    },
+    {
+     "w": "equity",
+     "t": 1.196
+    },
+    {
+     "w": "pyramid",
+     "t": 1.491
+    },
+    {
+     "w": "builds",
+     "t": 1.939
+    },
+    {
+     "w": "a",
+     "t": 2.222
+    },
+    {
+     "w": "brand",
+     "t": 2.269
+    },
+    {
+     "w": "in",
+     "t": 2.67
+    },
+    {
+     "w": "four",
+     "t": 2.835
+    },
+    {
+     "w": "steps",
+     "t": 3.071
+    },
+    {
+     "w": "Salience",
+     "t": 3.896
+    },
+    {
+     "w": "first",
+     "t": 4.45
+    },
+    {
+     "w": "then",
+     "t": 5.111
+    },
+    {
+     "w": "meaning",
+     "t": 5.3
+    },
+    {
+     "w": "then",
+     "t": 5.936
+    },
+    {
+     "w": "response",
+     "t": 6.137
+    },
+    {
+     "w": "and",
+     "t": 6.915
+    },
+    {
+     "w": "finally",
+     "t": 7.045
+    },
+    {
+     "w": "resonance",
+     "t": 7.505
+    },
+    {
+     "w": "at",
+     "t": 7.965
+    },
+    {
+     "w": "the",
+     "t": 8.035
+    },
+    {
+     "w": "top",
+     "t": 8.106
+    }
+   ]
+  },
+  {
+   "set": "plaza",
+   "say": "Salience asks: do shoppers think of you when they buy? Meaning is what you do and stand for. Response is what they think and feel about it.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "front"
+    },
+    {
+     "id": "s1",
+     "look": "shopper",
+     "v": 3,
+     "at": "shelf"
+    },
+    {
+     "id": "s2",
+     "look": "shopper",
+     "v": 6,
+     "at": "shelf2"
+    }
+   ],
+   "acts": [
+    {
+     "who": "s1",
+     "cue": "Salience",
+     "pose": "chin",
+     "expr": "nervous",
+     "at": 0.5
+    },
+    {
+     "who": "s2",
+     "cue": "stand",
+     "pose": "chin",
+     "at": 5.229
+    },
+    {
+     "who": "s2",
+     "cue": "feel",
+     "expr": "smile",
+     "at": 7.87
+    }
+   ],
+   "fx": [
+    {
+     "kind": "think",
+     "who": "s1",
+     "text": "Which brand was it?",
+     "cue": "Salience",
+     "at": 0.5
+    },
+    {
+     "kind": "brain",
+     "who": "s2",
+     "cue": "stand",
+     "at": 5.229
+    },
+    {
+     "kind": "heart",
+     "who": "s2",
+     "cue": "feel",
+     "at": 7.87
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "Salience",
+     "shot": "actor",
+     "who": "s1",
+     "at": 0.5
+    },
+    {
+     "cue": "feel",
+     "shot": "actor",
+     "who": "s2",
+     "at": 7.87
+    }
+   ],
+   "audio": "audio/m-keller-cbbe-pyramid-01.mp3",
+   "leadIn": 0.45,
+   "seconds": 9.498,
+   "words": [
+    {
+     "w": "Salience",
+     "t": 0.5
+    },
+    {
+     "w": "asks",
+     "t": 1.066
+    },
+    {
+     "w": "do",
+     "t": 1.833
+    },
+    {
+     "w": "shoppers",
+     "t": 1.939
+    },
+    {
+     "w": "think",
+     "t": 2.34
+    },
+    {
+     "w": "of",
+     "t": 2.54
+    },
+    {
+     "w": "you",
+     "t": 2.623
+    },
+    {
+     "w": "when",
+     "t": 2.752
+    },
+    {
+     "w": "they",
+     "t": 2.882
+    },
+    {
+     "w": "buy",
+     "t": 2.988
+    },
+    {
+     "w": "Meaning",
+     "t": 3.731
+    },
+    {
+     "w": "is",
+     "t": 4.238
+    },
+    {
+     "w": "what",
+     "t": 4.391
+    },
+    {
+     "w": "you",
+     "t": 4.616
+    },
+    {
+     "w": "do",
+     "t": 4.745
+    },
+    {
+     "w": "and",
+     "t": 5.075
+    },
+    {
+     "w": "stand",
+     "t": 5.229
+    },
+    {
+     "w": "for",
+     "t": 5.559
+    },
+    {
+     "w": "Response",
+     "t": 6.266
+    },
+    {
+     "w": "is",
+     "t": 6.903
+    },
+    {
+     "w": "what",
+     "t": 7.08
+    },
+    {
+     "w": "they",
+     "t": 7.281
+    },
+    {
+     "w": "think",
+     "t": 7.41
+    },
+    {
+     "w": "and",
+     "t": 7.729
+    },
+    {
+     "w": "feel",
+     "t": 7.87
+    },
+    {
+     "w": "about",
+     "t": 8.13
+    },
+    {
+     "w": "it",
+     "t": 8.354
+    }
+   ]
+  },
+  {
+   "set": "plaza",
+   "say": "Resonance is the peak: loyal fans who feel they belong, like Apple fans queueing for a launch.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "r"
+    },
+    {
+     "id": "s1",
+     "look": "student",
+     "v": 1,
+     "at": "l",
+     "hold": "phone",
+     "pose": "hold"
+    },
+    {
+     "id": "s2",
+     "look": "student",
+     "v": 5,
+     "at": "c"
+    }
+   ],
+   "acts": [
+    {
+     "who": "s1",
+     "cue": "loyal",
+     "expr": "grin",
+     "at": 1.998
+    },
+    {
+     "who": "s2",
+     "cue": "belong",
+     "pose": "cheer",
+     "expr": "laugh",
+     "at": 3.142
+    }
+   ],
+   "fx": [
+    {
+     "kind": "heart",
+     "who": "s1",
+     "cue": "loyal",
+     "at": 1.998
+    },
+    {
+     "kind": "stars",
+     "who": "s2",
+     "cue": "belong",
+     "at": 3.142
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "belong",
+     "shot": "actor",
+     "who": "s2",
+     "at": 3.142
+    },
+    {
+     "cue": "queueing",
+     "shot": "two",
+     "who": "s1",
+     "at": 4.616
+    }
+   ],
+   "audio": "audio/m-keller-cbbe-pyramid-02.mp3",
+   "leadIn": 0.45,
+   "seconds": 6.474,
+   "words": [
+    {
+     "w": "Resonance",
+     "t": 0.5
+    },
+    {
+     "w": "is",
+     "t": 1.066
+    },
+    {
+     "w": "the",
+     "t": 1.208
+    },
+    {
+     "w": "peak",
+     "t": 1.29
+    },
+    {
+     "w": "loyal",
+     "t": 1.998
+    },
+    {
+     "w": "fans",
+     "t": 2.328
+    },
+    {
+     "w": "who",
+     "t": 2.705
+    },
+    {
+     "w": "feel",
+     "t": 2.776
+    },
+    {
+     "w": "they",
+     "t": 3.035
+    },
+    {
+     "w": "belong",
+     "t": 3.142
+    },
+    {
+     "w": "like",
+     "t": 3.814
+    },
+    {
+     "w": "Apple",
+     "t": 4.038
+    },
+    {
+     "w": "fans",
+     "t": 4.285
+    },
+    {
+     "w": "queueing",
+     "t": 4.616
+    },
+    {
+     "w": "for",
+     "t": 4.958
+    },
+    {
+     "w": "a",
+     "t": 5.052
+    },
+    {
+     "w": "launch",
+     "t": 5.087
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Use it like this: find the level where the brand is stuck, then plan activity to lift it one step up.",
+   "board": {
+    "title": "Use it **like this**",
+    "lines": [
+     {
+      "text": "Find where the brand is **stuck**",
+      "cue": "stuck",
+      "at": 2.941
+     },
+     {
+      "text": "**Lift** it one step up",
+      "cue": "lift",
+      "at": 4.686
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "e1",
+     "look": "exec_f",
+     "v": 4,
+     "at": "table"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "stuck",
+     "pose": "point",
+     "at": 2.941
+    },
+    {
+     "who": "e1",
+     "cue": "lift",
+     "expr": "smile",
+     "at": 4.686
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "lift",
+     "shot": "close",
+     "at": 4.686
+    }
+   ],
+   "hold": 1.0,
+   "audio": "audio/m-keller-cbbe-pyramid-03.mp3",
+   "leadIn": 0.45,
+   "seconds": 7.066,
+   "words": [
+    {
+     "w": "Use",
+     "t": 0.5
+    },
+    {
+     "w": "it",
+     "t": 0.818
+    },
+    {
+     "w": "like",
+     "t": 0.889
+    },
+    {
+     "w": "this",
+     "t": 1.078
+    },
+    {
+     "w": "find",
+     "t": 1.691
+    },
+    {
+     "w": "the",
+     "t": 2.009
+    },
+    {
+     "w": "level",
+     "t": 2.057
+    },
+    {
+     "w": "where",
+     "t": 2.375
+    },
+    {
+     "w": "the",
+     "t": 2.493
+    },
+    {
+     "w": "brand",
+     "t": 2.575
+    },
+    {
+     "w": "is",
+     "t": 2.859
+    },
+    {
+     "w": "stuck",
+     "t": 2.941
+    },
+    {
+     "w": "then",
+     "t": 3.601
+    },
+    {
+     "w": "plan",
+     "t": 3.79
+    },
+    {
+     "w": "activity",
+     "t": 4.061
+    },
+    {
+     "w": "to",
+     "t": 4.58
+    },
+    {
+     "w": "lift",
+     "t": 4.686
+    },
+    {
+     "w": "it",
+     "t": 4.934
+    },
+    {
+     "w": "one",
+     "t": 5.028
+    },
+    {
+     "w": "step",
+     "t": 5.252
+    },
+    {
+     "w": "up",
+     "t": 5.465
+    }
+   ]
+  }
+ ],
+ "id": "m-keller-cbbe-pyramid",
+ "total": 32.47
+}

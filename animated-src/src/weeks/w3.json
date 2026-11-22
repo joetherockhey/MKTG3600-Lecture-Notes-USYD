@@ -1,0 +1,3467 @@
+{
+ "week": 3,
+ "title": "What are brands and why do they matter?",
+ "speaker": "Justin Papps",
+ "beats": [
+  {
+   "set": "stage",
+   "say": "Week three. Why do brands matter? Justin Papps from Tenet defines a brand as beliefs and perceptions that create a positive predisposition at the point of choice.",
+   "board": {
+    "photo": "photos/w3.jpg",
+    "title": "What are **brands** and why do they matter?",
+    "name": "Justin Papps",
+    "org": "Tenet, Advisory and Investments"
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "a",
+     "look": "student",
+     "v": 2,
+     "at": "front"
+    },
+    {
+     "id": "b",
+     "look": "student",
+     "v": 5,
+     "at": "r"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "positive",
+     "pose": "up",
+     "expr": "grin",
+     "at": 7.068
+    },
+    {
+     "who": "a",
+     "cue": "choice",
+     "pose": "chin",
+     "at": 8.861
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "Justin",
+     "shot": "board",
+     "at": 3.248
+    },
+    {
+     "cue": "positive",
+     "shot": "close",
+     "at": 7.068
+    }
+   ],
+   "audio": "audio/w3-00.mp3",
+   "leadIn": 0.45,
+   "seconds": 10.242,
+   "words": [
+    {
+     "w": "Week",
+     "t": 0.5
+    },
+    {
+     "w": "three",
+     "t": 0.866
+    },
+    {
+     "w": "Why",
+     "t": 1.644
+    },
+    {
+     "w": "do",
+     "t": 2.009
+    },
+    {
+     "w": "brands",
+     "t": 2.186
+    },
+    {
+     "w": "matter",
+     "t": 2.54
+    },
+    {
+     "w": "Justin",
+     "t": 3.248
+    },
+    {
+     "w": "Papps",
+     "t": 3.684
+    },
+    {
+     "w": "from",
+     "t": 3.967
+    },
+    {
+     "w": "Tenet",
+     "t": 4.12
+    },
+    {
+     "w": "defines",
+     "t": 4.474
+    },
+    {
+     "w": "a",
+     "t": 4.91
+    },
+    {
+     "w": "brand",
+     "t": 4.958
+    },
+    {
+     "w": "as",
+     "t": 5.359
+    },
+    {
+     "w": "beliefs",
+     "t": 5.465
+    },
+    {
+     "w": "and",
+     "t": 5.889
+    },
+    {
+     "w": "perceptions",
+     "t": 6.019
+    },
+    {
+     "w": "that",
+     "t": 6.597
+    },
+    {
+     "w": "create",
+     "t": 6.715
+    },
+    {
+     "w": "a",
+     "t": 7.033
+    },
+    {
+     "w": "positive",
+     "t": 7.068
+    },
+    {
+     "w": "predisposition",
+     "t": 7.516
+    },
+    {
+     "w": "at",
+     "t": 8.354
+    },
+    {
+     "w": "the",
+     "t": 8.472
+    },
+    {
+     "w": "point",
+     "t": 8.542
+    },
+    {
+     "w": "of",
+     "t": 8.79
+    },
+    {
+     "w": "choice",
+     "t": 8.861
+    }
+   ]
+  },
+  {
+   "set": "plaza",
+   "say": "So a brand lives in the customer's head, not your guidelines, and the work happens before purchase. Marketing is persuasion.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "l"
+    },
+    {
+     "id": "s1",
+     "look": "shopper",
+     "v": 1,
+     "at": "walkR",
+     "to": "shelf",
+     "hold": "bag",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "head",
+     "pose": "point",
+     "at": 1.927
+    },
+    {
+     "who": "s1",
+     "cue": "purchase",
+     "pose": "up",
+     "expr": "smile",
+     "at": 4.934
+    },
+    {
+     "who": "host",
+     "cue": "persuasion",
+     "pose": "present",
+     "expr": "grin",
+     "at": 6.632
+    }
+   ],
+   "fx": [
+    {
+     "kind": "brain",
+     "who": "s1",
+     "cue": "head",
+     "at": 1.927
+    },
+    {
+     "kind": "heart",
+     "who": "s1",
+     "cue": "purchase",
+     "at": 4.934
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "head",
+     "shot": "actor",
+     "who": "s1",
+     "at": 1.927
+    },
+    {
+     "cue": "persuasion",
+     "shot": "host",
+     "at": 6.632
+    }
+   ],
+   "audio": "audio/w3-01.mp3",
+   "leadIn": 0.45,
+   "seconds": 8.274,
+   "words": [
+    {
+     "w": "So",
+     "t": 0.5
+    },
+    {
+     "w": "a",
+     "t": 0.771
+    },
+    {
+     "w": "brand",
+     "t": 0.807
+    },
+    {
+     "w": "lives",
+     "t": 1.16
+    },
+    {
+     "w": "in",
+     "t": 1.408
+    },
+    {
+     "w": "the",
+     "t": 1.467
+    },
+    {
+     "w": "customer's",
+     "t": 1.514
+    },
+    {
+     "w": "head",
+     "t": 1.927
+    },
+    {
+     "w": "not",
+     "t": 2.54
+    },
+    {
+     "w": "your",
+     "t": 2.811
+    },
+    {
+     "w": "guidelines",
+     "t": 2.917
+    },
+    {
+     "w": "and",
+     "t": 3.814
+    },
+    {
+     "w": "the",
+     "t": 3.943
+    },
+    {
+     "w": "work",
+     "t": 4.014
+    },
+    {
+     "w": "happens",
+     "t": 4.25
+    },
+    {
+     "w": "before",
+     "t": 4.663
+    },
+    {
+     "w": "purchase",
+     "t": 4.934
+    },
+    {
+     "w": "Marketing",
+     "t": 5.842
+    },
+    {
+     "w": "is",
+     "t": 6.455
+    },
+    {
+     "w": "persuasion",
+     "t": 6.632
+    }
+   ]
+  },
+  {
+   "set": "stage",
+   "say": "Brand first meant to burn. Then the mark showed ownership, then who made it, then a reputation for quality. Now it means what it says about you.",
+   "board": {
+    "title": "Five stages of the **mark**",
+    "steps": [
+     {
+      "text": "**Burn**",
+      "cue": "burn",
+      "at": 1.514
+     },
+     {
+      "text": "**Ownership**",
+      "cue": "ownership",
+      "at": 3.295
+     },
+     {
+      "text": "**Identity**: who made it",
+      "cue": "made",
+      "at": 4.333
+     },
+     {
+      "text": "**Reputation**: quality",
+      "cue": "reputation",
+      "at": 5.217
+     },
+     {
+      "text": "**Meaning**: says about you",
+      "cue": "means",
+      "at": 7.257
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "point"
+    },
+    {
+     "id": "f",
+     "look": "farmer",
+     "v": 1,
+     "at": "r"
+    }
+   ],
+   "acts": [
+    {
+     "who": "f",
+     "cue": "burn",
+     "pose": "cheer",
+     "expr": "grin",
+     "at": 1.514
+    },
+    {
+     "who": "f",
+     "cue": "means",
+     "pose": "hips",
+     "expr": "smile_closed",
+     "at": 7.257
+    }
+   ],
+   "fx": [
+    {
+     "kind": "burst",
+     "who": "f",
+     "cue": "burn",
+     "at": 1.514
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "burn",
+     "shot": "actor",
+     "who": "f",
+     "at": 1.514
+    },
+    {
+     "cue": "reputation",
+     "shot": "board",
+     "at": 5.217
+    }
+   ],
+   "audio": "audio/w3-02.mp3",
+   "leadIn": 0.45,
+   "seconds": 9.522,
+   "words": [
+    {
+     "w": "Brand",
+     "t": 0.5
+    },
+    {
+     "w": "first",
+     "t": 0.854
+    },
+    {
+     "w": "meant",
+     "t": 1.231
+    },
+    {
+     "w": "to",
+     "t": 1.42
+    },
+    {
+     "w": "burn",
+     "t": 1.514
+    },
+    {
+     "w": "Then",
+     "t": 2.304
+    },
+    {
+     "w": "the",
+     "t": 2.575
+    },
+    {
+     "w": "mark",
+     "t": 2.634
+    },
+    {
+     "w": "showed",
+     "t": 2.929
+    },
+    {
+     "w": "ownership",
+     "t": 3.295
+    },
+    {
+     "w": "then",
+     "t": 4.014
+    },
+    {
+     "w": "who",
+     "t": 4.203
+    },
+    {
+     "w": "made",
+     "t": 4.333
+    },
+    {
+     "w": "it",
+     "t": 4.58
+    },
+    {
+     "w": "then",
+     "t": 5.016
+    },
+    {
+     "w": "a",
+     "t": 5.17
+    },
+    {
+     "w": "reputation",
+     "t": 5.217
+    },
+    {
+     "w": "for",
+     "t": 5.877
+    },
+    {
+     "w": "quality",
+     "t": 5.972
+    },
+    {
+     "w": "Now",
+     "t": 6.797
+    },
+    {
+     "w": "it",
+     "t": 7.163
+    },
+    {
+     "w": "means",
+     "t": 7.257
+    },
+    {
+     "w": "what",
+     "t": 7.564
+    },
+    {
+     "w": "it",
+     "t": 7.717
+    },
+    {
+     "w": "says",
+     "t": 7.823
+    },
+    {
+     "w": "about",
+     "t": 8.071
+    },
+    {
+     "w": "you",
+     "t": 8.33
+    }
+   ]
+  },
+  {
+   "set": "street",
+   "say": "Associations cluster around the founder, what the company does, and adjectives. Tesla shows the founder link cuts both ways. Keep the link positive and consistent.",
+   "board": {
+    "title": "What comes to **mind**?",
+    "lines": [
+     {
+      "text": "The **founder**",
+      "cue": "founder",
+      "at": 2.116
+     },
+     {
+      "text": "What the company **does**",
+      "cue": "does",
+      "at": 3.495
+     },
+     {
+      "text": "**Adjectives**",
+      "cue": "adjectives",
+      "at": 4.309
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "front"
+    },
+    {
+     "id": "p1",
+     "look": "exec",
+     "v": 2,
+     "at": "l"
+    },
+    {
+     "id": "p2",
+     "look": "shopper",
+     "v": 3,
+     "at": "r",
+     "hold": "phone",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "p1",
+     "cue": "both",
+     "pose": "up",
+     "expr": "grin",
+     "at": 6.927
+    },
+    {
+     "who": "p2",
+     "cue": "ways",
+     "pose": "shrug",
+     "expr": "stern",
+     "mirror": true,
+     "at": 7.163
+    },
+    {
+     "who": "host",
+     "cue": "consistent",
+     "pose": "point",
+     "at": 9.297
+    }
+   ],
+   "fx": [
+    {
+     "kind": "heart",
+     "who": "p1",
+     "cue": "both",
+     "at": 6.927
+    },
+    {
+     "kind": "cross",
+     "who": "p2",
+     "cue": "ways",
+     "at": 7.163
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "Tesla",
+     "shot": "wide",
+     "at": 5.311
+    },
+    {
+     "cue": "Keep",
+     "shot": "host",
+     "at": 7.965
+    }
+   ],
+   "audio": "audio/w3-03.mp3",
+   "leadIn": 0.45,
+   "seconds": 10.89,
+   "words": [
+    {
+     "w": "Associations",
+     "t": 0.5
+    },
+    {
+     "w": "cluster",
+     "t": 1.325
+    },
+    {
+     "w": "around",
+     "t": 1.774
+    },
+    {
+     "w": "the",
+     "t": 2.068
+    },
+    {
+     "w": "founder",
+     "t": 2.116
+    },
+    {
+     "w": "what",
+     "t": 2.894
+    },
+    {
+     "w": "the",
+     "t": 3.071
+    },
+    {
+     "w": "company",
+     "t": 3.153
+    },
+    {
+     "w": "does",
+     "t": 3.495
+    },
+    {
+     "w": "and",
+     "t": 4.097
+    },
+    {
+     "w": "adjectives",
+     "t": 4.309
+    },
+    {
+     "w": "Tesla",
+     "t": 5.311
+    },
+    {
+     "w": "shows",
+     "t": 5.677
+    },
+    {
+     "w": "the",
+     "t": 6.019
+    },
+    {
+     "w": "founder",
+     "t": 6.101
+    },
+    {
+     "w": "link",
+     "t": 6.42
+    },
+    {
+     "w": "cuts",
+     "t": 6.62
+    },
+    {
+     "w": "both",
+     "t": 6.927
+    },
+    {
+     "w": "ways",
+     "t": 7.163
+    },
+    {
+     "w": "Keep",
+     "t": 7.965
+    },
+    {
+     "w": "the",
+     "t": 8.271
+    },
+    {
+     "w": "link",
+     "t": 8.342
+    },
+    {
+     "w": "positive",
+     "t": 8.59
+    },
+    {
+     "w": "and",
+     "t": 9.085
+    },
+    {
+     "w": "consistent",
+     "t": 9.297
+    }
+   ]
+  },
+  {
+   "set": "street",
+   "say": "Brand exposures went from ten to twenty a day in the seventeen hundreds to ten thousand today, and our brains haven't grown. The battle moved from the aisle to a phone screen.",
+   "board": {
+    "title": "Brand exposures **per day**",
+    "bars": [
+     {
+      "label": "1700s",
+      "value": 20,
+      "display": "10-20",
+      "cue": "ten",
+      "at": 1.762
+     },
+     {
+      "label": "1800s",
+      "value": 100,
+      "display": "50-100",
+      "cue": "twenty",
+      "at": 2.068
+     },
+     {
+      "label": "1900s",
+      "value": 1500,
+      "display": "500-1,500",
+      "cue": "hundreds",
+      "at": 3.318
+     },
+     {
+      "label": "Today",
+      "value": 10000,
+      "display": "5,000-10,000",
+      "cue": "today",
+      "at": 4.356
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "front"
+    },
+    {
+     "id": "p1",
+     "look": "student",
+     "v": 1,
+     "at": "r",
+     "hold": "phone",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "p1",
+     "cue": "today",
+     "pose": "none",
+     "expr": "dazed",
+     "at": 4.356
+    },
+    {
+     "who": "host",
+     "cue": "brains",
+     "pose": "shrug",
+     "at": 5.323
+    }
+   ],
+   "fx": [
+    {
+     "kind": "burst",
+     "who": "p1",
+     "cue": "today",
+     "at": 4.356
+    },
+    {
+     "kind": "brain",
+     "who": "host",
+     "cue": "brains",
+     "at": 5.323
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "today",
+     "shot": "actor",
+     "who": "p1",
+     "at": 4.356
+    },
+    {
+     "cue": "brains",
+     "shot": "close",
+     "at": 5.323
+    },
+    {
+     "cue": "phone",
+     "shot": "wide",
+     "at": 8.271
+    }
+   ],
+   "audio": "audio/w3-04.mp3",
+   "leadIn": 0.45,
+   "seconds": 9.954,
+   "words": [
+    {
+     "w": "Brand",
+     "t": 0.5
+    },
+    {
+     "w": "exposures",
+     "t": 0.795
+    },
+    {
+     "w": "went",
+     "t": 1.373
+    },
+    {
+     "w": "from",
+     "t": 1.55
+    },
+    {
+     "w": "ten",
+     "t": 1.762
+    },
+    {
+     "w": "to",
+     "t": 1.986
+    },
+    {
+     "w": "twenty",
+     "t": 2.068
+    },
+    {
+     "w": "a",
+     "t": 2.328
+    },
+    {
+     "w": "day",
+     "t": 2.351
+    },
+    {
+     "w": "in",
+     "t": 2.705
+    },
+    {
+     "w": "the",
+     "t": 2.823
+    },
+    {
+     "w": "seventeen",
+     "t": 2.87
+    },
+    {
+     "w": "hundreds",
+     "t": 3.318
+    },
+    {
+     "w": "to",
+     "t": 3.696
+    },
+    {
+     "w": "ten",
+     "t": 3.778
+    },
+    {
+     "w": "thousand",
+     "t": 3.979
+    },
+    {
+     "w": "today",
+     "t": 4.356
+    },
+    {
+     "w": "and",
+     "t": 5.087
+    },
+    {
+     "w": "our",
+     "t": 5.229
+    },
+    {
+     "w": "brains",
+     "t": 5.323
+    },
+    {
+     "w": "haven't",
+     "t": 5.748
+    },
+    {
+     "w": "grown",
+     "t": 5.984
+    },
+    {
+     "w": "The",
+     "t": 6.762
+    },
+    {
+     "w": "battle",
+     "t": 6.915
+    },
+    {
+     "w": "moved",
+     "t": 7.234
+    },
+    {
+     "w": "from",
+     "t": 7.528
+    },
+    {
+     "w": "the",
+     "t": 7.658
+    },
+    {
+     "w": "aisle",
+     "t": 7.776
+    },
+    {
+     "w": "to",
+     "t": 8.083
+    },
+    {
+     "w": "a",
+     "t": 8.236
+    },
+    {
+     "w": "phone",
+     "t": 8.271
+    },
+    {
+     "w": "screen",
+     "t": 8.554
+    }
+   ]
+  },
+  {
+   "set": "stage",
+   "say": "Five reasons brands matter: economic engines, behavioural shortcuts, strategy in action, shaping culture, and volatility moats.",
+   "board": {
+    "title": "Five reasons **brands matter**",
+    "steps": [
+     {
+      "text": "**Economic** engines",
+      "cue": "economic",
+      "at": 2.269
+     },
+     {
+      "text": "**Behavioural** shortcuts",
+      "cue": "behavioural",
+      "at": 3.33
+     },
+     {
+      "text": "**Strategy** in action",
+      "cue": "strategy",
+      "at": 4.627
+     },
+     {
+      "text": "Shape **culture**",
+      "cue": "culture",
+      "at": 6.349
+     },
+     {
+      "text": "**Volatility** moats",
+      "cue": "volatility",
+      "at": 7.092
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "culture",
+     "shot": "host",
+     "at": 6.349
+    }
+   ],
+   "audio": "audio/w3-05.mp3",
+   "leadIn": 0.45,
+   "seconds": 8.97,
+   "words": [
+    {
+     "w": "Five",
+     "t": 0.5
+    },
+    {
+     "w": "reasons",
+     "t": 0.913
+    },
+    {
+     "w": "brands",
+     "t": 1.302
+    },
+    {
+     "w": "matter",
+     "t": 1.632
+    },
+    {
+     "w": "economic",
+     "t": 2.269
+    },
+    {
+     "w": "engines",
+     "t": 2.705
+    },
+    {
+     "w": "behavioural",
+     "t": 3.33
+    },
+    {
+     "w": "shortcuts",
+     "t": 3.814
+    },
+    {
+     "w": "strategy",
+     "t": 4.627
+    },
+    {
+     "w": "in",
+     "t": 5.205
+    },
+    {
+     "w": "action",
+     "t": 5.288
+    },
+    {
+     "w": "shaping",
+     "t": 5.936
+    },
+    {
+     "w": "culture",
+     "t": 6.349
+    },
+    {
+     "w": "and",
+     "t": 6.939
+    },
+    {
+     "w": "volatility",
+     "t": 7.092
+    },
+    {
+     "w": "moats",
+     "t": 7.623
+    }
+   ]
+  },
+  {
+   "set": "plaza",
+   "say": "One, economic engines. A Louis Vuitton backpack costs fifteen point six times a Maverick and Co bag that beats it on compartments and warranty.",
+   "board": {
+    "title": "The backpack test",
+    "big": "15.6x",
+    "caption": "the price, for a **weaker spec**",
+    "cue": "fifteen",
+    "at": 4.238
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "point"
+    },
+    {
+     "id": "s1",
+     "look": "exec_f",
+     "v": 1,
+     "at": "shop",
+     "hold": "bag",
+     "pose": "hold",
+     "holdCol": "#7a5230"
+    },
+    {
+     "id": "s2",
+     "look": "student",
+     "v": 4,
+     "at": "r",
+     "hold": "bag",
+     "pose": "hold",
+     "holdCol": "#333333"
+    }
+   ],
+   "acts": [
+    {
+     "who": "s1",
+     "cue": "Vuitton",
+     "expr": "grin",
+     "at": 3.071
+    },
+    {
+     "who": "s2",
+     "cue": "warranty",
+     "pose": "shrug",
+     "expr": "nervous",
+     "at": 7.693
+    }
+   ],
+   "fx": [
+    {
+     "kind": "money",
+     "who": "s1",
+     "cue": "fifteen",
+     "at": 4.238
+    },
+    {
+     "kind": "tick",
+     "who": "s2",
+     "cue": "compartments",
+     "at": 6.939
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "Vuitton",
+     "shot": "actor",
+     "who": "s1",
+     "at": 3.071
+    },
+    {
+     "cue": "compartments",
+     "shot": "actor",
+     "who": "s2",
+     "at": 6.939
+    }
+   ],
+   "audio": "audio/w3-06.mp3",
+   "leadIn": 0.45,
+   "seconds": 9.114,
+   "words": [
+    {
+     "w": "One",
+     "t": 0.5
+    },
+    {
+     "w": "economic",
+     "t": 1.361
+    },
+    {
+     "w": "engines",
+     "t": 1.821
+    },
+    {
+     "w": "A",
+     "t": 2.693
+    },
+    {
+     "w": "Louis",
+     "t": 2.823
+    },
+    {
+     "w": "Vuitton",
+     "t": 3.071
+    },
+    {
+     "w": "backpack",
+     "t": 3.401
+    },
+    {
+     "w": "costs",
+     "t": 3.873
+    },
+    {
+     "w": "fifteen",
+     "t": 4.238
+    },
+    {
+     "w": "point",
+     "t": 4.616
+    },
+    {
+     "w": "six",
+     "t": 4.828
+    },
+    {
+     "w": "times",
+     "t": 5.064
+    },
+    {
+     "w": "a",
+     "t": 5.37
+    },
+    {
+     "w": "Maverick",
+     "t": 5.394
+    },
+    {
+     "w": "and",
+     "t": 5.736
+    },
+    {
+     "w": "Co",
+     "t": 5.83
+    },
+    {
+     "w": "bag",
+     "t": 6.019
+    },
+    {
+     "w": "that",
+     "t": 6.349
+    },
+    {
+     "w": "beats",
+     "t": 6.479
+    },
+    {
+     "w": "it",
+     "t": 6.726
+    },
+    {
+     "w": "on",
+     "t": 6.821
+    },
+    {
+     "w": "compartments",
+     "t": 6.939
+    },
+    {
+     "w": "and",
+     "t": 7.528
+    },
+    {
+     "w": "warranty",
+     "t": 7.693
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "An iPhone costs about four hundred and fifty to make and sells for up to sixteen hundred, a margin of sixty-seven percent plus. If brands didn't matter, Amazon would list products alphabetically.",
+   "board": {
+    "title": "iPhone 16 economics",
+    "big": "67%+",
+    "caption": "margin, and a **$500bn** brand",
+    "cue": "sixty",
+    "at": 5.547
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "e1",
+     "look": "exec",
+     "v": 5,
+     "at": "table",
+     "hold": "phone",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "e1",
+     "cue": "sixty",
+     "pose": "cheer",
+     "expr": "laugh",
+     "at": 5.547
+    },
+    {
+     "who": "host",
+     "cue": "Amazon",
+     "pose": "up",
+     "expr": "grin",
+     "at": 8.708
+    }
+   ],
+   "fx": [
+    {
+     "kind": "money",
+     "who": "e1",
+     "cue": "sixty",
+     "at": 5.547
+    },
+    {
+     "kind": "bulb",
+     "who": "host",
+     "cue": "alphabetically",
+     "at": 9.922
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "sixty",
+     "shot": "actor",
+     "who": "e1",
+     "at": 5.547
+    },
+    {
+     "cue": "Amazon",
+     "shot": "close",
+     "at": 8.708
+    }
+   ],
+   "audio": "audio/w3-07.mp3",
+   "leadIn": 0.45,
+   "seconds": 11.658,
+   "words": [
+    {
+     "w": "An",
+     "t": 0.5
+    },
+    {
+     "w": "iPhone",
+     "t": 0.736
+    },
+    {
+     "w": "costs",
+     "t": 1.16
+    },
+    {
+     "w": "about",
+     "t": 1.479
+    },
+    {
+     "w": "four",
+     "t": 1.703
+    },
+    {
+     "w": "hundred",
+     "t": 1.927
+    },
+    {
+     "w": "and",
+     "t": 2.127
+    },
+    {
+     "w": "fifty",
+     "t": 2.175
+    },
+    {
+     "w": "to",
+     "t": 2.505
+    },
+    {
+     "w": "make",
+     "t": 2.599
+    },
+    {
+     "w": "and",
+     "t": 2.894
+    },
+    {
+     "w": "sells",
+     "t": 3.024
+    },
+    {
+     "w": "for",
+     "t": 3.448
+    },
+    {
+     "w": "up",
+     "t": 3.613
+    },
+    {
+     "w": "to",
+     "t": 3.708
+    },
+    {
+     "w": "sixteen",
+     "t": 3.778
+    },
+    {
+     "w": "hundred",
+     "t": 4.167
+    },
+    {
+     "w": "a",
+     "t": 4.91
+    },
+    {
+     "w": "margin",
+     "t": 4.993
+    },
+    {
+     "w": "of",
+     "t": 5.417
+    },
+    {
+     "w": "sixty-seven",
+     "t": 5.547
+    },
+    {
+     "w": "percent",
+     "t": 6.184
+    },
+    {
+     "w": "plus",
+     "t": 6.502
+    },
+    {
+     "w": "If",
+     "t": 7.269
+    },
+    {
+     "w": "brands",
+     "t": 7.458
+    },
+    {
+     "w": "didn't",
+     "t": 7.811
+    },
+    {
+     "w": "matter",
+     "t": 8.024
+    },
+    {
+     "w": "Amazon",
+     "t": 8.708
+    },
+    {
+     "w": "would",
+     "t": 9.108
+    },
+    {
+     "w": "list",
+     "t": 9.238
+    },
+    {
+     "w": "products",
+     "t": 9.474
+    },
+    {
+     "w": "alphabetically",
+     "t": 9.922
+    }
+   ]
+  },
+  {
+   "set": "plaza",
+   "say": "Two, behavioural shortcuts. Kahneman's System One is about ninety-five percent of thinking: fast and unconscious. System Two is slow and logical, for big decisions. Brands aim at System One.",
+   "board": {
+    "title": "Kahneman's **two systems**",
+    "vs": {
+     "left": "System 1, ~95%",
+     "right": "System 2, ~5%",
+     "leftItems": [
+      "Fast",
+      "Unconscious",
+      "Everyday"
+     ],
+     "rightItems": [
+      "Slow",
+      "Logical",
+      "Expensive choices"
+     ],
+     "cue": "System",
+     "at": 3.153
+    }
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "s1",
+     "look": "shopper",
+     "v": 5,
+     "at": "walkR",
+     "to": "shelf",
+     "hold": "box",
+     "pose": "hold"
+    },
+    {
+     "id": "s2",
+     "look": "elder",
+     "v": 4,
+     "at": "stall",
+     "pose": "chin"
+    }
+   ],
+   "acts": [
+    {
+     "who": "s1",
+     "cue": "fast",
+     "expr": "smile",
+     "at": 5.83
+    },
+    {
+     "who": "s2",
+     "cue": "slow",
+     "expr": "nervous",
+     "at": 8.483
+    }
+   ],
+   "fx": [
+    {
+     "kind": "sparkle",
+     "who": "s1",
+     "cue": "fast",
+     "at": 5.83
+    },
+    {
+     "kind": "think",
+     "who": "s2",
+     "text": "Compare every spec...",
+     "cue": "slow",
+     "at": 8.483
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "fast",
+     "shot": "actor",
+     "who": "s1",
+     "at": 5.83
+    },
+    {
+     "cue": "slow",
+     "shot": "actor",
+     "who": "s2",
+     "at": 8.483
+    }
+   ],
+   "audio": "audio/w3-08.mp3",
+   "leadIn": 0.45,
+   "seconds": 13.554,
+   "words": [
+    {
+     "w": "Two",
+     "t": 0.5
+    },
+    {
+     "w": "behavioural",
+     "t": 1.16
+    },
+    {
+     "w": "shortcuts",
+     "t": 1.726
+    },
+    {
+     "w": "Kahneman's",
+     "t": 2.717
+    },
+    {
+     "w": "System",
+     "t": 3.153
+    },
+    {
+     "w": "One",
+     "t": 3.495
+    },
+    {
+     "w": "is",
+     "t": 3.778
+    },
+    {
+     "w": "about",
+     "t": 3.932
+    },
+    {
+     "w": "ninety-five",
+     "t": 4.167
+    },
+    {
+     "w": "percent",
+     "t": 4.686
+    },
+    {
+     "w": "of",
+     "t": 5.028
+    },
+    {
+     "w": "thinking",
+     "t": 5.111
+    },
+    {
+     "w": "fast",
+     "t": 5.83
+    },
+    {
+     "w": "and",
+     "t": 6.325
+    },
+    {
+     "w": "unconscious",
+     "t": 6.514
+    },
+    {
+     "w": "System",
+     "t": 7.54
+    },
+    {
+     "w": "Two",
+     "t": 8.0
+    },
+    {
+     "w": "is",
+     "t": 8.354
+    },
+    {
+     "w": "slow",
+     "t": 8.483
+    },
+    {
+     "w": "and",
+     "t": 8.849
+    },
+    {
+     "w": "logical",
+     "t": 8.979
+    },
+    {
+     "w": "for",
+     "t": 9.698
+    },
+    {
+     "w": "big",
+     "t": 9.863
+    },
+    {
+     "w": "decisions",
+     "t": 10.123
+    },
+    {
+     "w": "Brands",
+     "t": 11.078
+    },
+    {
+     "w": "aim",
+     "t": 11.479
+    },
+    {
+     "w": "at",
+     "t": 11.774
+    },
+    {
+     "w": "System",
+     "t": 11.903
+    },
+    {
+     "w": "One",
+     "t": 12.281
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Brand strategy rests on four pillars: relevance, distinctiveness, consistency and availability. Land all four and you get cut-through and salience.",
+   "board": {
+    "title": "Four pillars of **brand strategy**",
+    "steps": [
+     {
+      "text": "**Relevance**",
+      "cue": "relevance",
+      "at": 2.8
+     },
+     {
+      "text": "**Distinctiveness**",
+      "cue": "distinctiveness",
+      "at": 3.578
+     },
+     {
+      "text": "**Consistency**",
+      "cue": "consistency",
+      "at": 4.545
+     },
+     {
+      "text": "**Availability**",
+      "cue": "availability",
+      "at": 5.535
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "point"
+    },
+    {
+     "id": "e1",
+     "look": "exec_f",
+     "v": 3,
+     "at": "table",
+     "hold": "clipboard",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "e1",
+     "cue": "salience",
+     "pose": "cheer",
+     "expr": "grin",
+     "at": 8.519
+    }
+   ],
+   "fx": [
+    {
+     "kind": "stars",
+     "who": "e1",
+     "cue": "salience",
+     "at": 8.519
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "salience",
+     "shot": "two",
+     "who": "e1",
+     "at": 8.519
+    }
+   ],
+   "audio": "audio/w3-09.mp3",
+   "leadIn": 0.45,
+   "seconds": 10.098,
+   "words": [
+    {
+     "w": "Brand",
+     "t": 0.5
+    },
+    {
+     "w": "strategy",
+     "t": 0.807
+    },
+    {
+     "w": "rests",
+     "t": 1.302
+    },
+    {
+     "w": "on",
+     "t": 1.667
+    },
+    {
+     "w": "four",
+     "t": 1.785
+    },
+    {
+     "w": "pillars",
+     "t": 2.021
+    },
+    {
+     "w": "relevance",
+     "t": 2.8
+    },
+    {
+     "w": "distinctiveness",
+     "t": 3.578
+    },
+    {
+     "w": "consistency",
+     "t": 4.545
+    },
+    {
+     "w": "and",
+     "t": 5.394
+    },
+    {
+     "w": "availability",
+     "t": 5.535
+    },
+    {
+     "w": "Land",
+     "t": 6.597
+    },
+    {
+     "w": "all",
+     "t": 6.939
+    },
+    {
+     "w": "four",
+     "t": 7.08
+    },
+    {
+     "w": "and",
+     "t": 7.481
+    },
+    {
+     "w": "you",
+     "t": 7.634
+    },
+    {
+     "w": "get",
+     "t": 7.741
+    },
+    {
+     "w": "cut-through",
+     "t": 7.929
+    },
+    {
+     "w": "and",
+     "t": 8.389
+    },
+    {
+     "w": "salience",
+     "t": 8.519
+    }
+   ]
+  },
+  {
+   "set": "street",
+   "say": "Distinctive assets compound with age. But Ipsos found a paradox: logos are in ninety-four percent of ads and return one point four times. Sonic cues are in six percent and return eight point five.",
+   "board": {
+    "title": "The DBA **paradox**",
+    "bars": [
+     {
+      "label": "Logos",
+      "value": 1.4,
+      "display": "1.4x",
+      "cue": "Logos",
+      "at": 4.804
+     },
+     {
+      "label": "Colours",
+      "value": 1.5,
+      "display": "1.5x",
+      "cue": "percent",
+      "at": 5.995
+     },
+     {
+      "label": "Taglines",
+      "value": 2.2,
+      "display": "2.2x",
+      "cue": "return",
+      "at": 6.88
+     },
+     {
+      "label": "Characters",
+      "value": 6.0,
+      "display": "6.0x",
+      "cue": "Sonic",
+      "at": 8.731
+     },
+     {
+      "label": "Sonic cues",
+      "value": 8.5,
+      "display": "8.5x",
+      "cue": "eight",
+      "at": 11.113
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "front"
+    },
+    {
+     "id": "p1",
+     "look": "worker",
+     "v": 3,
+     "at": "walkL",
+     "to": "l",
+     "walkCue": "Sonic",
+     "walkAt": 8.731
+    }
+   ],
+   "acts": [
+    {
+     "who": "p1",
+     "cue": "eight",
+     "pose": "up",
+     "expr": "whistle",
+     "at": 11.113
+    },
+    {
+     "who": "host",
+     "cue": "five",
+     "pose": "cheer",
+     "expr": "grin",
+     "at": 11.467
+    }
+   ],
+   "fx": [
+    {
+     "kind": "sparkle",
+     "who": "p1",
+     "cue": "Sonic",
+     "at": 8.731
+    },
+    {
+     "kind": "exclaim",
+     "who": "host",
+     "cue": "eight",
+     "at": 11.113
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "Ipsos",
+     "shot": "wide",
+     "at": 3.248
+    },
+    {
+     "cue": "Sonic",
+     "shot": "board",
+     "at": 8.731
+    },
+    {
+     "cue": "eight",
+     "shot": "two",
+     "who": "p1",
+     "at": 11.113
+    }
+   ],
+   "audio": "audio/w3-10.mp3",
+   "leadIn": 0.45,
+   "seconds": 12.882,
+   "words": [
+    {
+     "w": "Distinctive",
+     "t": 0.5
+    },
+    {
+     "w": "assets",
+     "t": 1.16
+    },
+    {
+     "w": "compound",
+     "t": 1.62
+    },
+    {
+     "w": "with",
+     "t": 2.139
+    },
+    {
+     "w": "age",
+     "t": 2.269
+    },
+    {
+     "w": "But",
+     "t": 3.047
+    },
+    {
+     "w": "Ipsos",
+     "t": 3.248
+    },
+    {
+     "w": "found",
+     "t": 3.672
+    },
+    {
+     "w": "a",
+     "t": 3.896
+    },
+    {
+     "w": "paradox",
+     "t": 3.92
+    },
+    {
+     "w": "logos",
+     "t": 4.804
+    },
+    {
+     "w": "are",
+     "t": 5.311
+    },
+    {
+     "w": "in",
+     "t": 5.465
+    },
+    {
+     "w": "ninety-four",
+     "t": 5.547
+    },
+    {
+     "w": "percent",
+     "t": 5.995
+    },
+    {
+     "w": "of",
+     "t": 6.29
+    },
+    {
+     "w": "ads",
+     "t": 6.361
+    },
+    {
+     "w": "and",
+     "t": 6.703
+    },
+    {
+     "w": "return",
+     "t": 6.88
+    },
+    {
+     "w": "one",
+     "t": 7.234
+    },
+    {
+     "w": "point",
+     "t": 7.469
+    },
+    {
+     "w": "four",
+     "t": 7.693
+    },
+    {
+     "w": "times",
+     "t": 7.87
+    },
+    {
+     "w": "Sonic",
+     "t": 8.731
+    },
+    {
+     "w": "cues",
+     "t": 9.132
+    },
+    {
+     "w": "are",
+     "t": 9.533
+    },
+    {
+     "w": "in",
+     "t": 9.698
+    },
+    {
+     "w": "six",
+     "t": 9.781
+    },
+    {
+     "w": "percent",
+     "t": 10.016
+    },
+    {
+     "w": "and",
+     "t": 10.465
+    },
+    {
+     "w": "return",
+     "t": 10.618
+    },
+    {
+     "w": "eight",
+     "t": 11.113
+    },
+    {
+     "w": "point",
+     "t": 11.255
+    },
+    {
+     "w": "five",
+     "t": 11.467
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Three, strategy in action. Segmentation, targeting and positioning are business decisions with trade-offs. Get them right for a positive return on marketing investment.",
+   "board": {
+    "title": "Strategy **in action**",
+    "steps": [
+     {
+      "text": "**Segmentation**: know your customers",
+      "cue": "Segmentation",
+      "at": 2.776
+     },
+     {
+      "text": "**Targeting**: where and how often",
+      "cue": "targeting",
+      "at": 3.967
+     },
+     {
+      "text": "**Positioning**: distinct, relevant",
+      "cue": "positioning",
+      "at": 4.639
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "point"
+    },
+    {
+     "id": "e1",
+     "look": "exec",
+     "v": 1,
+     "at": "table",
+     "pose": "chin"
+    },
+    {
+     "id": "e2",
+     "look": "exec_f",
+     "v": 4,
+     "at": "table2",
+     "hold": "laptop",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "e1",
+     "cue": "trade",
+     "pose": "shrug",
+     "expr": "nervous",
+     "at": 6.302
+    },
+    {
+     "who": "e2",
+     "cue": "positive",
+     "expr": "grin",
+     "at": 8.153
+    }
+   ],
+   "fx": [
+    {
+     "kind": "chart",
+     "who": "e2",
+     "cue": "positive",
+     "at": 8.153
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "trade",
+     "shot": "wide",
+     "at": 6.302
+    },
+    {
+     "cue": "positive",
+     "shot": "actor",
+     "who": "e2",
+     "at": 8.153
+    }
+   ],
+   "audio": "audio/w3-11.mp3",
+   "leadIn": 0.45,
+   "seconds": 11.082,
+   "words": [
+    {
+     "w": "Three",
+     "t": 0.5
+    },
+    {
+     "w": "strategy",
+     "t": 1.243
+    },
+    {
+     "w": "in",
+     "t": 1.88
+    },
+    {
+     "w": "action",
+     "t": 1.998
+    },
+    {
+     "w": "Segmentation",
+     "t": 2.776
+    },
+    {
+     "w": "targeting",
+     "t": 3.967
+    },
+    {
+     "w": "and",
+     "t": 4.486
+    },
+    {
+     "w": "positioning",
+     "t": 4.639
+    },
+    {
+     "w": "are",
+     "t": 5.193
+    },
+    {
+     "w": "business",
+     "t": 5.252
+    },
+    {
+     "w": "decisions",
+     "t": 5.677
+    },
+    {
+     "w": "with",
+     "t": 6.172
+    },
+    {
+     "w": "trade-offs",
+     "t": 6.302
+    },
+    {
+     "w": "Get",
+     "t": 7.21
+    },
+    {
+     "w": "them",
+     "t": 7.446
+    },
+    {
+     "w": "right",
+     "t": 7.611
+    },
+    {
+     "w": "for",
+     "t": 7.941
+    },
+    {
+     "w": "a",
+     "t": 8.106
+    },
+    {
+     "w": "positive",
+     "t": 8.153
+    },
+    {
+     "w": "return",
+     "t": 8.601
+    },
+    {
+     "w": "on",
+     "t": 9.038
+    },
+    {
+     "w": "marketing",
+     "t": 9.203
+    },
+    {
+     "w": "investment",
+     "t": 9.616
+    }
+   ]
+  },
+  {
+   "set": "home",
+   "say": "Four, brands shape culture. Harley-Davidson, Nike's Kaepernick ad and the RTA speeding campaign work. Pepsi's Kendall Jenner ad failed, borrowing a movement it had no standing in.",
+   "board": {
+    "title": "Brands shape **culture**",
+    "vs": {
+     "left": "Works",
+     "right": "Fails",
+     "leftItems": [
+      "Harley-Davidson",
+      "Nike, Kaepernick",
+      "RTA speeding"
+     ],
+     "rightItems": [
+      "Pepsi, Kendall Jenner"
+     ],
+     "cue": "Harley",
+     "at": 2.599
+    }
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "l"
+    },
+    {
+     "id": "a",
+     "look": "shopper",
+     "v": 2,
+     "at": "sofa",
+     "mode": "sit"
+    },
+    {
+     "id": "b",
+     "look": "elder",
+     "v": 1,
+     "at": "sofa2",
+     "mode": "sit"
+    }
+   ],
+   "acts": [
+    {
+     "who": "a",
+     "cue": "work",
+     "pose": "cheer",
+     "expr": "grin",
+     "at": 6.42
+    },
+    {
+     "who": "b",
+     "cue": "Pepsi",
+     "expr": "pained",
+     "at": 7.092
+    },
+    {
+     "who": "a",
+     "cue": "failed",
+     "pose": "none",
+     "expr": "shock",
+     "at": 8.33
+    }
+   ],
+   "fx": [
+    {
+     "kind": "heart",
+     "who": "a",
+     "cue": "work",
+     "at": 6.42
+    },
+    {
+     "kind": "cross",
+     "who": "b",
+     "cue": "failed",
+     "at": 8.33
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "work",
+     "shot": "board",
+     "at": 6.42
+    },
+    {
+     "cue": "Pepsi",
+     "shot": "actor",
+     "who": "b",
+     "at": 7.092
+    }
+   ],
+   "audio": "audio/w3-12.mp3",
+   "leadIn": 0.45,
+   "seconds": 12.114,
+   "words": [
+    {
+     "w": "Four",
+     "t": 0.5
+    },
+    {
+     "w": "brands",
+     "t": 1.184
+    },
+    {
+     "w": "shape",
+     "t": 1.526
+    },
+    {
+     "w": "culture",
+     "t": 1.809
+    },
+    {
+     "w": "Harley-Davidson",
+     "t": 2.599
+    },
+    {
+     "w": "Nike's",
+     "t": 3.731
+    },
+    {
+     "w": "Kaepernick",
+     "t": 4.167
+    },
+    {
+     "w": "ad",
+     "t": 4.521
+    },
+    {
+     "w": "and",
+     "t": 4.792
+    },
+    {
+     "w": "the",
+     "t": 4.958
+    },
+    {
+     "w": "RTA",
+     "t": 5.123
+    },
+    {
+     "w": "speeding",
+     "t": 5.571
+    },
+    {
+     "w": "campaign",
+     "t": 6.007
+    },
+    {
+     "w": "work",
+     "t": 6.42
+    },
+    {
+     "w": "Pepsi's",
+     "t": 7.092
+    },
+    {
+     "w": "Kendall",
+     "t": 7.505
+    },
+    {
+     "w": "Jenner",
+     "t": 7.811
+    },
+    {
+     "w": "ad",
+     "t": 8.13
+    },
+    {
+     "w": "failed",
+     "t": 8.33
+    },
+    {
+     "w": "borrowing",
+     "t": 9.156
+    },
+    {
+     "w": "a",
+     "t": 9.521
+    },
+    {
+     "w": "movement",
+     "t": 9.557
+    },
+    {
+     "w": "it",
+     "t": 10.016
+    },
+    {
+     "w": "had",
+     "t": 10.111
+    },
+    {
+     "w": "no",
+     "t": 10.3
+    },
+    {
+     "w": "standing",
+     "t": 10.5
+    },
+    {
+     "w": "in",
+     "t": 10.901
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Five, volatility moats: equity, reputation and crisis response. Tesla broke all three. Volkswagen survived Dieselgate on equity alone. KFC's FCK bucket rebuilt equity.",
+   "board": {
+    "title": "Volatility **moats**",
+    "lines": [
+     {
+      "text": "Equity + reputation + **crisis response**",
+      "cue": "equity",
+      "at": 2.611
+     },
+     {
+      "text": "**Tesla**: broke all three",
+      "cue": "Tesla",
+      "at": 5.583
+     },
+     {
+      "text": "**VW**: survived on equity",
+      "cue": "Volkswagen",
+      "at": 7.281
+     },
+     {
+      "text": "**KFC UK**: rebuilt equity",
+      "cue": "KFC",
+      "at": 10.476
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "point"
+    },
+    {
+     "id": "e1",
+     "look": "exec",
+     "v": 7,
+     "at": "door",
+     "pose": "hips"
+    }
+   ],
+   "acts": [
+    {
+     "who": "e1",
+     "cue": "broke",
+     "pose": "none",
+     "expr": "shock",
+     "at": 6.007
+    },
+    {
+     "who": "e1",
+     "cue": "survived",
+     "expr": "relief",
+     "at": 7.953
+    },
+    {
+     "who": "e1",
+     "cue": "rebuilt",
+     "pose": "cheer",
+     "expr": "grin",
+     "at": 12.233
+    }
+   ],
+   "fx": [
+    {
+     "kind": "cross",
+     "who": "e1",
+     "cue": "broke",
+     "at": 6.007
+    },
+    {
+     "kind": "tick",
+     "who": "e1",
+     "cue": "rebuilt",
+     "at": 12.233
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "broke",
+     "shot": "actor",
+     "who": "e1",
+     "at": 6.007
+    },
+    {
+     "cue": "KFC",
+     "shot": "board",
+     "at": 10.476
+    }
+   ],
+   "audio": "audio/w3-13.mp3",
+   "leadIn": 0.45,
+   "seconds": 14.058,
+   "words": [
+    {
+     "w": "Five",
+     "t": 0.5
+    },
+    {
+     "w": "volatility",
+     "t": 1.337
+    },
+    {
+     "w": "moats",
+     "t": 1.939
+    },
+    {
+     "w": "equity",
+     "t": 2.611
+    },
+    {
+     "w": "reputation",
+     "t": 3.259
+    },
+    {
+     "w": "and",
+     "t": 4.156
+    },
+    {
+     "w": "crisis",
+     "t": 4.297
+    },
+    {
+     "w": "response",
+     "t": 4.71
+    },
+    {
+     "w": "Tesla",
+     "t": 5.583
+    },
+    {
+     "w": "broke",
+     "t": 6.007
+    },
+    {
+     "w": "all",
+     "t": 6.337
+    },
+    {
+     "w": "three",
+     "t": 6.502
+    },
+    {
+     "w": "Volkswagen",
+     "t": 7.281
+    },
+    {
+     "w": "survived",
+     "t": 7.953
+    },
+    {
+     "w": "Dieselgate",
+     "t": 8.495
+    },
+    {
+     "w": "on",
+     "t": 9.073
+    },
+    {
+     "w": "equity",
+     "t": 9.321
+    },
+    {
+     "w": "alone",
+     "t": 9.686
+    },
+    {
+     "w": "KFC's",
+     "t": 10.476
+    },
+    {
+     "w": "FCK",
+     "t": 11.208
+    },
+    {
+     "w": "bucket",
+     "t": 11.821
+    },
+    {
+     "w": "rebuilt",
+     "t": 12.233
+    },
+    {
+     "w": "equity",
+     "t": 12.682
+    }
+   ]
+  },
+  {
+   "set": "home",
+   "say": "Consumer equity grows most through referral from family and friends. Stop advertising and you fade from memory, and getting back costs more than holding on.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "r"
+    },
+    {
+     "id": "a",
+     "look": "shopper",
+     "v": 3,
+     "at": "sofa",
+     "mode": "sit"
+    },
+    {
+     "id": "b",
+     "look": "shopper",
+     "v": 4,
+     "at": "sofa2",
+     "mode": "sit"
+    }
+   ],
+   "acts": [
+    {
+     "who": "a",
+     "cue": "referral",
+     "pose": "point",
+     "expr": "smile",
+     "at": 2.304
+    },
+    {
+     "who": "b",
+     "cue": "friends",
+     "expr": "grin",
+     "at": 3.472
+    },
+    {
+     "who": "host",
+     "cue": "fade",
+     "pose": "shrug",
+     "expr": "nervous",
+     "at": 5.594
+    }
+   ],
+   "fx": [
+    {
+     "kind": "say",
+     "who": "a",
+     "text": "You have to try it!",
+     "cue": "referral",
+     "at": 2.304
+    },
+    {
+     "kind": "heart",
+     "who": "b",
+     "cue": "friends",
+     "at": 3.472
+    },
+    {
+     "kind": "zzz",
+     "who": "host",
+     "cue": "memory",
+     "at": 6.031
+    },
+    {
+     "kind": "money",
+     "who": "host",
+     "cue": "costs",
+     "at": 7.41
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "referral",
+     "shot": "two",
+     "who": "a",
+     "at": 2.304
+    },
+    {
+     "cue": "Stop",
+     "shot": "host",
+     "at": 4.309
+    }
+   ],
+   "audio": "audio/w3-14.mp3",
+   "leadIn": 0.45,
+   "seconds": 9.69,
+   "words": [
+    {
+     "w": "Consumer",
+     "t": 0.5
+    },
+    {
+     "w": "equity",
+     "t": 1.101
+    },
+    {
+     "w": "grows",
+     "t": 1.491
+    },
+    {
+     "w": "most",
+     "t": 1.821
+    },
+    {
+     "w": "through",
+     "t": 2.104
+    },
+    {
+     "w": "referral",
+     "t": 2.304
+    },
+    {
+     "w": "from",
+     "t": 2.811
+    },
+    {
+     "w": "family",
+     "t": 3.0
+    },
+    {
+     "w": "and",
+     "t": 3.401
+    },
+    {
+     "w": "friends",
+     "t": 3.472
+    },
+    {
+     "w": "Stop",
+     "t": 4.309
+    },
+    {
+     "w": "advertising",
+     "t": 4.698
+    },
+    {
+     "w": "and",
+     "t": 5.37
+    },
+    {
+     "w": "you",
+     "t": 5.5
+    },
+    {
+     "w": "fade",
+     "t": 5.594
+    },
+    {
+     "w": "from",
+     "t": 5.889
+    },
+    {
+     "w": "memory",
+     "t": 6.031
+    },
+    {
+     "w": "and",
+     "t": 6.738
+    },
+    {
+     "w": "getting",
+     "t": 6.891
+    },
+    {
+     "w": "back",
+     "t": 7.163
+    },
+    {
+     "w": "costs",
+     "t": 7.41
+    },
+    {
+     "w": "more",
+     "t": 7.823
+    },
+    {
+     "w": "than",
+     "t": 8.035
+    },
+    {
+     "w": "holding",
+     "t": 8.153
+    },
+    {
+     "w": "on",
+     "t": 8.436
+    }
+   ]
+  },
+  {
+   "set": "street",
+   "say": "An unknown laptop brand can have the best specs and still no trust. Brands must be machine readable and human loveable, not AI slop.",
+   "board": {
+    "title": "The **agentic** era",
+    "lines": [
+     {
+      "text": "Machine **readable**",
+      "cue": "machine",
+      "at": 4.981
+     },
+     {
+      "text": "Human **loveable**",
+      "cue": "loveable",
+      "at": 6.231
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "front"
+    },
+    {
+     "id": "p1",
+     "look": "student",
+     "v": 7,
+     "at": "r",
+     "hold": "phone",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "p1",
+     "cue": "unknown",
+     "pose": "chin",
+     "expr": "nervous",
+     "at": 0.724
+    },
+    {
+     "who": "host",
+     "cue": "machine",
+     "pose": "point",
+     "at": 4.981
+    }
+   ],
+   "fx": [
+    {
+     "kind": "question",
+     "who": "p1",
+     "cue": "trust",
+     "at": 3.495
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "unknown",
+     "shot": "actor",
+     "who": "p1",
+     "at": 0.724
+    },
+    {
+     "cue": "machine",
+     "shot": "board",
+     "at": 4.981
+    }
+   ],
+   "audio": "audio/w3-15.mp3",
+   "leadIn": 0.45,
+   "seconds": 8.994,
+   "words": [
+    {
+     "w": "An",
+     "t": 0.5
+    },
+    {
+     "w": "unknown",
+     "t": 0.724
+    },
+    {
+     "w": "laptop",
+     "t": 1.137
+    },
+    {
+     "w": "brand",
+     "t": 1.538
+    },
+    {
+     "w": "can",
+     "t": 1.903
+    },
+    {
+     "w": "have",
+     "t": 2.021
+    },
+    {
+     "w": "the",
+     "t": 2.186
+    },
+    {
+     "w": "best",
+     "t": 2.257
+    },
+    {
+     "w": "specs",
+     "t": 2.54
+    },
+    {
+     "w": "and",
+     "t": 2.917
+    },
+    {
+     "w": "still",
+     "t": 3.071
+    },
+    {
+     "w": "no",
+     "t": 3.342
+    },
+    {
+     "w": "trust",
+     "t": 3.495
+    },
+    {
+     "w": "Brands",
+     "t": 4.285
+    },
+    {
+     "w": "must",
+     "t": 4.675
+    },
+    {
+     "w": "be",
+     "t": 4.875
+    },
+    {
+     "w": "machine",
+     "t": 4.981
+    },
+    {
+     "w": "readable",
+     "t": 5.359
+    },
+    {
+     "w": "and",
+     "t": 5.795
+    },
+    {
+     "w": "human",
+     "t": 5.948
+    },
+    {
+     "w": "loveable",
+     "t": 6.231
+    },
+    {
+     "w": "not",
+     "t": 6.962
+    },
+    {
+     "w": "AI",
+     "t": 7.34
+    },
+    {
+     "w": "slop",
+     "t": 7.599
+    }
+   ]
+  },
+  {
+   "set": "plaza",
+   "say": "Marketing is a long game, often two to three years. Sampling breaks the uncertainty barrier. And in B2B, lean on the rational case and keep clear promises.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "l"
+    },
+    {
+     "id": "c1",
+     "look": "chef",
+     "v": 2,
+     "at": "stall",
+     "hold": "box",
+     "pose": "hold"
+    },
+    {
+     "id": "s1",
+     "look": "shopper",
+     "v": 6,
+     "at": "walkR",
+     "to": "c",
+     "walkCue": "Sampling",
+     "walkAt": 3.896
+    }
+   ],
+   "acts": [
+    {
+     "who": "s1",
+     "cue": "uncertainty",
+     "pose": "up",
+     "expr": "lick",
+     "at": 5.028
+    },
+    {
+     "who": "host",
+     "cue": "promises",
+     "pose": "present",
+     "at": 9.486
+    }
+   ],
+   "fx": [
+    {
+     "kind": "clock",
+     "who": "host",
+     "cue": "long",
+     "at": 1.231
+    },
+    {
+     "kind": "heart",
+     "who": "s1",
+     "cue": "barrier",
+     "at": 5.63
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "Sampling",
+     "shot": "two",
+     "who": "s1",
+     "at": 3.896
+    },
+    {
+     "cue": "B2B",
+     "shot": "host",
+     "at": 6.774
+    }
+   ],
+   "audio": "audio/w3-16.mp3",
+   "leadIn": 0.45,
+   "seconds": 11.034,
+   "words": [
+    {
+     "w": "Marketing",
+     "t": 0.5
+    },
+    {
+     "w": "is",
+     "t": 1.078
+    },
+    {
+     "w": "a",
+     "t": 1.196
+    },
+    {
+     "w": "long",
+     "t": 1.231
+    },
+    {
+     "w": "game",
+     "t": 1.502
+    },
+    {
+     "w": "often",
+     "t": 2.163
+    },
+    {
+     "w": "two",
+     "t": 2.469
+    },
+    {
+     "w": "to",
+     "t": 2.776
+    },
+    {
+     "w": "three",
+     "t": 2.87
+    },
+    {
+     "w": "years",
+     "t": 3.106
+    },
+    {
+     "w": "Sampling",
+     "t": 3.896
+    },
+    {
+     "w": "breaks",
+     "t": 4.521
+    },
+    {
+     "w": "the",
+     "t": 4.887
+    },
+    {
+     "w": "uncertainty",
+     "t": 5.028
+    },
+    {
+     "w": "barrier",
+     "t": 5.63
+    },
+    {
+     "w": "And",
+     "t": 6.408
+    },
+    {
+     "w": "in",
+     "t": 6.632
+    },
+    {
+     "w": "B2B",
+     "t": 6.774
+    },
+    {
+     "w": "lean",
+     "t": 7.788
+    },
+    {
+     "w": "on",
+     "t": 8.035
+    },
+    {
+     "w": "the",
+     "t": 8.118
+    },
+    {
+     "w": "rational",
+     "t": 8.177
+    },
+    {
+     "w": "case",
+     "t": 8.542
+    },
+    {
+     "w": "and",
+     "t": 8.849
+    },
+    {
+     "w": "keep",
+     "t": 9.014
+    },
+    {
+     "w": "clear",
+     "t": 9.274
+    },
+    {
+     "w": "promises",
+     "t": 9.486
+    }
+   ]
+  },
+  {
+   "set": "stage",
+   "say": "So win before the point of choice, and audit your assets. Attention is cheap. Memory is expensive. Preference is priceless. That's week three.",
+   "board": {
+    "title": "Week 3 **takeaways**",
+    "lines": [
+     {
+      "text": "Win **before** the point of choice",
+      "cue": "win",
+      "at": 0.783
+     },
+     {
+      "text": "**Audit** your assets",
+      "cue": "audit",
+      "at": 2.682
+     },
+     {
+      "text": "Attention is **cheap**",
+      "cue": "Attention",
+      "at": 3.979
+     },
+     {
+      "text": "Memory **expensive**, preference **priceless**",
+      "cue": "Memory",
+      "at": 5.5
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "a",
+     "look": "student",
+     "v": 2,
+     "at": "front"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "priceless",
+     "pose": "cheer",
+     "expr": "grin",
+     "at": 8.012
+    },
+    {
+     "who": "a",
+     "cue": "That's",
+     "pose": "cheer",
+     "expr": "laugh",
+     "at": 9.014
+    }
+   ],
+   "fx": [
+    {
+     "kind": "stars",
+     "who": "host",
+     "cue": "priceless",
+     "at": 8.012
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "Attention",
+     "shot": "close",
+     "at": 3.979
+    },
+    {
+     "cue": "That's",
+     "shot": "wide",
+     "glide": true,
+     "at": 9.014
+    }
+   ],
+   "hold": 1.2,
+   "audio": "audio/w3-17.mp3",
+   "leadIn": 0.45,
+   "seconds": 11.586,
+   "words": [
+    {
+     "w": "So",
+     "t": 0.5
+    },
+    {
+     "w": "win",
+     "t": 0.783
+    },
+    {
+     "w": "before",
+     "t": 1.042
+    },
+    {
+     "w": "the",
+     "t": 1.314
+    },
+    {
+     "w": "point",
+     "t": 1.396
+    },
+    {
+     "w": "of",
+     "t": 1.62
+    },
+    {
+     "w": "choice",
+     "t": 1.691
+    },
+    {
+     "w": "and",
+     "t": 2.434
+    },
+    {
+     "w": "audit",
+     "t": 2.682
+    },
+    {
+     "w": "your",
+     "t": 3.0
+    },
+    {
+     "w": "assets",
+     "t": 3.153
+    },
+    {
+     "w": "Attention",
+     "t": 3.979
+    },
+    {
+     "w": "is",
+     "t": 4.533
+    },
+    {
+     "w": "cheap",
+     "t": 4.722
+    },
+    {
+     "w": "Memory",
+     "t": 5.5
+    },
+    {
+     "w": "is",
+     "t": 6.054
+    },
+    {
+     "w": "expensive",
+     "t": 6.219
+    },
+    {
+     "w": "Preference",
+     "t": 7.245
+    },
+    {
+     "w": "is",
+     "t": 7.811
+    },
+    {
+     "w": "priceless",
+     "t": 8.012
+    },
+    {
+     "w": "That's",
+     "t": 9.014
+    },
+    {
+     "w": "week",
+     "t": 9.38
+    },
+    {
+     "w": "three",
+     "t": 9.604
+    }
+   ]
+  }
+ ],
+ "id": "w3",
+ "total": 193.73
+}

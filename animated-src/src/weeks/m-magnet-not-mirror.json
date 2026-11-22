@@ -1,0 +1,704 @@
+{
+ "week": 0,
+ "title": "A magnet, not a mirror (the mirror test)",
+ "speaker": "Brent Smart, B.Smart, Week 4",
+ "beats": [
+  {
+   "set": "stage",
+   "say": "A magnet, not a mirror. Most ads mirror the category and look like everyone else. A magnet is distinctive enough to pull people in.",
+   "board": {
+    "title": "A **magnet**, not a mirror",
+    "steps": [
+     {
+      "text": "**Mirror**: looks like everyone",
+      "cue": "category",
+      "at": 3.46
+     },
+     {
+      "text": "**Magnet**: distinctive",
+      "cue": "distinctive",
+      "at": 6.408
+     },
+     {
+      "text": "**Pulls** attention and emotion",
+      "cue": "pull",
+      "at": 7.375
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "a",
+     "look": "student",
+     "at": "front",
+     "v": 1
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "everyone",
+     "pose": "shrug",
+     "at": 4.604
+    },
+    {
+     "who": "host",
+     "cue": "pull",
+     "pose": "cheer",
+     "expr": "grin",
+     "at": 7.375
+    }
+   ],
+   "fx": [
+    {
+     "kind": "heart",
+     "who": "a",
+     "cue": "pull",
+     "at": 7.375
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "everyone",
+     "shot": "close",
+     "at": 4.604
+    },
+    {
+     "cue": "distinctive",
+     "shot": "board",
+     "at": 6.408
+    }
+   ],
+   "audio": "audio/m-magnet-not-mirror-00.mp3",
+   "leadIn": 0.45,
+   "seconds": 9.09,
+   "words": [
+    {
+     "w": "A",
+     "t": 0.5
+    },
+    {
+     "w": "magnet",
+     "t": 0.606
+    },
+    {
+     "w": "not",
+     "t": 1.349
+    },
+    {
+     "w": "a",
+     "t": 1.609
+    },
+    {
+     "w": "mirror",
+     "t": 1.656
+    },
+    {
+     "w": "Most",
+     "t": 2.41
+    },
+    {
+     "w": "ads",
+     "t": 2.835
+    },
+    {
+     "w": "mirror",
+     "t": 3.118
+    },
+    {
+     "w": "the",
+     "t": 3.377
+    },
+    {
+     "w": "category",
+     "t": 3.46
+    },
+    {
+     "w": "and",
+     "t": 3.967
+    },
+    {
+     "w": "look",
+     "t": 4.132
+    },
+    {
+     "w": "like",
+     "t": 4.344
+    },
+    {
+     "w": "everyone",
+     "t": 4.604
+    },
+    {
+     "w": "else",
+     "t": 4.946
+    },
+    {
+     "w": "A",
+     "t": 5.653
+    },
+    {
+     "w": "magnet",
+     "t": 5.771
+    },
+    {
+     "w": "is",
+     "t": 6.243
+    },
+    {
+     "w": "distinctive",
+     "t": 6.408
+    },
+    {
+     "w": "enough",
+     "t": 6.939
+    },
+    {
+     "w": "to",
+     "t": 7.269
+    },
+    {
+     "w": "pull",
+     "t": 7.375
+    },
+    {
+     "w": "people",
+     "t": 7.564
+    },
+    {
+     "w": "in",
+     "t": 7.87
+    }
+   ]
+  },
+  {
+   "set": "home",
+   "say": "On the TV, three ads in a row: real people being real people. The family can't tell which brand is which.",
+   "board": {
+    "title": "Real people, **being real**",
+    "lines": [
+     {
+      "text": "Which brand? **Any of them**",
+      "cue": "tell",
+      "at": 5.524
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "l"
+    },
+    {
+     "id": "a",
+     "look": "shopper",
+     "at": "sofa",
+     "v": 1,
+     "mode": "sit"
+    },
+    {
+     "id": "b",
+     "look": "kid",
+     "at": "sofa2",
+     "v": 2,
+     "mode": "sit"
+    }
+   ],
+   "acts": [
+    {
+     "who": "a",
+     "cue": "row",
+     "expr": "dazed",
+     "at": 2.127
+    },
+    {
+     "who": "b",
+     "cue": "tell",
+     "pose": "shrug",
+     "expr": "nervous",
+     "at": 5.524
+    }
+   ],
+   "fx": [
+    {
+     "kind": "zzz",
+     "who": "a",
+     "cue": "row",
+     "at": 2.127
+    },
+    {
+     "kind": "question",
+     "who": "b",
+     "cue": "tell",
+     "at": 5.524
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "row",
+     "shot": "board",
+     "at": 2.127
+    },
+    {
+     "cue": "tell",
+     "shot": "actor",
+     "who": "b",
+     "at": 5.524
+    }
+   ],
+   "audio": "audio/m-magnet-not-mirror-01.mp3",
+   "leadIn": 0.45,
+   "seconds": 7.746,
+   "words": [
+    {
+     "w": "On",
+     "t": 0.5
+    },
+    {
+     "w": "the",
+     "t": 0.677
+    },
+    {
+     "w": "TV",
+     "t": 0.748
+    },
+    {
+     "w": "three",
+     "t": 1.467
+    },
+    {
+     "w": "ads",
+     "t": 1.821
+    },
+    {
+     "w": "in",
+     "t": 2.021
+    },
+    {
+     "w": "a",
+     "t": 2.08
+    },
+    {
+     "w": "row",
+     "t": 2.127
+    },
+    {
+     "w": "real",
+     "t": 2.811
+    },
+    {
+     "w": "people",
+     "t": 3.106
+    },
+    {
+     "w": "being",
+     "t": 3.425
+    },
+    {
+     "w": "real",
+     "t": 3.672
+    },
+    {
+     "w": "people",
+     "t": 3.873
+    },
+    {
+     "w": "The",
+     "t": 4.639
+    },
+    {
+     "w": "family",
+     "t": 4.781
+    },
+    {
+     "w": "can't",
+     "t": 5.229
+    },
+    {
+     "w": "tell",
+     "t": 5.524
+    },
+    {
+     "w": "which",
+     "t": 5.795
+    },
+    {
+     "w": "brand",
+     "t": 5.984
+    },
+    {
+     "w": "is",
+     "t": 6.325
+    },
+    {
+     "w": "which",
+     "t": 6.432
+    }
+   ]
+  },
+  {
+   "set": "street",
+   "say": "That's the mirror test. Take a still, remove the logo, and put it beside three rivals. If nobody can pick yours, it's a mirror.",
+   "board": {
+    "title": "The **mirror test**",
+    "lines": [
+     {
+      "text": "Take a still, **remove the logo**",
+      "cue": "still",
+      "at": 2.34
+     },
+     {
+      "text": "Beside **three** rivals",
+      "cue": "three",
+      "at": 4.875
+     },
+     {
+      "text": "Can't pick it? **Mirror**",
+      "cue": "nobody",
+      "at": 6.243
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "front"
+    },
+    {
+     "id": "p1",
+     "look": "elder",
+     "at": "bus",
+     "v": 3
+    },
+    {
+     "id": "p2",
+     "look": "shopper",
+     "at": "r",
+     "v": 5
+    }
+   ],
+   "acts": [
+    {
+     "who": "p1",
+     "cue": "nobody",
+     "pose": "shrug",
+     "expr": "dazed",
+     "at": 6.243
+    },
+    {
+     "who": "p2",
+     "cue": "mirror",
+     "pose": "shrug",
+     "expr": "nervous",
+     "at": 7.965
+    }
+   ],
+   "fx": [
+    {
+     "kind": "question",
+     "who": "p1",
+     "cue": "nobody",
+     "at": 6.243
+    },
+    {
+     "kind": "cross",
+     "who": "p2",
+     "cue": "mirror",
+     "at": 7.965
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "close",
+     "at": 0.2
+    },
+    {
+     "cue": "Take",
+     "shot": "board",
+     "at": 2.045
+    },
+    {
+     "cue": "nobody",
+     "shot": "wide",
+     "at": 6.243
+    }
+   ],
+   "audio": "audio/m-magnet-not-mirror-02.mp3",
+   "leadIn": 0.45,
+   "seconds": 9.33,
+   "words": [
+    {
+     "w": "That's",
+     "t": 0.5
+    },
+    {
+     "w": "the",
+     "t": 0.889
+    },
+    {
+     "w": "mirror",
+     "t": 0.984
+    },
+    {
+     "w": "test",
+     "t": 1.278
+    },
+    {
+     "w": "Take",
+     "t": 2.045
+    },
+    {
+     "w": "a",
+     "t": 2.304
+    },
+    {
+     "w": "still",
+     "t": 2.34
+    },
+    {
+     "w": "remove",
+     "t": 2.988
+    },
+    {
+     "w": "the",
+     "t": 3.33
+    },
+    {
+     "w": "logo",
+     "t": 3.389
+    },
+    {
+     "w": "and",
+     "t": 4.073
+    },
+    {
+     "w": "put",
+     "t": 4.226
+    },
+    {
+     "w": "it",
+     "t": 4.38
+    },
+    {
+     "w": "beside",
+     "t": 4.462
+    },
+    {
+     "w": "three",
+     "t": 4.875
+    },
+    {
+     "w": "rivals",
+     "t": 5.158
+    },
+    {
+     "w": "If",
+     "t": 6.042
+    },
+    {
+     "w": "nobody",
+     "t": 6.243
+    },
+    {
+     "w": "can",
+     "t": 6.667
+    },
+    {
+     "w": "pick",
+     "t": 6.833
+    },
+    {
+     "w": "yours",
+     "t": 7.068
+    },
+    {
+     "w": "it's",
+     "t": 7.764
+    },
+    {
+     "w": "a",
+     "t": 7.929
+    },
+    {
+     "w": "mirror",
+     "t": 7.965
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Use it like this: run the test on the brand's ads, then pitch a distinctive direction tied to its positioning.",
+   "board": {
+    "title": "Use it like **this**",
+    "lines": [
+     {
+      "text": "Run the **mirror test**",
+      "cue": "run",
+      "at": 1.738
+     },
+     {
+      "text": "Pitch a **distinctive** direction",
+      "cue": "distinctive",
+      "at": 3.896
+     },
+     {
+      "text": "Tie it to **positioning**",
+      "cue": "positioning",
+      "at": 5.476
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "point"
+    },
+    {
+     "id": "e1",
+     "look": "exec",
+     "at": "table",
+     "v": 2
+    }
+   ],
+   "acts": [
+    {
+     "who": "e1",
+     "cue": "positioning",
+     "pose": "cheer",
+     "expr": "grin",
+     "at": 5.476
+    }
+   ],
+   "fx": [
+    {
+     "kind": "bulb",
+     "who": "e1",
+     "cue": "distinctive",
+     "at": 3.896
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "distinctive",
+     "shot": "two",
+     "who": "e1",
+     "at": 3.896
+    }
+   ],
+   "hold": 1.0,
+   "audio": "audio/m-magnet-not-mirror-03.mp3",
+   "leadIn": 0.45,
+   "seconds": 7.426,
+   "words": [
+    {
+     "w": "Use",
+     "t": 0.5
+    },
+    {
+     "w": "it",
+     "t": 0.818
+    },
+    {
+     "w": "like",
+     "t": 0.889
+    },
+    {
+     "w": "this",
+     "t": 1.101
+    },
+    {
+     "w": "run",
+     "t": 1.738
+    },
+    {
+     "w": "the",
+     "t": 1.986
+    },
+    {
+     "w": "test",
+     "t": 2.057
+    },
+    {
+     "w": "on",
+     "t": 2.351
+    },
+    {
+     "w": "the",
+     "t": 2.422
+    },
+    {
+     "w": "brand's",
+     "t": 2.469
+    },
+    {
+     "w": "ads",
+     "t": 2.776
+    },
+    {
+     "w": "then",
+     "t": 3.413
+    },
+    {
+     "w": "pitch",
+     "t": 3.625
+    },
+    {
+     "w": "a",
+     "t": 3.861
+    },
+    {
+     "w": "distinctive",
+     "t": 3.896
+    },
+    {
+     "w": "direction",
+     "t": 4.427
+    },
+    {
+     "w": "tied",
+     "t": 4.899
+    },
+    {
+     "w": "to",
+     "t": 5.252
+    },
+    {
+     "w": "its",
+     "t": 5.382
+    },
+    {
+     "w": "positioning",
+     "t": 5.476
+    }
+   ]
+  }
+ ],
+ "id": "m-magnet-not-mirror",
+ "total": 33.6
+}

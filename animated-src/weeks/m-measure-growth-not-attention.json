@@ -1,0 +1,294 @@
+{
+ "week": 0,
+ "title": "Measure growth, not attention",
+ "speaker": "Bryce Coombe, Hypetap, Week 10",
+ "beats": [
+  {
+   "set": "office",
+   "say": "Views, likes and engagement explain attention. Growth is different: visibility, mental availability, share of voice, perception and behaviour change.",
+   "board": {
+    "title": "Measure **growth**, not attention",
+    "vs": {
+     "left": "Attention",
+     "right": "Growth",
+     "leftItems": [
+      "Views, likes",
+      "Engagement",
+      "Clicks, CPM"
+     ],
+     "rightItems": [
+      "Mental availability",
+      "Share of voice",
+      "Behaviour change"
+     ],
+     "cue": "Views"
+    }
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "e",
+     "look": "exec",
+     "v": 6,
+     "at": "table"
+    }
+   ],
+   "acts": [
+    {
+     "who": "e",
+     "cue": "attention",
+     "expr": "dazed"
+    },
+    {
+     "who": "host",
+     "cue": "Growth",
+     "pose": "up",
+     "expr": "grin"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "chart",
+     "who": "host",
+     "cue": "Growth"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "attention",
+     "shot": "actor",
+     "who": "e"
+    },
+    {
+     "cue": "Growth",
+     "shot": "board"
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "A recipe campaign gets a million likes, and the team cheers. But do more people name the brand unprompted?",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "l",
+     "pose": "none"
+    },
+    {
+     "id": "e1",
+     "look": "exec",
+     "v": 1,
+     "at": "table",
+     "hold": "laptop",
+     "pose": "hold"
+    },
+    {
+     "id": "e2",
+     "look": "exec_f",
+     "v": 2,
+     "at": "table2"
+    }
+   ],
+   "acts": [
+    {
+     "who": "e1",
+     "cue": "likes",
+     "pose": "cheer",
+     "expr": "laugh"
+    },
+    {
+     "who": "e2",
+     "cue": "cheers",
+     "pose": "cheer",
+     "expr": "grin"
+    },
+    {
+     "who": "host",
+     "cue": "unprompted",
+     "pose": "chin",
+     "expr": "nervous"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "heart",
+     "who": "e1",
+     "cue": "likes"
+    },
+    {
+     "kind": "question",
+     "who": "host",
+     "cue": "unprompted"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "likes",
+     "shot": "actor",
+     "who": "e1"
+    },
+    {
+     "cue": "unprompted",
+     "shot": "close"
+    }
+   ]
+  },
+  {
+   "set": "plaza",
+   "say": "Growth looks like this: shoppers talking about your brand, not a rival's, then searching for it and buying it.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "front",
+     "pose": "none"
+    },
+    {
+     "id": "s1",
+     "look": "shopper",
+     "v": 1,
+     "at": "l"
+    },
+    {
+     "id": "s2",
+     "look": "student",
+     "v": 4,
+     "at": "r",
+     "hold": "phone",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "s1",
+     "cue": "talking",
+     "pose": "point",
+     "expr": "laugh"
+    },
+    {
+     "who": "s2",
+     "cue": "searching",
+     "expr": "smile"
+    },
+    {
+     "who": "host",
+     "cue": "buying",
+     "pose": "cheer",
+     "expr": "grin"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "chart",
+     "who": "host",
+     "cue": "Growth"
+    },
+    {
+     "kind": "say",
+     "who": "s1",
+     "cue": "talking",
+     "text": "Have you tried it?"
+    },
+    {
+     "kind": "eye",
+     "who": "s2",
+     "cue": "searching"
+    },
+    {
+     "kind": "money",
+     "who": "host",
+     "cue": "buying"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "talking",
+     "shot": "actor",
+     "who": "s1"
+    },
+    {
+     "cue": "searching",
+     "shot": "actor",
+     "who": "s2"
+    },
+    {
+     "cue": "buying",
+     "shot": "close"
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Use it like this: report attention, but judge success on growth, compared apples with apples.",
+   "board": {
+    "title": "Use it like **this**",
+    "lines": [
+     {
+      "text": "Report **attention**",
+      "cue": "report"
+     },
+     {
+      "text": "Judge on **growth**",
+      "cue": "judge"
+     },
+     {
+      "text": "Apples with **apples**",
+      "cue": "apples"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "point"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "apples",
+     "pose": "cheer",
+     "expr": "grin"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "tick",
+     "who": "host",
+     "cue": "apples"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "apples",
+     "shot": "close"
+    }
+   ],
+   "hold": 1.0
+  }
+ ]
+}

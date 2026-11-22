@@ -1,0 +1,637 @@
+{
+ "week": 0,
+ "title": "Measure growth, not attention",
+ "speaker": "Bryce Coombe, Hypetap, Week 10",
+ "beats": [
+  {
+   "set": "office",
+   "say": "Views, likes and engagement explain attention. Growth is different: visibility, mental availability, share of voice, perception and behaviour change.",
+   "board": {
+    "title": "Measure **growth**, not attention",
+    "vs": {
+     "left": "Attention",
+     "right": "Growth",
+     "leftItems": [
+      "Views, likes",
+      "Engagement",
+      "Clicks, CPM"
+     ],
+     "rightItems": [
+      "Mental availability",
+      "Share of voice",
+      "Behaviour change"
+     ],
+     "cue": "Views",
+     "at": 0.5
+    }
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "e",
+     "look": "exec",
+     "v": 6,
+     "at": "table"
+    }
+   ],
+   "acts": [
+    {
+     "who": "e",
+     "cue": "attention",
+     "expr": "dazed",
+     "at": 2.882
+    },
+    {
+     "who": "host",
+     "cue": "Growth",
+     "pose": "up",
+     "expr": "grin",
+     "at": 3.731
+    }
+   ],
+   "fx": [
+    {
+     "kind": "chart",
+     "who": "host",
+     "cue": "Growth",
+     "at": 3.731
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "attention",
+     "shot": "actor",
+     "who": "e",
+     "at": 2.882
+    },
+    {
+     "cue": "Growth",
+     "shot": "board",
+     "at": 3.731
+    }
+   ],
+   "audio": "audio/m-measure-growth-not-attention-00.mp3",
+   "leadIn": 0.45,
+   "seconds": 10.722,
+   "words": [
+    {
+     "w": "Views",
+     "t": 0.5
+    },
+    {
+     "w": "likes",
+     "t": 1.302
+    },
+    {
+     "w": "and",
+     "t": 1.703
+    },
+    {
+     "w": "engagement",
+     "t": 1.88
+    },
+    {
+     "w": "explain",
+     "t": 2.481
+    },
+    {
+     "w": "attention",
+     "t": 2.882
+    },
+    {
+     "w": "Growth",
+     "t": 3.731
+    },
+    {
+     "w": "is",
+     "t": 4.061
+    },
+    {
+     "w": "different",
+     "t": 4.191
+    },
+    {
+     "w": "visibility",
+     "t": 4.922
+    },
+    {
+     "w": "mental",
+     "t": 5.759
+    },
+    {
+     "w": "availability",
+     "t": 6.125
+    },
+    {
+     "w": "share",
+     "t": 7.009
+    },
+    {
+     "w": "of",
+     "t": 7.34
+    },
+    {
+     "w": "voice",
+     "t": 7.41
+    },
+    {
+     "w": "perception",
+     "t": 8.059
+    },
+    {
+     "w": "and",
+     "t": 8.755
+    },
+    {
+     "w": "behaviour",
+     "t": 8.884
+    },
+    {
+     "w": "change",
+     "t": 9.285
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "A recipe campaign gets a million likes, and the team cheers. But do more people name the brand unprompted?",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "l",
+     "pose": "none"
+    },
+    {
+     "id": "e1",
+     "look": "exec",
+     "v": 1,
+     "at": "table",
+     "hold": "laptop",
+     "pose": "hold"
+    },
+    {
+     "id": "e2",
+     "look": "exec_f",
+     "v": 2,
+     "at": "table2"
+    }
+   ],
+   "acts": [
+    {
+     "who": "e1",
+     "cue": "likes",
+     "pose": "cheer",
+     "expr": "laugh",
+     "at": 2.092
+    },
+    {
+     "who": "e2",
+     "cue": "cheers",
+     "pose": "cheer",
+     "expr": "grin",
+     "at": 3.307
+    },
+    {
+     "who": "host",
+     "cue": "unprompted",
+     "pose": "chin",
+     "expr": "nervous",
+     "at": 5.854
+    }
+   ],
+   "fx": [
+    {
+     "kind": "heart",
+     "who": "e1",
+     "cue": "likes",
+     "at": 2.092
+    },
+    {
+     "kind": "question",
+     "who": "host",
+     "cue": "unprompted",
+     "at": 5.854
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "likes",
+     "shot": "actor",
+     "who": "e1",
+     "at": 2.092
+    },
+    {
+     "cue": "unprompted",
+     "shot": "close",
+     "at": 5.854
+    }
+   ],
+   "audio": "audio/m-measure-growth-not-attention-01.mp3",
+   "leadIn": 0.45,
+   "seconds": 7.41,
+   "words": [
+    {
+     "w": "A",
+     "t": 0.5
+    },
+    {
+     "w": "recipe",
+     "t": 0.618
+    },
+    {
+     "w": "campaign",
+     "t": 1.007
+    },
+    {
+     "w": "gets",
+     "t": 1.491
+    },
+    {
+     "w": "a",
+     "t": 1.691
+    },
+    {
+     "w": "million",
+     "t": 1.726
+    },
+    {
+     "w": "likes",
+     "t": 2.092
+    },
+    {
+     "w": "and",
+     "t": 2.776
+    },
+    {
+     "w": "the",
+     "t": 2.917
+    },
+    {
+     "w": "team",
+     "t": 3.012
+    },
+    {
+     "w": "cheers",
+     "t": 3.307
+    },
+    {
+     "w": "But",
+     "t": 4.156
+    },
+    {
+     "w": "do",
+     "t": 4.368
+    },
+    {
+     "w": "more",
+     "t": 4.462
+    },
+    {
+     "w": "people",
+     "t": 4.675
+    },
+    {
+     "w": "name",
+     "t": 5.04
+    },
+    {
+     "w": "the",
+     "t": 5.335
+    },
+    {
+     "w": "brand",
+     "t": 5.406
+    },
+    {
+     "w": "unprompted",
+     "t": 5.854
+    }
+   ]
+  },
+  {
+   "set": "plaza",
+   "say": "Growth looks like this: shoppers talking about your brand, not a rival's, then searching for it and buying it.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "front",
+     "pose": "none"
+    },
+    {
+     "id": "s1",
+     "look": "shopper",
+     "v": 1,
+     "at": "l"
+    },
+    {
+     "id": "s2",
+     "look": "student",
+     "v": 4,
+     "at": "r",
+     "hold": "phone",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "s1",
+     "cue": "talking",
+     "pose": "point",
+     "expr": "laugh",
+     "at": 2.234
+    },
+    {
+     "who": "s2",
+     "cue": "searching",
+     "expr": "smile",
+     "at": 4.639
+    },
+    {
+     "who": "host",
+     "cue": "buying",
+     "pose": "cheer",
+     "expr": "grin",
+     "at": 5.488
+    }
+   ],
+   "fx": [
+    {
+     "kind": "chart",
+     "who": "host",
+     "cue": "Growth",
+     "at": 0.5
+    },
+    {
+     "kind": "say",
+     "who": "s1",
+     "cue": "talking",
+     "text": "Have you tried it?",
+     "at": 2.234
+    },
+    {
+     "kind": "eye",
+     "who": "s2",
+     "cue": "searching",
+     "at": 4.639
+    },
+    {
+     "kind": "money",
+     "who": "host",
+     "cue": "buying",
+     "at": 5.488
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "talking",
+     "shot": "actor",
+     "who": "s1",
+     "at": 2.234
+    },
+    {
+     "cue": "searching",
+     "shot": "actor",
+     "who": "s2",
+     "at": 4.639
+    },
+    {
+     "cue": "buying",
+     "shot": "close",
+     "at": 5.488
+    }
+   ],
+   "audio": "audio/m-measure-growth-not-attention-02.mp3",
+   "leadIn": 0.45,
+   "seconds": 6.93,
+   "words": [
+    {
+     "w": "Growth",
+     "t": 0.5
+    },
+    {
+     "w": "looks",
+     "t": 0.818
+    },
+    {
+     "w": "like",
+     "t": 1.019
+    },
+    {
+     "w": "this",
+     "t": 1.184
+    },
+    {
+     "w": "shoppers",
+     "t": 1.809
+    },
+    {
+     "w": "talking",
+     "t": 2.234
+    },
+    {
+     "w": "about",
+     "t": 2.528
+    },
+    {
+     "w": "your",
+     "t": 2.752
+    },
+    {
+     "w": "brand",
+     "t": 2.811
+    },
+    {
+     "w": "not",
+     "t": 3.46
+    },
+    {
+     "w": "a",
+     "t": 3.672
+    },
+    {
+     "w": "rival's",
+     "t": 3.719
+    },
+    {
+     "w": "then",
+     "t": 4.462
+    },
+    {
+     "w": "searching",
+     "t": 4.639
+    },
+    {
+     "w": "for",
+     "t": 5.052
+    },
+    {
+     "w": "it",
+     "t": 5.252
+    },
+    {
+     "w": "and",
+     "t": 5.335
+    },
+    {
+     "w": "buying",
+     "t": 5.488
+    },
+    {
+     "w": "it",
+     "t": 5.807
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Use it like this: report attention, but judge success on growth, compared apples with apples.",
+   "board": {
+    "title": "Use it like **this**",
+    "lines": [
+     {
+      "text": "Report **attention**",
+      "cue": "report",
+      "at": 1.715
+     },
+     {
+      "text": "Judge on **growth**",
+      "cue": "judge",
+      "at": 2.929
+     },
+     {
+      "text": "Apples with **apples**",
+      "cue": "apples",
+      "at": 4.899
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "point"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "apples",
+     "pose": "cheer",
+     "expr": "grin",
+     "at": 4.899
+    }
+   ],
+   "fx": [
+    {
+     "kind": "tick",
+     "who": "host",
+     "cue": "apples",
+     "at": 4.899
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "apples",
+     "shot": "close",
+     "at": 4.899
+    }
+   ],
+   "hold": 1.0,
+   "audio": "audio/m-measure-growth-not-attention-03.mp3",
+   "leadIn": 0.45,
+   "seconds": 7.21,
+   "words": [
+    {
+     "w": "Use",
+     "t": 0.5
+    },
+    {
+     "w": "it",
+     "t": 0.83
+    },
+    {
+     "w": "like",
+     "t": 0.901
+    },
+    {
+     "w": "this",
+     "t": 1.101
+    },
+    {
+     "w": "report",
+     "t": 1.715
+    },
+    {
+     "w": "attention",
+     "t": 2.068
+    },
+    {
+     "w": "but",
+     "t": 2.764
+    },
+    {
+     "w": "judge",
+     "t": 2.929
+    },
+    {
+     "w": "success",
+     "t": 3.2
+    },
+    {
+     "w": "on",
+     "t": 3.649
+    },
+    {
+     "w": "growth",
+     "t": 3.755
+    },
+    {
+     "w": "compared",
+     "t": 4.427
+    },
+    {
+     "w": "apples",
+     "t": 4.899
+    },
+    {
+     "w": "with",
+     "t": 5.288
+    },
+    {
+     "w": "apples",
+     "t": 5.406
+    }
+   ]
+  }
+ ],
+ "id": "m-measure-growth-not-attention",
+ "total": 32.27
+}

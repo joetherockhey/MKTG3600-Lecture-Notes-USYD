@@ -1,0 +1,661 @@
+{
+ "week": 0,
+ "title": "The brand on one page (purpose, positioning, platform, personality)",
+ "speaker": "Brent Smart, B.Smart, Week 4",
+ "beats": [
+  {
+   "set": "stage",
+   "say": "The brand on one page: purpose, positioning, creative platform, and personality written as tensions. Four short lines every team can work from.",
+   "board": {
+    "title": "The brand on **one page**",
+    "steps": [
+     {
+      "text": "**Purpose**: why it exists",
+      "cue": "purpose",
+      "at": 2.092
+     },
+     {
+      "text": "**Positioning**: the place it owns",
+      "cue": "positioning",
+      "at": 2.776
+     },
+     {
+      "text": "**Platform**: the long-running idea",
+      "cue": "platform",
+      "at": 4.014
+     },
+     {
+      "text": "**Personality**: as tensions",
+      "cue": "personality",
+      "at": 4.934
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "a",
+     "look": "student",
+     "at": "front",
+     "v": 4
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "team",
+     "pose": "up",
+     "expr": "grin",
+     "at": 8.2
+    }
+   ],
+   "fx": [
+    {
+     "kind": "tick",
+     "who": "a",
+     "cue": "team",
+     "at": 8.2
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "team",
+     "shot": "close",
+     "at": 8.2
+    }
+   ],
+   "audio": "audio/m-brand-on-one-page-00.mp3",
+   "leadIn": 0.45,
+   "seconds": 10.122,
+   "words": [
+    {
+     "w": "The",
+     "t": 0.5
+    },
+    {
+     "w": "brand",
+     "t": 0.653
+    },
+    {
+     "w": "on",
+     "t": 0.984
+    },
+    {
+     "w": "one",
+     "t": 1.113
+    },
+    {
+     "w": "page",
+     "t": 1.302
+    },
+    {
+     "w": "purpose",
+     "t": 2.092
+    },
+    {
+     "w": "positioning",
+     "t": 2.776
+    },
+    {
+     "w": "creative",
+     "t": 3.554
+    },
+    {
+     "w": "platform",
+     "t": 4.014
+    },
+    {
+     "w": "and",
+     "t": 4.781
+    },
+    {
+     "w": "personality",
+     "t": 4.934
+    },
+    {
+     "w": "written",
+     "t": 5.571
+    },
+    {
+     "w": "as",
+     "t": 5.866
+    },
+    {
+     "w": "tensions",
+     "t": 6.019
+    },
+    {
+     "w": "Four",
+     "t": 6.939
+    },
+    {
+     "w": "short",
+     "t": 7.269
+    },
+    {
+     "w": "lines",
+     "t": 7.575
+    },
+    {
+     "w": "every",
+     "t": 7.953
+    },
+    {
+     "w": "team",
+     "t": 8.2
+    },
+    {
+     "w": "can",
+     "t": 8.495
+    },
+    {
+     "w": "work",
+     "t": 8.649
+    },
+    {
+     "w": "from",
+     "t": 8.837
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Telstra's page. Purpose: a connected future for everyone. Positioning: engineering possibility. Platform: wherever we go.",
+   "board": {
+    "title": "Telstra on **one page**",
+    "steps": [
+     {
+      "text": "**Purpose**: a connected future",
+      "cue": "connected",
+      "at": 2.788
+     },
+     {
+      "text": "**Positioning**: engineering possibility",
+      "cue": "engineering",
+      "at": 5.759
+     },
+     {
+      "text": "**Platform**: wherever we go",
+      "cue": "wherever",
+      "at": 8.318
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "point"
+    },
+    {
+     "id": "e1",
+     "look": "exec_f",
+     "at": "table",
+     "v": 6,
+     "hold": "clipboard",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "e1",
+     "cue": "engineering",
+     "pose": "chin",
+     "at": 5.759
+    },
+    {
+     "who": "e1",
+     "cue": "wherever",
+     "expr": "grin",
+     "at": 8.318
+    }
+   ],
+   "fx": [
+    {
+     "kind": "bulb",
+     "who": "e1",
+     "cue": "wherever",
+     "at": 8.318
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "engineering",
+     "shot": "two",
+     "who": "e1",
+     "at": 5.759
+    },
+    {
+     "cue": "wherever",
+     "shot": "board",
+     "at": 8.318
+    }
+   ],
+   "audio": "audio/m-brand-on-one-page-01.mp3",
+   "leadIn": 0.45,
+   "seconds": 10.218,
+   "words": [
+    {
+     "w": "Telstra's",
+     "t": 0.5
+    },
+    {
+     "w": "page",
+     "t": 1.031
+    },
+    {
+     "w": "Purpose",
+     "t": 1.856
+    },
+    {
+     "w": "a",
+     "t": 2.705
+    },
+    {
+     "w": "connected",
+     "t": 2.788
+    },
+    {
+     "w": "future",
+     "t": 3.248
+    },
+    {
+     "w": "for",
+     "t": 3.637
+    },
+    {
+     "w": "everyone",
+     "t": 3.849
+    },
+    {
+     "w": "Positioning",
+     "t": 4.698
+    },
+    {
+     "w": "engineering",
+     "t": 5.759
+    },
+    {
+     "w": "possibility",
+     "t": 6.373
+    },
+    {
+     "w": "Platform",
+     "t": 7.387
+    },
+    {
+     "w": "wherever",
+     "t": 8.318
+    },
+    {
+     "w": "we",
+     "t": 8.755
+    },
+    {
+     "w": "go",
+     "t": 8.884
+    }
+   ]
+  },
+  {
+   "set": "home",
+   "say": "Personality: ambitious in ideas, humble in voice. So the ads were handmade stop-motion, and viewers read that craft as care.",
+   "board": {
+    "title": "Handmade **stop-motion**",
+    "lines": [
+     {
+      "text": "Craft reads as **care**",
+      "cue": "craft",
+      "at": 7.351
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "l"
+    },
+    {
+     "id": "a",
+     "look": "shopper",
+     "at": "sofa",
+     "v": 3,
+     "mode": "sit"
+    },
+    {
+     "id": "b",
+     "look": "student",
+     "at": "sofa2",
+     "v": 6,
+     "mode": "sit"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "ambitious",
+     "pose": "up",
+     "expr": "grin",
+     "at": 1.573
+    },
+    {
+     "who": "host",
+     "cue": "humble",
+     "pose": "none",
+     "expr": "smile_closed",
+     "at": 3.0
+    },
+    {
+     "who": "a",
+     "cue": "craft",
+     "expr": "smile",
+     "at": 7.351
+    },
+    {
+     "who": "b",
+     "cue": "care",
+     "pose": "cheer",
+     "expr": "grin",
+     "at": 7.811
+    }
+   ],
+   "fx": [
+    {
+     "kind": "stars",
+     "who": "host",
+     "cue": "ambitious",
+     "at": 1.573
+    },
+    {
+     "kind": "heart",
+     "who": "a",
+     "cue": "care",
+     "at": 7.811
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "humble",
+     "shot": "close",
+     "at": 3.0
+    },
+    {
+     "cue": "handmade",
+     "shot": "board",
+     "at": 5.016
+    },
+    {
+     "cue": "care",
+     "shot": "actor",
+     "who": "a",
+     "at": 7.811
+    }
+   ],
+   "audio": "audio/m-brand-on-one-page-02.mp3",
+   "leadIn": 0.45,
+   "seconds": 9.162,
+   "words": [
+    {
+     "w": "Personality",
+     "t": 0.5
+    },
+    {
+     "w": "ambitious",
+     "t": 1.573
+    },
+    {
+     "w": "in",
+     "t": 2.151
+    },
+    {
+     "w": "ideas",
+     "t": 2.245
+    },
+    {
+     "w": "humble",
+     "t": 3.0
+    },
+    {
+     "w": "in",
+     "t": 3.377
+    },
+    {
+     "w": "voice",
+     "t": 3.46
+    },
+    {
+     "w": "So",
+     "t": 4.274
+    },
+    {
+     "w": "the",
+     "t": 4.521
+    },
+    {
+     "w": "ads",
+     "t": 4.675
+    },
+    {
+     "w": "were",
+     "t": 4.91
+    },
+    {
+     "w": "handmade",
+     "t": 5.016
+    },
+    {
+     "w": "stop-motion",
+     "t": 5.453
+    },
+    {
+     "w": "and",
+     "t": 6.373
+    },
+    {
+     "w": "viewers",
+     "t": 6.55
+    },
+    {
+     "w": "read",
+     "t": 6.998
+    },
+    {
+     "w": "that",
+     "t": 7.222
+    },
+    {
+     "w": "craft",
+     "t": 7.351
+    },
+    {
+     "w": "as",
+     "t": 7.717
+    },
+    {
+     "w": "care",
+     "t": 7.811
+    }
+   ]
+  },
+  {
+   "set": "stage",
+   "say": "Use it like this: write all four lines for the brand, then show how craft and consistency bring them to life.",
+   "board": {
+    "title": "Use it like **this**",
+    "lines": [
+     {
+      "text": "Write **all four** lines",
+      "cue": "write",
+      "at": 1.703
+     },
+     {
+      "text": "Show the **craft**",
+      "cue": "craft",
+      "at": 4.156
+     },
+     {
+      "text": "Keep it **consistent**",
+      "cue": "consistency",
+      "at": 4.686
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "a",
+     "look": "student",
+     "at": "front",
+     "v": 2
+    }
+   ],
+   "acts": [
+    {
+     "who": "a",
+     "cue": "life",
+     "expr": "smile",
+     "at": 5.736
+    }
+   ],
+   "fx": [
+    {
+     "kind": "tick",
+     "who": "a",
+     "cue": "life",
+     "at": 5.736
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "life",
+     "shot": "wide",
+     "at": 5.736
+    }
+   ],
+   "hold": 1.0,
+   "audio": "audio/m-brand-on-one-page-03.mp3",
+   "leadIn": 0.45,
+   "seconds": 7.498,
+   "words": [
+    {
+     "w": "Use",
+     "t": 0.5
+    },
+    {
+     "w": "it",
+     "t": 0.807
+    },
+    {
+     "w": "like",
+     "t": 0.877
+    },
+    {
+     "w": "this",
+     "t": 1.066
+    },
+    {
+     "w": "write",
+     "t": 1.703
+    },
+    {
+     "w": "all",
+     "t": 2.021
+    },
+    {
+     "w": "four",
+     "t": 2.245
+    },
+    {
+     "w": "lines",
+     "t": 2.446
+    },
+    {
+     "w": "for",
+     "t": 2.764
+    },
+    {
+     "w": "the",
+     "t": 2.835
+    },
+    {
+     "w": "brand",
+     "t": 2.894
+    },
+    {
+     "w": "then",
+     "t": 3.59
+    },
+    {
+     "w": "show",
+     "t": 3.743
+    },
+    {
+     "w": "how",
+     "t": 4.002
+    },
+    {
+     "w": "craft",
+     "t": 4.156
+    },
+    {
+     "w": "and",
+     "t": 4.557
+    },
+    {
+     "w": "consistency",
+     "t": 4.686
+    },
+    {
+     "w": "bring",
+     "t": 5.323
+    },
+    {
+     "w": "them",
+     "t": 5.547
+    },
+    {
+     "w": "to",
+     "t": 5.665
+    },
+    {
+     "w": "life",
+     "t": 5.736
+    }
+   ]
+  }
+ ],
+ "id": "m-brand-on-one-page",
+ "total": 37.03
+}

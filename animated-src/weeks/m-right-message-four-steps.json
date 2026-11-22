@@ -1,0 +1,272 @@
+{
+ "week": 0,
+ "title": "Right message, right person, right place, right time (strategy, idea, make it, place it)",
+ "speaker": "Andrew Baxter, Australian Pork Limited, Week 8",
+ "beats": [
+  {
+   "set": "office",
+   "say": "Advertising is four rights: the right message, to the right person, in the right place, at the right time.",
+   "board": {
+    "title": "The **four rights**",
+    "steps": [
+     {
+      "text": "Right **message**",
+      "cue": "message"
+     },
+     {
+      "text": "Right **person**",
+      "cue": "person"
+     },
+     {
+      "text": "Right **place**",
+      "cue": "place"
+     },
+     {
+      "text": "Right **time**",
+      "cue": "time"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "e1",
+     "look": "exec_f",
+     "at": "table",
+     "v": 3
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "message",
+     "pose": "point"
+    },
+    {
+     "who": "e1",
+     "cue": "time",
+     "pose": "chin",
+     "expr": "smile"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "person",
+     "shot": "two",
+     "who": "e1"
+    },
+    {
+     "cue": "place",
+     "shot": "board"
+    }
+   ]
+  },
+  {
+   "set": "plaza",
+   "say": "At three in the afternoon, the fast food screen shows snacks, and a passing tradie stops.",
+   "board": {
+    "title": "3pm **snack** deal",
+    "lines": [
+     {
+      "text": "For the **arvo** crew",
+      "cue": "snacks"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "c"
+    },
+    {
+     "id": "w",
+     "look": "worker",
+     "at": "walkR",
+     "v": 2,
+     "to": "r",
+     "walkCue": "afternoon"
+    }
+   ],
+   "acts": [
+    {
+     "who": "w",
+     "cue": "stops",
+     "pose": "point",
+     "expr": "grin"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "clock",
+     "who": "host",
+     "cue": "three"
+    },
+    {
+     "kind": "think",
+     "who": "w",
+     "cue": "stops",
+     "text": "Arvo snack!"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "snacks",
+     "shot": "board"
+    },
+    {
+     "cue": "stops",
+     "shot": "actor",
+     "who": "w"
+    }
+   ]
+  },
+  {
+   "set": "plaza",
+   "say": "By six, it switches to family meals, and a mum with her kids heads straight in.",
+   "board": {
+    "title": "**Family** meal deal",
+    "lines": [
+     {
+      "text": "Dinner **sorted**",
+      "cue": "family"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "c"
+    },
+    {
+     "id": "m",
+     "look": "shopper",
+     "at": "walkL",
+     "v": 3,
+     "to": "shop",
+     "walkCue": "mum"
+    },
+    {
+     "id": "k",
+     "look": "kid",
+     "at": "l",
+     "v": 1
+    }
+   ],
+   "acts": [
+    {
+     "who": "k",
+     "cue": "kids",
+     "pose": "cheer",
+     "expr": "laugh"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "clock",
+     "who": "host",
+     "cue": "six"
+    },
+    {
+     "kind": "heart",
+     "who": "k",
+     "cue": "kids"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "family",
+     "shot": "board"
+    },
+    {
+     "cue": "kids",
+     "shot": "actor",
+     "who": "k"
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Behind every ad sit four steps: strategy, idea, make it, place it. And always go where the eyeballs are, which today means the phone.",
+   "board": {
+    "title": "Four **steps**",
+    "steps": [
+     {
+      "text": "**Strategy**: the message",
+      "cue": "strategy"
+     },
+     {
+      "text": "**Idea**: make it creative",
+      "cue": "idea"
+     },
+     {
+      "text": "**Make it**: production",
+      "cue": "make"
+     },
+     {
+      "text": "**Place it**: media",
+      "cue": "place"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "e1",
+     "look": "exec",
+     "at": "table",
+     "v": 2
+    }
+   ],
+   "acts": [
+    {
+     "who": "e1",
+     "cue": "eyeballs",
+     "expr": "grin"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "eye",
+     "who": "e1",
+     "cue": "eyeballs"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "eyeballs",
+     "shot": "two",
+     "who": "e1"
+    }
+   ],
+   "hold": 1.0
+  }
+ ]
+}

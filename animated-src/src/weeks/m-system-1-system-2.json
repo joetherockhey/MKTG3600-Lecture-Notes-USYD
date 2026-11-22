@@ -1,0 +1,659 @@
+{
+ "week": 0,
+ "title": "System 1 and System 2 thinking",
+ "speaker": "Justin Papps, Week 3; Andrew Baxter, Week 8; Estelle Gohil, Week 2; from Daniel Kahneman",
+ "beats": [
+  {
+   "set": "stage",
+   "say": "System one is fast and intuitive, about ninety-five percent of our thinking. System two is slow and logical, only five percent. Brands work as mental shortcuts.",
+   "board": {
+    "title": "System 1 and **System 2**",
+    "steps": [
+     {
+      "text": "**System 1**: fast, intuitive, ~95%",
+      "cue": "fast",
+      "at": 1.396
+     },
+     {
+      "text": "**System 2**: slow, logical, ~5%",
+      "cue": "slow",
+      "at": 5.948
+     },
+     {
+      "text": "**Brands**: mental shortcuts",
+      "cue": "shortcuts",
+      "at": 9.733
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "a",
+     "look": "student",
+     "at": "front",
+     "v": 4
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "slow",
+     "pose": "chin",
+     "at": 5.948
+    },
+    {
+     "who": "host",
+     "cue": "shortcuts",
+     "pose": "up",
+     "expr": "grin",
+     "at": 9.733
+    }
+   ],
+   "fx": [
+    {
+     "kind": "brain",
+     "who": "a",
+     "cue": "shortcuts",
+     "at": 9.733
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "shortcuts",
+     "shot": "close",
+     "at": 9.733
+    }
+   ],
+   "audio": "audio/m-system-1-system-2-00.mp3",
+   "leadIn": 0.45,
+   "seconds": 11.322,
+   "words": [
+    {
+     "w": "System",
+     "t": 0.5
+    },
+    {
+     "w": "one",
+     "t": 0.96
+    },
+    {
+     "w": "is",
+     "t": 1.231
+    },
+    {
+     "w": "fast",
+     "t": 1.396
+    },
+    {
+     "w": "and",
+     "t": 1.833
+    },
+    {
+     "w": "intuitive",
+     "t": 1.962
+    },
+    {
+     "w": "about",
+     "t": 2.847
+    },
+    {
+     "w": "ninety-five",
+     "t": 3.142
+    },
+    {
+     "w": "percent",
+     "t": 3.66
+    },
+    {
+     "w": "of",
+     "t": 4.026
+    },
+    {
+     "w": "our",
+     "t": 4.097
+    },
+    {
+     "w": "thinking",
+     "t": 4.203
+    },
+    {
+     "w": "System",
+     "t": 5.005
+    },
+    {
+     "w": "two",
+     "t": 5.465
+    },
+    {
+     "w": "is",
+     "t": 5.818
+    },
+    {
+     "w": "slow",
+     "t": 5.948
+    },
+    {
+     "w": "and",
+     "t": 6.314
+    },
+    {
+     "w": "logical",
+     "t": 6.443
+    },
+    {
+     "w": "only",
+     "t": 7.222
+    },
+    {
+     "w": "five",
+     "t": 7.469
+    },
+    {
+     "w": "percent",
+     "t": 7.776
+    },
+    {
+     "w": "Brands",
+     "t": 8.566
+    },
+    {
+     "w": "work",
+     "t": 8.92
+    },
+    {
+     "w": "as",
+     "t": 9.238
+    },
+    {
+     "w": "mental",
+     "t": 9.403
+    },
+    {
+     "w": "shortcuts",
+     "t": 9.733
+    }
+   ]
+  },
+  {
+   "set": "plaza",
+   "say": "In the drinks aisle, nobody weighs every can on sugar and price. System one just reaches for the familiar red one.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "front"
+    },
+    {
+     "id": "s2",
+     "look": "elder",
+     "at": "shelf2",
+     "v": 2
+    },
+    {
+     "id": "s1",
+     "look": "shopper",
+     "at": "walkR",
+     "v": 3,
+     "to": "shelf",
+     "walkCue": "System",
+     "walkAt": 4.439
+    }
+   ],
+   "acts": [
+    {
+     "who": "s2",
+     "cue": "weighs",
+     "pose": "chin",
+     "expr": "dazed",
+     "at": 2.021
+    },
+    {
+     "who": "s1",
+     "cue": "red",
+     "pose": "cheer",
+     "expr": "grin",
+     "at": 6.573
+    }
+   ],
+   "fx": [
+    {
+     "kind": "think",
+     "who": "s2",
+     "cue": "sugar",
+     "text": "Sugar? Price?",
+     "at": 3.083
+    },
+    {
+     "kind": "heart",
+     "who": "s1",
+     "cue": "red",
+     "at": 6.573
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "weighs",
+     "shot": "actor",
+     "who": "s2",
+     "at": 2.021
+    },
+    {
+     "cue": "System",
+     "shot": "actor",
+     "who": "s1",
+     "at": 4.439
+    },
+    {
+     "cue": "red",
+     "shot": "close",
+     "who": "s1",
+     "at": 6.573
+    }
+   ],
+   "audio": "audio/m-system-1-system-2-01.mp3",
+   "leadIn": 0.45,
+   "seconds": 8.034,
+   "words": [
+    {
+     "w": "In",
+     "t": 0.5
+    },
+    {
+     "w": "the",
+     "t": 0.653
+    },
+    {
+     "w": "drinks",
+     "t": 0.712
+    },
+    {
+     "w": "aisle",
+     "t": 0.972
+    },
+    {
+     "w": "nobody",
+     "t": 1.609
+    },
+    {
+     "w": "weighs",
+     "t": 2.021
+    },
+    {
+     "w": "every",
+     "t": 2.399
+    },
+    {
+     "w": "can",
+     "t": 2.646
+    },
+    {
+     "w": "on",
+     "t": 2.941
+    },
+    {
+     "w": "sugar",
+     "t": 3.083
+    },
+    {
+     "w": "and",
+     "t": 3.46
+    },
+    {
+     "w": "price",
+     "t": 3.59
+    },
+    {
+     "w": "System",
+     "t": 4.439
+    },
+    {
+     "w": "one",
+     "t": 4.981
+    },
+    {
+     "w": "just",
+     "t": 5.229
+    },
+    {
+     "w": "reaches",
+     "t": 5.476
+    },
+    {
+     "w": "for",
+     "t": 5.925
+    },
+    {
+     "w": "the",
+     "t": 6.031
+    },
+    {
+     "w": "familiar",
+     "t": 6.113
+    },
+    {
+     "w": "red",
+     "t": 6.573
+    },
+    {
+     "w": "one",
+     "t": 6.75
+    }
+   ]
+  },
+  {
+   "set": "street",
+   "say": "That's why emotional advertising works best. People buy on intuition, then post-rationalise with the facts.",
+   "board": {
+    "title": "Feel first, **reason later**",
+    "lines": [
+     {
+      "text": "Buy on **intuition**",
+      "cue": "intuition",
+      "at": 4.215
+     },
+     {
+      "text": "Then **justify** it",
+      "cue": "post",
+      "at": 5.406
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "front"
+    },
+    {
+     "id": "p1",
+     "look": "exec",
+     "at": "kerb",
+     "v": 2,
+     "hold": "coffee",
+     "pose": "hold"
+    },
+    {
+     "id": "p2",
+     "look": "shopper",
+     "at": "r",
+     "v": 5
+    }
+   ],
+   "acts": [
+    {
+     "who": "p1",
+     "cue": "emotional",
+     "expr": "smile",
+     "at": 1.16
+    },
+    {
+     "who": "p2",
+     "cue": "post",
+     "pose": "chin",
+     "at": 5.406
+    }
+   ],
+   "fx": [
+    {
+     "kind": "heart",
+     "who": "p1",
+     "cue": "emotional",
+     "at": 1.16
+    },
+    {
+     "kind": "brain",
+     "who": "p2",
+     "cue": "post",
+     "at": 5.406
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "emotional",
+     "shot": "actor",
+     "who": "p1",
+     "at": 1.16
+    },
+    {
+     "cue": "post",
+     "shot": "actor",
+     "who": "p2",
+     "at": 5.406
+    }
+   ],
+   "audio": "audio/m-system-1-system-2-02.mp3",
+   "leadIn": 0.45,
+   "seconds": 7.914,
+   "words": [
+    {
+     "w": "That's",
+     "t": 0.5
+    },
+    {
+     "w": "why",
+     "t": 0.818
+    },
+    {
+     "w": "emotional",
+     "t": 1.16
+    },
+    {
+     "w": "advertising",
+     "t": 1.774
+    },
+    {
+     "w": "works",
+     "t": 2.387
+    },
+    {
+     "w": "best",
+     "t": 2.682
+    },
+    {
+     "w": "People",
+     "t": 3.448
+    },
+    {
+     "w": "buy",
+     "t": 3.778
+    },
+    {
+     "w": "on",
+     "t": 4.061
+    },
+    {
+     "w": "intuition",
+     "t": 4.215
+    },
+    {
+     "w": "then",
+     "t": 5.193
+    },
+    {
+     "w": "post-rationalise",
+     "t": 5.406
+    },
+    {
+     "w": "with",
+     "t": 6.325
+    },
+    {
+     "w": "the",
+     "t": 6.443
+    },
+    {
+     "w": "facts",
+     "t": 6.502
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Use it like this: aim brand building at system one, with familiar, distinctive cues that make choosing effortless.",
+   "board": {
+    "title": "Use it like **this**",
+    "lines": [
+     {
+      "text": "Aim at **System 1**",
+      "cue": "aim",
+      "at": 1.774
+     },
+     {
+      "text": "Familiar, **distinctive** cues",
+      "cue": "familiar",
+      "at": 3.825
+     },
+     {
+      "text": "Make choosing **effortless**",
+      "cue": "effortless",
+      "at": 6.149
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "e1",
+     "look": "exec",
+     "at": "table",
+     "v": 1
+    }
+   ],
+   "acts": [
+    {
+     "who": "e1",
+     "cue": "effortless",
+     "expr": "smile",
+     "at": 6.149
+    }
+   ],
+   "fx": [
+    {
+     "kind": "tick",
+     "who": "e1",
+     "cue": "effortless",
+     "at": 6.149
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "effortless",
+     "shot": "two",
+     "who": "e1",
+     "at": 6.149
+    }
+   ],
+   "hold": 1.0,
+   "audio": "audio/m-system-1-system-2-03.mp3",
+   "leadIn": 0.45,
+   "seconds": 8.05,
+   "words": [
+    {
+     "w": "Use",
+     "t": 0.5
+    },
+    {
+     "w": "it",
+     "t": 0.83
+    },
+    {
+     "w": "like",
+     "t": 0.901
+    },
+    {
+     "w": "this",
+     "t": 1.101
+    },
+    {
+     "w": "aim",
+     "t": 1.774
+    },
+    {
+     "w": "brand",
+     "t": 1.998
+    },
+    {
+     "w": "building",
+     "t": 2.292
+    },
+    {
+     "w": "at",
+     "t": 2.623
+    },
+    {
+     "w": "system",
+     "t": 2.705
+    },
+    {
+     "w": "one",
+     "t": 3.047
+    },
+    {
+     "w": "with",
+     "t": 3.66
+    },
+    {
+     "w": "familiar",
+     "t": 3.825
+    },
+    {
+     "w": "distinctive",
+     "t": 4.557
+    },
+    {
+     "w": "cues",
+     "t": 5.064
+    },
+    {
+     "w": "that",
+     "t": 5.453
+    },
+    {
+     "w": "make",
+     "t": 5.583
+    },
+    {
+     "w": "choosing",
+     "t": 5.795
+    },
+    {
+     "w": "effortless",
+     "t": 6.149
+    }
+   ]
+  }
+ ],
+ "id": "m-system-1-system-2",
+ "total": 35.33
+}

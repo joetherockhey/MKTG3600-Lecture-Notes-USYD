@@ -1,0 +1,305 @@
+{
+ "week": 0,
+ "title": "Category entry points (CEPs)",
+ "speaker": "Jenni Romaniuk, Ehrenberg-Bass Institute, Better Brand Health, 2022",
+ "beats": [
+  {
+   "set": "plaza",
+   "say": "Category entry points are the cues that send people into a category: occasions, needs, places and people. The more of them a brand links to, the more often it comes to mind.",
+   "board": {
+    "title": "**Category entry points**",
+    "steps": [
+     {
+      "text": "**Occasions** and times",
+      "cue": "occasions"
+     },
+     {
+      "text": "**Needs** and motives",
+      "cue": "needs"
+     },
+     {
+      "text": "**Places** and people",
+      "cue": "places"
+     },
+     {
+      "text": "More links, **more mental availability**",
+      "cue": "links"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "s1",
+     "look": "shopper",
+     "v": 5,
+     "at": "front"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "links",
+     "pose": "up",
+     "expr": "grin"
+    },
+    {
+     "who": "s1",
+     "cue": "mind",
+     "pose": "chin"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "brain",
+     "who": "s1",
+     "cue": "mind"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "links",
+     "shot": "close"
+    },
+    {
+     "cue": "mind",
+     "shot": "board"
+    }
+   ]
+  },
+  {
+   "set": "plaza",
+   "say": "Three people want a snack. One is studying late, one is on a road trip, one just needs a break. KitKat owns the break.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "far"
+    },
+    {
+     "id": "s1",
+     "look": "student",
+     "v": 1,
+     "at": "l",
+     "hold": "laptop",
+     "pose": "hold"
+    },
+    {
+     "id": "s2",
+     "look": "student",
+     "v": 6,
+     "at": "c"
+    },
+    {
+     "id": "s3",
+     "look": "worker",
+     "v": 2,
+     "at": "r"
+    }
+   ],
+   "acts": [
+    {
+     "who": "s1",
+     "cue": "studying",
+     "expr": "dazed"
+    },
+    {
+     "who": "s2",
+     "cue": "road",
+     "pose": "cheer",
+     "expr": "grin"
+    },
+    {
+     "who": "s3",
+     "cue": "break",
+     "pose": "chin",
+     "expr": "relief"
+    },
+    {
+     "who": "host",
+     "cue": "owns",
+     "pose": "point",
+     "expr": "grin"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "think",
+     "who": "s1",
+     "text": "Brain needs fuel...",
+     "cue": "studying"
+    },
+    {
+     "kind": "think",
+     "who": "s2",
+     "text": "Road trip snacks!",
+     "cue": "road"
+    },
+    {
+     "kind": "think",
+     "who": "s3",
+     "text": "I need a break.",
+     "cue": "break"
+    },
+    {
+     "kind": "tick",
+     "who": "host",
+     "cue": "owns"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "studying",
+     "shot": "actor",
+     "who": "s1"
+    },
+    {
+     "cue": "road",
+     "shot": "actor",
+     "who": "s2"
+    },
+    {
+     "cue": "owns",
+     "shot": "actor",
+     "who": "s3"
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "To grow, KitKat can link itself to new entry points, like after study or a road trip. Each new link is another moment it comes to mind.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "l"
+    },
+    {
+     "id": "e1",
+     "look": "exec_f",
+     "v": 3,
+     "at": "table"
+    },
+    {
+     "id": "e2",
+     "look": "exec",
+     "v": 1,
+     "at": "table2"
+    }
+   ],
+   "acts": [
+    {
+     "who": "e1",
+     "cue": "grow",
+     "pose": "up",
+     "expr": "grin"
+    },
+    {
+     "who": "e2",
+     "cue": "moment",
+     "pose": "cheer",
+     "expr": "laugh"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "bulb",
+     "who": "e1",
+     "cue": "grow"
+    },
+    {
+     "kind": "chart",
+     "who": "e2",
+     "cue": "moment"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "grow",
+     "shot": "actor",
+     "who": "e1"
+    },
+    {
+     "cue": "moment",
+     "shot": "two",
+     "who": "e2"
+    }
+   ]
+  },
+  {
+   "set": "plaza",
+   "say": "Use it like this: list the category's entry points, see which ones rivals own, and claim an under-used one.",
+   "board": {
+    "title": "Use it **like this**",
+    "lines": [
+     {
+      "text": "**List** the category's entry points",
+      "cue": "list"
+     },
+     {
+      "text": "See which **rivals** own",
+      "cue": "rivals"
+     },
+     {
+      "text": "**Claim** an under-used one",
+      "cue": "claim"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "s1",
+     "look": "shopper",
+     "v": 5,
+     "at": "front"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "rivals",
+     "pose": "point"
+    },
+    {
+     "who": "s1",
+     "cue": "claim",
+     "expr": "smile"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "claim",
+     "shot": "close"
+    }
+   ],
+   "hold": 1.0
+  }
+ ]
+}

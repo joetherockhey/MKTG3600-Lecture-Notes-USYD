@@ -1,0 +1,3556 @@
+{
+ "week": 5,
+ "title": "Managing the evolution of brands",
+ "speaker": "Shannon Wright",
+ "beats": [
+  {
+   "set": "stage",
+   "say": "Week five. Managing the evolution of brands, with Shannon Wright, Head of Marketing for Confectionery at Nestlé Oceania. She leads KitKat and Allen's.",
+   "board": {
+    "photo": "photos/w5.png",
+    "title": "Managing the **evolution** of brands",
+    "name": "Shannon Wright",
+    "org": "Head of Marketing, Confectionery, Nestlé Oceania"
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present",
+     "expr": "smile"
+    },
+    {
+     "id": "a",
+     "look": "student",
+     "v": 1,
+     "at": "aisle"
+    },
+    {
+     "id": "b",
+     "look": "student",
+     "v": 4,
+     "at": "aisle2"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "leads",
+     "pose": "point",
+     "at": 8.094
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "Shannon",
+     "shot": "board",
+     "at": 3.755
+    },
+    {
+     "cue": "leads",
+     "shot": "host",
+     "at": 8.094
+    }
+   ],
+   "audio": "audio/w5-00.mp3",
+   "leadIn": 0.45,
+   "seconds": 10.506,
+   "words": [
+    {
+     "w": "Week",
+     "t": 0.5
+    },
+    {
+     "w": "five",
+     "t": 0.854
+    },
+    {
+     "w": "Managing",
+     "t": 1.703
+    },
+    {
+     "w": "the",
+     "t": 2.222
+    },
+    {
+     "w": "evolution",
+     "t": 2.387
+    },
+    {
+     "w": "of",
+     "t": 2.835
+    },
+    {
+     "w": "brands",
+     "t": 2.917
+    },
+    {
+     "w": "with",
+     "t": 3.601
+    },
+    {
+     "w": "Shannon",
+     "t": 3.755
+    },
+    {
+     "w": "Wright",
+     "t": 4.109
+    },
+    {
+     "w": "Head",
+     "t": 4.769
+    },
+    {
+     "w": "of",
+     "t": 4.934
+    },
+    {
+     "w": "Marketing",
+     "t": 5.04
+    },
+    {
+     "w": "for",
+     "t": 5.476
+    },
+    {
+     "w": "Confectionery",
+     "t": 5.583
+    },
+    {
+     "w": "at",
+     "t": 6.243
+    },
+    {
+     "w": "Nestlé",
+     "t": 6.408
+    },
+    {
+     "w": "Oceania",
+     "t": 6.833
+    },
+    {
+     "w": "She",
+     "t": 7.823
+    },
+    {
+     "w": "leads",
+     "t": 8.094
+    },
+    {
+     "w": "KitKat",
+     "t": 8.425
+    },
+    {
+     "w": "and",
+     "t": 8.861
+    },
+    {
+     "w": "Allen's",
+     "t": 9.05
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "First, career advice. Be interested in the unfamiliar, know what matters to you, stay curious, and be a good person. The industry is small.",
+   "board": {
+    "title": "Four pieces of **advice**",
+    "steps": [
+     {
+      "text": "**Unfamiliar** be deeply interested",
+      "cue": "unfamiliar",
+      "at": 3.542
+     },
+     {
+      "text": "**Values** know what matters",
+      "cue": "matters",
+      "at": 4.84
+     },
+     {
+      "text": "**Curiosity** and tenacity",
+      "cue": "curious",
+      "at": 5.995
+     },
+     {
+      "text": "**Good person** people talk",
+      "cue": "good",
+      "at": 7.057
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "g",
+     "look": "student",
+     "v": 3,
+     "at": "r",
+     "hold": "laptop",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "curious",
+     "pose": "up",
+     "expr": "grin",
+     "at": 5.995
+    },
+    {
+     "who": "g",
+     "cue": "good",
+     "expr": "smile",
+     "at": 7.057
+    }
+   ],
+   "fx": [
+    {
+     "kind": "bulb",
+     "who": "g",
+     "cue": "curious",
+     "at": 5.995
+    },
+    {
+     "kind": "heart",
+     "who": "host",
+     "cue": "good",
+     "at": 7.057
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "curious",
+     "shot": "two",
+     "who": "g",
+     "at": 5.995
+    },
+    {
+     "cue": "industry",
+     "shot": "close",
+     "at": 8.318
+    }
+   ],
+   "audio": "audio/w5-01.mp3",
+   "leadIn": 0.45,
+   "seconds": 10.482,
+   "words": [
+    {
+     "w": "First",
+     "t": 0.5
+    },
+    {
+     "w": "career",
+     "t": 1.408
+    },
+    {
+     "w": "advice",
+     "t": 1.785
+    },
+    {
+     "w": "Be",
+     "t": 2.682
+    },
+    {
+     "w": "interested",
+     "t": 2.894
+    },
+    {
+     "w": "in",
+     "t": 3.33
+    },
+    {
+     "w": "the",
+     "t": 3.448
+    },
+    {
+     "w": "unfamiliar",
+     "t": 3.542
+    },
+    {
+     "w": "know",
+     "t": 4.427
+    },
+    {
+     "w": "what",
+     "t": 4.663
+    },
+    {
+     "w": "matters",
+     "t": 4.84
+    },
+    {
+     "w": "to",
+     "t": 5.146
+    },
+    {
+     "w": "you",
+     "t": 5.229
+    },
+    {
+     "w": "stay",
+     "t": 5.689
+    },
+    {
+     "w": "curious",
+     "t": 5.995
+    },
+    {
+     "w": "and",
+     "t": 6.703
+    },
+    {
+     "w": "be",
+     "t": 6.844
+    },
+    {
+     "w": "a",
+     "t": 7.021
+    },
+    {
+     "w": "good",
+     "t": 7.057
+    },
+    {
+     "w": "person",
+     "t": 7.257
+    },
+    {
+     "w": "The",
+     "t": 8.071
+    },
+    {
+     "w": "industry",
+     "t": 8.318
+    },
+    {
+     "w": "is",
+     "t": 8.896
+    },
+    {
+     "w": "small",
+     "t": 9.05
+    }
+   ]
+  },
+  {
+   "set": "stage",
+   "say": "Two brands, opposite problems. KitKat takes the consistency path. Allen's must define its long-term path as trends shift underneath it.",
+   "board": {
+    "title": "Two brands, **two paths**",
+    "vs": {
+     "left": "KitKat",
+     "right": "Allen's",
+     "leftItems": [
+      "Consistency, not sameness",
+      "Stay culturally relevant"
+     ],
+     "rightItems": [
+      "Define the long-term path",
+      "Macro trends shifting"
+     ],
+     "cue": "KitKat",
+     "at": 2.859
+    }
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "point"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "Allen",
+     "pose": "shrug",
+     "expr": "nervous",
+     "at": 5.134
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "trends",
+     "shot": "host",
+     "at": 7.245
+    }
+   ],
+   "audio": "audio/w5-02.mp3",
+   "leadIn": 0.45,
+   "seconds": 9.498,
+   "words": [
+    {
+     "w": "Two",
+     "t": 0.5
+    },
+    {
+     "w": "brands",
+     "t": 0.759
+    },
+    {
+     "w": "opposite",
+     "t": 1.573
+    },
+    {
+     "w": "problems",
+     "t": 1.95
+    },
+    {
+     "w": "KitKat",
+     "t": 2.859
+    },
+    {
+     "w": "takes",
+     "t": 3.389
+    },
+    {
+     "w": "the",
+     "t": 3.672
+    },
+    {
+     "w": "consistency",
+     "t": 3.767
+    },
+    {
+     "w": "path",
+     "t": 4.38
+    },
+    {
+     "w": "Allen's",
+     "t": 5.134
+    },
+    {
+     "w": "must",
+     "t": 5.524
+    },
+    {
+     "w": "define",
+     "t": 5.736
+    },
+    {
+     "w": "its",
+     "t": 6.137
+    },
+    {
+     "w": "long-term",
+     "t": 6.278
+    },
+    {
+     "w": "path",
+     "t": 6.715
+    },
+    {
+     "w": "as",
+     "t": 7.08
+    },
+    {
+     "w": "trends",
+     "t": 7.245
+    },
+    {
+     "w": "shift",
+     "t": 7.552
+    },
+    {
+     "w": "underneath",
+     "t": 7.929
+    },
+    {
+     "w": "it",
+     "t": 8.354
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "KitKat stands for a break. It was made for workers on their break, and the bar takes two hands to snap, so you stop.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "c",
+     "pose": "present"
+    },
+    {
+     "id": "w",
+     "look": "worker",
+     "v": 2,
+     "at": "l",
+     "expr": "dazed"
+    },
+    {
+     "id": "w2",
+     "look": "worker",
+     "v": 5,
+     "at": "walkR",
+     "to": "r",
+     "walkCue": "workers",
+     "hold": "box",
+     "holdCol": "#c8102e",
+     "pose": "hold",
+     "walkAt": 2.976
+    }
+   ],
+   "acts": [
+    {
+     "who": "w",
+     "cue": "snap",
+     "expr": "relief_open",
+     "pose": "cheer",
+     "at": 5.512
+    },
+    {
+     "who": "w2",
+     "cue": "stop",
+     "expr": "smile",
+     "at": 6.361
+    }
+   ],
+   "fx": [
+    {
+     "kind": "zzz",
+     "who": "w",
+     "cue": "workers",
+     "at": 2.976
+    },
+    {
+     "kind": "burst",
+     "who": "w2",
+     "cue": "snap",
+     "at": 5.512
+    },
+    {
+     "kind": "think",
+     "who": "w",
+     "text": "Break time!",
+     "cue": "stop",
+     "at": 6.361
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "workers",
+     "shot": "actor",
+     "who": "w2",
+     "at": 2.976
+    },
+    {
+     "cue": "snap",
+     "shot": "close",
+     "who": "w",
+     "at": 5.512
+    }
+   ],
+   "audio": "audio/w5-03.mp3",
+   "leadIn": 0.45,
+   "seconds": 7.722,
+   "words": [
+    {
+     "w": "KitKat",
+     "t": 0.5
+    },
+    {
+     "w": "stands",
+     "t": 0.995
+    },
+    {
+     "w": "for",
+     "t": 1.443
+    },
+    {
+     "w": "a",
+     "t": 1.573
+    },
+    {
+     "w": "break",
+     "t": 1.609
+    },
+    {
+     "w": "It",
+     "t": 2.363
+    },
+    {
+     "w": "was",
+     "t": 2.517
+    },
+    {
+     "w": "made",
+     "t": 2.646
+    },
+    {
+     "w": "for",
+     "t": 2.859
+    },
+    {
+     "w": "workers",
+     "t": 2.976
+    },
+    {
+     "w": "on",
+     "t": 3.366
+    },
+    {
+     "w": "their",
+     "t": 3.448
+    },
+    {
+     "w": "break",
+     "t": 3.531
+    },
+    {
+     "w": "and",
+     "t": 4.238
+    },
+    {
+     "w": "the",
+     "t": 4.356
+    },
+    {
+     "w": "bar",
+     "t": 4.415
+    },
+    {
+     "w": "takes",
+     "t": 4.675
+    },
+    {
+     "w": "two",
+     "t": 4.969
+    },
+    {
+     "w": "hands",
+     "t": 5.182
+    },
+    {
+     "w": "to",
+     "t": 5.441
+    },
+    {
+     "w": "snap",
+     "t": 5.512
+    },
+    {
+     "w": "so",
+     "t": 6.066
+    },
+    {
+     "w": "you",
+     "t": 6.243
+    },
+    {
+     "w": "stop",
+     "t": 6.361
+    }
+   ]
+  },
+  {
+   "set": "stage",
+   "say": "Three truths line up. Brand belief: breaks are good. Audience truth: everyone needs one. Product truth: it's made to be broken.",
+   "board": {
+    "title": "Three truths, **one idea**",
+    "steps": [
+     {
+      "text": "**Brand belief** breaks are good",
+      "cue": "brand belief",
+      "at": 2.116
+     },
+     {
+      "text": "**Audience truth** everyone needs one",
+      "cue": "audience",
+      "at": 4.262
+     },
+     {
+      "text": "**Product truth** made to be broken",
+      "cue": "product",
+      "at": 6.774
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "a",
+     "look": "student",
+     "v": 6,
+     "at": "aisle"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "broken",
+     "pose": "cheer",
+     "expr": "grin",
+     "at": 8.507
+    }
+   ],
+   "fx": [
+    {
+     "kind": "tick",
+     "who": "host",
+     "cue": "broken",
+     "at": 8.507
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "broken",
+     "shot": "close",
+     "at": 8.507
+    }
+   ],
+   "audio": "audio/w5-04.mp3",
+   "leadIn": 0.45,
+   "seconds": 9.954,
+   "words": [
+    {
+     "w": "Three",
+     "t": 0.5
+    },
+    {
+     "w": "truths",
+     "t": 0.866
+    },
+    {
+     "w": "line",
+     "t": 1.255
+    },
+    {
+     "w": "up",
+     "t": 1.491
+    },
+    {
+     "w": "Brand",
+     "t": 2.116
+    },
+    {
+     "w": "belief",
+     "t": 2.41
+    },
+    {
+     "w": "breaks",
+     "t": 3.165
+    },
+    {
+     "w": "are",
+     "t": 3.495
+    },
+    {
+     "w": "good",
+     "t": 3.531
+    },
+    {
+     "w": "Audience",
+     "t": 4.262
+    },
+    {
+     "w": "truth",
+     "t": 4.698
+    },
+    {
+     "w": "everyone",
+     "t": 5.359
+    },
+    {
+     "w": "needs",
+     "t": 5.83
+    },
+    {
+     "w": "one",
+     "t": 6.054
+    },
+    {
+     "w": "Product",
+     "t": 6.774
+    },
+    {
+     "w": "truth",
+     "t": 7.139
+    },
+    {
+     "w": "it's",
+     "t": 7.835
+    },
+    {
+     "w": "made",
+     "t": 8.035
+    },
+    {
+     "w": "to",
+     "t": 8.33
+    },
+    {
+     "w": "be",
+     "t": 8.401
+    },
+    {
+     "w": "broken",
+     "t": 8.507
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "The most dangerous person in marketing is the bored brand manager, who changes things that didn't need changing. Have a strategy.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "l",
+     "pose": "hips"
+    },
+    {
+     "id": "bm",
+     "look": "exec",
+     "v": 3,
+     "at": "walkR",
+     "to": "c",
+     "walkCue": "bored",
+     "expr": "grin",
+     "hold": "clipboard",
+     "pose": "hold",
+     "walkAt": 2.363
+    },
+    {
+     "id": "boss",
+     "look": "exec_f",
+     "v": 1,
+     "at": "table"
+    }
+   ],
+   "acts": [
+    {
+     "who": "bm",
+     "cue": "changes",
+     "pose": "cheer",
+     "expr": "laugh",
+     "at": 3.778
+    },
+    {
+     "who": "boss",
+     "cue": "changing",
+     "expr": "shock",
+     "at": 5.075
+    },
+    {
+     "who": "host",
+     "cue": "strategy",
+     "pose": "point",
+     "expr": "stern",
+     "at": 6.302
+    }
+   ],
+   "fx": [
+    {
+     "kind": "zzz",
+     "who": "bm",
+     "cue": "bored",
+     "at": 2.363
+    },
+    {
+     "kind": "burst",
+     "who": "bm",
+     "cue": "changes",
+     "at": 3.778
+    },
+    {
+     "kind": "say",
+     "who": "host",
+     "text": "Have a strategy.",
+     "cue": "strategy",
+     "at": 6.302
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "bored",
+     "shot": "actor",
+     "who": "bm",
+     "at": 2.363
+    },
+    {
+     "cue": "changing",
+     "shot": "close",
+     "who": "boss",
+     "at": 5.075
+    },
+    {
+     "cue": "strategy",
+     "shot": "close",
+     "at": 6.302
+    }
+   ],
+   "audio": "audio/w5-05.mp3",
+   "leadIn": 0.45,
+   "seconds": 7.938,
+   "words": [
+    {
+     "w": "The",
+     "t": 0.5
+    },
+    {
+     "w": "most",
+     "t": 0.63
+    },
+    {
+     "w": "dangerous",
+     "t": 0.901
+    },
+    {
+     "w": "person",
+     "t": 1.266
+    },
+    {
+     "w": "in",
+     "t": 1.609
+    },
+    {
+     "w": "marketing",
+     "t": 1.679
+    },
+    {
+     "w": "is",
+     "t": 2.163
+    },
+    {
+     "w": "the",
+     "t": 2.281
+    },
+    {
+     "w": "bored",
+     "t": 2.363
+    },
+    {
+     "w": "brand",
+     "t": 2.67
+    },
+    {
+     "w": "manager",
+     "t": 2.906
+    },
+    {
+     "w": "who",
+     "t": 3.649
+    },
+    {
+     "w": "changes",
+     "t": 3.778
+    },
+    {
+     "w": "things",
+     "t": 4.203
+    },
+    {
+     "w": "that",
+     "t": 4.509
+    },
+    {
+     "w": "didn't",
+     "t": 4.651
+    },
+    {
+     "w": "need",
+     "t": 4.887
+    },
+    {
+     "w": "changing",
+     "t": 5.075
+    },
+    {
+     "w": "Have",
+     "t": 5.925
+    },
+    {
+     "w": "a",
+     "t": 6.231
+    },
+    {
+     "w": "strategy",
+     "t": 6.302
+    }
+   ]
+  },
+  {
+   "set": "stage",
+   "say": "Consistency is a superpower. The need hasn't changed, but the tension has. Sixty three percent of Gen Z need a break, yet sixty four percent can't switch off.",
+   "board": {
+    "title": "Gen Z and the **broken break**",
+    "bars": [
+     {
+      "label": "Say they need a break",
+      "value": 63,
+      "display": "63%",
+      "cue": "sixty three",
+      "at": 5.37
+     },
+     {
+      "label": "Can't switch off",
+      "value": 64,
+      "display": "64%",
+      "cue": "sixty four",
+      "at": 8.047
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "up",
+     "expr": "grin"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "tension",
+     "pose": "chin",
+     "expr": "neutral",
+     "at": 4.274
+    },
+    {
+     "who": "host",
+     "cue": "switch",
+     "pose": "shrug",
+     "expr": "nervous",
+     "at": 9.25
+    }
+   ],
+   "fx": [
+    {
+     "kind": "stars",
+     "who": "host",
+     "cue": "superpower",
+     "at": 1.514
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "host",
+     "at": 0.2
+    },
+    {
+     "cue": "sixty",
+     "shot": "board",
+     "at": 5.37
+    }
+   ],
+   "audio": "audio/w5-06.mp3",
+   "leadIn": 0.45,
+   "seconds": 10.746,
+   "words": [
+    {
+     "w": "Consistency",
+     "t": 0.5
+    },
+    {
+     "w": "is",
+     "t": 1.325
+    },
+    {
+     "w": "a",
+     "t": 1.467
+    },
+    {
+     "w": "superpower",
+     "t": 1.514
+    },
+    {
+     "w": "The",
+     "t": 2.587
+    },
+    {
+     "w": "need",
+     "t": 2.729
+    },
+    {
+     "w": "hasn't",
+     "t": 2.976
+    },
+    {
+     "w": "changed",
+     "t": 3.248
+    },
+    {
+     "w": "but",
+     "t": 4.05
+    },
+    {
+     "w": "the",
+     "t": 4.179
+    },
+    {
+     "w": "tension",
+     "t": 4.274
+    },
+    {
+     "w": "has",
+     "t": 4.627
+    },
+    {
+     "w": "Sixty",
+     "t": 5.37
+    },
+    {
+     "w": "three",
+     "t": 5.783
+    },
+    {
+     "w": "percent",
+     "t": 5.972
+    },
+    {
+     "w": "of",
+     "t": 6.325
+    },
+    {
+     "w": "Gen",
+     "t": 6.432
+    },
+    {
+     "w": "Z",
+     "t": 6.679
+    },
+    {
+     "w": "need",
+     "t": 6.962
+    },
+    {
+     "w": "a",
+     "t": 7.116
+    },
+    {
+     "w": "break",
+     "t": 7.151
+    },
+    {
+     "w": "yet",
+     "t": 7.859
+    },
+    {
+     "w": "sixty",
+     "t": 8.047
+    },
+    {
+     "w": "four",
+     "t": 8.377
+    },
+    {
+     "w": "percent",
+     "t": 8.554
+    },
+    {
+     "w": "can't",
+     "t": 8.955
+    },
+    {
+     "w": "switch",
+     "t": 9.25
+    },
+    {
+     "w": "off",
+     "t": 9.486
+    }
+   ]
+  },
+  {
+   "set": "home",
+   "say": "They sit down, doom scroll, and their minds stay busy. So KitKat's job now is the emotional break, not just the physical one.",
+   "board": {
+    "title": "The **right to disconnect**",
+    "lines": [
+     {
+      "text": "Doom-scrolling breaks the break",
+      "cue": "doom",
+      "at": 1.526
+     },
+     {
+      "text": "Give an **emotional** break",
+      "cue": "emotional",
+      "at": 5.641
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "l",
+     "pose": "chin"
+    },
+    {
+     "id": "z",
+     "look": "student",
+     "v": 2,
+     "at": "sofa",
+     "mode": "sit",
+     "hold": "phone",
+     "pose": "hold",
+     "expr": "dazed"
+    }
+   ],
+   "acts": [
+    {
+     "who": "z",
+     "cue": "busy",
+     "expr": "pained",
+     "at": 3.259
+    },
+    {
+     "who": "host",
+     "cue": "emotional",
+     "pose": "present",
+     "expr": "smile",
+     "at": 5.641
+    }
+   ],
+   "fx": [
+    {
+     "kind": "think",
+     "who": "z",
+     "text": "Just one more...",
+     "cue": "doom",
+     "at": 1.526
+    },
+    {
+     "kind": "brain",
+     "who": "z",
+     "cue": "busy",
+     "at": 3.259
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "doom",
+     "shot": "actor",
+     "who": "z",
+     "at": 1.526
+    },
+    {
+     "cue": "emotional",
+     "shot": "board",
+     "at": 5.641
+    }
+   ],
+   "audio": "audio/w5-07.mp3",
+   "leadIn": 0.45,
+   "seconds": 8.922,
+   "words": [
+    {
+     "w": "They",
+     "t": 0.5
+    },
+    {
+     "w": "sit",
+     "t": 0.689
+    },
+    {
+     "w": "down",
+     "t": 0.925
+    },
+    {
+     "w": "doom",
+     "t": 1.526
+    },
+    {
+     "w": "scroll",
+     "t": 1.75
+    },
+    {
+     "w": "and",
+     "t": 2.469
+    },
+    {
+     "w": "their",
+     "t": 2.587
+    },
+    {
+     "w": "minds",
+     "t": 2.693
+    },
+    {
+     "w": "stay",
+     "t": 3.047
+    },
+    {
+     "w": "busy",
+     "t": 3.259
+    },
+    {
+     "w": "So",
+     "t": 4.014
+    },
+    {
+     "w": "KitKat's",
+     "t": 4.274
+    },
+    {
+     "w": "job",
+     "t": 4.769
+    },
+    {
+     "w": "now",
+     "t": 5.028
+    },
+    {
+     "w": "is",
+     "t": 5.382
+    },
+    {
+     "w": "the",
+     "t": 5.524
+    },
+    {
+     "w": "emotional",
+     "t": 5.641
+    },
+    {
+     "w": "break",
+     "t": 6.078
+    },
+    {
+     "w": "not",
+     "t": 6.738
+    },
+    {
+     "w": "just",
+     "t": 6.974
+    },
+    {
+     "w": "the",
+     "t": 7.21
+    },
+    {
+     "w": "physical",
+     "t": 7.281
+    },
+    {
+     "w": "one",
+     "t": 7.67
+    }
+   ]
+  },
+  {
+   "set": "street",
+   "say": "Distinctive brand assets shortcut people to you: the bar, the red, the snap. Use them or lose them. Even Have a, unfinished, works, because your brain closes the gap.",
+   "board": {
+    "title": "Have a...",
+    "lines": [
+     {
+      "text": "The **bar** and the **snap**",
+      "cue": "bar",
+      "at": 3.212
+     },
+     {
+      "text": "The logo and the **red**",
+      "cue": "red",
+      "at": 3.932
+     },
+     {
+      "text": "Use them or **lose** them",
+      "cue": "lose",
+      "at": 6.137
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "l",
+     "pose": "point"
+    },
+    {
+     "id": "p",
+     "look": "shopper",
+     "v": 1,
+     "at": "walkR",
+     "to": "r",
+     "walkCue": "shortcut",
+     "hold": "bag",
+     "pose": "hold",
+     "walkAt": 1.703
+    }
+   ],
+   "acts": [
+    {
+     "who": "p",
+     "cue": "unfinished",
+     "expr": "grin",
+     "pose": "up",
+     "at": 7.965
+    }
+   ],
+   "fx": [
+    {
+     "kind": "think",
+     "who": "p",
+     "text": "...have a KitKat!",
+     "cue": "unfinished",
+     "at": 7.965
+    },
+    {
+     "kind": "bulb",
+     "who": "p",
+     "cue": "brain",
+     "at": 9.863
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "bar",
+     "shot": "board",
+     "at": 3.212
+    },
+    {
+     "cue": "unfinished",
+     "shot": "actor",
+     "who": "p",
+     "at": 7.965
+    },
+    {
+     "cue": "gap",
+     "shot": "close",
+     "who": "p",
+     "at": 10.677
+    }
+   ],
+   "audio": "audio/w5-08.mp3",
+   "leadIn": 0.45,
+   "seconds": 11.97,
+   "words": [
+    {
+     "w": "Distinctive",
+     "t": 0.5
+    },
+    {
+     "w": "brand",
+     "t": 1.042
+    },
+    {
+     "w": "assets",
+     "t": 1.314
+    },
+    {
+     "w": "shortcut",
+     "t": 1.703
+    },
+    {
+     "w": "people",
+     "t": 2.175
+    },
+    {
+     "w": "to",
+     "t": 2.434
+    },
+    {
+     "w": "you",
+     "t": 2.528
+    },
+    {
+     "w": "the",
+     "t": 3.118
+    },
+    {
+     "w": "bar",
+     "t": 3.212
+    },
+    {
+     "w": "the",
+     "t": 3.837
+    },
+    {
+     "w": "red",
+     "t": 3.932
+    },
+    {
+     "w": "the",
+     "t": 4.509
+    },
+    {
+     "w": "snap",
+     "t": 4.592
+    },
+    {
+     "w": "Use",
+     "t": 5.382
+    },
+    {
+     "w": "them",
+     "t": 5.759
+    },
+    {
+     "w": "or",
+     "t": 5.984
+    },
+    {
+     "w": "lose",
+     "t": 6.137
+    },
+    {
+     "w": "them",
+     "t": 6.443
+    },
+    {
+     "w": "Even",
+     "t": 7.068
+    },
+    {
+     "w": "Have",
+     "t": 7.375
+    },
+    {
+     "w": "a",
+     "t": 7.564
+    },
+    {
+     "w": "unfinished",
+     "t": 7.965
+    },
+    {
+     "w": "works",
+     "t": 8.79
+    },
+    {
+     "w": "because",
+     "t": 9.521
+    },
+    {
+     "w": "your",
+     "t": 9.781
+    },
+    {
+     "w": "brain",
+     "t": 9.863
+    },
+    {
+     "w": "closes",
+     "t": 10.241
+    },
+    {
+     "w": "the",
+     "t": 10.606
+    },
+    {
+     "w": "gap",
+     "t": 10.677
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "The second most dangerous person is the brand manager with no ambition. Cultural relevance is a currency. Impact comes from brand size, creative quality and budget setting.",
+   "board": {
+    "title": "Drivers of **brand impact**",
+    "steps": [
+     {
+      "text": "**Brand size**",
+      "cue": "size",
+      "at": 7.54
+     },
+     {
+      "text": "**Creative quality**",
+      "cue": "creative",
+      "at": 8.248
+     },
+     {
+      "text": "**Budget setting** across geographies",
+      "cue": "budget",
+      "at": 9.391
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "m",
+     "look": "exec",
+     "v": 5,
+     "at": "desk",
+     "mode": "sit",
+     "expr": "dazed"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "currency",
+     "pose": "up",
+     "expr": "grin",
+     "at": 5.417
+    }
+   ],
+   "fx": [
+    {
+     "kind": "zzz",
+     "who": "m",
+     "cue": "ambition",
+     "at": 3.366
+    },
+    {
+     "kind": "money",
+     "who": "host",
+     "cue": "currency",
+     "at": 5.417
+    },
+    {
+     "kind": "chart",
+     "who": "host",
+     "cue": "size",
+     "at": 7.54
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "currency",
+     "shot": "host",
+     "at": 5.417
+    },
+    {
+     "cue": "impact",
+     "shot": "board",
+     "at": 6.361
+    }
+   ],
+   "audio": "audio/w5-09.mp3",
+   "leadIn": 0.45,
+   "seconds": 11.082,
+   "words": [
+    {
+     "w": "The",
+     "t": 0.5
+    },
+    {
+     "w": "second",
+     "t": 0.63
+    },
+    {
+     "w": "most",
+     "t": 1.007
+    },
+    {
+     "w": "dangerous",
+     "t": 1.243
+    },
+    {
+     "w": "person",
+     "t": 1.597
+    },
+    {
+     "w": "is",
+     "t": 2.045
+    },
+    {
+     "w": "the",
+     "t": 2.175
+    },
+    {
+     "w": "brand",
+     "t": 2.245
+    },
+    {
+     "w": "manager",
+     "t": 2.552
+    },
+    {
+     "w": "with",
+     "t": 2.929
+    },
+    {
+     "w": "no",
+     "t": 3.142
+    },
+    {
+     "w": "ambition",
+     "t": 3.366
+    },
+    {
+     "w": "Cultural",
+     "t": 4.226
+    },
+    {
+     "w": "relevance",
+     "t": 4.686
+    },
+    {
+     "w": "is",
+     "t": 5.205
+    },
+    {
+     "w": "a",
+     "t": 5.359
+    },
+    {
+     "w": "currency",
+     "t": 5.417
+    },
+    {
+     "w": "Impact",
+     "t": 6.361
+    },
+    {
+     "w": "comes",
+     "t": 6.844
+    },
+    {
+     "w": "from",
+     "t": 7.116
+    },
+    {
+     "w": "brand",
+     "t": 7.257
+    },
+    {
+     "w": "size",
+     "t": 7.54
+    },
+    {
+     "w": "creative",
+     "t": 8.248
+    },
+    {
+     "w": "quality",
+     "t": 8.696
+    },
+    {
+     "w": "and",
+     "t": 9.238
+    },
+    {
+     "w": "budget",
+     "t": 9.391
+    },
+    {
+     "w": "setting",
+     "t": 9.733
+    }
+   ]
+  },
+  {
+   "set": "plaza",
+   "say": "Fans argued over the right way to eat a KitKat: around twenty seven million social engagements. A debate about your brand is a jackpot, so fan the flames.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "front",
+     "pose": "present"
+    },
+    {
+     "id": "a",
+     "look": "student",
+     "v": 1,
+     "at": "l",
+     "hold": "box",
+     "holdCol": "#c8102e",
+     "pose": "hold"
+    },
+    {
+     "id": "b",
+     "look": "shopper",
+     "v": 3,
+     "at": "r",
+     "hold": "box",
+     "holdCol": "#c8102e",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "a",
+     "cue": "argued",
+     "expr": "stern",
+     "pose": "point",
+     "at": 1.031
+    },
+    {
+     "who": "b",
+     "cue": "right",
+     "expr": "shock",
+     "pose": "hips",
+     "at": 1.667
+    },
+    {
+     "who": "host",
+     "cue": "jackpot",
+     "pose": "cheer",
+     "expr": "laugh",
+     "at": 7.198
+    }
+   ],
+   "fx": [
+    {
+     "kind": "say",
+     "who": "a",
+     "text": "My way's right!",
+     "cue": "argued",
+     "at": 1.031
+    },
+    {
+     "kind": "say",
+     "who": "b",
+     "text": "No way!",
+     "cue": "eat",
+     "at": 2.351
+    },
+    {
+     "kind": "heart",
+     "who": "a",
+     "cue": "million",
+     "at": 4.203
+    },
+    {
+     "kind": "money",
+     "who": "host",
+     "cue": "jackpot",
+     "at": 7.198
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "eat",
+     "shot": "actor",
+     "who": "b",
+     "at": 2.351
+    },
+    {
+     "cue": "twenty",
+     "shot": "wide",
+     "at": 3.672
+    },
+    {
+     "cue": "jackpot",
+     "shot": "close",
+     "at": 7.198
+    }
+   ],
+   "audio": "audio/w5-10.mp3",
+   "leadIn": 0.45,
+   "seconds": 10.026,
+   "words": [
+    {
+     "w": "Fans",
+     "t": 0.5
+    },
+    {
+     "w": "argued",
+     "t": 1.031
+    },
+    {
+     "w": "over",
+     "t": 1.408
+    },
+    {
+     "w": "the",
+     "t": 1.585
+    },
+    {
+     "w": "right",
+     "t": 1.667
+    },
+    {
+     "w": "way",
+     "t": 1.903
+    },
+    {
+     "w": "to",
+     "t": 2.175
+    },
+    {
+     "w": "eat",
+     "t": 2.351
+    },
+    {
+     "w": "a",
+     "t": 2.517
+    },
+    {
+     "w": "KitKat",
+     "t": 2.564
+    },
+    {
+     "w": "around",
+     "t": 3.342
+    },
+    {
+     "w": "twenty",
+     "t": 3.672
+    },
+    {
+     "w": "seven",
+     "t": 3.92
+    },
+    {
+     "w": "million",
+     "t": 4.203
+    },
+    {
+     "w": "social",
+     "t": 4.509
+    },
+    {
+     "w": "engagements",
+     "t": 4.851
+    },
+    {
+     "w": "A",
+     "t": 5.807
+    },
+    {
+     "w": "debate",
+     "t": 5.925
+    },
+    {
+     "w": "about",
+     "t": 6.302
+    },
+    {
+     "w": "your",
+     "t": 6.526
+    },
+    {
+     "w": "brand",
+     "t": 6.609
+    },
+    {
+     "w": "is",
+     "t": 7.021
+    },
+    {
+     "w": "a",
+     "t": 7.151
+    },
+    {
+     "w": "jackpot",
+     "t": 7.198
+    },
+    {
+     "w": "so",
+     "t": 7.941
+    },
+    {
+     "w": "fan",
+     "t": 8.165
+    },
+    {
+     "w": "the",
+     "t": 8.483
+    },
+    {
+     "w": "flames",
+     "t": 8.542
+    }
+   ]
+  },
+  {
+   "set": "stage",
+   "say": "Four principles. Meet your audience where they are. Tone and timing are everything. Be clear on the brand's role. And subvert your equity to be one of the people.",
+   "board": {
+    "title": "Four **principles**",
+    "steps": [
+     {
+      "text": "**Meet them** where they are",
+      "cue": "meet",
+      "at": 1.939
+     },
+     {
+      "text": "**Tone and timing**",
+      "cue": "tone",
+      "at": 3.932
+     },
+     {
+      "text": "**Role** and point of view",
+      "cue": "clear",
+      "at": 6.172
+     },
+     {
+      "text": "**Subvert** your equity",
+      "cue": "subvert",
+      "at": 8.047
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "a",
+     "look": "student",
+     "v": 7,
+     "at": "aisle2"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "subvert",
+     "pose": "cheer",
+     "expr": "grin",
+     "at": 8.047
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "subvert",
+     "shot": "host",
+     "at": 8.047
+    }
+   ],
+   "audio": "audio/w5-11.mp3",
+   "leadIn": 0.45,
+   "seconds": 11.13,
+   "words": [
+    {
+     "w": "Four",
+     "t": 0.5
+    },
+    {
+     "w": "principles",
+     "t": 0.889
+    },
+    {
+     "w": "Meet",
+     "t": 1.939
+    },
+    {
+     "w": "your",
+     "t": 2.281
+    },
+    {
+     "w": "audience",
+     "t": 2.528
+    },
+    {
+     "w": "where",
+     "t": 2.988
+    },
+    {
+     "w": "they",
+     "t": 3.118
+    },
+    {
+     "w": "are",
+     "t": 3.295
+    },
+    {
+     "w": "Tone",
+     "t": 3.932
+    },
+    {
+     "w": "and",
+     "t": 4.321
+    },
+    {
+     "w": "timing",
+     "t": 4.498
+    },
+    {
+     "w": "are",
+     "t": 4.934
+    },
+    {
+     "w": "everything",
+     "t": 5.134
+    },
+    {
+     "w": "Be",
+     "t": 6.007
+    },
+    {
+     "w": "clear",
+     "t": 6.172
+    },
+    {
+     "w": "on",
+     "t": 6.573
+    },
+    {
+     "w": "the",
+     "t": 6.715
+    },
+    {
+     "w": "brand's",
+     "t": 6.774
+    },
+    {
+     "w": "role",
+     "t": 7.104
+    },
+    {
+     "w": "And",
+     "t": 7.847
+    },
+    {
+     "w": "subvert",
+     "t": 8.047
+    },
+    {
+     "w": "your",
+     "t": 8.578
+    },
+    {
+     "w": "equity",
+     "t": 8.79
+    },
+    {
+     "w": "to",
+     "t": 9.191
+    },
+    {
+     "w": "be",
+     "t": 9.309
+    },
+    {
+     "w": "one",
+     "t": 9.439
+    },
+    {
+     "w": "of",
+     "t": 9.616
+    },
+    {
+     "w": "the",
+     "t": 9.698
+    },
+    {
+     "w": "people",
+     "t": 9.757
+    }
+   ]
+  },
+  {
+   "set": "plaza",
+   "say": "Now Allen's. People love it, but a brand is a leaky bucket that drains unless you refill it. We want a playground, not a museum.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "c",
+     "pose": "present"
+    },
+    {
+     "id": "k",
+     "look": "kid",
+     "v": 2,
+     "at": "stall",
+     "expr": "smile"
+    },
+    {
+     "id": "e",
+     "look": "elder",
+     "v": 1,
+     "at": "walkR",
+     "to": "r",
+     "walkCue": "drains",
+     "hold": "bag",
+     "pose": "hold",
+     "walkAt": 4.403
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "leaky",
+     "pose": "shrug",
+     "expr": "nervous",
+     "at": 3.542
+    },
+    {
+     "who": "k",
+     "cue": "playground",
+     "pose": "cheer",
+     "expr": "laugh",
+     "at": 6.561
+    }
+   ],
+   "fx": [
+    {
+     "kind": "heart",
+     "who": "k",
+     "cue": "love",
+     "at": 2.151
+    },
+    {
+     "kind": "clock",
+     "who": "host",
+     "cue": "drains",
+     "at": 4.403
+    },
+    {
+     "kind": "say",
+     "who": "host",
+     "text": "A playground, not a museum",
+     "cue": "playground",
+     "at": 6.561
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "leaky",
+     "shot": "host",
+     "at": 3.542
+    },
+    {
+     "cue": "playground",
+     "shot": "two",
+     "who": "k",
+     "at": 6.561
+    }
+   ],
+   "audio": "audio/w5-12.mp3",
+   "leadIn": 0.45,
+   "seconds": 9.306,
+   "words": [
+    {
+     "w": "Now",
+     "t": 0.5
+    },
+    {
+     "w": "Allen's",
+     "t": 0.913
+    },
+    {
+     "w": "People",
+     "t": 1.809
+    },
+    {
+     "w": "love",
+     "t": 2.151
+    },
+    {
+     "w": "it",
+     "t": 2.328
+    },
+    {
+     "w": "but",
+     "t": 2.835
+    },
+    {
+     "w": "a",
+     "t": 2.941
+    },
+    {
+     "w": "brand",
+     "t": 2.988
+    },
+    {
+     "w": "is",
+     "t": 3.354
+    },
+    {
+     "w": "a",
+     "t": 3.507
+    },
+    {
+     "w": "leaky",
+     "t": 3.542
+    },
+    {
+     "w": "bucket",
+     "t": 3.884
+    },
+    {
+     "w": "that",
+     "t": 4.274
+    },
+    {
+     "w": "drains",
+     "t": 4.403
+    },
+    {
+     "w": "unless",
+     "t": 4.804
+    },
+    {
+     "w": "you",
+     "t": 5.087
+    },
+    {
+     "w": "refill",
+     "t": 5.17
+    },
+    {
+     "w": "it",
+     "t": 5.547
+    },
+    {
+     "w": "We",
+     "t": 6.066
+    },
+    {
+     "w": "want",
+     "t": 6.325
+    },
+    {
+     "w": "a",
+     "t": 6.514
+    },
+    {
+     "w": "playground",
+     "t": 6.561
+    },
+    {
+     "w": "not",
+     "t": 7.446
+    },
+    {
+     "w": "a",
+     "t": 7.705
+    },
+    {
+     "w": "museum",
+     "t": 7.752
+    }
+   ]
+  },
+  {
+   "set": "plaza",
+   "say": "Gen Z want intense flavours and surprising textures. Forty five percent of Australians say texture appeals, and lolly salads turn sweets into social currency.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "l",
+     "pose": "point"
+    },
+    {
+     "id": "a",
+     "look": "student",
+     "v": 3,
+     "at": "shelf",
+     "hold": "bag",
+     "pose": "hold"
+    },
+    {
+     "id": "b",
+     "look": "student",
+     "v": 8,
+     "at": "walkR",
+     "to": "r",
+     "walkCue": "lolly",
+     "hold": "phone",
+     "pose": "hold",
+     "walkAt": 6.903
+    }
+   ],
+   "acts": [
+    {
+     "who": "a",
+     "cue": "intense",
+     "expr": "shock",
+     "at": 1.373
+    },
+    {
+     "who": "b",
+     "cue": "social",
+     "expr": "grin",
+     "at": 8.507
+    }
+   ],
+   "fx": [
+    {
+     "kind": "burst",
+     "who": "a",
+     "cue": "intense",
+     "at": 1.373
+    },
+    {
+     "kind": "think",
+     "who": "a",
+     "text": "Texture wins",
+     "cue": "forty",
+     "at": 3.849
+    },
+    {
+     "kind": "heart",
+     "who": "b",
+     "cue": "social",
+     "at": 8.507
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "intense",
+     "shot": "actor",
+     "who": "a",
+     "at": 1.373
+    },
+    {
+     "cue": "lolly",
+     "shot": "wide",
+     "at": 6.903
+    }
+   ],
+   "audio": "audio/w5-13.mp3",
+   "leadIn": 0.45,
+   "seconds": 10.314,
+   "words": [
+    {
+     "w": "Gen",
+     "t": 0.5
+    },
+    {
+     "w": "Z",
+     "t": 0.866
+    },
+    {
+     "w": "want",
+     "t": 1.09
+    },
+    {
+     "w": "intense",
+     "t": 1.373
+    },
+    {
+     "w": "flavours",
+     "t": 1.726
+    },
+    {
+     "w": "and",
+     "t": 2.21
+    },
+    {
+     "w": "surprising",
+     "t": 2.363
+    },
+    {
+     "w": "textures",
+     "t": 2.953
+    },
+    {
+     "w": "Forty",
+     "t": 3.849
+    },
+    {
+     "w": "five",
+     "t": 4.191
+    },
+    {
+     "w": "percent",
+     "t": 4.427
+    },
+    {
+     "w": "of",
+     "t": 4.722
+    },
+    {
+     "w": "Australians",
+     "t": 4.792
+    },
+    {
+     "w": "say",
+     "t": 5.359
+    },
+    {
+     "w": "texture",
+     "t": 5.535
+    },
+    {
+     "w": "appeals",
+     "t": 5.913
+    },
+    {
+     "w": "and",
+     "t": 6.762
+    },
+    {
+     "w": "lolly",
+     "t": 6.903
+    },
+    {
+     "w": "salads",
+     "t": 7.186
+    },
+    {
+     "w": "turn",
+     "t": 7.599
+    },
+    {
+     "w": "sweets",
+     "t": 7.847
+    },
+    {
+     "w": "into",
+     "t": 8.271
+    },
+    {
+     "w": "social",
+     "t": 8.507
+    },
+    {
+     "w": "currency",
+     "t": 8.825
+    }
+   ]
+  },
+  {
+   "set": "street",
+   "say": "GLP-1 drugs could reach fifteen percent of Australians by year end, dulling the joy of sweets. And India has overtaken England for migration, bringing new tastes.",
+   "board": {
+    "title": "Trends under **Allen's**",
+    "lines": [
+     {
+      "text": "**GLP-1s** 15% by year end",
+      "cue": "fifteen",
+      "at": 2.116
+     },
+     {
+      "text": "Less sweet, more **protein**",
+      "cue": "joy",
+      "at": 4.899
+     },
+     {
+      "text": "**India** overtakes England",
+      "cue": "India",
+      "at": 6.302
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "s",
+     "look": "shopper",
+     "v": 5,
+     "at": "bus"
+    },
+    {
+     "id": "f",
+     "look": "shopper",
+     "v": 2,
+     "at": "walkL",
+     "to": "l",
+     "walkCue": "India",
+     "walkAt": 6.302
+    }
+   ],
+   "acts": [
+    {
+     "who": "s",
+     "cue": "joy",
+     "expr": "pained",
+     "at": 4.899
+    },
+    {
+     "who": "f",
+     "cue": "tastes",
+     "expr": "smile",
+     "at": 9.521
+    }
+   ],
+   "fx": [
+    {
+     "kind": "cross",
+     "who": "s",
+     "cue": "joy",
+     "at": 4.899
+    },
+    {
+     "kind": "question",
+     "who": "f",
+     "cue": "tastes",
+     "at": 9.521
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "joy",
+     "shot": "actor",
+     "who": "s",
+     "at": 4.899
+    },
+    {
+     "cue": "India",
+     "shot": "board",
+     "at": 6.302
+    }
+   ],
+   "audio": "audio/w5-14.mp3",
+   "leadIn": 0.45,
+   "seconds": 11.034,
+   "words": [
+    {
+     "w": "GLP-1",
+     "t": 0.5
+    },
+    {
+     "w": "drugs",
+     "t": 1.408
+    },
+    {
+     "w": "could",
+     "t": 1.738
+    },
+    {
+     "w": "reach",
+     "t": 1.891
+    },
+    {
+     "w": "fifteen",
+     "t": 2.116
+    },
+    {
+     "w": "percent",
+     "t": 2.517
+    },
+    {
+     "w": "of",
+     "t": 2.823
+    },
+    {
+     "w": "Australians",
+     "t": 2.894
+    },
+    {
+     "w": "by",
+     "t": 3.448
+    },
+    {
+     "w": "year",
+     "t": 3.59
+    },
+    {
+     "w": "end",
+     "t": 3.861
+    },
+    {
+     "w": "dulling",
+     "t": 4.545
+    },
+    {
+     "w": "the",
+     "t": 4.84
+    },
+    {
+     "w": "joy",
+     "t": 4.899
+    },
+    {
+     "w": "of",
+     "t": 5.17
+    },
+    {
+     "w": "sweets",
+     "t": 5.241
+    },
+    {
+     "w": "And",
+     "t": 6.066
+    },
+    {
+     "w": "India",
+     "t": 6.302
+    },
+    {
+     "w": "has",
+     "t": 6.726
+    },
+    {
+     "w": "overtaken",
+     "t": 6.998
+    },
+    {
+     "w": "England",
+     "t": 7.587
+    },
+    {
+     "w": "for",
+     "t": 7.953
+    },
+    {
+     "w": "migration",
+     "t": 8.047
+    },
+    {
+     "w": "bringing",
+     "t": 9.038
+    },
+    {
+     "w": "new",
+     "t": 9.356
+    },
+    {
+     "w": "tastes",
+     "t": 9.521
+    }
+   ]
+  },
+  {
+   "set": "home",
+   "say": "When Arnott's changed four Shapes flavours, people were outraged. A heritage brand doesn't have to taste better. It has to taste the same.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "tv",
+     "pose": "hold",
+     "hold": "box"
+    },
+    {
+     "id": "g",
+     "look": "elder",
+     "v": 2,
+     "at": "sofa",
+     "mode": "sit",
+     "expr": "smile"
+    },
+    {
+     "id": "d",
+     "look": "shopper",
+     "v": 4,
+     "at": "sofa2",
+     "mode": "sit"
+    }
+   ],
+   "acts": [
+    {
+     "who": "g",
+     "cue": "outraged",
+     "expr": "shock",
+     "at": 3.377
+    },
+    {
+     "who": "d",
+     "cue": "heritage",
+     "expr": "stern",
+     "at": 4.462
+    },
+    {
+     "who": "host",
+     "cue": "same",
+     "pose": "point",
+     "expr": "grin",
+     "at": 7.847
+    }
+   ],
+   "fx": [
+    {
+     "kind": "exclaim",
+     "who": "g",
+     "cue": "outraged",
+     "at": 3.377
+    },
+    {
+     "kind": "say",
+     "who": "d",
+     "text": "Bring it back!",
+     "cue": "heritage",
+     "at": 4.462
+    },
+    {
+     "kind": "tick",
+     "who": "host",
+     "cue": "same",
+     "at": 7.847
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "outraged",
+     "shot": "close",
+     "who": "g",
+     "at": 3.377
+    },
+    {
+     "cue": "taste the same",
+     "shot": "host",
+     "at": 7.446
+    }
+   ],
+   "audio": "audio/w5-15.mp3",
+   "leadIn": 0.45,
+   "seconds": 9.258,
+   "words": [
+    {
+     "w": "When",
+     "t": 0.5
+    },
+    {
+     "w": "Arnott's",
+     "t": 0.854
+    },
+    {
+     "w": "changed",
+     "t": 1.243
+    },
+    {
+     "w": "four",
+     "t": 1.62
+    },
+    {
+     "w": "Shapes",
+     "t": 1.856
+    },
+    {
+     "w": "flavours",
+     "t": 2.175
+    },
+    {
+     "w": "people",
+     "t": 2.906
+    },
+    {
+     "w": "were",
+     "t": 3.224
+    },
+    {
+     "w": "outraged",
+     "t": 3.377
+    },
+    {
+     "w": "A",
+     "t": 4.333
+    },
+    {
+     "w": "heritage",
+     "t": 4.462
+    },
+    {
+     "w": "brand",
+     "t": 4.934
+    },
+    {
+     "w": "doesn't",
+     "t": 5.406
+    },
+    {
+     "w": "have",
+     "t": 5.689
+    },
+    {
+     "w": "to",
+     "t": 5.866
+    },
+    {
+     "w": "taste",
+     "t": 5.972
+    },
+    {
+     "w": "better",
+     "t": 6.255
+    },
+    {
+     "w": "It",
+     "t": 6.939
+    },
+    {
+     "w": "has",
+     "t": 7.08
+    },
+    {
+     "w": "to",
+     "t": 7.34
+    },
+    {
+     "w": "taste",
+     "t": 7.446
+    },
+    {
+     "w": "the",
+     "t": 7.764
+    },
+    {
+     "w": "same",
+     "t": 7.847
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Know your consumers, potential consumers and brand. Then test any stretch for fit, distance from the core, consumer permission, risk versus reward, and keep monitoring.",
+   "board": {
+    "title": "Five **stretch** considerations",
+    "steps": [
+     {
+      "text": "**Positioning** fit",
+      "cue": "fit",
+      "at": 5.323
+     },
+     {
+      "text": "**Distance** from the core",
+      "cue": "distance",
+      "at": 5.96
+     },
+     {
+      "text": "Consumer **permission**",
+      "cue": "permission",
+      "at": 7.481
+     },
+     {
+      "text": "**Risk** vs reward",
+      "cue": "risk",
+      "at": 8.259
+     },
+     {
+      "text": "**Test** and monitor",
+      "cue": "monitoring",
+      "at": 10.064
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "e1",
+     "look": "exec_f",
+     "v": 3,
+     "at": "table"
+    },
+    {
+     "id": "e2",
+     "look": "exec",
+     "v": 6,
+     "at": "table2",
+     "hold": "laptop",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "e1",
+     "cue": "permission",
+     "pose": "chin",
+     "at": 7.481
+    }
+   ],
+   "fx": [
+    {
+     "kind": "brain",
+     "who": "e1",
+     "cue": "brand",
+     "at": 3.2
+    },
+    {
+     "kind": "chart",
+     "who": "e2",
+     "cue": "risk",
+     "at": 8.259
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "stretch",
+     "shot": "board",
+     "at": 4.91
+    },
+    {
+     "cue": "permission",
+     "shot": "actor",
+     "who": "e1",
+     "at": 7.481
+    }
+   ],
+   "audio": "audio/w5-16.mp3",
+   "leadIn": 0.45,
+   "seconds": 11.562,
+   "words": [
+    {
+     "w": "Know",
+     "t": 0.5
+    },
+    {
+     "w": "your",
+     "t": 0.795
+    },
+    {
+     "w": "consumers",
+     "t": 0.984
+    },
+    {
+     "w": "potential",
+     "t": 1.868
+    },
+    {
+     "w": "consumers",
+     "t": 2.316
+    },
+    {
+     "w": "and",
+     "t": 3.024
+    },
+    {
+     "w": "brand",
+     "t": 3.2
+    },
+    {
+     "w": "Then",
+     "t": 4.085
+    },
+    {
+     "w": "test",
+     "t": 4.415
+    },
+    {
+     "w": "any",
+     "t": 4.722
+    },
+    {
+     "w": "stretch",
+     "t": 4.91
+    },
+    {
+     "w": "for",
+     "t": 5.217
+    },
+    {
+     "w": "fit",
+     "t": 5.323
+    },
+    {
+     "w": "distance",
+     "t": 5.96
+    },
+    {
+     "w": "from",
+     "t": 6.314
+    },
+    {
+     "w": "the",
+     "t": 6.432
+    },
+    {
+     "w": "core",
+     "t": 6.479
+    },
+    {
+     "w": "consumer",
+     "t": 7.068
+    },
+    {
+     "w": "permission",
+     "t": 7.481
+    },
+    {
+     "w": "risk",
+     "t": 8.259
+    },
+    {
+     "w": "versus",
+     "t": 8.578
+    },
+    {
+     "w": "reward",
+     "t": 8.967
+    },
+    {
+     "w": "and",
+     "t": 9.651
+    },
+    {
+     "w": "keep",
+     "t": 9.804
+    },
+    {
+     "w": "monitoring",
+     "t": 10.064
+    }
+   ]
+  },
+  {
+   "set": "plaza",
+   "say": "For Heinz, soup is a near step, pasta sauce a credible stretch, vodka the exception. Or collaborate, like Allen's with Pepsi and Mountain Dew.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "c",
+     "pose": "point"
+    },
+    {
+     "id": "s",
+     "look": "shopper",
+     "v": 7,
+     "at": "shelf",
+     "hold": "bag",
+     "pose": "hold"
+    },
+    {
+     "id": "c",
+     "look": "chef",
+     "v": 1,
+     "at": "r"
+    }
+   ],
+   "acts": [
+    {
+     "who": "s",
+     "cue": "soup",
+     "expr": "smile",
+     "at": 1.55
+    },
+    {
+     "who": "s",
+     "cue": "vodka",
+     "expr": "shock",
+     "at": 4.604
+    },
+    {
+     "who": "host",
+     "cue": "collaborate",
+     "pose": "cheer",
+     "expr": "grin",
+     "at": 6.172
+    }
+   ],
+   "fx": [
+    {
+     "kind": "tick",
+     "who": "s",
+     "cue": "soup",
+     "at": 1.55
+    },
+    {
+     "kind": "question",
+     "who": "s",
+     "cue": "vodka",
+     "at": 4.604
+    },
+    {
+     "kind": "sparkle",
+     "who": "c",
+     "cue": "Pepsi",
+     "at": 7.811
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "vodka",
+     "shot": "actor",
+     "who": "s",
+     "at": 4.604
+    },
+    {
+     "cue": "collaborate",
+     "shot": "two",
+     "who": "c",
+     "at": 6.172
+    }
+   ],
+   "audio": "audio/w5-17.mp3",
+   "leadIn": 0.45,
+   "seconds": 10.05,
+   "words": [
+    {
+     "w": "For",
+     "t": 0.5
+    },
+    {
+     "w": "Heinz",
+     "t": 0.807
+    },
+    {
+     "w": "soup",
+     "t": 1.55
+    },
+    {
+     "w": "is",
+     "t": 1.891
+    },
+    {
+     "w": "a",
+     "t": 2.033
+    },
+    {
+     "w": "near",
+     "t": 2.068
+    },
+    {
+     "w": "step",
+     "t": 2.281
+    },
+    {
+     "w": "pasta",
+     "t": 2.929
+    },
+    {
+     "w": "sauce",
+     "t": 3.248
+    },
+    {
+     "w": "a",
+     "t": 3.531
+    },
+    {
+     "w": "credible",
+     "t": 3.578
+    },
+    {
+     "w": "stretch",
+     "t": 3.943
+    },
+    {
+     "w": "vodka",
+     "t": 4.604
+    },
+    {
+     "w": "the",
+     "t": 4.981
+    },
+    {
+     "w": "exception",
+     "t": 5.111
+    },
+    {
+     "w": "Or",
+     "t": 5.995
+    },
+    {
+     "w": "collaborate",
+     "t": 6.172
+    },
+    {
+     "w": "like",
+     "t": 7.009
+    },
+    {
+     "w": "Allen's",
+     "t": 7.281
+    },
+    {
+     "w": "with",
+     "t": 7.67
+    },
+    {
+     "w": "Pepsi",
+     "t": 7.811
+    },
+    {
+     "w": "and",
+     "t": 8.248
+    },
+    {
+     "w": "Mountain",
+     "t": 8.389
+    },
+    {
+     "w": "Dew",
+     "t": 8.731
+    }
+   ]
+  },
+  {
+   "set": "stage",
+   "say": "So: protect your assets, and know why you're entering culture. Know your consumers and who you are. Use AI to ease the work, not do the thinking. That's week five.",
+   "board": {
+    "title": "The **recap**",
+    "lines": [
+     {
+      "text": "**Protect** your brand assets",
+      "cue": "protect",
+      "at": 1.16
+     },
+     {
+      "text": "Know **why** you enter culture",
+      "cue": "culture",
+      "at": 3.472
+     },
+     {
+      "text": "Know your **consumers** and yourself",
+      "cue": "consumers",
+      "at": 4.734
+     },
+     {
+      "text": "AI eases work, not **thinking**",
+      "cue": "AI",
+      "at": 7.009
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "a",
+     "look": "student",
+     "v": 1,
+     "at": "aisle"
+    },
+    {
+     "id": "b",
+     "look": "student",
+     "v": 4,
+     "at": "aisle2"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "week",
+     "pose": "cheer",
+     "expr": "grin",
+     "at": 10.182
+    }
+   ],
+   "fx": [
+    {
+     "kind": "stars",
+     "who": "host",
+     "cue": "week",
+     "at": 10.182
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "week",
+     "shot": "close",
+     "at": 10.182
+    }
+   ],
+   "audio": "audio/w5-18.mp3",
+   "leadIn": 0.45,
+   "seconds": 11.85,
+   "words": [
+    {
+     "w": "So",
+     "t": 0.5
+    },
+    {
+     "w": "protect",
+     "t": 1.16
+    },
+    {
+     "w": "your",
+     "t": 1.538
+    },
+    {
+     "w": "assets",
+     "t": 1.703
+    },
+    {
+     "w": "and",
+     "t": 2.375
+    },
+    {
+     "w": "know",
+     "t": 2.54
+    },
+    {
+     "w": "why",
+     "t": 2.752
+    },
+    {
+     "w": "you're",
+     "t": 2.941
+    },
+    {
+     "w": "entering",
+     "t": 3.165
+    },
+    {
+     "w": "culture",
+     "t": 3.472
+    },
+    {
+     "w": "Know",
+     "t": 4.25
+    },
+    {
+     "w": "your",
+     "t": 4.545
+    },
+    {
+     "w": "consumers",
+     "t": 4.734
+    },
+    {
+     "w": "and",
+     "t": 5.37
+    },
+    {
+     "w": "who",
+     "t": 5.547
+    },
+    {
+     "w": "you",
+     "t": 5.712
+    },
+    {
+     "w": "are",
+     "t": 5.889
+    },
+    {
+     "w": "Use",
+     "t": 6.526
+    },
+    {
+     "w": "AI",
+     "t": 7.009
+    },
+    {
+     "w": "to",
+     "t": 7.41
+    },
+    {
+     "w": "ease",
+     "t": 7.599
+    },
+    {
+     "w": "the",
+     "t": 7.823
+    },
+    {
+     "w": "work",
+     "t": 7.906
+    },
+    {
+     "w": "not",
+     "t": 8.519
+    },
+    {
+     "w": "do",
+     "t": 8.79
+    },
+    {
+     "w": "the",
+     "t": 8.92
+    },
+    {
+     "w": "thinking",
+     "t": 9.014
+    },
+    {
+     "w": "That's",
+     "t": 9.816
+    },
+    {
+     "w": "week",
+     "t": 10.182
+    },
+    {
+     "w": "five",
+     "t": 10.406
+    }
+   ]
+  }
+ ],
+ "id": "w5",
+ "total": 193.37
+}

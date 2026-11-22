@@ -1,0 +1,654 @@
+{
+ "week": 0,
+ "title": "Five brand stretch considerations (stretch map and McKinsey matrix)",
+ "speaker": "Shannon Wright, Nestle Oceania, Week 5",
+ "beats": [
+  {
+   "set": "office",
+   "say": "Before stretching a brand, check five things. Positioning fit, distance from the core, consumer permission, risk versus reward, then test and monitor.",
+   "board": {
+    "title": "Five **stretch** checks",
+    "steps": [
+     {
+      "text": "**Positioning** fit",
+      "cue": "Positioning",
+      "at": 3.33
+     },
+     {
+      "text": "**Distance** from the core",
+      "cue": "distance",
+      "at": 4.45
+     },
+     {
+      "text": "Consumer **permission**",
+      "cue": "permission",
+      "at": 5.984
+     },
+     {
+      "text": "**Risk** vs reward",
+      "cue": "risk",
+      "at": 6.762
+     },
+     {
+      "text": "**Test** and monitor",
+      "cue": "test",
+      "at": 8.413
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "e1",
+     "look": "exec",
+     "at": "table",
+     "v": 1,
+     "hold": "clipboard",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "Positioning",
+     "pose": "point",
+     "at": 3.33
+    },
+    {
+     "who": "e1",
+     "cue": "test",
+     "expr": "smile",
+     "at": 8.413
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "permission",
+     "shot": "two",
+     "who": "e1",
+     "at": 5.984
+    },
+    {
+     "cue": "test",
+     "shot": "board",
+     "at": 8.413
+    }
+   ],
+   "audio": "audio/m-brand-stretch-00.mp3",
+   "leadIn": 0.45,
+   "seconds": 10.314,
+   "words": [
+    {
+     "w": "Before",
+     "t": 0.5
+    },
+    {
+     "w": "stretching",
+     "t": 0.866
+    },
+    {
+     "w": "a",
+     "t": 1.278
+    },
+    {
+     "w": "brand",
+     "t": 1.314
+    },
+    {
+     "w": "check",
+     "t": 1.986
+    },
+    {
+     "w": "five",
+     "t": 2.245
+    },
+    {
+     "w": "things",
+     "t": 2.517
+    },
+    {
+     "w": "Positioning",
+     "t": 3.33
+    },
+    {
+     "w": "fit",
+     "t": 3.825
+    },
+    {
+     "w": "distance",
+     "t": 4.45
+    },
+    {
+     "w": "from",
+     "t": 4.804
+    },
+    {
+     "w": "the",
+     "t": 4.922
+    },
+    {
+     "w": "core",
+     "t": 4.969
+    },
+    {
+     "w": "consumer",
+     "t": 5.571
+    },
+    {
+     "w": "permission",
+     "t": 5.984
+    },
+    {
+     "w": "risk",
+     "t": 6.762
+    },
+    {
+     "w": "versus",
+     "t": 7.08
+    },
+    {
+     "w": "reward",
+     "t": 7.469
+    },
+    {
+     "w": "then",
+     "t": 8.212
+    },
+    {
+     "w": "test",
+     "t": 8.413
+    },
+    {
+     "w": "and",
+     "t": 8.755
+    },
+    {
+     "w": "monitor",
+     "t": 8.908
+    }
+   ]
+  },
+  {
+   "set": "plaza",
+   "say": "Heinz soup is a near step. Pasta sauce, a credible stretch. Vodka? Shoppers squint. It only worked thanks to the vodka pasta moment.",
+   "board": {
+    "title": "Heinz **stretch map**",
+    "lines": [
+     {
+      "text": "Soup: **near**",
+      "cue": "soup",
+      "at": 0.866
+     },
+     {
+      "text": "Pasta sauce: **credible**",
+      "cue": "Pasta",
+      "at": 2.34
+     },
+     {
+      "text": "Vodka: **exception**",
+      "cue": "Vodka",
+      "at": 4.745
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "c"
+    },
+    {
+     "id": "s1",
+     "look": "shopper",
+     "at": "shelf",
+     "v": 1,
+     "hold": "bag",
+     "pose": "hold"
+    },
+    {
+     "id": "s2",
+     "look": "elder",
+     "at": "r",
+     "v": 4
+    }
+   ],
+   "acts": [
+    {
+     "who": "s1",
+     "cue": "soup",
+     "expr": "smile",
+     "at": 0.866
+    },
+    {
+     "who": "s2",
+     "cue": "squint",
+     "pose": "shrug",
+     "expr": "dazed",
+     "at": 6.243
+    },
+    {
+     "who": "s2",
+     "cue": "moment",
+     "pose": "up",
+     "expr": "grin",
+     "at": 8.979
+    }
+   ],
+   "fx": [
+    {
+     "kind": "tick",
+     "who": "s1",
+     "cue": "soup",
+     "at": 0.866
+    },
+    {
+     "kind": "question",
+     "who": "s2",
+     "cue": "squint",
+     "at": 6.243
+    },
+    {
+     "kind": "bulb",
+     "who": "s2",
+     "cue": "moment",
+     "at": 8.979
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "Vodka",
+     "shot": "actor",
+     "who": "s2",
+     "at": 4.745
+    },
+    {
+     "cue": "moment",
+     "shot": "close",
+     "who": "s2",
+     "at": 8.979
+    }
+   ],
+   "audio": "audio/m-brand-stretch-01.mp3",
+   "leadIn": 0.45,
+   "seconds": 10.362,
+   "words": [
+    {
+     "w": "Heinz",
+     "t": 0.5
+    },
+    {
+     "w": "soup",
+     "t": 0.866
+    },
+    {
+     "w": "is",
+     "t": 1.149
+    },
+    {
+     "w": "a",
+     "t": 1.302
+    },
+    {
+     "w": "near",
+     "t": 1.349
+    },
+    {
+     "w": "step",
+     "t": 1.573
+    },
+    {
+     "w": "Pasta",
+     "t": 2.34
+    },
+    {
+     "w": "sauce",
+     "t": 2.717
+    },
+    {
+     "w": "a",
+     "t": 3.425
+    },
+    {
+     "w": "credible",
+     "t": 3.519
+    },
+    {
+     "w": "stretch",
+     "t": 3.92
+    },
+    {
+     "w": "Vodka",
+     "t": 4.745
+    },
+    {
+     "w": "Shoppers",
+     "t": 5.724
+    },
+    {
+     "w": "squint",
+     "t": 6.243
+    },
+    {
+     "w": "It",
+     "t": 7.068
+    },
+    {
+     "w": "only",
+     "t": 7.21
+    },
+    {
+     "w": "worked",
+     "t": 7.493
+    },
+    {
+     "w": "thanks",
+     "t": 7.8
+    },
+    {
+     "w": "to",
+     "t": 8.165
+    },
+    {
+     "w": "the",
+     "t": 8.248
+    },
+    {
+     "w": "vodka",
+     "t": 8.33
+    },
+    {
+     "w": "pasta",
+     "t": 8.672
+    },
+    {
+     "w": "moment",
+     "t": 8.979
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Allen's tested its stretch cheaply, with Pepsi and Mountain Dew collaborations instead of building new products alone.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "c"
+    },
+    {
+     "id": "e1",
+     "look": "exec_f",
+     "at": "table",
+     "v": 2
+    },
+    {
+     "id": "e2",
+     "look": "exec",
+     "at": "table2",
+     "v": 4,
+     "hold": "box",
+     "pose": "hold",
+     "holdCol": "#2a9d3a"
+    }
+   ],
+   "acts": [
+    {
+     "who": "e1",
+     "cue": "cheaply",
+     "expr": "grin",
+     "at": 1.585
+    },
+    {
+     "who": "e2",
+     "cue": "collaborations",
+     "pose": "cheer",
+     "expr": "laugh",
+     "at": 3.625
+    }
+   ],
+   "fx": [
+    {
+     "kind": "money",
+     "who": "e1",
+     "cue": "cheaply",
+     "at": 1.585
+    },
+    {
+     "kind": "tick",
+     "who": "e2",
+     "cue": "collaborations",
+     "at": 3.625
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "cheaply",
+     "shot": "actor",
+     "who": "e1",
+     "at": 1.585
+    },
+    {
+     "cue": "collaborations",
+     "shot": "actor",
+     "who": "e2",
+     "at": 3.625
+    }
+   ],
+   "audio": "audio/m-brand-stretch-02.mp3",
+   "leadIn": 0.45,
+   "seconds": 7.074,
+   "words": [
+    {
+     "w": "Allen's",
+     "t": 0.5
+    },
+    {
+     "w": "tested",
+     "t": 0.877
+    },
+    {
+     "w": "its",
+     "t": 1.172
+    },
+    {
+     "w": "stretch",
+     "t": 1.302
+    },
+    {
+     "w": "cheaply",
+     "t": 1.585
+    },
+    {
+     "w": "with",
+     "t": 2.363
+    },
+    {
+     "w": "Pepsi",
+     "t": 2.552
+    },
+    {
+     "w": "and",
+     "t": 2.976
+    },
+    {
+     "w": "Mountain",
+     "t": 3.118
+    },
+    {
+     "w": "Dew",
+     "t": 3.472
+    },
+    {
+     "w": "collaborations",
+     "t": 3.625
+    },
+    {
+     "w": "instead",
+     "t": 4.344
+    },
+    {
+     "w": "of",
+     "t": 4.698
+    },
+    {
+     "w": "building",
+     "t": 4.804
+    },
+    {
+     "w": "new",
+     "t": 5.158
+    },
+    {
+     "w": "products",
+     "t": 5.3
+    },
+    {
+     "w": "alone",
+     "t": 5.677
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "So walk every extension through all five checks, then launch, collaborate or avoid.",
+   "board": {
+    "title": "Stretch **with care**",
+    "lines": [
+     {
+      "text": "Run all **five** checks",
+      "cue": "five",
+      "at": 2.34
+     },
+     {
+      "text": "**Launch**, collaborate or avoid",
+      "cue": "launch",
+      "at": 3.46
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "point"
+    },
+    {
+     "id": "e1",
+     "look": "exec",
+     "at": "table",
+     "v": 1
+    }
+   ],
+   "acts": [
+    {
+     "who": "e1",
+     "cue": "launch",
+     "expr": "smile",
+     "at": 3.46
+    }
+   ],
+   "fx": [
+    {
+     "kind": "tick",
+     "who": "e1",
+     "cue": "avoid",
+     "at": 4.899
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "launch",
+     "shot": "two",
+     "who": "e1",
+     "at": 3.46
+    }
+   ],
+   "hold": 1.0,
+   "audio": "audio/m-brand-stretch-03.mp3",
+   "leadIn": 0.45,
+   "seconds": 6.754,
+   "words": [
+    {
+     "w": "So",
+     "t": 0.5
+    },
+    {
+     "w": "walk",
+     "t": 0.807
+    },
+    {
+     "w": "every",
+     "t": 1.09
+    },
+    {
+     "w": "extension",
+     "t": 1.373
+    },
+    {
+     "w": "through",
+     "t": 1.903
+    },
+    {
+     "w": "all",
+     "t": 2.116
+    },
+    {
+     "w": "five",
+     "t": 2.34
+    },
+    {
+     "w": "checks",
+     "t": 2.611
+    },
+    {
+     "w": "then",
+     "t": 3.283
+    },
+    {
+     "w": "launch",
+     "t": 3.46
+    },
+    {
+     "w": "collaborate",
+     "t": 4.132
+    },
+    {
+     "w": "or",
+     "t": 4.71
+    },
+    {
+     "w": "avoid",
+     "t": 4.899
+    }
+   ]
+  }
+ ],
+ "id": "m-brand-stretch",
+ "total": 34.5
+}

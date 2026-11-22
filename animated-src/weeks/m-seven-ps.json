@@ -1,0 +1,279 @@
+{
+ "week": 0,
+ "title": "The 7Ps (extended marketing mix)",
+ "speaker": "Bernard Booms and Mary Jo Bitner, 1981",
+ "beats": [
+  {
+   "set": "office",
+   "say": "The seven Ps take the classic four, product, price, place and promotion, and add three for services: people, process and physical evidence.",
+   "board": {
+    "title": "The **7Ps**",
+    "steps": [
+     {
+      "text": "**4Ps** product, price, place, promotion",
+      "cue": "product"
+     },
+     {
+      "text": "**People** staff and customers",
+      "cue": "people"
+     },
+     {
+      "text": "**Process** how it's delivered",
+      "cue": "process"
+     },
+     {
+      "text": "**Physical evidence** tangible cues",
+      "cue": "physical"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "e1",
+     "look": "exec_f",
+     "v": 6,
+     "at": "table"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "services",
+     "pose": "up",
+     "expr": "grin"
+    },
+    {
+     "who": "e1",
+     "cue": "physical",
+     "expr": "smile"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "services",
+     "shot": "close"
+    },
+    {
+     "cue": "people",
+     "shot": "board"
+    }
+   ]
+  },
+  {
+   "set": "plaza",
+   "say": "Qantas promises the Spirit of Australia. Friendly crew are the people. Smooth check-in is the process. Lounges and uniforms are the physical evidence.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "far"
+    },
+    {
+     "id": "w1",
+     "look": "worker",
+     "v": 4,
+     "at": "l"
+    },
+    {
+     "id": "s1",
+     "look": "shopper",
+     "v": 3,
+     "at": "c",
+     "hold": "bag",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "w1",
+     "cue": "Friendly",
+     "pose": "present",
+     "expr": "grin"
+    },
+    {
+     "who": "s1",
+     "cue": "Smooth",
+     "expr": "relief"
+    },
+    {
+     "who": "s1",
+     "cue": "Lounges",
+     "expr": "grin"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "heart",
+     "who": "w1",
+     "cue": "Friendly"
+    },
+    {
+     "kind": "tick",
+     "who": "s1",
+     "cue": "Smooth"
+    },
+    {
+     "kind": "sparkle",
+     "who": "s1",
+     "cue": "Lounges"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "Friendly",
+     "shot": "actor",
+     "who": "w1"
+    },
+    {
+     "cue": "Smooth",
+     "shot": "actor",
+     "who": "s1"
+    },
+    {
+     "cue": "evidence",
+     "shot": "two",
+     "who": "s1"
+    }
+   ]
+  },
+  {
+   "set": "plaza",
+   "say": "But if the app is clunky and flights run late, no advertising can hold that promise up.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "far"
+    },
+    {
+     "id": "w1",
+     "look": "worker",
+     "v": 4,
+     "at": "l"
+    },
+    {
+     "id": "s1",
+     "look": "shopper",
+     "v": 3,
+     "at": "c",
+     "hold": "phone",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "s1",
+     "cue": "clunky",
+     "expr": "pained"
+    },
+    {
+     "who": "s1",
+     "cue": "late",
+     "pose": "hips",
+     "expr": "stern"
+    },
+    {
+     "who": "host",
+     "cue": "promise",
+     "pose": "shrug",
+     "expr": "nervous"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "cross",
+     "who": "s1",
+     "cue": "clunky"
+    },
+    {
+     "kind": "clock",
+     "who": "s1",
+     "cue": "late"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "clunky",
+     "shot": "actor",
+     "who": "s1"
+    },
+    {
+     "cue": "promise",
+     "shot": "host"
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Use it like this: for a service brand cover all seven, but spend most time on the three that prove the promise.",
+   "board": {
+    "title": "Use it **like this**",
+    "lines": [
+     {
+      "text": "Cover **all seven**",
+      "cue": "cover"
+     },
+     {
+      "text": "Focus on the **three** that prove it",
+      "cue": "three"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "e1",
+     "look": "exec_f",
+     "v": 6,
+     "at": "table"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "three",
+     "pose": "point"
+    },
+    {
+     "who": "e1",
+     "cue": "prove",
+     "expr": "smile"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "prove",
+     "shot": "close"
+    }
+   ],
+   "hold": 1.0
+  }
+ ]
+}

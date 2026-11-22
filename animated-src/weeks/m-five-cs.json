@@ -1,0 +1,278 @@
+{
+ "week": 0,
+ "title": "The 5Cs framework",
+ "speaker": "Tim Collier, Cummins & Partners, Week 7",
+ "beats": [
+  {
+   "set": "office",
+   "say": "Before writing a brief, scan the five Cs: company, culture, category, connections and consumer.",
+   "board": {
+    "title": "The **five Cs**",
+    "steps": [
+     {
+      "text": "**Company**: what's up with the client",
+      "cue": "company"
+     },
+     {
+      "text": "**Culture**: the wider world",
+      "cue": "culture"
+     },
+     {
+      "text": "**Category**: market and rivals",
+      "cue": "category"
+     },
+     {
+      "text": "**Connections**: the medium",
+      "cue": "connections"
+     },
+     {
+      "text": "**Consumer**: the audience's world",
+      "cue": "consumer"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "e1",
+     "look": "exec_f",
+     "at": "table",
+     "v": 2
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "company",
+     "pose": "point"
+    },
+    {
+     "who": "e1",
+     "cue": "consumer",
+     "pose": "chin",
+     "expr": "smile"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "category",
+     "shot": "two",
+     "who": "e1"
+    },
+    {
+     "cue": "connections",
+     "shot": "board"
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Say the brief is a low-sugar sports drink. The company has a new line. And culture? Run clubs are booming.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "c"
+    },
+    {
+     "id": "e1",
+     "look": "exec_f",
+     "at": "table",
+     "v": 2,
+     "hold": "clipboard",
+     "pose": "hold"
+    },
+    {
+     "id": "e2",
+     "look": "student",
+     "at": "table2",
+     "v": 4,
+     "hold": "laptop",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "e1",
+     "cue": "company",
+     "expr": "smile"
+    },
+    {
+     "who": "e2",
+     "cue": "booming",
+     "pose": "cheer",
+     "expr": "grin"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "say",
+     "who": "e1",
+     "cue": "company",
+     "text": "New low-sugar line!"
+    },
+    {
+     "kind": "stars",
+     "who": "e2",
+     "cue": "booming"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "company",
+     "shot": "actor",
+     "who": "e1"
+    },
+    {
+     "cue": "booming",
+     "shot": "actor",
+     "who": "e2"
+    }
+   ]
+  },
+  {
+   "set": "street",
+   "say": "Gatorade and Powerade own the category. Runners live on Strava and TikTok. And the consumer? Someone who just finished a race.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "front"
+    },
+    {
+     "id": "p1",
+     "look": "student",
+     "at": "walkL",
+     "v": 4,
+     "to": "l",
+     "walkCue": "Runners",
+     "hold": "phone",
+     "pose": "hold"
+    },
+    {
+     "id": "p2",
+     "look": "student",
+     "at": "r",
+     "v": 7
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "own",
+     "pose": "shrug"
+    },
+    {
+     "who": "p1",
+     "cue": "TikTok",
+     "expr": "grin"
+    },
+    {
+     "who": "p2",
+     "cue": "finished",
+     "pose": "cheer",
+     "expr": "laugh"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "eye",
+     "who": "p1",
+     "cue": "TikTok"
+    },
+    {
+     "kind": "think",
+     "who": "p2",
+     "cue": "finished",
+     "text": "Done! So thirsty."
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "Runners",
+     "shot": "actor",
+     "who": "p1"
+    },
+    {
+     "cue": "finished",
+     "shot": "actor",
+     "who": "p2"
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "So pull one implication from each C, then boil them down to a single insight for the brief.",
+   "board": {
+    "title": "Use it **like this**",
+    "lines": [
+     {
+      "text": "One **implication** per C",
+      "cue": "implication"
+     },
+     {
+      "text": "Boil down to **one insight**",
+      "cue": "insight"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "point"
+    },
+    {
+     "id": "e1",
+     "look": "exec",
+     "at": "table",
+     "v": 3
+    }
+   ],
+   "acts": [
+    {
+     "who": "e1",
+     "cue": "insight",
+     "expr": "smile"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "bulb",
+     "who": "e1",
+     "cue": "insight"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "insight",
+     "shot": "two",
+     "who": "e1"
+    }
+   ],
+   "hold": 1.0
+  }
+ ]
+}

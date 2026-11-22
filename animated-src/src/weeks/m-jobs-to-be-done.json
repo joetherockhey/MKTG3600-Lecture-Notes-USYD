@@ -1,0 +1,653 @@
+{
+ "week": 0,
+ "title": "Jobs to be done",
+ "speaker": "Clayton Christensen, Harvard Business School, Competing Against Luck, 2016",
+ "beats": [
+  {
+   "set": "office",
+   "say": "Jobs to be done says people hire products to make progress in a circumstance. Every job has a functional, an emotional and a social side.",
+   "board": {
+    "title": "**Jobs** to be done",
+    "steps": [
+     {
+      "text": "**Circumstance** the situation",
+      "cue": "circumstance",
+      "at": 3.531
+     },
+     {
+      "text": "**Functional** the practical task",
+      "cue": "functional",
+      "at": 5.476
+     },
+     {
+      "text": "**Emotional** how they want to feel",
+      "cue": "emotional",
+      "at": 6.349
+     },
+     {
+      "text": "**Social** how they want to be seen",
+      "cue": "social",
+      "at": 7.068
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "e1",
+     "look": "exec",
+     "v": 4,
+     "at": "table"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "hire",
+     "pose": "point",
+     "expr": "grin",
+     "at": 1.939
+    },
+    {
+     "who": "e1",
+     "cue": "social",
+     "pose": "chin",
+     "at": 7.068
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "hire",
+     "shot": "close",
+     "at": 1.939
+    },
+    {
+     "cue": "functional",
+     "shot": "board",
+     "at": 5.476
+    }
+   ],
+   "audio": "audio/m-jobs-to-be-done-00.mp3",
+   "leadIn": 0.45,
+   "seconds": 8.85,
+   "words": [
+    {
+     "w": "Jobs",
+     "t": 0.5
+    },
+    {
+     "w": "to",
+     "t": 0.854
+    },
+    {
+     "w": "be",
+     "t": 0.925
+    },
+    {
+     "w": "done",
+     "t": 1.019
+    },
+    {
+     "w": "says",
+     "t": 1.361
+    },
+    {
+     "w": "people",
+     "t": 1.609
+    },
+    {
+     "w": "hire",
+     "t": 1.939
+    },
+    {
+     "w": "products",
+     "t": 2.21
+    },
+    {
+     "w": "to",
+     "t": 2.646
+    },
+    {
+     "w": "make",
+     "t": 2.729
+    },
+    {
+     "w": "progress",
+     "t": 2.906
+    },
+    {
+     "w": "in",
+     "t": 3.377
+    },
+    {
+     "w": "a",
+     "t": 3.495
+    },
+    {
+     "w": "circumstance",
+     "t": 3.531
+    },
+    {
+     "w": "Every",
+     "t": 4.627
+    },
+    {
+     "w": "job",
+     "t": 4.934
+    },
+    {
+     "w": "has",
+     "t": 5.264
+    },
+    {
+     "w": "a",
+     "t": 5.429
+    },
+    {
+     "w": "functional",
+     "t": 5.476
+    },
+    {
+     "w": "an",
+     "t": 6.243
+    },
+    {
+     "w": "emotional",
+     "t": 6.349
+    },
+    {
+     "w": "and",
+     "t": 6.891
+    },
+    {
+     "w": "a",
+     "t": 7.033
+    },
+    {
+     "w": "social",
+     "t": 7.068
+    },
+    {
+     "w": "side",
+     "t": 7.446
+    }
+   ]
+  },
+  {
+   "set": "street",
+   "say": "Early morning commuters were buying thick milkshakes. Not for the taste. A shake made a long, boring drive interesting, and kept them full until lunch.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "l"
+    },
+    {
+     "id": "p1",
+     "look": "worker",
+     "v": 2,
+     "at": "bus",
+     "hold": "coffee",
+     "pose": "hold",
+     "holdCol": "#f2a7c3"
+    },
+    {
+     "id": "p2",
+     "look": "exec_f",
+     "v": 3,
+     "at": "r"
+    }
+   ],
+   "acts": [
+    {
+     "who": "p1",
+     "cue": "boring",
+     "expr": "dazed",
+     "at": 5.984
+    },
+    {
+     "who": "p1",
+     "cue": "interesting",
+     "expr": "grin",
+     "at": 6.609
+    },
+    {
+     "who": "p1",
+     "cue": "full",
+     "expr": "relief",
+     "at": 7.906
+    }
+   ],
+   "fx": [
+    {
+     "kind": "zzz",
+     "who": "p1",
+     "cue": "boring",
+     "at": 5.984
+    },
+    {
+     "kind": "sparkle",
+     "who": "p1",
+     "cue": "interesting",
+     "at": 6.609
+    },
+    {
+     "kind": "tick",
+     "who": "p1",
+     "cue": "full",
+     "at": 7.906
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "boring",
+     "shot": "actor",
+     "who": "p1",
+     "at": 5.984
+    },
+    {
+     "cue": "full",
+     "shot": "two",
+     "who": "p1",
+     "at": 7.906
+    }
+   ],
+   "audio": "audio/m-jobs-to-be-done-01.mp3",
+   "leadIn": 0.45,
+   "seconds": 9.786,
+   "words": [
+    {
+     "w": "Early",
+     "t": 0.5
+    },
+    {
+     "w": "morning",
+     "t": 0.842
+    },
+    {
+     "w": "commuters",
+     "t": 1.137
+    },
+    {
+     "w": "were",
+     "t": 1.597
+    },
+    {
+     "w": "buying",
+     "t": 1.703
+    },
+    {
+     "w": "thick",
+     "t": 2.057
+    },
+    {
+     "w": "milkshakes",
+     "t": 2.304
+    },
+    {
+     "w": "Not",
+     "t": 3.259
+    },
+    {
+     "w": "for",
+     "t": 3.625
+    },
+    {
+     "w": "the",
+     "t": 3.778
+    },
+    {
+     "w": "taste",
+     "t": 3.873
+    },
+    {
+     "w": "A",
+     "t": 4.71
+    },
+    {
+     "w": "shake",
+     "t": 4.816
+    },
+    {
+     "w": "made",
+     "t": 5.17
+    },
+    {
+     "w": "a",
+     "t": 5.347
+    },
+    {
+     "w": "long",
+     "t": 5.382
+    },
+    {
+     "w": "boring",
+     "t": 5.984
+    },
+    {
+     "w": "drive",
+     "t": 6.314
+    },
+    {
+     "w": "interesting",
+     "t": 6.609
+    },
+    {
+     "w": "and",
+     "t": 7.387
+    },
+    {
+     "w": "kept",
+     "t": 7.54
+    },
+    {
+     "w": "them",
+     "t": 7.776
+    },
+    {
+     "w": "full",
+     "t": 7.906
+    },
+    {
+     "w": "until",
+     "t": 8.2
+    },
+    {
+     "w": "lunch",
+     "t": 8.425
+    }
+   ]
+  },
+  {
+   "set": "street",
+   "say": "So the real competitors were bananas, bagels and boredom, not other milkshakes.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "l"
+    },
+    {
+     "id": "p1",
+     "look": "worker",
+     "v": 2,
+     "at": "bus",
+     "hold": "coffee",
+     "pose": "hold",
+     "holdCol": "#f2a7c3"
+    },
+    {
+     "id": "p2",
+     "look": "exec_f",
+     "v": 3,
+     "at": "r"
+    }
+   ],
+   "acts": [
+    {
+     "who": "p2",
+     "cue": "bananas",
+     "pose": "chin",
+     "expr": "nervous",
+     "at": 1.715
+    },
+    {
+     "who": "host",
+     "cue": "boredom",
+     "pose": "up",
+     "expr": "grin",
+     "at": 3.248
+    }
+   ],
+   "fx": [
+    {
+     "kind": "think",
+     "who": "p2",
+     "text": "Banana? Bagel?",
+     "cue": "bananas",
+     "at": 1.715
+    },
+    {
+     "kind": "bulb",
+     "who": "host",
+     "cue": "boredom",
+     "at": 3.248
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "bananas",
+     "shot": "actor",
+     "who": "p2",
+     "at": 1.715
+    },
+    {
+     "cue": "boredom",
+     "shot": "close",
+     "at": 3.248
+    }
+   ],
+   "audio": "audio/m-jobs-to-be-done-02.mp3",
+   "leadIn": 0.45,
+   "seconds": 5.97,
+   "words": [
+    {
+     "w": "So",
+     "t": 0.5
+    },
+    {
+     "w": "the",
+     "t": 0.748
+    },
+    {
+     "w": "real",
+     "t": 0.842
+    },
+    {
+     "w": "competitors",
+     "t": 1.066
+    },
+    {
+     "w": "were",
+     "t": 1.62
+    },
+    {
+     "w": "bananas",
+     "t": 1.715
+    },
+    {
+     "w": "bagels",
+     "t": 2.505
+    },
+    {
+     "w": "and",
+     "t": 3.094
+    },
+    {
+     "w": "boredom",
+     "t": 3.248
+    },
+    {
+     "w": "not",
+     "t": 3.967
+    },
+    {
+     "w": "other",
+     "t": 4.238
+    },
+    {
+     "w": "milkshakes",
+     "t": 4.391
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Use it like this: write the job in one sentence, name the surprising rivals, and do that job better.",
+   "board": {
+    "title": "Use it **like this**",
+    "lines": [
+     {
+      "text": "The **job** in one sentence",
+      "cue": "job",
+      "at": 2.08
+     },
+     {
+      "text": "Name the **surprising** rivals",
+      "cue": "surprising",
+      "at": 3.767
+     },
+     {
+      "text": "Do the job **better**",
+      "cue": "better",
+      "at": 5.748
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "e1",
+     "look": "exec",
+     "v": 4,
+     "at": "table"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "surprising",
+     "pose": "point",
+     "at": 3.767
+    },
+    {
+     "who": "e1",
+     "cue": "better",
+     "expr": "smile",
+     "at": 5.748
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "better",
+     "shot": "close",
+     "at": 5.748
+    }
+   ],
+   "hold": 1.0,
+   "audio": "audio/m-jobs-to-be-done-03.mp3",
+   "leadIn": 0.45,
+   "seconds": 7.426,
+   "words": [
+    {
+     "w": "Use",
+     "t": 0.5
+    },
+    {
+     "w": "it",
+     "t": 0.818
+    },
+    {
+     "w": "like",
+     "t": 0.889
+    },
+    {
+     "w": "this",
+     "t": 1.101
+    },
+    {
+     "w": "write",
+     "t": 1.726
+    },
+    {
+     "w": "the",
+     "t": 2.009
+    },
+    {
+     "w": "job",
+     "t": 2.08
+    },
+    {
+     "w": "in",
+     "t": 2.351
+    },
+    {
+     "w": "one",
+     "t": 2.458
+    },
+    {
+     "w": "sentence",
+     "t": 2.646
+    },
+    {
+     "w": "name",
+     "t": 3.413
+    },
+    {
+     "w": "the",
+     "t": 3.708
+    },
+    {
+     "w": "surprising",
+     "t": 3.767
+    },
+    {
+     "w": "rivals",
+     "t": 4.321
+    },
+    {
+     "w": "and",
+     "t": 4.993
+    },
+    {
+     "w": "do",
+     "t": 5.146
+    },
+    {
+     "w": "that",
+     "t": 5.347
+    },
+    {
+     "w": "job",
+     "t": 5.535
+    },
+    {
+     "w": "better",
+     "t": 5.748
+    }
+   ]
+  }
+ ],
+ "id": "m-jobs-to-be-done",
+ "total": 32.07
+}

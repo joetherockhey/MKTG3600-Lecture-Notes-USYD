@@ -1,0 +1,49 @@
+WEBVTT
+
+00:00:00.500 --> 00:00:01.300
+Five analogies for how the model thinks.
+
+00:00:00.889 --> 00:00:02.891
+A cafe on a busy corner.
+
+00:00:02.941 --> 00:00:06.617
+A song stuck in your head.
+
+00:00:06.667 --> 00:00:08.316
+The fifth slice of pizza.
+
+00:00:08.366 --> 00:00:09.719
+Last year's star.
+
+00:00:09.769 --> 00:00:11.818
+And a flight simulator.
+
+00:00:12.533 --> 00:00:14.346
+The corner cafe sells coffee with no ads at all: that's baseline.
+
+00:00:14.396 --> 00:00:21.691
+Ads that keep working after they stop are adstock, like Slip, Slop, Slap.
+
+00:00:22.400 --> 00:00:23.282
+Each extra dollar adds less, like a fifth slice of pizza.
+
+00:00:23.332 --> 00:00:28.730
+A channel's average can hide what the next dollar does.
+
+00:00:28.780 --> 00:00:31.102
+So test the plan first.
+
+00:00:31.800 --> 00:00:32.988
+Use it like this:
+
+00:00:33.038 --> 00:00:34.309
+strip out baseline,
+
+00:00:34.359 --> 00:00:35.417
+credit carry-over,
+
+00:00:35.467 --> 00:00:36.632
+find saturation,
+
+00:00:36.682 --> 00:00:39.366
+and test before committing budget.

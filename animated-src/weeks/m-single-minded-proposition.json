@@ -1,0 +1,270 @@
+{
+ "week": 0,
+ "title": "The single-minded proposition (one message)",
+ "speaker": "Tim Collier, Week 7; Andrew Baxter, Week 8; Libby Hogson, Week 6; Brendan Willenberg, Week 9",
+ "beats": [
+  {
+   "set": "office",
+   "say": "The single-minded proposition is the one idea your ad must say. Just one, an invitation not a claim, repeated in new ways.",
+   "board": {
+    "title": "The single-minded **proposition**",
+    "steps": [
+     {
+      "text": "**One thing**, not a list",
+      "cue": "Just"
+     },
+     {
+      "text": "An **invitation**, not a claim",
+      "cue": "invitation"
+     },
+     {
+      "text": "**Repeated** in new ways",
+      "cue": "repeated"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "e1",
+     "look": "exec_f",
+     "at": "table",
+     "v": 1
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "Just",
+     "pose": "up"
+    },
+    {
+     "who": "e1",
+     "cue": "repeated",
+     "pose": "chin",
+     "expr": "smile"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "invitation",
+     "shot": "two",
+     "who": "e1"
+    },
+    {
+     "cue": "repeated",
+     "shot": "board"
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "In the meeting, the client wants to say everything: cheaper, faster, greener, tastier. The creative's eyes glaze over.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "l"
+    },
+    {
+     "id": "e1",
+     "look": "exec",
+     "at": "table",
+     "v": 2
+    },
+    {
+     "id": "cr",
+     "look": "student",
+     "at": "table2",
+     "v": 5
+    }
+   ],
+   "acts": [
+    {
+     "who": "e1",
+     "cue": "everything",
+     "pose": "up",
+     "expr": "grin"
+    },
+    {
+     "who": "cr",
+     "cue": "glaze",
+     "pose": "none",
+     "expr": "dazed"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "say",
+     "who": "e1",
+     "cue": "cheaper",
+     "text": "Cheaper! Faster! Greener!"
+    },
+    {
+     "kind": "zzz",
+     "who": "cr",
+     "cue": "glaze"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "cheaper",
+     "shot": "actor",
+     "who": "e1"
+    },
+    {
+     "cue": "glaze",
+     "shot": "close",
+     "who": "cr"
+    }
+   ]
+  },
+  {
+   "set": "street",
+   "say": "Baxter's rule: fifteen words or fewer, and the best billboards use six. Powerful wash in cold water. Instantly clear.",
+   "board": {
+    "title": "Powerful wash in **cold water.**",
+    "lines": [
+     {
+      "text": "Five words. **One idea.**",
+      "cue": "Instantly"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "front"
+    },
+    {
+     "id": "p1",
+     "look": "shopper",
+     "at": "bus",
+     "v": 3
+    },
+    {
+     "id": "p2",
+     "look": "worker",
+     "at": "r",
+     "v": 4
+    }
+   ],
+   "acts": [
+    {
+     "who": "p1",
+     "cue": "Powerful",
+     "pose": "point",
+     "expr": "smile"
+    },
+    {
+     "who": "p2",
+     "cue": "clear",
+     "expr": "grin"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "bulb",
+     "who": "p2",
+     "cue": "Instantly"
+    },
+    {
+     "kind": "tick",
+     "who": "p1",
+     "cue": "clear"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "Powerful",
+     "shot": "board"
+    },
+    {
+     "cue": "Instantly",
+     "shot": "actor",
+     "who": "p2"
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "So cut every message down to one, make it an invitation, and repeat it until it's yours.",
+   "board": {
+    "title": "Use it **like this**",
+    "lines": [
+     {
+      "text": "Cut it to **one**",
+      "cue": "one"
+     },
+     {
+      "text": "Make it an **invitation**",
+      "cue": "invitation"
+     },
+     {
+      "text": "**Repeat** until it's yours",
+      "cue": "repeat"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "point"
+    },
+    {
+     "id": "e1",
+     "look": "exec_f",
+     "at": "table",
+     "v": 1
+    }
+   ],
+   "acts": [
+    {
+     "who": "e1",
+     "cue": "yours",
+     "pose": "cheer",
+     "expr": "grin"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "tick",
+     "who": "e1",
+     "cue": "yours"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "yours",
+     "shot": "two",
+     "who": "e1"
+    }
+   ],
+   "hold": 1.0
+  }
+ ]
+}

@@ -1,0 +1,623 @@
+{
+ "week": 0,
+ "title": "What the most effective advertising is (famous, emotional, single-minded, memorable)",
+ "speaker": "Andrew Baxter, Australian Pork Limited, Week 8; drawing on UK effectiveness research",
+ "beats": [
+  {
+   "set": "stage",
+   "say": "The most effective advertising is famous, emotional, single-minded and memorable. And differentiation is the biggest brand driver of all.",
+   "board": {
+    "title": "The most **effective** ads",
+    "steps": [
+     {
+      "text": "**Famous**: 72% outsell rivals",
+      "cue": "famous",
+      "at": 2.08
+     },
+     {
+      "text": "**Emotional**: about 62% succeed",
+      "cue": "emotional",
+      "at": 2.894
+     },
+     {
+      "text": "**Single-minded**: one message",
+      "cue": "single",
+      "at": 3.672
+     },
+     {
+      "text": "**Memorable**: story, music, colour",
+      "cue": "memorable",
+      "at": 4.568
+     },
+     {
+      "text": "**Differentiation**: top driver",
+      "cue": "differentiation",
+      "at": 5.63
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "a",
+     "look": "student",
+     "v": 2,
+     "at": "r"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "differentiation",
+     "pose": "up",
+     "expr": "grin",
+     "at": 5.63
+    },
+    {
+     "who": "a",
+     "cue": "driver",
+     "expr": "smile",
+     "at": 7.363
+    }
+   ],
+   "fx": [
+    {
+     "kind": "stars",
+     "who": "host",
+     "cue": "famous",
+     "at": 2.08
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "differentiation",
+     "shot": "close",
+     "at": 5.63
+    }
+   ],
+   "audio": "audio/m-effective-advertising-00.mp3",
+   "leadIn": 0.45,
+   "seconds": 9.066,
+   "words": [
+    {
+     "w": "The",
+     "t": 0.5
+    },
+    {
+     "w": "most",
+     "t": 0.63
+    },
+    {
+     "w": "effective",
+     "t": 0.901
+    },
+    {
+     "w": "advertising",
+     "t": 1.255
+    },
+    {
+     "w": "is",
+     "t": 1.927
+    },
+    {
+     "w": "famous",
+     "t": 2.08
+    },
+    {
+     "w": "emotional",
+     "t": 2.894
+    },
+    {
+     "w": "single-minded",
+     "t": 3.672
+    },
+    {
+     "w": "and",
+     "t": 4.403
+    },
+    {
+     "w": "memorable",
+     "t": 4.568
+    },
+    {
+     "w": "And",
+     "t": 5.417
+    },
+    {
+     "w": "differentiation",
+     "t": 5.63
+    },
+    {
+     "w": "is",
+     "t": 6.479
+    },
+    {
+     "w": "the",
+     "t": 6.609
+    },
+    {
+     "w": "biggest",
+     "t": 6.703
+    },
+    {
+     "w": "brand",
+     "t": 7.092
+    },
+    {
+     "w": "driver",
+     "t": 7.363
+    },
+    {
+     "w": "of",
+     "t": 7.658
+    },
+    {
+     "w": "all",
+     "t": 7.752
+    }
+   ]
+  },
+  {
+   "set": "plaza",
+   "say": "Share a Coke put names on the bottles. People hunted for their own name and shared the photos. Famous, and personal.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "c",
+     "pose": "none"
+    },
+    {
+     "id": "s1",
+     "look": "shopper",
+     "v": 1,
+     "at": "shelf"
+    },
+    {
+     "id": "s2",
+     "look": "student",
+     "v": 2,
+     "at": "walkL",
+     "to": "l",
+     "walkCue": "hunted",
+     "hold": "phone",
+     "pose": "hold",
+     "walkAt": 3.212
+    }
+   ],
+   "acts": [
+    {
+     "who": "s1",
+     "cue": "names",
+     "pose": "cheer",
+     "expr": "grin",
+     "at": 1.538
+    },
+    {
+     "who": "s2",
+     "cue": "shared",
+     "expr": "laugh",
+     "at": 4.498
+    },
+    {
+     "who": "host",
+     "cue": "personal",
+     "pose": "present",
+     "expr": "smile",
+     "at": 6.833
+    }
+   ],
+   "fx": [
+    {
+     "kind": "say",
+     "who": "s1",
+     "cue": "names",
+     "text": "That's my name!",
+     "at": 1.538
+    },
+    {
+     "kind": "heart",
+     "who": "s2",
+     "cue": "shared",
+     "at": 4.498
+    },
+    {
+     "kind": "stars",
+     "who": "host",
+     "cue": "Famous",
+     "at": 5.807
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "names",
+     "shot": "actor",
+     "who": "s1",
+     "at": 1.538
+    },
+    {
+     "cue": "shared",
+     "shot": "actor",
+     "who": "s2",
+     "at": 4.498
+    },
+    {
+     "cue": "Famous",
+     "shot": "close",
+     "at": 5.807
+    }
+   ],
+   "audio": "audio/m-effective-advertising-01.mp3",
+   "leadIn": 0.45,
+   "seconds": 8.394,
+   "words": [
+    {
+     "w": "Share",
+     "t": 0.5
+    },
+    {
+     "w": "a",
+     "t": 0.913
+    },
+    {
+     "w": "Coke",
+     "t": 0.96
+    },
+    {
+     "w": "put",
+     "t": 1.325
+    },
+    {
+     "w": "names",
+     "t": 1.538
+    },
+    {
+     "w": "on",
+     "t": 1.891
+    },
+    {
+     "w": "the",
+     "t": 1.974
+    },
+    {
+     "w": "bottles",
+     "t": 2.009
+    },
+    {
+     "w": "People",
+     "t": 2.859
+    },
+    {
+     "w": "hunted",
+     "t": 3.212
+    },
+    {
+     "w": "for",
+     "t": 3.542
+    },
+    {
+     "w": "their",
+     "t": 3.649
+    },
+    {
+     "w": "own",
+     "t": 3.802
+    },
+    {
+     "w": "name",
+     "t": 4.014
+    },
+    {
+     "w": "and",
+     "t": 4.344
+    },
+    {
+     "w": "shared",
+     "t": 4.498
+    },
+    {
+     "w": "the",
+     "t": 4.851
+    },
+    {
+     "w": "photos",
+     "t": 4.899
+    },
+    {
+     "w": "Famous",
+     "t": 5.807
+    },
+    {
+     "w": "and",
+     "t": 6.644
+    },
+    {
+     "w": "personal",
+     "t": 6.833
+    }
+   ]
+  },
+  {
+   "set": "home",
+   "say": "Why emotion? Around ninety-five percent of buying is intuitive, so feelings beat facts.",
+   "board": {
+    "big": "95%",
+    "caption": "of purchases are **intuitive**",
+    "cue": "ninety",
+    "at": 2.198
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "l",
+     "pose": "none"
+    },
+    {
+     "id": "p",
+     "look": "shopper",
+     "v": 3,
+     "at": "sofa",
+     "mode": "sit"
+    },
+    {
+     "id": "q",
+     "look": "elder",
+     "v": 2,
+     "at": "sofa2",
+     "mode": "sit"
+    }
+   ],
+   "acts": [
+    {
+     "who": "p",
+     "cue": "intuitive",
+     "expr": "smile",
+     "at": 3.625
+    },
+    {
+     "who": "q",
+     "cue": "feelings",
+     "expr": "relief_open",
+     "at": 4.781
+    }
+   ],
+   "fx": [
+    {
+     "kind": "brain",
+     "who": "p",
+     "cue": "intuitive",
+     "at": 3.625
+    },
+    {
+     "kind": "heart",
+     "who": "q",
+     "cue": "feelings",
+     "at": 4.781
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "ninety",
+     "shot": "board",
+     "at": 2.198
+    },
+    {
+     "cue": "feelings",
+     "shot": "actor",
+     "who": "q",
+     "at": 4.781
+    }
+   ],
+   "audio": "audio/m-effective-advertising-02.mp3",
+   "leadIn": 0.45,
+   "seconds": 6.906,
+   "words": [
+    {
+     "w": "Why",
+     "t": 0.5
+    },
+    {
+     "w": "emotion",
+     "t": 0.866
+    },
+    {
+     "w": "Around",
+     "t": 1.821
+    },
+    {
+     "w": "ninety-five",
+     "t": 2.198
+    },
+    {
+     "w": "percent",
+     "t": 2.705
+    },
+    {
+     "w": "of",
+     "t": 3.035
+    },
+    {
+     "w": "buying",
+     "t": 3.118
+    },
+    {
+     "w": "is",
+     "t": 3.507
+    },
+    {
+     "w": "intuitive",
+     "t": 3.625
+    },
+    {
+     "w": "so",
+     "t": 4.533
+    },
+    {
+     "w": "feelings",
+     "t": 4.781
+    },
+    {
+     "w": "beat",
+     "t": 5.264
+    },
+    {
+     "w": "facts",
+     "t": 5.476
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Use it as a checklist: score the campaign on each trait, and fix the weakest one first.",
+   "board": {
+    "title": "Use it as a **checklist**",
+    "lines": [
+     {
+      "text": "Score each **trait**",
+      "cue": "trait",
+      "at": 3.354
+     },
+     {
+      "text": "Fix the **weakest** first",
+      "cue": "weakest",
+      "at": 4.45
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "point"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "weakest",
+     "pose": "cheer",
+     "expr": "grin",
+     "at": 4.45
+    }
+   ],
+   "fx": [
+    {
+     "kind": "tick",
+     "who": "host",
+     "cue": "weakest",
+     "at": 4.45
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "weakest",
+     "shot": "close",
+     "at": 4.45
+    }
+   ],
+   "hold": 1.0,
+   "audio": "audio/m-effective-advertising-03.mp3",
+   "leadIn": 0.45,
+   "seconds": 6.874,
+   "words": [
+    {
+     "w": "Use",
+     "t": 0.5
+    },
+    {
+     "w": "it",
+     "t": 0.842
+    },
+    {
+     "w": "as",
+     "t": 0.925
+    },
+    {
+     "w": "a",
+     "t": 1.054
+    },
+    {
+     "w": "checklist",
+     "t": 1.101
+    },
+    {
+     "w": "score",
+     "t": 1.927
+    },
+    {
+     "w": "the",
+     "t": 2.304
+    },
+    {
+     "w": "campaign",
+     "t": 2.387
+    },
+    {
+     "w": "on",
+     "t": 2.894
+    },
+    {
+     "w": "each",
+     "t": 3.13
+    },
+    {
+     "w": "trait",
+     "t": 3.354
+    },
+    {
+     "w": "and",
+     "t": 3.955
+    },
+    {
+     "w": "fix",
+     "t": 4.097
+    },
+    {
+     "w": "the",
+     "t": 4.356
+    },
+    {
+     "w": "weakest",
+     "t": 4.45
+    },
+    {
+     "w": "one",
+     "t": 4.84
+    },
+    {
+     "w": "first",
+     "t": 5.028
+    }
+   ]
+  }
+ ],
+ "id": "m-effective-advertising",
+ "total": 31.23
+}

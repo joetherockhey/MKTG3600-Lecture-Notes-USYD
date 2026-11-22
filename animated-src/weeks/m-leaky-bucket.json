@@ -1,0 +1,279 @@
+{
+ "week": 0,
+ "title": "The leaky bucket",
+ "speaker": "Shannon Wright, Nestle Oceania, Week 5 (on Allen's)",
+ "beats": [
+  {
+   "set": "office",
+   "say": "The leaky bucket says brand health drains. The bucket holds today's buyers. Natural loss and trend pressure leak them out. A refill means new buyers.",
+   "board": {
+    "title": "The **leaky bucket**",
+    "steps": [
+     {
+      "text": "**Bucket**: today's buyers",
+      "cue": "today"
+     },
+     {
+      "text": "**Leak**: loss plus trend pressure",
+      "cue": "Natural"
+     },
+     {
+      "text": "**Refill**: new buyers, fresh relevance",
+      "cue": "refill"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "e1",
+     "look": "exec",
+     "at": "table",
+     "v": 2
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "drains",
+     "pose": "point"
+    },
+    {
+     "who": "e1",
+     "cue": "refill",
+     "pose": "chin",
+     "expr": "smile"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "Natural",
+     "shot": "two",
+     "who": "e1"
+    },
+    {
+     "cue": "refill",
+     "shot": "board"
+    }
+   ]
+  },
+  {
+   "set": "plaza",
+   "say": "Allen's lollies look healthy today. But older fans drift away, and health trends pull younger ones off too.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "c"
+    },
+    {
+     "id": "e",
+     "look": "elder",
+     "at": "shelf",
+     "v": 2
+    },
+    {
+     "id": "s",
+     "look": "student",
+     "at": "r",
+     "v": 4,
+     "hold": "phone",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "healthy",
+     "pose": "present",
+     "expr": "smile"
+    },
+    {
+     "who": "e",
+     "cue": "drift",
+     "pose": "none",
+     "expr": "dazed",
+     "to": "walkL"
+    },
+    {
+     "who": "s",
+     "cue": "health",
+     "pose": "chin",
+     "expr": "nervous"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "zzz",
+     "who": "e",
+     "cue": "drift"
+    },
+    {
+     "kind": "think",
+     "who": "s",
+     "cue": "health",
+     "text": "Too much sugar?"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "drift",
+     "shot": "actor",
+     "who": "e"
+    },
+    {
+     "cue": "trends",
+     "shot": "actor",
+     "who": "s"
+    }
+   ]
+  },
+  {
+   "set": "plaza",
+   "say": "So Allen's refills the bucket. A playground, not a museum: intense flavours and wild textures for Gen Z.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "c"
+    },
+    {
+     "id": "k",
+     "look": "student",
+     "at": "walkR",
+     "v": 6,
+     "to": "shelf",
+     "walkCue": "refills"
+    },
+    {
+     "id": "kid",
+     "look": "kid",
+     "at": "l",
+     "v": 3
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "playground",
+     "pose": "up",
+     "expr": "grin"
+    },
+    {
+     "who": "k",
+     "cue": "intense",
+     "pose": "cheer",
+     "expr": "laugh"
+    },
+    {
+     "who": "kid",
+     "cue": "textures",
+     "expr": "grin"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "tick",
+     "who": "host",
+     "cue": "playground"
+    },
+    {
+     "kind": "stars",
+     "who": "k",
+     "cue": "intense"
+    },
+    {
+     "kind": "heart",
+     "who": "kid",
+     "cue": "textures"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "intense",
+     "shot": "actor",
+     "who": "k"
+    },
+    {
+     "cue": "textures",
+     "shot": "actor",
+     "who": "kid"
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Even a strong brand has to keep recruiting new buyers, or it slowly runs dry.",
+   "board": {
+    "title": "Keep the **bucket full**",
+    "lines": [
+     {
+      "text": "Keep **recruiting** new buyers",
+      "cue": "recruiting"
+     },
+     {
+      "text": "Or it runs **dry**",
+      "cue": "dry"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "point"
+    },
+    {
+     "id": "e1",
+     "look": "exec_f",
+     "at": "table",
+     "v": 5
+    }
+   ],
+   "acts": [
+    {
+     "who": "e1",
+     "cue": "dry",
+     "expr": "nervous"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "exclaim",
+     "who": "e1",
+     "cue": "dry"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "dry",
+     "shot": "two",
+     "who": "e1"
+    }
+   ],
+   "hold": 1.0
+  }
+ ]
+}

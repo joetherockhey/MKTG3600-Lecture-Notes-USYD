@@ -1,0 +1,287 @@
+{
+ "week": 0,
+ "title": "Earned media as brand building",
+ "speaker": "Libby Hogson, Week 6; Brent Smart, Week 4; Brendan Willenberg, Week 9",
+ "beats": [
+  {
+   "set": "office",
+   "say": "Earned media is coverage you earn, not buy. It needs ambassadors matched to the moment, credible people and content, real news relevance, and clear measures.",
+   "board": {
+    "title": "Earned **media**",
+    "steps": [
+     {
+      "text": "**Ambassadors** matched to the moment",
+      "cue": "ambassadors"
+     },
+     {
+      "text": "**Right people** and content",
+      "cue": "credible"
+     },
+     {
+      "text": "**News relevance**: a real contribution",
+      "cue": "news"
+     },
+     {
+      "text": "**Measures**: share of voice",
+      "cue": "measures"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "e1",
+     "look": "exec_f",
+     "at": "table",
+     "v": 2
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "ambassadors",
+     "pose": "point"
+    },
+    {
+     "who": "e1",
+     "cue": "measures",
+     "pose": "chin",
+     "expr": "smile"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "credible",
+     "shot": "two",
+     "who": "e1"
+    },
+    {
+     "cue": "measures",
+     "shot": "board"
+    }
+   ]
+  },
+  {
+   "set": "home",
+   "say": "A family watches the evening news. A charity worker on the ground explains the crisis. Nobody paid for that slot, so they trust it more than an ad.",
+   "board": {
+    "title": "Evening **news**",
+    "lines": [
+     {
+      "text": "Charity **on the ground**",
+      "cue": "charity"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "l"
+    },
+    {
+     "id": "a",
+     "look": "shopper",
+     "at": "sofa",
+     "v": 3,
+     "mode": "sit"
+    },
+    {
+     "id": "b",
+     "look": "elder",
+     "at": "sofa2",
+     "v": 2,
+     "mode": "sit"
+    }
+   ],
+   "acts": [
+    {
+     "who": "a",
+     "cue": "worker",
+     "expr": "smile"
+    },
+    {
+     "who": "b",
+     "cue": "trust",
+     "pose": "point",
+     "expr": "grin"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "eye",
+     "who": "a",
+     "cue": "explains"
+    },
+    {
+     "kind": "think",
+     "who": "b",
+     "cue": "trust",
+     "text": "I believe them."
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "charity",
+     "shot": "board"
+    },
+    {
+     "cue": "trust",
+     "shot": "actor",
+     "who": "b"
+    }
+   ]
+  },
+  {
+   "set": "street",
+   "say": "Rexona couldn't afford cluttered sport sponsorship, so it made Pitvertising and got everyone talking. If you can't buy media, earn it.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "front"
+    },
+    {
+     "id": "p1",
+     "look": "worker",
+     "at": "kerb",
+     "v": 1
+    },
+    {
+     "id": "p2",
+     "look": "student",
+     "at": "r",
+     "v": 5,
+     "hold": "phone",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "p2",
+     "cue": "talking",
+     "expr": "laugh"
+    },
+    {
+     "who": "host",
+     "cue": "earn",
+     "pose": "up",
+     "expr": "grin"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "question",
+     "who": "p1",
+     "cue": "afford"
+    },
+    {
+     "kind": "say",
+     "who": "p2",
+     "cue": "Pitvertising",
+     "text": "Seen this?"
+    },
+    {
+     "kind": "bulb",
+     "who": "host",
+     "cue": "earn"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "Pitvertising",
+     "shot": "actor",
+     "who": "p2"
+    },
+    {
+     "cue": "buy",
+     "shot": "close"
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "UNICEF Australia's news mentions rose two hundred and seventy percent. So find a genuine story and the right voice, then track your share of voice.",
+   "board": {
+    "title": "UNICEF **news mentions**",
+    "big": "+270%",
+    "caption": "from **2020 to 2024**",
+    "cue": "mentions"
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "e1",
+     "look": "exec",
+     "at": "table",
+     "v": 4,
+     "hold": "laptop",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "e1",
+     "cue": "rose",
+     "pose": "cheer",
+     "expr": "grin"
+    },
+    {
+     "who": "host",
+     "cue": "genuine",
+     "pose": "point"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "chart",
+     "who": "e1",
+     "cue": "rose"
+    },
+    {
+     "kind": "tick",
+     "who": "host",
+     "cue": "track"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "rose",
+     "shot": "actor",
+     "who": "e1"
+    },
+    {
+     "cue": "genuine",
+     "shot": "close"
+    }
+   ],
+   "hold": 1.0
+  }
+ ]
+}

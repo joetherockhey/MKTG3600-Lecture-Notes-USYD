@@ -1,0 +1,1355 @@
+{
+ "week": 6,
+ "title": "Managing a brand for social purpose",
+ "speaker": "Libby Hogson",
+ "beats": [
+  {
+   "set": "stage",
+   "say": "Week six. Managing a brand for social purpose, with Libby Hogson from UNICEF Australia. Her premise: brand building in a charity is just brand building.",
+   "board": {
+    "photo": "photos/w6.png",
+    "title": "Managing a brand for **social purpose**",
+    "name": "Libby Hogson",
+    "org": "Director of Growth and Engagement, UNICEF Australia"
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present",
+     "expr": "smile"
+    },
+    {
+     "id": "a",
+     "look": "student",
+     "v": 2,
+     "at": "aisle"
+    },
+    {
+     "id": "b",
+     "look": "student",
+     "v": 5,
+     "at": "aisle2"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "premise",
+     "pose": "up"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "bulb",
+     "who": "host",
+     "cue": "charity"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "Libby",
+     "shot": "board"
+    },
+    {
+     "cue": "premise",
+     "shot": "host"
+    }
+   ]
+  },
+  {
+   "set": "street",
+   "say": "Over sixty thousand charities, one per four hundred and thirty nine Australians. Funding grows about three percent a year, but donors are falling. Fewer people, giving more.",
+   "board": {
+    "title": "A **crowded** sector",
+    "big": "60,000+",
+    "caption": "charities, one per **439** Australians",
+    "cue": "sixty"
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "l",
+     "pose": "point"
+    },
+    {
+     "id": "col",
+     "look": "worker",
+     "v": 3,
+     "at": "kerb",
+     "hold": "clipboard",
+     "pose": "hold",
+     "expr": "smile"
+    },
+    {
+     "id": "p1",
+     "look": "shopper",
+     "v": 1,
+     "at": "walkL",
+     "to": "walkR",
+     "walkCue": "funding",
+     "hold": "bag",
+     "pose": "hold"
+    },
+    {
+     "id": "p2",
+     "look": "exec",
+     "v": 4,
+     "at": "r",
+     "hold": "card",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "col",
+     "cue": "falling",
+     "expr": "nervous"
+    },
+    {
+     "who": "p2",
+     "cue": "giving",
+     "expr": "smile",
+     "to": "c"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "cross",
+     "who": "col",
+     "cue": "falling"
+    },
+    {
+     "kind": "money",
+     "who": "p2",
+     "cue": "giving"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "funding",
+     "shot": "wide"
+    },
+    {
+     "cue": "giving",
+     "shot": "two",
+     "who": "col"
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Then trust. The Edelman Trust Barometer found sixty one percent of Australians hold grievances against institutions and the rich. Forty percent see hostile activism as legitimate.",
+   "board": {
+    "title": "We have a **trust problem**",
+    "bars": [
+     {
+      "label": "Hold grievances",
+      "value": 61,
+      "display": "61%",
+      "cue": "sixty"
+     },
+     {
+      "label": "Back hostile activism",
+      "value": 40,
+      "display": "40%",
+      "cue": "forty"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present",
+     "expr": "nervous"
+    },
+    {
+     "id": "e",
+     "look": "exec_f",
+     "v": 2,
+     "at": "table",
+     "expr": "stern"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "trust",
+     "pose": "chin"
+    },
+    {
+     "who": "e",
+     "cue": "hostile",
+     "expr": "shock"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "exclaim",
+     "who": "e",
+     "cue": "hostile"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "host"
+    },
+    {
+     "cue": "Edelman",
+     "shot": "board"
+    },
+    {
+     "cue": "hostile",
+     "shot": "close",
+     "who": "e"
+    }
+   ]
+  },
+  {
+   "set": "home",
+   "say": "When people feel an institution isn't serving them, trust falls. Trust tracks brand performance, so the trust problem is the growth problem.",
+   "board": {
+    "title": "Trust = **growth**",
+    "lines": [
+     {
+      "text": "Not serving me? **Trust falls**",
+      "cue": "falls"
+     },
+     {
+      "text": "Trust tracks **performance**",
+      "cue": "performance"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "l",
+     "pose": "present"
+    },
+    {
+     "id": "d",
+     "look": "shopper",
+     "v": 2,
+     "at": "sofa",
+     "mode": "sit",
+     "expr": "stern"
+    },
+    {
+     "id": "m",
+     "look": "elder",
+     "v": 3,
+     "at": "sofa2",
+     "mode": "sit",
+     "expr": "neutral"
+    }
+   ],
+   "acts": [
+    {
+     "who": "d",
+     "cue": "serving",
+     "pose": "hips"
+    },
+    {
+     "who": "m",
+     "cue": "falls",
+     "expr": "nervous"
+    },
+    {
+     "who": "host",
+     "cue": "growth",
+     "pose": "point",
+     "expr": "stern"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "think",
+     "who": "d",
+     "text": "Not for people like me",
+     "cue": "serving"
+    },
+    {
+     "kind": "cross",
+     "who": "m",
+     "cue": "falls"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "serving",
+     "shot": "actor",
+     "who": "d"
+    },
+    {
+     "cue": "growth",
+     "shot": "close"
+    }
+   ]
+  },
+  {
+   "set": "plaza",
+   "say": "Awareness was fuzzy too. Forty percent didn't know who UNICEF was, only twenty nine percent linked it to children, and many didn't know it was a charity.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "c",
+     "pose": "hold",
+     "hold": "clipboard"
+    },
+    {
+     "id": "a",
+     "look": "shopper",
+     "v": 3,
+     "at": "l",
+     "hold": "bag",
+     "pose": "hold"
+    },
+    {
+     "id": "b",
+     "look": "student",
+     "v": 6,
+     "at": "r",
+     "hold": "phone",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "a",
+     "cue": "know",
+     "pose": "shrug",
+     "expr": "nervous"
+    },
+    {
+     "who": "b",
+     "cue": "charity",
+     "expr": "shock"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "question",
+     "who": "a",
+     "cue": "know"
+    },
+    {
+     "kind": "say",
+     "who": "b",
+     "text": "It's a charity?",
+     "cue": "charity"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "know",
+     "shot": "two",
+     "who": "a"
+    },
+    {
+     "cue": "charity",
+     "shot": "close",
+     "who": "b"
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "About ninety five percent of spend went on conversion and retention, and only five percent on awareness. They were optimising a funnel with an empty top.",
+   "board": {
+    "title": "Money in the **wrong place**",
+    "bars": [
+     {
+      "label": "Conversion and retention",
+      "value": 95,
+      "display": "95%",
+      "cue": "ninety"
+     },
+     {
+      "label": "Awareness and consideration",
+      "value": 5,
+      "display": "5%",
+      "cue": "five percent on"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "point"
+    },
+    {
+     "id": "e",
+     "look": "exec",
+     "v": 2,
+     "at": "r",
+     "hold": "laptop",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "empty",
+     "pose": "shrug",
+     "expr": "nervous"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "money",
+     "who": "e",
+     "cue": "conversion"
+    },
+    {
+     "kind": "exclaim",
+     "who": "host",
+     "cue": "empty"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "optimising",
+     "shot": "two",
+     "who": "e"
+    },
+    {
+     "cue": "empty",
+     "shot": "close"
+    }
+   ]
+  },
+  {
+   "set": "plaza",
+   "say": "By 2020, UNICEF had zero unprompted awareness. Asked to name a charity, people never said it. Shown the name, they recognised it.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "c",
+     "pose": "hold",
+     "hold": "clipboard"
+    },
+    {
+     "id": "s",
+     "look": "shopper",
+     "v": 5,
+     "at": "r",
+     "hold": "bag",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "s",
+     "cue": "name",
+     "pose": "chin",
+     "expr": "nervous"
+    },
+    {
+     "who": "host",
+     "cue": "Show",
+     "pose": "present"
+    },
+    {
+     "who": "s",
+     "cue": "recognised",
+     "pose": "up",
+     "expr": "grin"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "think",
+     "who": "s",
+     "text": "Um...",
+     "cue": "never"
+    },
+    {
+     "kind": "bulb",
+     "who": "s",
+     "cue": "recognised"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "name",
+     "shot": "two",
+     "who": "s"
+    },
+    {
+     "cue": "recognised",
+     "shot": "close",
+     "who": "s"
+    }
+   ]
+  },
+  {
+   "set": "stage",
+   "say": "That gap matters. People with UNICEF top of mind showed nineteen percent donation intent. Aware only when prompted, just seven percent. Mental availability nearly triples intent.",
+   "board": {
+    "title": "Top of mind **triples** intent",
+    "bars": [
+     {
+      "label": "Top of mind",
+      "value": 19,
+      "display": "19%",
+      "cue": "nineteen"
+     },
+     {
+      "label": "Prompted only",
+      "value": 7,
+      "display": "7%",
+      "cue": "seven"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "triples",
+     "pose": "cheer",
+     "expr": "grin"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "brain",
+     "who": "host",
+     "cue": "mental"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "host"
+    },
+    {
+     "cue": "nineteen",
+     "shot": "board"
+    },
+    {
+     "cue": "triples",
+     "shot": "close"
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "So which facts to lead with? Saves more lives than any other organisation. The world's largest organisation for children's rights. Brings lifesaving help to children.",
+   "board": {
+    "title": "Facts worth **investing in**",
+    "steps": [
+     {
+      "text": "Saves the **most lives**",
+      "cue": "saves"
+     },
+     {
+      "text": "**Largest** for children's rights",
+      "cue": "largest"
+     },
+     {
+      "text": "**Lifesaving** help for children",
+      "cue": "brings"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "e1",
+     "look": "exec_f",
+     "v": 4,
+     "at": "table"
+    },
+    {
+     "id": "e2",
+     "look": "worker",
+     "v": 1,
+     "at": "table2"
+    }
+   ],
+   "acts": [
+    {
+     "who": "e1",
+     "cue": "facts",
+     "pose": "chin"
+    },
+    {
+     "who": "e2",
+     "cue": "lifesaving",
+     "pose": "up",
+     "expr": "smile"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "chart",
+     "who": "e1",
+     "cue": "saves"
+    },
+    {
+     "kind": "tick",
+     "who": "e2",
+     "cue": "brings"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "saves",
+     "shot": "board"
+    },
+    {
+     "cue": "brings",
+     "shot": "actor",
+     "who": "e2"
+    }
+   ]
+  },
+  {
+   "set": "home",
+   "say": "Then came a polycrisis: bushfires, the pandemic, Ukraine, all at once. UNICEF USA's version was too chest-beating for Australia. Positioning has to fit the moment.",
+   "board": {
+    "title": "**Polycrisis**",
+    "lines": [
+     {
+      "text": "Bushfires",
+      "cue": "bushfires"
+     },
+     {
+      "text": "The pandemic",
+      "cue": "pandemic"
+     },
+     {
+      "text": "Ukraine",
+      "cue": "Ukraine"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "l",
+     "pose": "present"
+    },
+    {
+     "id": "a",
+     "look": "shopper",
+     "v": 6,
+     "at": "sofa",
+     "mode": "sit",
+     "expr": "nervous"
+    },
+    {
+     "id": "b",
+     "look": "kid",
+     "v": 1,
+     "at": "sofa2",
+     "mode": "sit",
+     "expr": "nervous"
+    }
+   ],
+   "acts": [
+    {
+     "who": "a",
+     "cue": "pandemic",
+     "expr": "shock"
+    },
+    {
+     "who": "host",
+     "cue": "chest",
+     "pose": "hips",
+     "expr": "stern"
+    },
+    {
+     "who": "host",
+     "cue": "moment",
+     "pose": "point",
+     "expr": "neutral"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "burst",
+     "who": "a",
+     "cue": "once"
+    },
+    {
+     "kind": "cross",
+     "who": "host",
+     "cue": "chest"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "once",
+     "shot": "actor",
+     "who": "a"
+    },
+    {
+     "cue": "USA",
+     "shot": "host"
+    }
+   ]
+  },
+  {
+   "set": "stage",
+   "say": "The positioning: UNICEF inspires Australians with the determination it takes to protect and care for every child, no matter what. Determination is the key word.",
+   "board": {
+    "title": "The **positioning**",
+    "lines": [
+     {
+      "text": "Inspires Australians with **determination**",
+      "cue": "determination"
+     },
+     {
+      "text": "To protect **every child**",
+      "cue": "every"
+     },
+     {
+      "text": "**No matter what**",
+      "cue": "matter"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "a",
+     "look": "student",
+     "v": 3,
+     "at": "aisle"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "key",
+     "pose": "up",
+     "expr": "grin"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "stars",
+     "who": "host",
+     "cue": "key"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "key",
+     "shot": "close"
+    }
+   ]
+  },
+  {
+   "set": "street",
+   "say": "The proof: on the ground in over a hundred and ninety countries, help within forty eight hours, and one hundred percent donor funded. The message: Always there.",
+   "board": {
+    "title": "Always **there**",
+    "lines": [
+     {
+      "text": "On the ground in **190+** countries",
+      "cue": "ground"
+     },
+     {
+      "text": "Help within **48 hours**",
+      "cue": "forty"
+     },
+     {
+      "text": "**100%** donor funded",
+      "cue": "hundred percent"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "l",
+     "pose": "point"
+    },
+    {
+     "id": "p",
+     "look": "elder",
+     "v": 2,
+     "at": "bus"
+    },
+    {
+     "id": "q",
+     "look": "student",
+     "v": 4,
+     "at": "walkR",
+     "to": "r",
+     "walkCue": "help",
+     "hold": "phone",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "p",
+     "cue": "donor",
+     "expr": "smile"
+    },
+    {
+     "who": "q",
+     "cue": "Always",
+     "expr": "grin"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "heart",
+     "who": "p",
+     "cue": "donor"
+    },
+    {
+     "kind": "eye",
+     "who": "q",
+     "cue": "Always"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "donor",
+     "shot": "wide"
+    },
+    {
+     "cue": "Always",
+     "shot": "actor",
+     "who": "q"
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Consistency isn't how you look. It's the place you hold in people's minds: one message, again and again, until you're sick of it and the public remembers.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "c",
+     "pose": "present"
+    },
+    {
+     "id": "e1",
+     "look": "exec",
+     "v": 1,
+     "at": "table",
+     "expr": "dazed"
+    },
+    {
+     "id": "e2",
+     "look": "exec_f",
+     "v": 5,
+     "at": "table2",
+     "expr": "dazed"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "again",
+     "pose": "up",
+     "expr": "grin"
+    },
+    {
+     "who": "e1",
+     "cue": "sick",
+     "expr": "pained"
+    },
+    {
+     "who": "host",
+     "cue": "remembers",
+     "pose": "cheer",
+     "expr": "laugh"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "brain",
+     "who": "host",
+     "cue": "minds"
+    },
+    {
+     "kind": "zzz",
+     "who": "e1",
+     "cue": "sick"
+    },
+    {
+     "kind": "tick",
+     "who": "host",
+     "cue": "remembers"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "host"
+    },
+    {
+     "cue": "again",
+     "shot": "wide"
+    },
+    {
+     "cue": "remembers",
+     "shot": "close"
+    }
+   ]
+  },
+  {
+   "set": "home",
+   "say": "Earned media was key, with ambassadors matched to the moment. From 2020 to 2024, broadcast share of voice rose from twenty to fifty five percent, and news mentions rose two hundred and seventy percent.",
+   "board": {
+    "title": "Share of **broadcast voice**",
+    "bars": [
+     {
+      "label": "2020",
+      "value": 20,
+      "display": "20%",
+      "cue": "twenty"
+     },
+     {
+      "label": "2024",
+      "value": 55,
+      "display": "55%",
+      "cue": "fifty"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "tv",
+     "pose": "point"
+    },
+    {
+     "id": "a",
+     "look": "elder",
+     "v": 4,
+     "at": "sofa",
+     "mode": "sit"
+    },
+    {
+     "id": "b",
+     "look": "shopper",
+     "v": 7,
+     "at": "sofa2",
+     "mode": "sit"
+    }
+   ],
+   "acts": [
+    {
+     "who": "a",
+     "cue": "ambassadors",
+     "expr": "smile"
+    },
+    {
+     "who": "b",
+     "cue": "news",
+     "expr": "grin",
+     "pose": "up"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "eye",
+     "who": "a",
+     "cue": "ambassadors"
+    },
+    {
+     "kind": "chart",
+     "who": "host",
+     "cue": "fifty"
+    },
+    {
+     "kind": "exclaim",
+     "who": "b",
+     "cue": "news"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "broadcast",
+     "shot": "board"
+    },
+    {
+     "cue": "news",
+     "shot": "actor",
+     "who": "b"
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "It was a whole of organisation job. The team moved from generalists to experts, and scrapped the digital marketing team so everyone could do digital.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "front",
+     "pose": "present"
+    },
+    {
+     "id": "a",
+     "look": "worker",
+     "v": 2,
+     "at": "r",
+     "hold": "laptop",
+     "pose": "hold"
+    },
+    {
+     "id": "b",
+     "look": "exec_f",
+     "v": 6,
+     "at": "desk2",
+     "mode": "sit",
+     "hold": "laptop",
+     "pose": "hold"
+    },
+    {
+     "id": "c",
+     "look": "student",
+     "v": 1,
+     "at": "walkL",
+     "to": "l",
+     "walkCue": "experts",
+     "hold": "phone",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "a",
+     "cue": "experts",
+     "expr": "smile"
+    },
+    {
+     "who": "c",
+     "cue": "everyone",
+     "pose": "cheer",
+     "expr": "grin"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "brain",
+     "who": "a",
+     "cue": "experts"
+    },
+    {
+     "kind": "sparkle",
+     "who": "c",
+     "cue": "digital"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "experts",
+     "shot": "actor",
+     "who": "a"
+    },
+    {
+     "cue": "everyone",
+     "shot": "actor",
+     "who": "c"
+    }
+   ]
+  },
+  {
+   "set": "stage",
+   "say": "Did it work? Ad awareness and share of voice lift unprompted awareness, then donation intent, then market share. Top of mind tracked alongside revenue growth.",
+   "board": {
+    "title": "The **measurement chain**",
+    "steps": [
+     {
+      "text": "**Ad awareness** and share of voice",
+      "cue": "ad"
+     },
+     {
+      "text": "**Unprompted** awareness",
+      "cue": "unprompted"
+     },
+     {
+      "text": "**Donation** intent",
+      "cue": "donation"
+     },
+     {
+      "text": "**Market share**",
+      "cue": "market"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "revenue",
+     "pose": "cheer",
+     "expr": "grin"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "question",
+     "who": "host",
+     "cue": "work"
+    },
+    {
+     "kind": "money",
+     "who": "host",
+     "cue": "revenue"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "host"
+    },
+    {
+     "cue": "ad",
+     "shot": "board"
+    },
+    {
+     "cue": "revenue",
+     "shot": "close"
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "After 2024 metrics dipped, but there's no tired brand, just a bored brand manager. Always there became Let's be there. And climate change fits, because it's changing childhood.",
+   "board": {
+    "title": "Evolution, **not revolution**",
+    "vs": {
+     "left": "Always there",
+     "right": "Let's be there",
+     "leftItems": [
+      "States what UNICEF does",
+      "Crisis framing"
+     ],
+     "rightItems": [
+      "Invites people in",
+      "More hopeful"
+     ],
+     "cue": "became"
+    }
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "bm",
+     "look": "exec",
+     "v": 7,
+     "at": "table",
+     "expr": "dazed"
+    }
+   ],
+   "acts": [
+    {
+     "who": "bm",
+     "cue": "bored",
+     "expr": "nervous"
+    },
+    {
+     "who": "host",
+     "cue": "childhood",
+     "pose": "cheer",
+     "expr": "grin"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "zzz",
+     "who": "bm",
+     "cue": "tired"
+    },
+    {
+     "kind": "heart",
+     "who": "host",
+     "cue": "childhood"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "bored",
+     "shot": "close",
+     "who": "bm"
+    },
+    {
+     "cue": "became",
+     "shot": "board"
+    }
+   ]
+  },
+  {
+   "set": "stage",
+   "say": "The lessons: it's a whole of organisation task, stay the course, measure everything, skilled people matter, and trust the data but still take risks. That's week six.",
+   "board": {
+    "title": "Lessons **learned**",
+    "steps": [
+     {
+      "text": "**Whole of organisation**",
+      "cue": "whole"
+     },
+     {
+      "text": "**Stay the course**",
+      "cue": "stay"
+     },
+     {
+      "text": "**Measure** everything",
+      "cue": "measure"
+     },
+     {
+      "text": "**Skilled people** matter",
+      "cue": "skilled"
+     },
+     {
+      "text": "Trust data, **take risks**",
+      "cue": "trust"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "a",
+     "look": "student",
+     "v": 2,
+     "at": "aisle"
+    },
+    {
+     "id": "b",
+     "look": "student",
+     "v": 5,
+     "at": "aisle2"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "week",
+     "pose": "cheer",
+     "expr": "grin"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "stars",
+     "who": "host",
+     "cue": "week"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "week",
+     "shot": "close"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,295 @@
+{
+ "week": 0,
+ "title": "What vs why (say is not do) and the qualitative toolkit",
+ "speaker": "Estelle Gohil, Fiftyfive5, Week 2",
+ "beats": [
+  {
+   "set": "stage",
+   "say": "What versus why. Behavioural data from sales and dashboards shows what happened. Qualitative research uncovers why, by talking, watching and following people over time.",
+   "board": {
+    "title": "What vs **why**",
+    "steps": [
+     {
+      "text": "**What**: behavioural data",
+      "cue": "Behavioural"
+     },
+     {
+      "text": "**Why**: qualitative research",
+      "cue": "Qualitative"
+     },
+     {
+      "text": "**Talk**: groups, juries, interviews",
+      "cue": "talking"
+     },
+     {
+      "text": "**Watch**: safaris, ethnography",
+      "cue": "watching"
+     },
+     {
+      "text": "**Follow**: communities, listening",
+      "cue": "following"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "a",
+     "look": "student",
+     "at": "front",
+     "v": 5
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "Qualitative",
+     "pose": "point"
+    },
+    {
+     "who": "a",
+     "cue": "following",
+     "pose": "chin"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "watching",
+     "shot": "close"
+    },
+    {
+     "cue": "following",
+     "shot": "board"
+    }
+   ]
+  },
+  {
+   "set": "plaza",
+   "say": "A shopper says she wants something cheaper. Keep asking why, and the real driver turns out to be saving time.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "l"
+    },
+    {
+     "id": "s1",
+     "look": "shopper",
+     "at": "shelf",
+     "v": 1,
+     "hold": "bag",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "s1",
+     "cue": "cheaper",
+     "pose": "shrug"
+    },
+    {
+     "who": "host",
+     "cue": "why",
+     "pose": "point"
+    },
+    {
+     "who": "s1",
+     "cue": "time",
+     "expr": "relief"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "say",
+     "who": "s1",
+     "cue": "cheaper",
+     "text": "Something cheaper!"
+    },
+    {
+     "kind": "question",
+     "who": "host",
+     "cue": "why"
+    },
+    {
+     "kind": "clock",
+     "who": "s1",
+     "cue": "time"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "cheaper",
+     "shot": "actor",
+     "who": "s1"
+    },
+    {
+     "cue": "why",
+     "shot": "two",
+     "who": "s1"
+    },
+    {
+     "cue": "time",
+     "shot": "close",
+     "who": "s1"
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Estelle's team put body cameras on baristas. Watching the footage surfaced carton problems nobody had mentioned when asked.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "r"
+    },
+    {
+     "id": "w1",
+     "look": "worker",
+     "at": "table",
+     "v": 2,
+     "hold": "box",
+     "holdCol": "#f4efe2",
+     "pose": "hold"
+    },
+    {
+     "id": "e1",
+     "look": "exec_f",
+     "at": "l",
+     "v": 3,
+     "hold": "laptop",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "w1",
+     "cue": "cameras",
+     "expr": "nervous"
+    },
+    {
+     "who": "e1",
+     "cue": "footage",
+     "pose": "chin"
+    },
+    {
+     "who": "w1",
+     "cue": "problems",
+     "pose": "none",
+     "expr": "pained"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "eye",
+     "who": "e1",
+     "cue": "Watching"
+    },
+    {
+     "kind": "exclaim",
+     "who": "w1",
+     "cue": "problems"
+    },
+    {
+     "kind": "say",
+     "who": "w1",
+     "cue": "nobody",
+     "text": "Never noticed that!"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "Watching",
+     "shot": "actor",
+     "who": "e1"
+    },
+    {
+     "cue": "problems",
+     "shot": "actor",
+     "who": "w1"
+    },
+    {
+     "cue": "asked",
+     "shot": "close"
+    }
+   ]
+  },
+  {
+   "set": "stage",
+   "say": "Use it like this: name the what the client already has, then pick two or three qualitative methods to find the why.",
+   "board": {
+    "title": "Use it like **this**",
+    "lines": [
+     {
+      "text": "Name the **what** you have",
+      "cue": "name"
+     },
+     {
+      "text": "Pick **2 or 3** methods",
+      "cue": "pick"
+     },
+     {
+      "text": "Find the **why**",
+      "cue": "find"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "a",
+     "look": "student",
+     "at": "front",
+     "v": 2
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "pick",
+     "pose": "point"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "bulb",
+     "who": "a",
+     "cue": "find"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "find",
+     "shot": "close"
+    }
+   ],
+   "hold": 1.0
+  }
+ ]
+}

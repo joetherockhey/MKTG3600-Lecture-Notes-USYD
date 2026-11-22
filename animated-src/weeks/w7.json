@@ -1,0 +1,1356 @@
+{
+ "week": 7,
+ "title": "Strategy in a creative agency",
+ "speaker": "Tim Collier",
+ "beats": [
+  {
+   "set": "stage",
+   "say": "Week seven. Strategy in a creative agency, with Tim Collier, National Head of Strategy at Cummins and Partners. His advice: be curious, and be opinionated.",
+   "board": {
+    "photo": "photos/w7.jpg",
+    "title": "Strategy in a **creative agency**",
+    "name": "Tim Collier",
+    "org": "National Head of Strategy, Cummins & Partners"
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present",
+     "expr": "smile"
+    },
+    {
+     "id": "a",
+     "look": "student",
+     "v": 1,
+     "at": "aisle"
+    },
+    {
+     "id": "b",
+     "look": "student",
+     "v": 6,
+     "at": "aisle2"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "curious",
+     "pose": "up",
+     "expr": "grin"
+    },
+    {
+     "who": "host",
+     "cue": "opinionated",
+     "pose": "point"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "eye",
+     "who": "host",
+     "cue": "curious"
+    },
+    {
+     "kind": "exclaim",
+     "who": "host",
+     "cue": "opinionated"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "Tim",
+     "shot": "board"
+    },
+    {
+     "cue": "curious",
+     "shot": "close"
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "A planner informs what the work says, and why it will work. The client brings a business problem, creatives bring the idea, and strategy sits between, speaking for the audience.",
+   "board": {
+    "title": "Where **strategy** sits",
+    "steps": [
+     {
+      "text": "**Client** what problem is there?",
+      "cue": "client"
+     },
+     {
+      "text": "**Creative** what gets remembered?",
+      "cue": "creatives"
+     },
+     {
+      "text": "**Strategy** how does it affect the audience?",
+      "cue": "strategy"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "c",
+     "pose": "present"
+    },
+    {
+     "id": "cl",
+     "look": "exec",
+     "v": 2,
+     "at": "l",
+     "hold": "clipboard",
+     "pose": "hold"
+    },
+    {
+     "id": "cr",
+     "look": "student",
+     "v": 7,
+     "at": "r",
+     "hold": "laptop",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "cl",
+     "cue": "problem",
+     "expr": "nervous"
+    },
+    {
+     "who": "cr",
+     "cue": "idea",
+     "expr": "grin"
+    },
+    {
+     "who": "host",
+     "cue": "audience",
+     "pose": "cheer",
+     "expr": "smile"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "question",
+     "who": "cl",
+     "cue": "problem"
+    },
+    {
+     "kind": "bulb",
+     "who": "cr",
+     "cue": "idea"
+    },
+    {
+     "kind": "heart",
+     "who": "host",
+     "cue": "audience"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "host"
+    },
+    {
+     "cue": "client",
+     "shot": "wide"
+    },
+    {
+     "cue": "audience",
+     "shot": "board"
+    }
+   ]
+  },
+  {
+   "set": "stage",
+   "say": "Planning was born in 1974, in Stephen King's Planning Guide at JWT London. A method must stimulate imagination, not just control it: realistic, pragmatic, fundamental and structured.",
+   "board": {
+    "title": "King's **four rules**",
+    "steps": [
+     {
+      "text": "**Realistic** based in practice",
+      "cue": "realistic"
+     },
+     {
+      "text": "**Pragmatic** simple, memorable",
+      "cue": "pragmatic"
+     },
+     {
+      "text": "**Fundamental** real theory",
+      "cue": "fundamental"
+     },
+     {
+      "text": "**Structured** a frame for imagination",
+      "cue": "structured"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "a",
+     "look": "student",
+     "v": 3,
+     "at": "aisle"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "imagination",
+     "pose": "up",
+     "expr": "grin"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "clock",
+     "who": "host",
+     "cue": "born"
+    },
+    {
+     "kind": "sparkle",
+     "who": "host",
+     "cue": "imagination"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "host"
+    },
+    {
+     "cue": "realistic",
+     "shot": "board"
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Planning has since split into three jobs. Brand planners own what's said and why. Comms planners own where, when and in what order. Media planners own who sees it.",
+   "board": {
+    "title": "Three **flavours** of planner",
+    "steps": [
+     {
+      "text": "**Brand** what's said, and why",
+      "cue": "brand"
+     },
+     {
+      "text": "**Comms** where, when, what order",
+      "cue": "comms"
+     },
+     {
+      "text": "**Media** who sees it, and how",
+      "cue": "media"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "p1",
+     "look": "exec_f",
+     "v": 1,
+     "at": "desk",
+     "mode": "sit",
+     "hold": "laptop",
+     "pose": "hold"
+    },
+    {
+     "id": "p2",
+     "look": "worker",
+     "v": 4,
+     "at": "r",
+     "hold": "laptop",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "p1",
+     "cue": "brand",
+     "expr": "smile"
+    },
+    {
+     "who": "p2",
+     "cue": "media",
+     "expr": "neutral"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "heart",
+     "who": "p1",
+     "cue": "brand"
+    },
+    {
+     "kind": "clock",
+     "who": "host",
+     "cue": "order"
+    },
+    {
+     "kind": "chart",
+     "who": "p2",
+     "cue": "media"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "brand",
+     "shot": "board"
+    },
+    {
+     "cue": "media",
+     "shot": "actor",
+     "who": "p2"
+    }
+   ]
+  },
+  {
+   "set": "street",
+   "say": "Brand planning is the underlying message. Not just do it, but I can be an athlete if I just try.",
+   "board": {
+    "title": "Just **do it**",
+    "lines": [
+     {
+      "text": "The message underneath:",
+      "cue": "underlying"
+     },
+     {
+      "text": "I can be an **athlete**",
+      "cue": "athlete"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "l",
+     "pose": "point"
+    },
+    {
+     "id": "r",
+     "look": "student",
+     "v": 5,
+     "at": "walkR",
+     "to": "r",
+     "walkCue": "message"
+    }
+   ],
+   "acts": [
+    {
+     "who": "r",
+     "cue": "athlete",
+     "pose": "cheer",
+     "expr": "grin"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "think",
+     "who": "r",
+     "text": "I can do this",
+     "cue": "athlete"
+    },
+    {
+     "kind": "stars",
+     "who": "r",
+     "cue": "try"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "athlete",
+     "shot": "actor",
+     "who": "r"
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "The job is reading, research, writing, consulting and leading. Writing is the real skill: one page that inspires the creatives.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "l",
+     "pose": "hold",
+     "hold": "card"
+    },
+    {
+     "id": "cr",
+     "look": "student",
+     "v": 2,
+     "at": "table",
+     "expr": "neutral"
+    },
+    {
+     "id": "cr2",
+     "look": "shopper",
+     "v": 3,
+     "at": "table2",
+     "expr": "neutral"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "writing is",
+     "pose": "up",
+     "expr": "grin"
+    },
+    {
+     "who": "cr",
+     "cue": "inspires",
+     "pose": "cheer",
+     "expr": "laugh"
+    },
+    {
+     "who": "cr2",
+     "cue": "creatives",
+     "pose": "up",
+     "expr": "grin"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "brain",
+     "who": "host",
+     "cue": "reading"
+    },
+    {
+     "kind": "bulb",
+     "who": "cr",
+     "cue": "inspires"
+    },
+    {
+     "kind": "bulb",
+     "who": "cr2",
+     "cue": "creatives"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "writing is",
+     "shot": "host"
+    },
+    {
+     "cue": "inspires",
+     "shot": "two",
+     "who": "cr"
+    }
+   ]
+  },
+  {
+   "set": "plaza",
+   "say": "Tim wanted to design for General Pants, but did marketing work experience there. The people he met that week got him a decade of jobs. People who get jobs know people.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "front",
+     "pose": "present"
+    },
+    {
+     "id": "t",
+     "look": "student",
+     "v": 4,
+     "at": "walkL",
+     "to": "shop",
+     "walkCue": "experience",
+     "hold": "bag",
+     "pose": "hold"
+    },
+    {
+     "id": "m",
+     "look": "exec_f",
+     "v": 2,
+     "at": "shop2"
+    }
+   ],
+   "acts": [
+    {
+     "who": "m",
+     "cue": "met",
+     "pose": "present",
+     "expr": "smile"
+    },
+    {
+     "who": "t",
+     "cue": "decade",
+     "pose": "cheer",
+     "expr": "grin"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "say",
+     "who": "m",
+     "text": "Welcome aboard!",
+     "cue": "met"
+    },
+    {
+     "kind": "stars",
+     "who": "t",
+     "cue": "decade"
+    },
+    {
+     "kind": "heart",
+     "who": "host",
+     "cue": "know"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "met",
+     "shot": "two",
+     "who": "m"
+    },
+    {
+     "cue": "know people",
+     "shot": "close"
+    }
+   ]
+  },
+  {
+   "set": "home",
+   "say": "On social, stop thinking like a user. Media is cheap, so use scale. Don't blend in with the algorithm; stand out. Don't scam it either, it's a black box.",
+   "board": {
+    "title": "Stop thinking like a **user**",
+    "lines": [
+     {
+      "text": "Cheap media, **use scale**",
+      "cue": "scale"
+     },
+     {
+      "text": "**Stand out**, don't blend in",
+      "cue": "stand"
+     },
+     {
+      "text": "The algorithm is a **black box**",
+      "cue": "black"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "l",
+     "pose": "present"
+    },
+    {
+     "id": "u",
+     "look": "student",
+     "v": 8,
+     "at": "sofa",
+     "mode": "sit",
+     "hold": "phone",
+     "pose": "hold",
+     "expr": "dazed"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "stand",
+     "pose": "cheer",
+     "expr": "grin"
+    },
+    {
+     "who": "u",
+     "cue": "out",
+     "expr": "shock"
+    },
+    {
+     "who": "host",
+     "cue": "scam",
+     "pose": "hips",
+     "expr": "stern"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "zzz",
+     "who": "u",
+     "cue": "user"
+    },
+    {
+     "kind": "exclaim",
+     "who": "u",
+     "cue": "stand"
+    },
+    {
+     "kind": "question",
+     "who": "host",
+     "cue": "black"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "media",
+     "shot": "board"
+    },
+    {
+     "cue": "stand",
+     "shot": "actor",
+     "who": "u"
+    },
+    {
+     "cue": "scam",
+     "shot": "host"
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "A strategist works in four steps: discover, synthesis, plan and instruct. The client hands you a five page brief with everything under the sun. Your first job is subtraction.",
+   "board": {
+    "title": "The strategist's **four steps**",
+    "steps": [
+     {
+      "text": "**Discover**",
+      "cue": "discover"
+     },
+     {
+      "text": "**Synthesis**",
+      "cue": "synthesis"
+     },
+     {
+      "text": "**Plan**",
+      "cue": "plan"
+     },
+     {
+      "text": "**Instruct**",
+      "cue": "instruct"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "c",
+     "pose": "present"
+    },
+    {
+     "id": "cl",
+     "look": "exec",
+     "v": 6,
+     "at": "walkR",
+     "to": "r",
+     "walkCue": "client",
+     "hold": "box",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "everything",
+     "pose": "shrug",
+     "expr": "shock"
+    },
+    {
+     "who": "host",
+     "cue": "subtraction",
+     "pose": "point",
+     "expr": "grin"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "burst",
+     "who": "cl",
+     "cue": "five"
+    },
+    {
+     "kind": "say",
+     "who": "host",
+     "text": "Keep it simple",
+     "cue": "subtraction"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "client",
+     "shot": "two",
+     "who": "cl"
+    },
+    {
+     "cue": "subtraction",
+     "shot": "close"
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "To discover, use the five Cs: company, culture, category, connections and consumer. Mostly desk research.",
+   "board": {
+    "title": "The **5Cs**",
+    "steps": [
+     {
+      "text": "**Company**",
+      "cue": "company"
+     },
+     {
+      "text": "**Culture**",
+      "cue": "culture"
+     },
+     {
+      "text": "**Category**",
+      "cue": "category"
+     },
+     {
+      "text": "**Connections** the medium",
+      "cue": "connections"
+     },
+     {
+      "text": "**Consumer**",
+      "cue": "consumer"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "point"
+    },
+    {
+     "id": "w",
+     "look": "student",
+     "v": 1,
+     "at": "r",
+     "hold": "laptop",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "w",
+     "cue": "desk",
+     "expr": "smile"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "eye",
+     "who": "w",
+     "cue": "desk"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "desk",
+     "shot": "actor",
+     "who": "w"
+    }
+   ]
+  },
+  {
+   "set": "plaza",
+   "say": "Bill Bernbach said nothing is so powerful as an insight into human nature. So watch people, and enjoy how strange they are. Frameworks add discipline, not the insight.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "front",
+     "pose": "hold",
+     "hold": "clipboard"
+    },
+    {
+     "id": "a",
+     "look": "shopper",
+     "v": 1,
+     "at": "stall",
+     "pose": "chin"
+    },
+    {
+     "id": "b",
+     "look": "elder",
+     "v": 3,
+     "at": "shelf",
+     "hold": "bag",
+     "pose": "hold"
+    },
+    {
+     "id": "k",
+     "look": "kid",
+     "v": 4,
+     "at": "walkL",
+     "to": "l",
+     "walkCue": "watch"
+    }
+   ],
+   "acts": [
+    {
+     "who": "a",
+     "cue": "watch",
+     "expr": "nervous"
+    },
+    {
+     "who": "k",
+     "cue": "strange",
+     "pose": "cheer",
+     "expr": "laugh"
+    },
+    {
+     "who": "host",
+     "cue": "insight",
+     "pose": "point",
+     "expr": "stern"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "eye",
+     "who": "host",
+     "cue": "watch"
+    },
+    {
+     "kind": "question",
+     "who": "a",
+     "cue": "enjoy"
+    },
+    {
+     "kind": "burst",
+     "who": "k",
+     "cue": "strange"
+    },
+    {
+     "kind": "brain",
+     "who": "host",
+     "cue": "insight"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "watch",
+     "shot": "host"
+    },
+    {
+     "cue": "strange",
+     "shot": "actor",
+     "who": "k"
+    },
+    {
+     "cue": "Frameworks",
+     "shot": "close"
+    }
+   ]
+  },
+  {
+   "set": "stage",
+   "say": "The basic brief is get, who, to, by. Get inspiring athletes, who just did this, to repurchase, by reminding them of something.",
+   "board": {
+    "title": "GET / WHO / TO / BY",
+    "steps": [
+     {
+      "text": "**Get** inspiring athletes",
+      "cue": "get inspiring"
+     },
+     {
+      "text": "**Who** just did this",
+      "cue": "who just"
+     },
+     {
+      "text": "**To** repurchase",
+      "cue": "repurchase"
+     },
+     {
+      "text": "**By** reminding them",
+      "cue": "reminding"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "a",
+     "look": "student",
+     "v": 2,
+     "at": "aisle2"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "reminding",
+     "pose": "up",
+     "expr": "grin"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "reminding",
+     "shot": "host"
+    }
+   ]
+  },
+  {
+   "set": "plaza",
+   "say": "The single minded proposition is the hardest part. It's an invitation, not a claim. Not our chocolate is the richest, but what the richest chocolate tastes like, and this is ours.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "c",
+     "pose": "hold",
+     "hold": "box",
+     "holdCol": "#6b3b22"
+    },
+    {
+     "id": "s",
+     "look": "shopper",
+     "v": 5,
+     "at": "r",
+     "hold": "bag",
+     "pose": "hold",
+     "expr": "neutral"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "claim",
+     "pose": "hips",
+     "expr": "stern"
+    },
+    {
+     "who": "host",
+     "cue": "tastes",
+     "pose": "present",
+     "expr": "smile"
+    },
+    {
+     "who": "s",
+     "cue": "ours",
+     "expr": "lick"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "cross",
+     "who": "host",
+     "cue": "richest"
+    },
+    {
+     "kind": "heart",
+     "who": "s",
+     "cue": "tastes"
+    },
+    {
+     "kind": "think",
+     "who": "s",
+     "text": "Ooh, yes please",
+     "cue": "ours"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "claim",
+     "shot": "host"
+    },
+    {
+     "cue": "tastes",
+     "shot": "two",
+     "who": "s"
+    },
+    {
+     "cue": "ours",
+     "shot": "close",
+     "who": "s"
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "To write a brief: gather everything, write the task plainly, get to a point of view, then rewrite and recap. Without a point of view, it's just a summary.",
+   "board": {
+    "title": "How to write a **brief**",
+    "steps": [
+     {
+      "text": "**Gather** everything",
+      "cue": "gather"
+     },
+     {
+      "text": "Write the task **plainly**",
+      "cue": "plainly"
+     },
+     {
+      "text": "Get to a **point of view**",
+      "cue": "point"
+     },
+     {
+      "text": "**Rewrite** and recap",
+      "cue": "rewrite"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "e",
+     "look": "exec_f",
+     "v": 3,
+     "at": "table",
+     "hold": "card",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "e",
+     "cue": "summary",
+     "expr": "dazed"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "zzz",
+     "who": "e",
+     "cue": "summary"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "summary",
+     "shot": "two",
+     "who": "e"
+    }
+   ]
+  },
+  {
+   "set": "stage",
+   "say": "Then the planning cycle: where are we, why are we there, where could we be, how could we get there, and are we getting there? Then round again.",
+   "board": {
+    "title": "The **planning cycle**",
+    "steps": [
+     {
+      "text": "Where **are** we?",
+      "cue": "where are"
+     },
+     {
+      "text": "**Why** are we there?",
+      "cue": "why"
+     },
+     {
+      "text": "Where **could** we be?",
+      "cue": "could we be"
+     },
+     {
+      "text": "**How** could we get there?",
+      "cue": "how"
+     },
+     {
+      "text": "Are we **getting** there?",
+      "cue": "getting"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "round",
+     "pose": "cheer",
+     "expr": "grin"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "clock",
+     "who": "host",
+     "cue": "round"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "round",
+     "shot": "host"
+    }
+   ]
+  },
+  {
+   "set": "street",
+   "say": "The Effie is the strategist's award, the only one that matters to Tim. It takes a four thousand word essay proving the campaign worked, because strategy leads to profit.",
+   "board": {
+    "title": "The **Effie**",
+    "big": "4,000",
+    "caption": "words proving it **worked**",
+    "cue": "four"
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "c",
+     "look": "exec",
+     "v": 1,
+     "at": "r",
+     "hold": "phone",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "award",
+     "pose": "cheer",
+     "expr": "grin"
+    },
+    {
+     "who": "c",
+     "cue": "profit",
+     "expr": "grin",
+     "pose": "up"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "stars",
+     "who": "host",
+     "cue": "award"
+    },
+    {
+     "kind": "money",
+     "who": "c",
+     "cue": "profit"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "host"
+    },
+    {
+     "cue": "four",
+     "shot": "board"
+    },
+    {
+     "cue": "profit",
+     "shot": "actor",
+     "who": "c"
+    }
+   ]
+  },
+  {
+   "set": "street",
+   "say": "And we owe our clients. If an agency does a bad job, it probably won't get fired. The people in the factory will.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "l",
+     "pose": "present",
+     "expr": "stern"
+    },
+    {
+     "id": "f1",
+     "look": "worker",
+     "v": 1,
+     "at": "c"
+    },
+    {
+     "id": "f2",
+     "look": "worker",
+     "v": 6,
+     "at": "r"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "bad",
+     "pose": "shrug"
+    },
+    {
+     "who": "f1",
+     "cue": "factory",
+     "expr": "shock"
+    },
+    {
+     "who": "f2",
+     "cue": "will",
+     "expr": "pained"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "exclaim",
+     "who": "f1",
+     "cue": "factory"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "factory",
+     "shot": "close",
+     "who": "f1"
+    }
+   ]
+  },
+  {
+   "set": "stage",
+   "say": "So learn, process, apply. Nobody reads advertising; people read what interests them, and sometimes it's an ad. Be curious and opinionated. That's week seven.",
+   "board": {
+    "title": "The **takeaways**",
+    "lines": [
+     {
+      "text": "**Learn**, process, apply",
+      "cue": "learn"
+     },
+     {
+      "text": "People read what **interests** them",
+      "cue": "interests"
+     },
+     {
+      "text": "Be **curious**, be **opinionated**",
+      "cue": "curious"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "a",
+     "look": "student",
+     "v": 1,
+     "at": "aisle"
+    },
+    {
+     "id": "b",
+     "look": "student",
+     "v": 6,
+     "at": "aisle2"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "week",
+     "pose": "cheer",
+     "expr": "grin"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "stars",
+     "who": "host",
+     "cue": "week"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "curious",
+     "shot": "host"
+    },
+    {
+     "cue": "week",
+     "shot": "close"
+    }
+   ]
+  }
+ ]
+}

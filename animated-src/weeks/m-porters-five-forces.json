@@ -1,0 +1,293 @@
+{
+ "week": 0,
+ "title": "Porter's five forces",
+ "speaker": "Michael Porter, Harvard Business School, 1979",
+ "beats": [
+  {
+   "set": "office",
+   "say": "Porter's five forces explain why some industries make more money than others. Rivalry, new entrants, substitutes, the power of buyers and the power of suppliers. Strong forces squeeze margins.",
+   "board": {
+    "title": "**Porter's** five forces",
+    "steps": [
+     {
+      "text": "**Rivalry** among competitors",
+      "cue": "Rivalry"
+     },
+     {
+      "text": "**New entrants** and barriers",
+      "cue": "entrants"
+     },
+     {
+      "text": "**Substitutes** for the need",
+      "cue": "substitutes"
+     },
+     {
+      "text": "**Buyer** power",
+      "cue": "buyers"
+     },
+     {
+      "text": "**Supplier** power",
+      "cue": "suppliers"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "e1",
+     "look": "exec",
+     "v": 1,
+     "at": "table"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "squeeze",
+     "pose": "point",
+     "expr": "stern"
+    },
+    {
+     "who": "e1",
+     "cue": "margins",
+     "pose": "none",
+     "expr": "nervous"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "money",
+     "who": "e1",
+     "cue": "margins"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "buyers",
+     "shot": "board"
+    },
+    {
+     "cue": "squeeze",
+     "shot": "two",
+     "who": "e1"
+    }
+   ]
+  },
+  {
+   "set": "plaza",
+   "say": "Bottled water feels all five. Rivals everywhere, anyone can launch one, and tap water is free. So most brands fight on price.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "r"
+    },
+    {
+     "id": "s1",
+     "look": "shopper",
+     "v": 3,
+     "at": "walkL",
+     "to": "shelf"
+    },
+    {
+     "id": "s2",
+     "look": "shopper",
+     "v": 2,
+     "at": "l"
+    }
+   ],
+   "acts": [
+    {
+     "who": "s2",
+     "cue": "tap",
+     "pose": "shrug",
+     "expr": "smile"
+    },
+    {
+     "who": "s1",
+     "cue": "price",
+     "pose": "chin",
+     "expr": "nervous"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "question",
+     "who": "s1",
+     "cue": "Rivals"
+    },
+    {
+     "kind": "think",
+     "who": "s2",
+     "text": "Tap water is free.",
+     "cue": "tap"
+    },
+    {
+     "kind": "money",
+     "who": "s1",
+     "cue": "price"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "tap",
+     "shot": "actor",
+     "who": "s2"
+    },
+    {
+     "cue": "price",
+     "shot": "actor",
+     "who": "s1"
+    }
+   ]
+  },
+  {
+   "set": "plaza",
+   "say": "Then Liquid Death built a brand nobody could copy. Buyers happily paid more, and rivals were locked out.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "r"
+    },
+    {
+     "id": "s1",
+     "look": "student",
+     "v": 4,
+     "at": "shelf",
+     "hold": "box",
+     "pose": "hold",
+     "holdCol": "#222222"
+    },
+    {
+     "id": "s2",
+     "look": "shopper",
+     "v": 2,
+     "at": "l"
+    }
+   ],
+   "acts": [
+    {
+     "who": "s1",
+     "cue": "copy",
+     "pose": "cheer",
+     "expr": "grin"
+    },
+    {
+     "who": "s2",
+     "cue": "paid",
+     "expr": "laugh"
+    },
+    {
+     "who": "host",
+     "cue": "locked",
+     "pose": "up",
+     "expr": "grin"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "stars",
+     "who": "s1",
+     "cue": "copy"
+    },
+    {
+     "kind": "money",
+     "who": "s2",
+     "cue": "paid"
+    },
+    {
+     "kind": "tick",
+     "who": "host",
+     "cue": "locked"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "copy",
+     "shot": "actor",
+     "who": "s1"
+    },
+    {
+     "cue": "locked",
+     "shot": "close"
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Use it like this: rate each force high, medium or low, find the strongest, and show how the brand can weaken it.",
+   "board": {
+    "title": "Use it **like this**",
+    "lines": [
+     {
+      "text": "Rate each force **high to low**",
+      "cue": "rate"
+     },
+     {
+      "text": "Find the **strongest**",
+      "cue": "strongest"
+     },
+     {
+      "text": "Use the **brand** to weaken it",
+      "cue": "weaken"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "e1",
+     "look": "exec",
+     "v": 1,
+     "at": "table"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "strongest",
+     "pose": "point"
+    },
+    {
+     "who": "e1",
+     "cue": "weaken",
+     "expr": "smile"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "weaken",
+     "shot": "close"
+    }
+   ],
+   "hold": 1.0
+  }
+ ]
+}

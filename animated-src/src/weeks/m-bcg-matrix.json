@@ -1,0 +1,728 @@
+{
+ "week": 0,
+ "title": "BCG growth-share matrix",
+ "speaker": "Bruce Henderson, Boston Consulting Group, 1970",
+ "beats": [
+  {
+   "set": "office",
+   "say": "The BCG matrix sorts a company's brands by market growth and market share. Stars, cash cows, question marks and dogs. Each one needs a different budget.",
+   "board": {
+    "title": "**BCG** matrix",
+    "steps": [
+     {
+      "text": "**Stars** high growth, high share",
+      "cue": "Stars",
+      "at": 4.792
+     },
+     {
+      "text": "**Cash cows** low growth, high share",
+      "cue": "cash",
+      "at": 5.63
+     },
+     {
+      "text": "**Question marks** high growth, low share",
+      "cue": "question",
+      "at": 6.502
+     },
+     {
+      "text": "**Dogs** low growth, low share",
+      "cue": "dogs",
+      "at": 7.481
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "e1",
+     "look": "exec",
+     "v": 2,
+     "at": "table"
+    }
+   ],
+   "acts": [
+    {
+     "who": "e1",
+     "cue": "different",
+     "pose": "chin",
+     "at": 9.167
+    },
+    {
+     "who": "host",
+     "cue": "budget",
+     "pose": "point",
+     "at": 9.545
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "dogs",
+     "shot": "board",
+     "at": 7.481
+    },
+    {
+     "cue": "budget",
+     "shot": "two",
+     "who": "e1",
+     "at": 9.545
+    }
+   ],
+   "audio": "audio/m-bcg-matrix-00.mp3",
+   "leadIn": 0.45,
+   "seconds": 10.914,
+   "words": [
+    {
+     "w": "The",
+     "t": 0.5
+    },
+    {
+     "w": "BCG",
+     "t": 0.641
+    },
+    {
+     "w": "matrix",
+     "t": 1.231
+    },
+    {
+     "w": "sorts",
+     "t": 1.703
+    },
+    {
+     "w": "a",
+     "t": 1.986
+    },
+    {
+     "w": "company's",
+     "t": 2.033
+    },
+    {
+     "w": "brands",
+     "t": 2.422
+    },
+    {
+     "w": "by",
+     "t": 2.811
+    },
+    {
+     "w": "market",
+     "t": 2.953
+    },
+    {
+     "w": "growth",
+     "t": 3.318
+    },
+    {
+     "w": "and",
+     "t": 3.601
+    },
+    {
+     "w": "market",
+     "t": 3.767
+    },
+    {
+     "w": "share",
+     "t": 4.085
+    },
+    {
+     "w": "Stars",
+     "t": 4.792
+    },
+    {
+     "w": "cash",
+     "t": 5.63
+    },
+    {
+     "w": "cows",
+     "t": 5.889
+    },
+    {
+     "w": "question",
+     "t": 6.502
+    },
+    {
+     "w": "marks",
+     "t": 6.88
+    },
+    {
+     "w": "and",
+     "t": 7.328
+    },
+    {
+     "w": "dogs",
+     "t": 7.481
+    },
+    {
+     "w": "Each",
+     "t": 8.33
+    },
+    {
+     "w": "one",
+     "t": 8.613
+    },
+    {
+     "w": "needs",
+     "t": 8.825
+    },
+    {
+     "w": "a",
+     "t": 9.12
+    },
+    {
+     "w": "different",
+     "t": 9.167
+    },
+    {
+     "w": "budget",
+     "t": 9.545
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "KitKat is a cash cow: a huge share of a mature chocolate market, throwing off money. A new Gen Z lolly range is a question mark: a growing market, but a tiny share.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "l"
+    },
+    {
+     "id": "e1",
+     "look": "exec",
+     "v": 2,
+     "at": "table"
+    },
+    {
+     "id": "e2",
+     "look": "exec_f",
+     "v": 5,
+     "at": "table2"
+    }
+   ],
+   "acts": [
+    {
+     "who": "e1",
+     "cue": "money",
+     "pose": "cheer",
+     "expr": "grin",
+     "at": 4.686
+    },
+    {
+     "who": "e2",
+     "cue": "question",
+     "pose": "chin",
+     "expr": "nervous",
+     "at": 6.974
+    }
+   ],
+   "fx": [
+    {
+     "kind": "money",
+     "who": "e1",
+     "cue": "money",
+     "at": 4.686
+    },
+    {
+     "kind": "question",
+     "who": "e2",
+     "cue": "question",
+     "at": 6.974
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "money",
+     "shot": "actor",
+     "who": "e1",
+     "at": 4.686
+    },
+    {
+     "cue": "question",
+     "shot": "actor",
+     "who": "e2",
+     "at": 6.974
+    }
+   ],
+   "audio": "audio/m-bcg-matrix-01.mp3",
+   "leadIn": 0.45,
+   "seconds": 10.77,
+   "words": [
+    {
+     "w": "KitKat",
+     "t": 0.5
+    },
+    {
+     "w": "is",
+     "t": 0.96
+    },
+    {
+     "w": "a",
+     "t": 1.101
+    },
+    {
+     "w": "cash",
+     "t": 1.149
+    },
+    {
+     "w": "cow",
+     "t": 1.432
+    },
+    {
+     "w": "a",
+     "t": 2.045
+    },
+    {
+     "w": "huge",
+     "t": 2.139
+    },
+    {
+     "w": "share",
+     "t": 2.458
+    },
+    {
+     "w": "of",
+     "t": 2.8
+    },
+    {
+     "w": "a",
+     "t": 2.882
+    },
+    {
+     "w": "mature",
+     "t": 2.917
+    },
+    {
+     "w": "chocolate",
+     "t": 3.259
+    },
+    {
+     "w": "market",
+     "t": 3.59
+    },
+    {
+     "w": "throwing",
+     "t": 4.156
+    },
+    {
+     "w": "off",
+     "t": 4.557
+    },
+    {
+     "w": "money",
+     "t": 4.686
+    },
+    {
+     "w": "A",
+     "t": 5.382
+    },
+    {
+     "w": "new",
+     "t": 5.5
+    },
+    {
+     "w": "Gen",
+     "t": 5.748
+    },
+    {
+     "w": "Z",
+     "t": 6.007
+    },
+    {
+     "w": "lolly",
+     "t": 6.219
+    },
+    {
+     "w": "range",
+     "t": 6.502
+    },
+    {
+     "w": "is",
+     "t": 6.809
+    },
+    {
+     "w": "a",
+     "t": 6.927
+    },
+    {
+     "w": "question",
+     "t": 6.974
+    },
+    {
+     "w": "mark",
+     "t": 7.316
+    },
+    {
+     "w": "a",
+     "t": 7.965
+    },
+    {
+     "w": "growing",
+     "t": 8.047
+    },
+    {
+     "w": "market",
+     "t": 8.377
+    },
+    {
+     "w": "but",
+     "t": 8.92
+    },
+    {
+     "w": "a",
+     "t": 9.014
+    },
+    {
+     "w": "tiny",
+     "t": 9.073
+    },
+    {
+     "w": "share",
+     "t": 9.427
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "A fading niche line is a dog. So milk the cash cow to fund the stars and best question marks, and prune the dogs.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "l"
+    },
+    {
+     "id": "e1",
+     "look": "exec",
+     "v": 2,
+     "at": "table"
+    },
+    {
+     "id": "e2",
+     "look": "exec_f",
+     "v": 5,
+     "at": "table2"
+    }
+   ],
+   "acts": [
+    {
+     "who": "e2",
+     "cue": "fading",
+     "pose": "shrug",
+     "expr": "pained",
+     "at": 0.618
+    },
+    {
+     "who": "e1",
+     "cue": "milk",
+     "pose": "point",
+     "expr": "grin",
+     "at": 2.894
+    },
+    {
+     "who": "host",
+     "cue": "prune",
+     "pose": "hips",
+     "expr": "smile_closed",
+     "at": 6.078
+    }
+   ],
+   "fx": [
+    {
+     "kind": "cross",
+     "who": "e2",
+     "cue": "fading",
+     "at": 0.618
+    },
+    {
+     "kind": "chart",
+     "who": "e1",
+     "cue": "fund",
+     "at": 3.861
+    },
+    {
+     "kind": "tick",
+     "who": "host",
+     "cue": "prune",
+     "at": 6.078
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "milk",
+     "shot": "actor",
+     "who": "e1",
+     "at": 2.894
+    },
+    {
+     "cue": "prune",
+     "shot": "close",
+     "at": 6.078
+    }
+   ],
+   "audio": "audio/m-bcg-matrix-02.mp3",
+   "leadIn": 0.45,
+   "seconds": 7.89,
+   "words": [
+    {
+     "w": "A",
+     "t": 0.5
+    },
+    {
+     "w": "fading",
+     "t": 0.618
+    },
+    {
+     "w": "niche",
+     "t": 1.066
+    },
+    {
+     "w": "line",
+     "t": 1.337
+    },
+    {
+     "w": "is",
+     "t": 1.597
+    },
+    {
+     "w": "a",
+     "t": 1.762
+    },
+    {
+     "w": "dog",
+     "t": 1.809
+    },
+    {
+     "w": "So",
+     "t": 2.587
+    },
+    {
+     "w": "milk",
+     "t": 2.894
+    },
+    {
+     "w": "the",
+     "t": 3.153
+    },
+    {
+     "w": "cash",
+     "t": 3.236
+    },
+    {
+     "w": "cow",
+     "t": 3.519
+    },
+    {
+     "w": "to",
+     "t": 3.767
+    },
+    {
+     "w": "fund",
+     "t": 3.861
+    },
+    {
+     "w": "the",
+     "t": 4.085
+    },
+    {
+     "w": "stars",
+     "t": 4.132
+    },
+    {
+     "w": "and",
+     "t": 4.557
+    },
+    {
+     "w": "best",
+     "t": 4.71
+    },
+    {
+     "w": "question",
+     "t": 5.005
+    },
+    {
+     "w": "marks",
+     "t": 5.323
+    },
+    {
+     "w": "and",
+     "t": 5.925
+    },
+    {
+     "w": "prune",
+     "t": 6.078
+    },
+    {
+     "w": "the",
+     "t": 6.408
+    },
+    {
+     "w": "dogs",
+     "t": 6.467
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Use it like this: place each brand on the grid with evidence, then show where the budget should flow.",
+   "board": {
+    "title": "Use it **like this**",
+    "lines": [
+     {
+      "text": "Place each brand **with evidence**",
+      "cue": "place",
+      "at": 1.726
+     },
+     {
+      "text": "Move the **budget** to match",
+      "cue": "budget",
+      "at": 4.604
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "e1",
+     "look": "exec",
+     "v": 2,
+     "at": "table"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "evidence",
+     "pose": "point",
+     "at": 3.118
+    },
+    {
+     "who": "e1",
+     "cue": "flow",
+     "expr": "smile",
+     "at": 5.134
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "flow",
+     "shot": "close",
+     "at": 5.134
+    }
+   ],
+   "hold": 1.0,
+   "audio": "audio/m-bcg-matrix-03.mp3",
+   "leadIn": 0.45,
+   "seconds": 6.922,
+   "words": [
+    {
+     "w": "Use",
+     "t": 0.5
+    },
+    {
+     "w": "it",
+     "t": 0.818
+    },
+    {
+     "w": "like",
+     "t": 0.889
+    },
+    {
+     "w": "this",
+     "t": 1.09
+    },
+    {
+     "w": "place",
+     "t": 1.726
+    },
+    {
+     "w": "each",
+     "t": 2.068
+    },
+    {
+     "w": "brand",
+     "t": 2.292
+    },
+    {
+     "w": "on",
+     "t": 2.634
+    },
+    {
+     "w": "the",
+     "t": 2.717
+    },
+    {
+     "w": "grid",
+     "t": 2.764
+    },
+    {
+     "w": "with",
+     "t": 2.988
+    },
+    {
+     "w": "evidence",
+     "t": 3.118
+    },
+    {
+     "w": "then",
+     "t": 3.896
+    },
+    {
+     "w": "show",
+     "t": 4.085
+    },
+    {
+     "w": "where",
+     "t": 4.38
+    },
+    {
+     "w": "the",
+     "t": 4.521
+    },
+    {
+     "w": "budget",
+     "t": 4.604
+    },
+    {
+     "w": "should",
+     "t": 4.958
+    },
+    {
+     "w": "flow",
+     "t": 5.134
+    }
+   ]
+  }
+ ],
+ "id": "m-bcg-matrix",
+ "total": 36.5
+}

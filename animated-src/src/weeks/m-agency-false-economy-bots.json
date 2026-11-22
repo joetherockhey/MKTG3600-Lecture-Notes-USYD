@@ -1,0 +1,733 @@
+{
+ "week": 0,
+ "title": "The agency false economy, three types of bots and three skill clusters",
+ "speaker": "Geoff Clarke, IPG Mediabrands Australia, Week 11",
+ "beats": [
+  {
+   "set": "office",
+   "say": "Upstream work is now mostly AI driven, but downstream work is still manual. That's a false economy. The fix: trigger bots, automatic bots and schedule bots, freeing people for new skills.",
+   "board": {
+    "title": "The **false economy**",
+    "steps": [
+     {
+      "text": "**False economy**: AI up, manual down",
+      "cue": "false",
+      "at": 5.594
+     },
+     {
+      "text": "**Trigger bots**: start on arrival",
+      "cue": "trigger",
+      "at": 7.564
+     },
+     {
+      "text": "**Automatic bots**: act next",
+      "cue": "automatic",
+      "at": 8.436
+     },
+     {
+      "text": "**Schedule bots**: set times",
+      "cue": "schedule",
+      "at": 9.498
+     },
+     {
+      "text": "**Skills**: data, creative, adapt",
+      "cue": "skills",
+      "at": 11.408
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "e",
+     "look": "worker",
+     "v": 2,
+     "at": "table"
+    }
+   ],
+   "acts": [
+    {
+     "who": "e",
+     "cue": "manual",
+     "expr": "pained",
+     "at": 4.368
+    },
+    {
+     "who": "host",
+     "cue": "fix",
+     "pose": "point",
+     "expr": "grin",
+     "at": 6.868
+    }
+   ],
+   "fx": [
+    {
+     "kind": "exclaim",
+     "who": "e",
+     "cue": "manual",
+     "at": 4.368
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "manual",
+     "shot": "actor",
+     "who": "e",
+     "at": 4.368
+    },
+    {
+     "cue": "fix",
+     "shot": "board",
+     "at": 6.868
+    }
+   ],
+   "audio": "audio/m-agency-false-economy-bots-00.mp3",
+   "leadIn": 0.45,
+   "seconds": 12.882,
+   "words": [
+    {
+     "w": "Upstream",
+     "t": 0.5
+    },
+    {
+     "w": "work",
+     "t": 0.984
+    },
+    {
+     "w": "is",
+     "t": 1.29
+    },
+    {
+     "w": "now",
+     "t": 1.432
+    },
+    {
+     "w": "mostly",
+     "t": 1.597
+    },
+    {
+     "w": "AI",
+     "t": 2.092
+    },
+    {
+     "w": "driven",
+     "t": 2.351
+    },
+    {
+     "w": "but",
+     "t": 3.083
+    },
+    {
+     "w": "downstream",
+     "t": 3.248
+    },
+    {
+     "w": "work",
+     "t": 3.743
+    },
+    {
+     "w": "is",
+     "t": 4.026
+    },
+    {
+     "w": "still",
+     "t": 4.144
+    },
+    {
+     "w": "manual",
+     "t": 4.368
+    },
+    {
+     "w": "That's",
+     "t": 5.182
+    },
+    {
+     "w": "a",
+     "t": 5.535
+    },
+    {
+     "w": "false",
+     "t": 5.594
+    },
+    {
+     "w": "economy",
+     "t": 5.901
+    },
+    {
+     "w": "The",
+     "t": 6.738
+    },
+    {
+     "w": "fix",
+     "t": 6.868
+    },
+    {
+     "w": "trigger",
+     "t": 7.564
+    },
+    {
+     "w": "bots",
+     "t": 7.835
+    },
+    {
+     "w": "automatic",
+     "t": 8.436
+    },
+    {
+     "w": "bots",
+     "t": 8.884
+    },
+    {
+     "w": "and",
+     "t": 9.368
+    },
+    {
+     "w": "schedule",
+     "t": 9.498
+    },
+    {
+     "w": "bots",
+     "t": 9.875
+    },
+    {
+     "w": "freeing",
+     "t": 10.453
+    },
+    {
+     "w": "people",
+     "t": 10.795
+    },
+    {
+     "w": "for",
+     "t": 11.149
+    },
+    {
+     "w": "new",
+     "t": 11.243
+    },
+    {
+     "w": "skills",
+     "t": 11.408
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Picture the team buried in TV bookings and reconciliations, slogging through it all by hand.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "l",
+     "pose": "none"
+    },
+    {
+     "id": "e1",
+     "look": "exec",
+     "v": 2,
+     "at": "table",
+     "hold": "laptop",
+     "pose": "hold"
+    },
+    {
+     "id": "e2",
+     "look": "worker",
+     "v": 4,
+     "at": "table2",
+     "hold": "box",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "e1",
+     "cue": "buried",
+     "expr": "pained",
+     "at": 1.231
+    },
+    {
+     "who": "e2",
+     "cue": "slogging",
+     "expr": "dazed",
+     "at": 3.955
+    }
+   ],
+   "fx": [
+    {
+     "kind": "clock",
+     "who": "e1",
+     "cue": "buried",
+     "at": 1.231
+    },
+    {
+     "kind": "zzz",
+     "who": "e2",
+     "cue": "slogging",
+     "at": 3.955
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "buried",
+     "shot": "actor",
+     "who": "e1",
+     "at": 1.231
+    },
+    {
+     "cue": "slogging",
+     "shot": "actor",
+     "who": "e2",
+     "at": 3.955
+    }
+   ],
+   "audio": "audio/m-agency-false-economy-bots-01.mp3",
+   "leadIn": 0.45,
+   "seconds": 6.57,
+   "words": [
+    {
+     "w": "Picture",
+     "t": 0.5
+    },
+    {
+     "w": "the",
+     "t": 0.818
+    },
+    {
+     "w": "team",
+     "t": 0.925
+    },
+    {
+     "w": "buried",
+     "t": 1.231
+    },
+    {
+     "w": "in",
+     "t": 1.585
+    },
+    {
+     "w": "TV",
+     "t": 1.774
+    },
+    {
+     "w": "bookings",
+     "t": 2.116
+    },
+    {
+     "w": "and",
+     "t": 2.517
+    },
+    {
+     "w": "reconciliations",
+     "t": 2.67
+    },
+    {
+     "w": "slogging",
+     "t": 3.955
+    },
+    {
+     "w": "through",
+     "t": 4.45
+    },
+    {
+     "w": "it",
+     "t": 4.675
+    },
+    {
+     "w": "all",
+     "t": 4.804
+    },
+    {
+     "w": "by",
+     "t": 5.016
+    },
+    {
+     "w": "hand",
+     "t": 5.17
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Then the bots take over. An email lands, a trigger bot starts, an automatic bot acts, a schedule bot runs overnight. About two hundred and seven thousand hours saved.",
+   "board": {
+    "big": "207,000",
+    "caption": "hours saved over **five years**",
+    "cue": "hours",
+    "at": 9.58
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "l",
+     "pose": "none"
+    },
+    {
+     "id": "e1",
+     "look": "exec",
+     "v": 2,
+     "at": "table",
+     "hold": "laptop",
+     "pose": "hold"
+    },
+    {
+     "id": "e2",
+     "look": "worker",
+     "v": 4,
+     "at": "table2"
+    }
+   ],
+   "acts": [
+    {
+     "who": "e1",
+     "cue": "email",
+     "expr": "relief",
+     "at": 2.422
+    },
+    {
+     "who": "host",
+     "cue": "hours",
+     "pose": "up",
+     "expr": "grin",
+     "at": 9.58
+    },
+    {
+     "who": "e2",
+     "cue": "saved",
+     "pose": "cheer",
+     "expr": "laugh",
+     "at": 9.863
+    }
+   ],
+   "fx": [
+    {
+     "kind": "exclaim",
+     "who": "e1",
+     "cue": "email",
+     "at": 2.422
+    },
+    {
+     "kind": "clock",
+     "who": "host",
+     "cue": "overnight",
+     "at": 7.021
+    },
+    {
+     "kind": "stars",
+     "who": "e2",
+     "cue": "saved",
+     "at": 9.863
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "email",
+     "shot": "actor",
+     "who": "e1",
+     "at": 2.422
+    },
+    {
+     "cue": "hours",
+     "shot": "board",
+     "at": 9.58
+    },
+    {
+     "cue": "saved",
+     "shot": "actor",
+     "who": "e2",
+     "at": 9.863
+    }
+   ],
+   "audio": "audio/m-agency-false-economy-bots-02.mp3",
+   "leadIn": 0.45,
+   "seconds": 11.322,
+   "words": [
+    {
+     "w": "Then",
+     "t": 0.5
+    },
+    {
+     "w": "the",
+     "t": 0.807
+    },
+    {
+     "w": "bots",
+     "t": 0.889
+    },
+    {
+     "w": "take",
+     "t": 1.243
+    },
+    {
+     "w": "over",
+     "t": 1.467
+    },
+    {
+     "w": "An",
+     "t": 2.186
+    },
+    {
+     "w": "email",
+     "t": 2.422
+    },
+    {
+     "w": "lands",
+     "t": 2.788
+    },
+    {
+     "w": "a",
+     "t": 3.472
+    },
+    {
+     "w": "trigger",
+     "t": 3.554
+    },
+    {
+     "w": "bot",
+     "t": 3.802
+    },
+    {
+     "w": "starts",
+     "t": 3.979
+    },
+    {
+     "w": "an",
+     "t": 4.627
+    },
+    {
+     "w": "automatic",
+     "t": 4.804
+    },
+    {
+     "w": "bot",
+     "t": 5.288
+    },
+    {
+     "w": "acts",
+     "t": 5.429
+    },
+    {
+     "w": "a",
+     "t": 6.019
+    },
+    {
+     "w": "schedule",
+     "t": 6.09
+    },
+    {
+     "w": "bot",
+     "t": 6.538
+    },
+    {
+     "w": "runs",
+     "t": 6.738
+    },
+    {
+     "w": "overnight",
+     "t": 7.021
+    },
+    {
+     "w": "About",
+     "t": 7.87
+    },
+    {
+     "w": "two",
+     "t": 8.236
+    },
+    {
+     "w": "hundred",
+     "t": 8.448
+    },
+    {
+     "w": "and",
+     "t": 8.708
+    },
+    {
+     "w": "seven",
+     "t": 8.766
+    },
+    {
+     "w": "thousand",
+     "t": 9.108
+    },
+    {
+     "w": "hours",
+     "t": 9.58
+    },
+    {
+     "w": "saved",
+     "t": 9.863
+    }
+   ]
+  },
+  {
+   "set": "stage",
+   "say": "Use it like this: find the manual work, pick the bot, and move people into data, creative and strategic thinking.",
+   "board": {
+    "title": "Use it like **this**",
+    "lines": [
+     {
+      "text": "Find the **manual** work",
+      "cue": "manual",
+      "at": 2.092
+     },
+     {
+      "text": "Pick the **bot**",
+      "cue": "bot",
+      "at": 3.224
+     },
+     {
+      "text": "Upskill: **data**, creative, strategy",
+      "cue": "data",
+      "at": 4.686
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "point"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "strategic",
+     "pose": "cheer",
+     "expr": "grin",
+     "at": 5.984
+    }
+   ],
+   "fx": [
+    {
+     "kind": "tick",
+     "who": "host",
+     "cue": "strategic",
+     "at": 5.984
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "strategic",
+     "shot": "close",
+     "at": 5.984
+    }
+   ],
+   "hold": 1.0,
+   "audio": "audio/m-agency-false-economy-bots-03.mp3",
+   "leadIn": 0.45,
+   "seconds": 8.29,
+   "words": [
+    {
+     "w": "Use",
+     "t": 0.5
+    },
+    {
+     "w": "it",
+     "t": 0.83
+    },
+    {
+     "w": "like",
+     "t": 0.901
+    },
+    {
+     "w": "this",
+     "t": 1.101
+    },
+    {
+     "w": "find",
+     "t": 1.726
+    },
+    {
+     "w": "the",
+     "t": 2.057
+    },
+    {
+     "w": "manual",
+     "t": 2.092
+    },
+    {
+     "w": "work",
+     "t": 2.458
+    },
+    {
+     "w": "pick",
+     "t": 2.976
+    },
+    {
+     "w": "the",
+     "t": 3.165
+    },
+    {
+     "w": "bot",
+     "t": 3.224
+    },
+    {
+     "w": "and",
+     "t": 3.755
+    },
+    {
+     "w": "move",
+     "t": 3.92
+    },
+    {
+     "w": "people",
+     "t": 4.156
+    },
+    {
+     "w": "into",
+     "t": 4.474
+    },
+    {
+     "w": "data",
+     "t": 4.686
+    },
+    {
+     "w": "creative",
+     "t": 5.276
+    },
+    {
+     "w": "and",
+     "t": 5.83
+    },
+    {
+     "w": "strategic",
+     "t": 5.984
+    },
+    {
+     "w": "thinking",
+     "t": 6.502
+    }
+   ]
+  }
+ ],
+ "id": "m-agency-false-economy-bots",
+ "total": 39.07
+}

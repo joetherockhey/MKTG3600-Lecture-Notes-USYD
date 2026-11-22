@@ -1,0 +1,1459 @@
+{
+ "week": 4,
+ "title": "Managing brands with creativity and humanity",
+ "speaker": "Brent Smart",
+ "beats": [
+  {
+   "set": "stage",
+   "say": "Week four, with Brent Smart, former CMO of Telstra and IAG. Marketing is a battle for memory, and the biggest risk is taking no risk.",
+   "board": {
+    "photo": "photos/w4.jpg",
+    "title": "Managing brands with **creativity and humanity**",
+    "name": "Brent Smart",
+    "org": "Founder, B.Smart; formerly CMO of Telstra and IAG"
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "a",
+     "look": "student",
+     "v": 3,
+     "at": "front"
+    },
+    {
+     "id": "b",
+     "look": "student",
+     "v": 6,
+     "at": "r"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "memory",
+     "pose": "up",
+     "expr": "grin"
+    },
+    {
+     "who": "a",
+     "cue": "risk",
+     "pose": "chin"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "Brent",
+     "shot": "board"
+    },
+    {
+     "cue": "biggest",
+     "shot": "close"
+    }
+   ]
+  },
+  {
+   "set": "home",
+   "say": "You're competing with how people spend their time. And categories look identical: bottled water is always an alpine stream.",
+   "board": {
+    "title": "Pure. **Alpine.** Clear.",
+    "lines": [
+     {
+      "text": "Every water ad, **ever**",
+      "cue": "bottled"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "l"
+    },
+    {
+     "id": "a",
+     "look": "student",
+     "v": 1,
+     "at": "sofa",
+     "mode": "sit",
+     "hold": "phone",
+     "pose": "hold"
+    },
+    {
+     "id": "b",
+     "look": "elder",
+     "v": 2,
+     "at": "sofa2",
+     "mode": "sit"
+    }
+   ],
+   "acts": [
+    {
+     "who": "a",
+     "cue": "time",
+     "expr": "grin"
+    },
+    {
+     "who": "b",
+     "cue": "identical",
+     "expr": "dazed"
+    },
+    {
+     "who": "host",
+     "cue": "alpine",
+     "pose": "shrug",
+     "expr": "nervous"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "clock",
+     "who": "a",
+     "cue": "time"
+    },
+    {
+     "kind": "zzz",
+     "who": "b",
+     "cue": "bottled"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "time",
+     "shot": "actor",
+     "who": "a"
+    },
+    {
+     "cue": "bottled",
+     "shot": "board"
+    }
+   ]
+  },
+  {
+   "set": "plaza",
+   "say": "Liquid Death broke every code and became the fastest-growing water brand in the world. Great ideas often sound stupid at first. That's the signal.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "c"
+    },
+    {
+     "id": "s1",
+     "look": "student",
+     "v": 4,
+     "at": "walkR",
+     "to": "shelf",
+     "hold": "box",
+     "pose": "hold",
+     "holdCol": "#222222"
+    },
+    {
+     "id": "s2",
+     "look": "exec",
+     "v": 1,
+     "at": "l"
+    }
+   ],
+   "acts": [
+    {
+     "who": "s1",
+     "cue": "fastest",
+     "pose": "cheer",
+     "expr": "grin"
+    },
+    {
+     "who": "s2",
+     "cue": "stupid",
+     "pose": "shrug",
+     "expr": "stern"
+    },
+    {
+     "who": "host",
+     "cue": "signal",
+     "pose": "up",
+     "expr": "grin"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "stars",
+     "who": "s1",
+     "cue": "fastest"
+    },
+    {
+     "kind": "say",
+     "who": "s2",
+     "text": "Sounds stupid.",
+     "cue": "stupid"
+    },
+    {
+     "kind": "bulb",
+     "who": "host",
+     "cue": "signal"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "fastest",
+     "shot": "actor",
+     "who": "s1"
+    },
+    {
+     "cue": "stupid",
+     "shot": "actor",
+     "who": "s2"
+    },
+    {
+     "cue": "signal",
+     "shot": "close"
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Creative work returns two and a half times the revenue growth and four times the profit of the average ad. Dull costs twenty and a half million extra.",
+   "board": {
+    "title": "Creative vs **average** ad",
+    "bars": [
+     {
+      "label": "Revenue growth",
+      "value": 2.5,
+      "display": "2.5x",
+      "cue": "revenue"
+     },
+     {
+      "label": "Profit",
+      "value": 4,
+      "display": "4x",
+      "cue": "profit"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "point"
+    },
+    {
+     "id": "e1",
+     "look": "exec_f",
+     "v": 2,
+     "at": "table",
+     "hold": "laptop",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "e1",
+     "cue": "profit",
+     "pose": "cheer",
+     "expr": "grin"
+    },
+    {
+     "who": "e1",
+     "cue": "dull",
+     "pose": "none",
+     "expr": "shock"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "chart",
+     "who": "e1",
+     "cue": "revenue"
+    },
+    {
+     "kind": "money",
+     "who": "e1",
+     "cue": "dull"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "profit",
+     "shot": "two",
+     "who": "e1"
+    },
+    {
+     "cue": "dull",
+     "shot": "close",
+     "who": "e1"
+    }
+   ]
+  },
+  {
+   "set": "street",
+   "say": "He's proved it three times. Yellow Pages' treehouse used zero paid media. Cheerios rode out a backlash. NRMA's koalas went from thirty-sixth to fifth.",
+   "board": {
+    "title": "Three **proofs**",
+    "lines": [
+     {
+      "text": "**Yellow Pages**: $0 paid, 3 Cannes Lions",
+      "cue": "Yellow"
+     },
+     {
+      "text": "**Cheerios**: growth after 13 quarters",
+      "cue": "Cheerios"
+     },
+     {
+      "text": "**NRMA koalas**: 36th to 5th",
+      "cue": "koalas"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "front"
+    },
+    {
+     "id": "p1",
+     "look": "shopper",
+     "v": 1,
+     "at": "l"
+    },
+    {
+     "id": "p2",
+     "look": "kid",
+     "v": 2,
+     "at": "r"
+    }
+   ],
+   "acts": [
+    {
+     "who": "p1",
+     "cue": "backlash",
+     "expr": "shock"
+    },
+    {
+     "who": "p2",
+     "cue": "koalas",
+     "pose": "cheer",
+     "expr": "laugh"
+    },
+    {
+     "who": "host",
+     "cue": "fifth",
+     "pose": "up",
+     "expr": "grin"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "burst",
+     "who": "p1",
+     "cue": "backlash"
+    },
+    {
+     "kind": "heart",
+     "who": "p2",
+     "cue": "koalas"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "Cheerios",
+     "shot": "wide"
+    },
+    {
+     "cue": "koalas",
+     "shot": "board"
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "If it's not bold, it's dumb. Bad ideas are safe and comfortable. Good ones feel uncomfortable, and with no data, conviction does the work.",
+   "board": {
+    "title": "If it's not bold, **it's dumb**",
+    "vs": {
+     "left": "Bad idea",
+     "right": "Good idea",
+     "leftItems": [
+      "Safe",
+      "Boring",
+      "Comfortable"
+     ],
+     "rightItems": [
+      "Uncomfortable",
+      "Unpredictable",
+      "Different"
+     ],
+     "cue": "bad"
+    }
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "e1",
+     "look": "exec",
+     "v": 3,
+     "at": "table",
+     "pose": "hips"
+    }
+   ],
+   "acts": [
+    {
+     "who": "e1",
+     "cue": "uncomfortable",
+     "pose": "none",
+     "expr": "nervous"
+    },
+    {
+     "who": "host",
+     "cue": "conviction",
+     "pose": "cheer",
+     "expr": "grin"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "exclaim",
+     "who": "e1",
+     "cue": "uncomfortable"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "close"
+    },
+    {
+     "cue": "bad",
+     "shot": "board"
+    },
+    {
+     "cue": "conviction",
+     "shot": "two",
+     "who": "e1"
+    }
+   ]
+  },
+  {
+   "set": "home",
+   "say": "Telstra's reputation sat barely above the tax office. Asked to draw the brand, people drew a suit, the Monopoly man, a bully.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "r"
+    },
+    {
+     "id": "a",
+     "look": "shopper",
+     "v": 3,
+     "at": "sofa",
+     "mode": "sit",
+     "hold": "clipboard",
+     "pose": "hold"
+    },
+    {
+     "id": "b",
+     "look": "worker",
+     "v": 1,
+     "at": "l",
+     "hold": "clipboard",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "barely",
+     "pose": "shrug",
+     "expr": "pained"
+    },
+    {
+     "who": "a",
+     "cue": "bully",
+     "expr": "stern"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "say",
+     "who": "b",
+     "text": "The Monopoly man.",
+     "cue": "Monopoly"
+    },
+    {
+     "kind": "say",
+     "who": "a",
+     "text": "A bully.",
+     "cue": "bully"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "draw",
+     "shot": "actor",
+     "who": "b"
+    },
+    {
+     "cue": "bully",
+     "shot": "close",
+     "who": "a"
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Only fifteen percent of buyers are in market now, ready for logic and offers. The other eighty-five percent need emotion, memories for later.",
+   "board": {
+    "title": "Current vs **future** demand",
+    "vs": {
+     "left": "~15% in market",
+     "right": "~85% not in market",
+     "leftItems": [
+      "Logic, offers",
+      "Performance",
+      "Converts now"
+     ],
+     "rightItems": [
+      "Emotion",
+      "Brand building",
+      "Memory for later"
+     ],
+     "cue": "fifteen"
+    }
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "point"
+    },
+    {
+     "id": "e1",
+     "look": "exec_f",
+     "v": 4,
+     "at": "table"
+    }
+   ],
+   "acts": [
+    {
+     "who": "e1",
+     "cue": "eighty",
+     "pose": "chin",
+     "expr": "nervous"
+    },
+    {
+     "who": "host",
+     "cue": "emotion",
+     "pose": "present",
+     "expr": "smile"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "brain",
+     "who": "e1",
+     "cue": "memories"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "eighty",
+     "shot": "actor",
+     "who": "e1"
+    },
+    {
+     "cue": "memories",
+     "shot": "board"
+    }
+   ]
+  },
+  {
+   "set": "stage",
+   "say": "Don't just talk to the four hands that are up right now. Someone buying a phone in three years is worth reaching today.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "lectern"
+    },
+    {
+     "id": "a",
+     "look": "student",
+     "v": 1,
+     "at": "l"
+    },
+    {
+     "id": "b",
+     "look": "student",
+     "v": 2,
+     "at": "front"
+    },
+    {
+     "id": "c",
+     "look": "student",
+     "v": 5,
+     "at": "r",
+     "hold": "phone",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "a",
+     "cue": "hands",
+     "pose": "up",
+     "expr": "grin"
+    },
+    {
+     "who": "b",
+     "cue": "up",
+     "pose": "up",
+     "expr": "smile"
+    },
+    {
+     "who": "host",
+     "cue": "Someone",
+     "pose": "point"
+    },
+    {
+     "who": "c",
+     "cue": "today",
+     "expr": "smile"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "exclaim",
+     "who": "a",
+     "cue": "hands"
+    },
+    {
+     "kind": "think",
+     "who": "c",
+     "text": "Maybe in three years...",
+     "cue": "phone"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "Someone",
+     "shot": "actor",
+     "who": "c"
+    },
+    {
+     "cue": "today",
+     "shot": "close"
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Activation spikes, then drops when you stop. Brand building rises slowly. The benchmark is sixty percent brand. Telstra was at twenty, so he went to fifty first.",
+   "board": {
+    "title": "Brand share of spend",
+    "bars": [
+     {
+      "label": "Benchmark",
+      "value": 60,
+      "display": "60%",
+      "cue": "sixty"
+     },
+     {
+      "label": "Telstra before",
+      "value": 20,
+      "display": "20%",
+      "cue": "twenty"
+     },
+     {
+      "label": "First move",
+      "value": 50,
+      "display": "50%",
+      "cue": "fifty"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "point"
+    },
+    {
+     "id": "e1",
+     "look": "exec",
+     "v": 5,
+     "at": "desk",
+     "hold": "laptop",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "e1",
+     "cue": "drops",
+     "pose": "none",
+     "expr": "shock"
+    },
+    {
+     "who": "e1",
+     "cue": "rises",
+     "expr": "relief"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "chart",
+     "who": "e1",
+     "cue": "rises"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "drops",
+     "shot": "actor",
+     "who": "e1"
+    },
+    {
+     "cue": "benchmark",
+     "shot": "board"
+    }
+   ]
+  },
+  {
+   "set": "street",
+   "say": "Be a magnet, not a mirror. Put a still from your ad, logo removed, beside three rivals. If nobody can tell which is yours, it's a mirror.",
+   "board": {
+    "title": "A **magnet**, not a mirror",
+    "lines": [
+     {
+      "text": "Take a still, **remove the logo**",
+      "cue": "still"
+     },
+     {
+      "text": "Beside **three** rivals",
+      "cue": "three"
+     },
+     {
+      "text": "Can't tell? It's a **mirror**",
+      "cue": "nobody"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "front"
+    },
+    {
+     "id": "p1",
+     "look": "elder",
+     "v": 3,
+     "at": "bus"
+    },
+    {
+     "id": "p2",
+     "look": "shopper",
+     "v": 5,
+     "at": "r"
+    }
+   ],
+   "acts": [
+    {
+     "who": "p1",
+     "cue": "nobody",
+     "pose": "shrug",
+     "expr": "dazed"
+    },
+    {
+     "who": "p2",
+     "cue": "mirror",
+     "pose": "shrug",
+     "expr": "nervous"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "question",
+     "who": "p1",
+     "cue": "nobody"
+    },
+    {
+     "kind": "question",
+     "who": "p2",
+     "cue": "mirror"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "close"
+    },
+    {
+     "cue": "Put",
+     "shot": "board"
+    },
+    {
+     "cue": "nobody",
+     "shot": "wide"
+    }
+   ]
+  },
+  {
+   "set": "home",
+   "say": "Telstra made twenty-six stop-motion ads, each an Australian animal in a real place, with forty-two local voices and handmade puppets. It won a Grand Prix.",
+   "board": {
+    "title": "26 spots, **42 real voices**",
+    "lines": [
+     {
+      "text": "**Handmade** stop-motion puppets",
+      "cue": "handmade"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "l"
+    },
+    {
+     "id": "a",
+     "look": "kid",
+     "v": 4,
+     "at": "sofa",
+     "mode": "sit"
+    },
+    {
+     "id": "b",
+     "look": "shopper",
+     "v": 2,
+     "at": "sofa2",
+     "mode": "sit"
+    }
+   ],
+   "acts": [
+    {
+     "who": "a",
+     "cue": "animal",
+     "pose": "cheer",
+     "expr": "laugh"
+    },
+    {
+     "who": "b",
+     "cue": "voices",
+     "expr": "smile"
+    },
+    {
+     "who": "host",
+     "cue": "Grand",
+     "pose": "cheer",
+     "expr": "grin"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "heart",
+     "who": "a",
+     "cue": "animal"
+    },
+    {
+     "kind": "stars",
+     "who": "host",
+     "cue": "Grand"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "animal",
+     "shot": "actor",
+     "who": "a"
+    },
+    {
+     "cue": "Grand",
+     "shot": "board"
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "The brand on one page: a connected future for everyone. Positioning, engineering possibility. The platform, wherever we go. Always crafted with a human hand.",
+   "board": {
+    "title": "Telstra on **one page**",
+    "steps": [
+     {
+      "text": "**Purpose**: a connected future",
+      "cue": "connected"
+     },
+     {
+      "text": "**Positioning**: engineering possibility",
+      "cue": "positioning"
+     },
+     {
+      "text": "**Platform**: wherever we go",
+      "cue": "platform"
+     },
+     {
+      "text": "Crafted with a **human hand**",
+      "cue": "crafted"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "point"
+    },
+    {
+     "id": "e1",
+     "look": "exec_f",
+     "v": 6,
+     "at": "table",
+     "hold": "clipboard",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "e1",
+     "cue": "human",
+     "expr": "smile"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "tick",
+     "who": "e1",
+     "cue": "human"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "crafted",
+     "shot": "two",
+     "who": "e1"
+    }
+   ]
+  },
+  {
+   "set": "home",
+   "say": "The whistling ad used animation, no phones and metaphor. At launch, people hated it. But being noticed beats being liked, so he held his nerve.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "r"
+    },
+    {
+     "id": "a",
+     "look": "elder",
+     "v": 5,
+     "at": "sofa",
+     "mode": "sit"
+    },
+    {
+     "id": "b",
+     "look": "student",
+     "v": 7,
+     "at": "sofa2",
+     "mode": "sit",
+     "hold": "phone",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "whistling",
+     "expr": "whistle"
+    },
+    {
+     "who": "a",
+     "cue": "hated",
+     "pose": "point",
+     "expr": "stern"
+    },
+    {
+     "who": "b",
+     "cue": "noticed",
+     "expr": "pained"
+    },
+    {
+     "who": "host",
+     "cue": "held",
+     "pose": "hips",
+     "expr": "smile_closed"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "sparkle",
+     "who": "host",
+     "cue": "whistling"
+    },
+    {
+     "kind": "say",
+     "who": "b",
+     "text": "Not this ad again!",
+     "cue": "launch"
+    },
+    {
+     "kind": "cross",
+     "who": "a",
+     "cue": "hated"
+    },
+    {
+     "kind": "eye",
+     "who": "host",
+     "cue": "noticed"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "launch",
+     "shot": "two",
+     "who": "b"
+    },
+    {
+     "cue": "noticed",
+     "shot": "close"
+    }
+   ]
+  },
+  {
+   "set": "plaza",
+   "say": "Then people started copying the walk. Thirty million organic TikTok views, zero paid spend, and Telstra credited the people who made them.",
+   "board": {
+    "big": "30M",
+    "caption": "organic TikTok views, **$0** paid",
+    "cue": "Thirty"
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "front"
+    },
+    {
+     "id": "p1",
+     "look": "student",
+     "v": 2,
+     "at": "walkL",
+     "to": "l",
+     "walkCue": "copying"
+    },
+    {
+     "id": "p2",
+     "look": "student",
+     "v": 3,
+     "at": "r",
+     "hold": "phone",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "p1",
+     "cue": "walk",
+     "pose": "cheer",
+     "expr": "whistle"
+    },
+    {
+     "who": "p2",
+     "cue": "Thirty",
+     "expr": "laugh"
+    },
+    {
+     "who": "host",
+     "cue": "credited",
+     "pose": "present",
+     "expr": "grin"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "sparkle",
+     "who": "p1",
+     "cue": "walk"
+    },
+    {
+     "kind": "heart",
+     "who": "p2",
+     "cue": "Thirty"
+    },
+    {
+     "kind": "tick",
+     "who": "host",
+     "cue": "credited"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "walk",
+     "shot": "actor",
+     "who": "p1"
+    },
+    {
+     "cue": "Thirty",
+     "shot": "board"
+    },
+    {
+     "cue": "credited",
+     "shot": "host"
+    }
+   ]
+  },
+  {
+   "set": "street",
+   "say": "Even the posters were handmade. People can tell made from generated, and read effort as care. Craft is a strategic choice.",
+   "board": {
+    "title": "Craft is **strategy**",
+    "lines": [
+     {
+      "text": "Made, not **generated**",
+      "cue": "generated"
+     },
+     {
+      "text": "Effort reads as **care**",
+      "cue": "care"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "front"
+    },
+    {
+     "id": "p1",
+     "look": "exec_f",
+     "v": 5,
+     "at": "kerb",
+     "hold": "coffee",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "p1",
+     "cue": "care",
+     "expr": "smile"
+    },
+    {
+     "who": "host",
+     "cue": "strategic",
+     "pose": "point"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "eye",
+     "who": "p1",
+     "cue": "tell"
+    },
+    {
+     "kind": "heart",
+     "who": "p1",
+     "cue": "care"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "tell",
+     "shot": "actor",
+     "who": "p1"
+    },
+    {
+     "cue": "Craft",
+     "shot": "close"
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Marketing ROI rose from six point one to ten point four in four years, on lower spend. Even performance marketing converted better, thanks to a stronger brand.",
+   "board": {
+    "title": "Marketing **ROI**",
+    "big": "6.10 to 10.40",
+    "caption": "over four years, on **lower spend**",
+    "cue": "six"
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "e1",
+     "look": "exec",
+     "v": 2,
+     "at": "table",
+     "hold": "laptop",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "e1",
+     "cue": "ten",
+     "pose": "cheer",
+     "expr": "laugh"
+    },
+    {
+     "who": "host",
+     "cue": "stronger",
+     "pose": "up",
+     "expr": "grin"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "chart",
+     "who": "e1",
+     "cue": "rose"
+    },
+    {
+     "kind": "money",
+     "who": "e1",
+     "cue": "lower"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "ten",
+     "shot": "actor",
+     "who": "e1"
+    },
+    {
+     "cue": "performance",
+     "shot": "close"
+    }
+   ]
+  },
+  {
+   "set": "home",
+   "say": "With AI, content is either slop or irreplaceably human. Telstra's AI Santa took eight hundred thousand calls. But you need an idea first.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "l"
+    },
+    {
+     "id": "k",
+     "look": "kid",
+     "v": 1,
+     "at": "c",
+     "hold": "phone",
+     "pose": "hold"
+    },
+    {
+     "id": "a",
+     "look": "shopper",
+     "v": 7,
+     "at": "sofa",
+     "mode": "sit"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "slop",
+     "pose": "shrug"
+    },
+    {
+     "who": "k",
+     "cue": "Santa",
+     "expr": "laugh"
+    },
+    {
+     "who": "host",
+     "cue": "idea",
+     "pose": "up",
+     "expr": "grin"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "say",
+     "who": "k",
+     "text": "Hi Santa!",
+     "cue": "Santa"
+    },
+    {
+     "kind": "bulb",
+     "who": "host",
+     "cue": "first"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "Santa",
+     "shot": "actor",
+     "who": "k"
+    },
+    {
+     "cue": "idea",
+     "shot": "close"
+    }
+   ]
+  },
+  {
+   "set": "stage",
+   "say": "So make the brand memorable, build future demand, and craft it with a human hand. Creativity thrives on kindness, so be kind. That's week four.",
+   "board": {
+    "title": "Week 4 **takeaways**",
+    "lines": [
+     {
+      "text": "Make the brand **memorable**",
+      "cue": "memorable"
+     },
+     {
+      "text": "Build **future** demand",
+      "cue": "future"
+     },
+     {
+      "text": "**Craft** elevates premium brands",
+      "cue": "craft"
+     },
+     {
+      "text": "Be **kind**",
+      "cue": "kind"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "a",
+     "look": "student",
+     "v": 4,
+     "at": "front"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "kindness",
+     "pose": "present",
+     "expr": "smile"
+    },
+    {
+     "who": "host",
+     "cue": "That's",
+     "pose": "cheer",
+     "expr": "grin"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "heart",
+     "who": "a",
+     "cue": "kindness"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "kindness",
+     "shot": "close"
+    },
+    {
+     "cue": "That's",
+     "shot": "wide",
+     "glide": true
+    }
+   ],
+   "hold": 1.2
+  }
+ ]
+}

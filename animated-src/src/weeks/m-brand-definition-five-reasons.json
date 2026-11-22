@@ -1,0 +1,681 @@
+{
+ "week": 0,
+ "title": "Papps' brand definition and the five reasons brands matter",
+ "speaker": "Justin Papps, Tenet, Week 3",
+ "beats": [
+  {
+   "set": "stage",
+   "say": "A brand is the beliefs that predispose people to choose you. It matters for five reasons: economic engine, behavioural shortcut, strategy in action, culture shaper, and volatility moat.",
+   "board": {
+    "title": "Why **brands** matter",
+    "steps": [
+     {
+      "text": "**Economic** engines",
+      "cue": "economic",
+      "at": 5.535
+     },
+     {
+      "text": "**Behavioural** shortcuts",
+      "cue": "behavioural",
+      "at": 6.514
+     },
+     {
+      "text": "**Strategy** in action",
+      "cue": "strategy",
+      "at": 7.752
+     },
+     {
+      "text": "Shapers of **culture**",
+      "cue": "culture",
+      "at": 9.073
+     },
+     {
+      "text": "**Volatility** moats",
+      "cue": "volatility",
+      "at": 10.111
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "a",
+     "look": "student",
+     "at": "front",
+     "v": 1
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "five",
+     "pose": "up",
+     "at": 4.415
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "strategy",
+     "shot": "close",
+     "at": 7.752
+    },
+    {
+     "cue": "volatility",
+     "shot": "board",
+     "at": 10.111
+    }
+   ],
+   "audio": "audio/m-brand-definition-five-reasons-00.mp3",
+   "leadIn": 0.45,
+   "seconds": 11.898,
+   "words": [
+    {
+     "w": "A",
+     "t": 0.5
+    },
+    {
+     "w": "brand",
+     "t": 0.618
+    },
+    {
+     "w": "is",
+     "t": 1.078
+    },
+    {
+     "w": "the",
+     "t": 1.266
+    },
+    {
+     "w": "beliefs",
+     "t": 1.337
+    },
+    {
+     "w": "that",
+     "t": 1.797
+    },
+    {
+     "w": "predispose",
+     "t": 1.939
+    },
+    {
+     "w": "people",
+     "t": 2.528
+    },
+    {
+     "w": "to",
+     "t": 2.859
+    },
+    {
+     "w": "choose",
+     "t": 2.953
+    },
+    {
+     "w": "you",
+     "t": 3.236
+    },
+    {
+     "w": "It",
+     "t": 3.814
+    },
+    {
+     "w": "matters",
+     "t": 4.002
+    },
+    {
+     "w": "for",
+     "t": 4.321
+    },
+    {
+     "w": "five",
+     "t": 4.415
+    },
+    {
+     "w": "reasons",
+     "t": 4.722
+    },
+    {
+     "w": "economic",
+     "t": 5.535
+    },
+    {
+     "w": "engine",
+     "t": 5.948
+    },
+    {
+     "w": "behavioural",
+     "t": 6.514
+    },
+    {
+     "w": "shortcut",
+     "t": 6.998
+    },
+    {
+     "w": "strategy",
+     "t": 7.752
+    },
+    {
+     "w": "in",
+     "t": 8.33
+    },
+    {
+     "w": "action",
+     "t": 8.413
+    },
+    {
+     "w": "culture",
+     "t": 9.073
+    },
+    {
+     "w": "shaper",
+     "t": 9.38
+    },
+    {
+     "w": "and",
+     "t": 9.969
+    },
+    {
+     "w": "volatility",
+     "t": 10.111
+    },
+    {
+     "w": "moat",
+     "t": 10.63
+    }
+   ]
+  },
+  {
+   "set": "plaza",
+   "say": "Take two backpacks. Louis Vuitton costs about fifteen times more, with fewer compartments and a worse warranty. People still pay. That's the brand.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "l"
+    },
+    {
+     "id": "s1",
+     "look": "shopper",
+     "at": "shelf",
+     "v": 3,
+     "hold": "bag",
+     "holdCol": "#7a5230",
+     "pose": "hold"
+    },
+    {
+     "id": "s2",
+     "look": "student",
+     "at": "r",
+     "v": 2,
+     "hold": "bag",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "s2",
+     "cue": "fewer",
+     "pose": "chin",
+     "expr": "dazed",
+     "at": 4.804
+    },
+    {
+     "who": "s1",
+     "cue": "pay",
+     "pose": "cheer",
+     "expr": "grin",
+     "at": 7.658
+    },
+    {
+     "who": "host",
+     "cue": "brand",
+     "pose": "up",
+     "at": 8.932
+    }
+   ],
+   "fx": [
+    {
+     "kind": "money",
+     "who": "s1",
+     "cue": "fifteen",
+     "at": 3.33
+    },
+    {
+     "kind": "question",
+     "who": "s2",
+     "cue": "fewer",
+     "at": 4.804
+    },
+    {
+     "kind": "heart",
+     "who": "s1",
+     "cue": "pay",
+     "at": 7.658
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "fifteen",
+     "shot": "actor",
+     "who": "s1",
+     "at": 3.33
+    },
+    {
+     "cue": "fewer",
+     "shot": "actor",
+     "who": "s2",
+     "at": 4.804
+    },
+    {
+     "cue": "brand",
+     "shot": "close",
+     "at": 8.932
+    }
+   ],
+   "audio": "audio/m-brand-definition-five-reasons-01.mp3",
+   "leadIn": 0.45,
+   "seconds": 10.41,
+   "words": [
+    {
+     "w": "Take",
+     "t": 0.5
+    },
+    {
+     "w": "two",
+     "t": 0.842
+    },
+    {
+     "w": "backpacks",
+     "t": 1.042
+    },
+    {
+     "w": "Louis",
+     "t": 2.009
+    },
+    {
+     "w": "Vuitton",
+     "t": 2.351
+    },
+    {
+     "w": "costs",
+     "t": 2.752
+    },
+    {
+     "w": "about",
+     "t": 3.094
+    },
+    {
+     "w": "fifteen",
+     "t": 3.33
+    },
+    {
+     "w": "times",
+     "t": 3.731
+    },
+    {
+     "w": "more",
+     "t": 4.014
+    },
+    {
+     "w": "with",
+     "t": 4.639
+    },
+    {
+     "w": "fewer",
+     "t": 4.804
+    },
+    {
+     "w": "compartments",
+     "t": 5.087
+    },
+    {
+     "w": "and",
+     "t": 5.7
+    },
+    {
+     "w": "a",
+     "t": 5.854
+    },
+    {
+     "w": "worse",
+     "t": 5.901
+    },
+    {
+     "w": "warranty",
+     "t": 6.16
+    },
+    {
+     "w": "People",
+     "t": 6.962
+    },
+    {
+     "w": "still",
+     "t": 7.363
+    },
+    {
+     "w": "pay",
+     "t": 7.658
+    },
+    {
+     "w": "That's",
+     "t": 8.425
+    },
+    {
+     "w": "the",
+     "t": 8.825
+    },
+    {
+     "w": "brand",
+     "t": 8.932
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Brands mean margin. An iPhone sells for over three times what it costs to make, a margin above sixty-seven percent.",
+   "board": {
+    "title": "**iPhone** economics",
+    "big": "67%+",
+    "caption": "gross **margin**",
+    "cue": "margin",
+    "at": 1.208
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "point"
+    },
+    {
+     "id": "e1",
+     "look": "exec",
+     "at": "table",
+     "v": 5,
+     "hold": "laptop",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "e1",
+     "cue": "sixty",
+     "pose": "cheer",
+     "expr": "grin",
+     "at": 6.078
+    }
+   ],
+   "fx": [
+    {
+     "kind": "money",
+     "who": "e1",
+     "cue": "sixty",
+     "at": 6.078
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "sixty",
+     "shot": "actor",
+     "who": "e1",
+     "at": 6.078
+    }
+   ],
+   "audio": "audio/m-brand-definition-five-reasons-02.mp3",
+   "leadIn": 0.45,
+   "seconds": 8.082,
+   "words": [
+    {
+     "w": "Brands",
+     "t": 0.5
+    },
+    {
+     "w": "mean",
+     "t": 0.984
+    },
+    {
+     "w": "margin",
+     "t": 1.208
+    },
+    {
+     "w": "An",
+     "t": 2.045
+    },
+    {
+     "w": "iPhone",
+     "t": 2.281
+    },
+    {
+     "w": "sells",
+     "t": 2.705
+    },
+    {
+     "w": "for",
+     "t": 2.988
+    },
+    {
+     "w": "over",
+     "t": 3.165
+    },
+    {
+     "w": "three",
+     "t": 3.354
+    },
+    {
+     "w": "times",
+     "t": 3.66
+    },
+    {
+     "w": "what",
+     "t": 4.038
+    },
+    {
+     "w": "it",
+     "t": 4.132
+    },
+    {
+     "w": "costs",
+     "t": 4.215
+    },
+    {
+     "w": "to",
+     "t": 4.545
+    },
+    {
+     "w": "make",
+     "t": 4.616
+    },
+    {
+     "w": "a",
+     "t": 5.264
+    },
+    {
+     "w": "margin",
+     "t": 5.347
+    },
+    {
+     "w": "above",
+     "t": 5.807
+    },
+    {
+     "w": "sixty-seven",
+     "t": 6.078
+    },
+    {
+     "w": "percent",
+     "t": 6.691
+    }
+   ]
+  },
+  {
+   "set": "stage",
+   "say": "Use it like this: argue brand as a commercial asset. Attention is cheap, memory is expensive, preference is priceless.",
+   "board": {
+    "title": "Brand is a **commercial asset**",
+    "lines": [
+     {
+      "text": "Attention is **cheap**",
+      "cue": "Attention",
+      "at": 3.896
+     },
+     {
+      "text": "Memory is **expensive**",
+      "cue": "memory",
+      "at": 5.217
+     },
+     {
+      "text": "Preference is **priceless**",
+      "cue": "preference",
+      "at": 6.609
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "a",
+     "look": "student",
+     "at": "front",
+     "v": 4
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "priceless",
+     "pose": "cheer",
+     "expr": "grin",
+     "at": 7.21
+    }
+   ],
+   "fx": [
+    {
+     "kind": "stars",
+     "who": "host",
+     "cue": "priceless",
+     "at": 7.21
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "priceless",
+     "shot": "close",
+     "at": 7.21
+    }
+   ],
+   "hold": 1.0,
+   "audio": "audio/m-brand-definition-five-reasons-03.mp3",
+   "leadIn": 0.45,
+   "seconds": 9.154,
+   "words": [
+    {
+     "w": "Use",
+     "t": 0.5
+    },
+    {
+     "w": "it",
+     "t": 0.83
+    },
+    {
+     "w": "like",
+     "t": 0.913
+    },
+    {
+     "w": "this",
+     "t": 1.125
+    },
+    {
+     "w": "argue",
+     "t": 1.785
+    },
+    {
+     "w": "brand",
+     "t": 2.127
+    },
+    {
+     "w": "as",
+     "t": 2.54
+    },
+    {
+     "w": "a",
+     "t": 2.67
+    },
+    {
+     "w": "commercial",
+     "t": 2.705
+    },
+    {
+     "w": "asset",
+     "t": 3.153
+    },
+    {
+     "w": "Attention",
+     "t": 3.896
+    },
+    {
+     "w": "is",
+     "t": 4.403
+    },
+    {
+     "w": "cheap",
+     "t": 4.533
+    },
+    {
+     "w": "memory",
+     "t": 5.217
+    },
+    {
+     "w": "is",
+     "t": 5.653
+    },
+    {
+     "w": "expensive",
+     "t": 5.783
+    },
+    {
+     "w": "preference",
+     "t": 6.609
+    },
+    {
+     "w": "is",
+     "t": 7.057
+    },
+    {
+     "w": "priceless",
+     "t": 7.21
+    }
+   ]
+  }
+ ],
+ "id": "m-brand-definition-five-reasons",
+ "total": 39.53
+}

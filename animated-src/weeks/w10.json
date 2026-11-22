@@ -1,0 +1,1332 @@
+{
+ "week": 10,
+ "title": "Inside the world of influencer marketing",
+ "speaker": "Bryce Coombe",
+ "beats": [
+  {
+   "set": "stage",
+   "say": "Week ten. Inside the world of influencer marketing, with Bryce Coombe, managing director of Hypetap. His message: influencer is no longer a side channel.",
+   "board": {
+    "photo": "photos/w10.png",
+    "title": "Inside the world of **influencer marketing**",
+    "name": "Bryce Coombe",
+    "org": "Managing Director, Hypetap"
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "s1",
+     "look": "student",
+     "v": 3,
+     "at": "aisle",
+     "hold": "phone",
+     "pose": "hold"
+    },
+    {
+     "id": "s2",
+     "look": "student",
+     "v": 6,
+     "at": "aisle2"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "side",
+     "pose": "point",
+     "expr": "grin"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "heart",
+     "who": "s1",
+     "cue": "influencer is"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "Bryce",
+     "shot": "board"
+    },
+    {
+     "cue": "message",
+     "shot": "close"
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Hypetap is a full service influencer agency, founded in twenty fourteen. It calls itself more than a platform, running on people, process and product.",
+   "board": {
+    "title": "More than a **platform**",
+    "steps": [
+     {
+      "text": "**People**",
+      "cue": "people"
+     },
+     {
+      "text": "**Process**",
+      "cue": "process"
+     },
+     {
+      "text": "**Product**",
+      "cue": "product"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "point",
+     "mirror": true
+    },
+    {
+     "id": "a",
+     "look": "exec_f",
+     "v": 2,
+     "at": "desk",
+     "hold": "laptop",
+     "pose": "hold"
+    },
+    {
+     "id": "b",
+     "look": "student",
+     "v": 4,
+     "at": "table",
+     "hold": "phone",
+     "pose": "hold"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "tick",
+     "who": "a",
+     "cue": "platform"
+    },
+    {
+     "kind": "sparkle",
+     "who": "b",
+     "cue": "product"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "platform",
+     "shot": "board"
+    }
+   ]
+  },
+  {
+   "set": "home",
+   "say": "Australia has twenty one point three million social media users, each on six or more platforms a month. And TikTok time is up six hours on last year.",
+   "board": {
+    "title": "Hours a month on **TikTok**",
+    "big": "29.5",
+    "caption": "up **6 hours** year on year",
+    "cue": "TikTok"
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "l",
+     "pose": "present"
+    },
+    {
+     "id": "a",
+     "look": "student",
+     "v": 5,
+     "at": "sofa",
+     "mode": "sit",
+     "hold": "phone",
+     "pose": "hold"
+    },
+    {
+     "id": "b",
+     "look": "worker",
+     "v": 2,
+     "at": "sofa2",
+     "mode": "sit",
+     "hold": "phone",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "b",
+     "cue": "six or",
+     "expr": "grin"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "chart",
+     "who": "host",
+     "cue": "million"
+    },
+    {
+     "kind": "eye",
+     "who": "a",
+     "cue": "platforms"
+    },
+    {
+     "kind": "clock",
+     "who": "b",
+     "cue": "hours"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "platforms",
+     "shot": "actor",
+     "who": "a"
+    },
+    {
+     "cue": "TikTok",
+     "shot": "board"
+    }
+   ]
+  },
+  {
+   "set": "home",
+   "say": "Guess the average Australian TikTok user. She's a thirty nine year old woman, watching a movie's worth, about ninety minutes, every single night.",
+   "board": {
+    "title": "The average **TikToker**",
+    "big": "39",
+    "caption": "female, **90 min** a night",
+    "cue": "thirty"
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "l",
+     "pose": "chin"
+    },
+    {
+     "id": "w",
+     "look": "shopper",
+     "v": 3,
+     "at": "sofa",
+     "mode": "sit",
+     "hold": "phone",
+     "pose": "hold",
+     "expr": "smile"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "thirty",
+     "pose": "point",
+     "expr": "shock"
+    },
+    {
+     "who": "w",
+     "cue": "night",
+     "expr": "laugh"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "question",
+     "who": "host",
+     "cue": "Guess"
+    },
+    {
+     "kind": "clock",
+     "who": "w",
+     "cue": "ninety"
+    },
+    {
+     "kind": "heart",
+     "who": "w",
+     "cue": "night"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "host"
+    },
+    {
+     "cue": "thirty",
+     "shot": "actor",
+     "who": "w"
+    },
+    {
+     "cue": "ninety",
+     "shot": "board"
+    }
+   ]
+  },
+  {
+   "set": "plaza",
+   "say": "Why does it work? Eighty percent are on TikTok mainly for creators. Seventy five percent have acted on a product in their feed. And twenty percent use social for inspiration while buying.",
+   "board": {
+    "title": "Expect, **trust**, buy",
+    "bars": [
+     {
+      "label": "I expect it",
+      "value": 80,
+      "display": "80%",
+      "cue": "Eighty"
+     },
+     {
+      "label": "I trust it",
+      "value": 75,
+      "display": "75%",
+      "cue": "Seventy"
+     },
+     {
+      "label": "I buy on it",
+      "value": 20,
+      "display": "20%",
+      "cue": "twenty"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "c",
+     "pose": "present"
+    },
+    {
+     "id": "s",
+     "look": "shopper",
+     "v": 1,
+     "at": "walkR",
+     "to": "shelf",
+     "hold": "phone",
+     "pose": "hold"
+    },
+    {
+     "id": "t",
+     "look": "student",
+     "v": 2,
+     "at": "l",
+     "hold": "phone",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "s",
+     "cue": "acted",
+     "pose": "point",
+     "expr": "grin"
+    },
+    {
+     "who": "t",
+     "cue": "buying",
+     "pose": "cheer",
+     "expr": "smile"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "heart",
+     "who": "t",
+     "cue": "creators"
+    },
+    {
+     "kind": "think",
+     "who": "s",
+     "text": "Saw this on TikTok!",
+     "cue": "feed"
+    },
+    {
+     "kind": "money",
+     "who": "t",
+     "cue": "buying"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "acted",
+     "shot": "actor",
+     "who": "s"
+    },
+    {
+     "cue": "buying",
+     "shot": "wide"
+    }
+   ]
+  },
+  {
+   "set": "home",
+   "say": "But value is different here. A creator's recipe showing cookware in real life gets positive sentiment. Strict brand instructions get neutral sentiment at best.",
+   "board": {
+    "title": "Value is **different** here",
+    "vs": {
+     "left": "Influencer-led",
+     "right": "Brand-led",
+     "leftItems": [
+      "Recipe in real life",
+      "**Positive** sentiment"
+     ],
+     "rightItems": [
+      "Strict instructions",
+      "Neutral at best"
+     ],
+     "cue": "recipe"
+    }
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "l",
+     "pose": "present"
+    },
+    {
+     "id": "c",
+     "look": "chef",
+     "v": 2,
+     "at": "c",
+     "hold": "box",
+     "pose": "hold"
+    },
+    {
+     "id": "v",
+     "look": "elder",
+     "v": 4,
+     "at": "sofa",
+     "mode": "sit"
+    }
+   ],
+   "acts": [
+    {
+     "who": "v",
+     "cue": "positive",
+     "expr": "grin"
+    },
+    {
+     "who": "v",
+     "cue": "neutral",
+     "expr": "dazed"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "heart",
+     "who": "v",
+     "cue": "positive"
+    },
+    {
+     "kind": "zzz",
+     "who": "v",
+     "cue": "neutral"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "recipe",
+     "shot": "actor",
+     "who": "c"
+    },
+    {
+     "cue": "Strict",
+     "shot": "board"
+    }
+   ]
+  },
+  {
+   "set": "street",
+   "say": "Social is now search. Nearly half of US consumers use TikTok as a search engine. Google indexes creator content, and AI models learn about brands from it.",
+   "board": {
+    "title": "Social is now **search**",
+    "lines": [
+     {
+      "text": "~50% search on **TikTok**",
+      "cue": "half"
+     },
+     {
+      "text": "Google indexes creators",
+      "cue": "Google"
+     },
+     {
+      "text": "AI learns from **creators**",
+      "cue": "AI"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "a",
+     "look": "student",
+     "v": 7,
+     "at": "bus",
+     "hold": "phone",
+     "pose": "hold"
+    },
+    {
+     "id": "b",
+     "look": "exec",
+     "v": 3,
+     "at": "walkR",
+     "to": "r",
+     "hold": "phone",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "a",
+     "cue": "search engine",
+     "pose": "chin"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "think",
+     "who": "a",
+     "text": "Best brunch near me?",
+     "cue": "search engine"
+    },
+    {
+     "kind": "brain",
+     "who": "b",
+     "cue": "AI"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "search engine",
+     "shot": "actor",
+     "who": "a"
+    },
+    {
+     "cue": "AI",
+     "shot": "wide"
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "So it's not just another channel that interrupts the broadcast. It works through peer validation, algorithmic trust and cultural resonance, which beats standard attention by two hundred and forty six percent.",
+   "board": {
+    "title": "Why influencer **works**",
+    "steps": [
+     {
+      "text": "**Peer validation** someone like me",
+      "cue": "peer"
+     },
+     {
+      "text": "**Algorithmic trust** what others say",
+      "cue": "algorithmic"
+     },
+     {
+      "text": "**Cultural resonance** +246%",
+      "cue": "cultural"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "point",
+     "mirror": true
+    },
+    {
+     "id": "a",
+     "look": "exec_f",
+     "v": 6,
+     "at": "table"
+    },
+    {
+     "id": "b",
+     "look": "exec",
+     "v": 2,
+     "at": "table2"
+    }
+   ],
+   "acts": [
+    {
+     "who": "b",
+     "cue": "interrupts",
+     "pose": "shrug",
+     "expr": "nervous"
+    },
+    {
+     "who": "a",
+     "cue": "two",
+     "pose": "cheer",
+     "expr": "shock"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "cross",
+     "who": "b",
+     "cue": "interrupts"
+    },
+    {
+     "kind": "exclaim",
+     "who": "a",
+     "cue": "two"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "peer",
+     "shot": "board"
+    },
+    {
+     "cue": "two",
+     "shot": "actor",
+     "who": "a"
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Know your brand's eye level. Leader brands use experts. Eye to eye brands use just like you creators. Subservient brands do the work for people.",
+   "board": {
+    "title": "Your brand's **eye level**",
+    "steps": [
+     {
+      "text": "**Leader** experts",
+      "cue": "Leader"
+     },
+     {
+      "text": "**Eye to eye** just like you",
+      "cue": "Eye to eye"
+     },
+     {
+      "text": "**Subservient** do the work",
+      "cue": "Subservient"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "x",
+     "look": "exec",
+     "v": 9,
+     "at": "l",
+     "hold": "clipboard",
+     "pose": "hold"
+    },
+    {
+     "id": "y",
+     "look": "student",
+     "v": 1,
+     "at": "c",
+     "hold": "phone",
+     "pose": "hold"
+    },
+    {
+     "id": "z",
+     "look": "chef",
+     "v": 1,
+     "at": "r"
+    }
+   ],
+   "acts": [
+    {
+     "who": "x",
+     "cue": "experts",
+     "pose": "up",
+     "expr": "stern"
+    },
+    {
+     "who": "y",
+     "cue": "like",
+     "expr": "grin"
+    },
+    {
+     "who": "z",
+     "cue": "work",
+     "pose": "present",
+     "expr": "smile"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "brain",
+     "who": "x",
+     "cue": "experts"
+    },
+    {
+     "kind": "heart",
+     "who": "y",
+     "cue": "like"
+    },
+    {
+     "kind": "tick",
+     "who": "z",
+     "cue": "work"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "experts",
+     "shot": "wide"
+    },
+    {
+     "cue": "work",
+     "shot": "close"
+    }
+   ]
+  },
+  {
+   "set": "street",
+   "say": "Fast growth attracts opportunists. Brands that treat creators transactionally, influencers who fake their reach, and agency cowboys. His rule: never trust a screen grab.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "c",
+     "pose": "hips",
+     "expr": "stern"
+    },
+    {
+     "id": "f",
+     "look": "student",
+     "v": 9,
+     "at": "walkL",
+     "to": "l",
+     "hold": "phone",
+     "pose": "hold",
+     "expr": "whistle"
+    },
+    {
+     "id": "g",
+     "look": "exec",
+     "v": 5,
+     "at": "r"
+    }
+   ],
+   "acts": [
+    {
+     "who": "f",
+     "cue": "fake",
+     "pose": "point",
+     "expr": "grin"
+    },
+    {
+     "who": "g",
+     "cue": "cowboys",
+     "pose": "shrug",
+     "expr": "whistle"
+    },
+    {
+     "who": "host",
+     "cue": "never",
+     "pose": "point",
+     "expr": "stern"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "say",
+     "who": "f",
+     "text": "Two million followers!",
+     "cue": "fake"
+    },
+    {
+     "kind": "money",
+     "who": "g",
+     "cue": "cowboys"
+    },
+    {
+     "kind": "cross",
+     "who": "host",
+     "cue": "screen"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "fake",
+     "shot": "actor",
+     "who": "f"
+    },
+    {
+     "cue": "never",
+     "shot": "close"
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "The big one: the brand is liable, not the influencer. A free product counts as paid advertising, so it must be disclosed. Infringement notices for a listed company reach a hundred and thirty three thousand dollars.",
+   "board": {
+    "title": "The **brand** is liable",
+    "big": "$133,200",
+    "caption": "max notice, **listed** company",
+    "cue": "hundred"
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present",
+     "expr": "stern"
+    },
+    {
+     "id": "m",
+     "look": "exec_f",
+     "v": 8,
+     "at": "desk",
+     "hold": "box",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "m",
+     "cue": "liable",
+     "expr": "shock"
+    },
+    {
+     "who": "m",
+     "cue": "disclosed",
+     "pose": "chin",
+     "expr": "nervous"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "exclaim",
+     "who": "m",
+     "cue": "liable"
+    },
+    {
+     "kind": "say",
+     "who": "host",
+     "text": "#ad",
+     "cue": "disclosed"
+    },
+    {
+     "kind": "money",
+     "who": "host",
+     "cue": "hundred"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "host"
+    },
+    {
+     "cue": "liable",
+     "shot": "actor",
+     "who": "m"
+    },
+    {
+     "cue": "Infringement",
+     "shot": "board"
+    }
+   ]
+  },
+  {
+   "set": "home",
+   "say": "Assets count too. Music, clips, even a reposted meme can breach copyright. Warner Music is suing Crumbl Cookies. Rights owners wait for many breaches, then sue big.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "tv",
+     "pose": "point"
+    },
+    {
+     "id": "k",
+     "look": "kid",
+     "v": 4,
+     "at": "sofa",
+     "mode": "sit",
+     "hold": "phone",
+     "pose": "hold"
+    },
+    {
+     "id": "e",
+     "look": "exec",
+     "v": 1,
+     "at": "door",
+     "to": "r",
+     "walkCue": "Rights",
+     "hold": "clipboard",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "k",
+     "cue": "meme",
+     "expr": "laugh"
+    },
+    {
+     "who": "k",
+     "cue": "sue",
+     "expr": "shock"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "sparkle",
+     "who": "k",
+     "cue": "meme"
+    },
+    {
+     "kind": "money",
+     "who": "e",
+     "cue": "sue"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "meme",
+     "shot": "actor",
+     "who": "k"
+    },
+    {
+     "cue": "Rights",
+     "shot": "actor",
+     "who": "e"
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "AIMCO's Code of Practice cuts legal risk and wasted spend, with clear rules for contracts and reporting. For consumers, it means choice, protection and trust.",
+   "board": {
+    "title": "AIMCO **Code of Practice**",
+    "lines": [
+     {
+      "text": "Less legal risk",
+      "cue": "legal"
+     },
+     {
+      "text": "Less **wasted** spend",
+      "cue": "wasted"
+     },
+     {
+      "text": "Clear contracts, reporting",
+      "cue": "contracts"
+     },
+     {
+      "text": "Choice, protection, **trust**",
+      "cue": "choice"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "a",
+     "look": "exec",
+     "v": 4,
+     "at": "table",
+     "hold": "clipboard",
+     "pose": "hold"
+    },
+    {
+     "id": "b",
+     "look": "shopper",
+     "v": 9,
+     "at": "door"
+    }
+   ],
+   "acts": [
+    {
+     "who": "a",
+     "cue": "rules",
+     "expr": "smile"
+    },
+    {
+     "who": "b",
+     "cue": "trust",
+     "pose": "cheer",
+     "expr": "relief_open"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "tick",
+     "who": "a",
+     "cue": "rules"
+    },
+    {
+     "kind": "heart",
+     "who": "b",
+     "cue": "trust"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "consumers",
+     "shot": "actor",
+     "who": "b"
+    }
+   ]
+  },
+  {
+   "set": "plaza",
+   "say": "Brand safety is deeper than a few thumb scrolls. Check deleted posts, fit, swearing and politics. Kmart's celebrity pair looked good on paper, but audiences said, these two don't shop at Kmart.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "l",
+     "pose": "present"
+    },
+    {
+     "id": "c1",
+     "look": "exec_f",
+     "v": 1,
+     "at": "shop",
+     "pose": "hips",
+     "expr": "grin"
+    },
+    {
+     "id": "c2",
+     "look": "exec_f",
+     "v": 4,
+     "at": "shop2",
+     "pose": "hips",
+     "expr": "grin"
+    },
+    {
+     "id": "p",
+     "look": "shopper",
+     "v": 6,
+     "at": "r",
+     "hold": "bag",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "deleted",
+     "pose": "chin"
+    },
+    {
+     "who": "p",
+     "cue": "audiences",
+     "pose": "shrug",
+     "expr": "stern"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "eye",
+     "who": "host",
+     "cue": "deleted"
+    },
+    {
+     "kind": "stars",
+     "who": "c1",
+     "cue": "celebrity"
+    },
+    {
+     "kind": "say",
+     "who": "p",
+     "text": "They don't shop here!",
+     "cue": "these"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "host"
+    },
+    {
+     "cue": "Kmart",
+     "shot": "wide"
+    },
+    {
+     "cue": "these",
+     "shot": "actor",
+     "who": "p"
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Finally, measure growth, not just attention. Views and engagement explain attention. Growth comes from visibility, mental availability, share of voice, brand perception and behaviour change.",
+   "board": {
+    "title": "Measure **growth**",
+    "vs": {
+     "left": "Industry counts",
+     "right": "Drives growth",
+     "leftItems": [
+      "Views, likes",
+      "CPM, clicks"
+     ],
+     "rightItems": [
+      "Mental availability",
+      "**Behaviour** change"
+     ],
+     "cue": "Views"
+    }
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "point",
+     "mirror": true
+    },
+    {
+     "id": "a",
+     "look": "exec_f",
+     "v": 3,
+     "at": "desk",
+     "hold": "laptop",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "a",
+     "cue": "mental",
+     "pose": "up",
+     "expr": "grin"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "eye",
+     "who": "a",
+     "cue": "Views"
+    },
+    {
+     "kind": "brain",
+     "who": "a",
+     "cue": "mental"
+    },
+    {
+     "kind": "chart",
+     "who": "host",
+     "cue": "behaviour"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "close"
+    },
+    {
+     "cue": "Views",
+     "shot": "board"
+    },
+    {
+     "cue": "mental",
+     "shot": "actor",
+     "who": "a"
+    }
+   ]
+  },
+  {
+   "set": "stage",
+   "say": "Want in? Account management is a good entry point, because it covers everything. And bring something extra, or you're lost in a sea of sameness.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "c",
+     "pose": "present"
+    },
+    {
+     "id": "s1",
+     "look": "student",
+     "v": 1,
+     "at": "l"
+    },
+    {
+     "id": "s2",
+     "look": "student",
+     "v": 6,
+     "at": "r"
+    },
+    {
+     "id": "s3",
+     "look": "student",
+     "v": 4,
+     "at": "walkR",
+     "to": "aisle",
+     "walkCue": "extra",
+     "hold": "laptop",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "s3",
+     "cue": "sameness",
+     "pose": "cheer",
+     "expr": "grin"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "tick",
+     "who": "host",
+     "cue": "Account"
+    },
+    {
+     "kind": "stars",
+     "who": "s3",
+     "cue": "sameness"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "extra",
+     "shot": "actor",
+     "who": "s3"
+    }
+   ]
+  },
+  {
+   "set": "stage",
+   "say": "So treat influencer as a specialist discipline. Know the brand carries the legal risk. And measure growth, not just attention. That's week ten.",
+   "board": {
+    "title": "Week 10 **takeaways**",
+    "lines": [
+     {
+      "text": "Creators are where **audiences** are",
+      "cue": "influencer"
+     },
+     {
+      "text": "A **specialist** discipline",
+      "cue": "specialist"
+     },
+     {
+      "text": "The brand carries the risk",
+      "cue": "brand"
+     },
+     {
+      "text": "Measure **growth**",
+      "cue": "growth"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "s1",
+     "look": "student",
+     "v": 2,
+     "at": "aisle"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "week",
+     "pose": "cheer",
+     "expr": "grin"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "bulb",
+     "who": "s1",
+     "cue": "growth"
+    },
+    {
+     "kind": "stars",
+     "who": "host",
+     "cue": "week"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "week",
+     "shot": "close"
+    }
+   ]
+  }
+ ]
+}

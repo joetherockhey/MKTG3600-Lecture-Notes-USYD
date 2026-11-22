@@ -1,0 +1,715 @@
+{
+ "week": 0,
+ "title": "Creativity is measurable (if it's not bold, it's dumb)",
+ "speaker": "Brent Smart, Week 4; Brendan Willenberg, Week 9",
+ "beats": [
+  {
+   "set": "stage",
+   "say": "Creativity is measurable. Creative ads deliver about two and a half times the revenue growth and four times the profit. Dull work costs millions extra, and earned media is the real prize.",
+   "board": {
+    "title": "Creativity is **measurable**",
+    "steps": [
+     {
+      "text": "**Revenue**: ~2.5x average growth",
+      "cue": "revenue",
+      "at": 4.922
+     },
+     {
+      "text": "**Profit**: ~4x average",
+      "cue": "profit",
+      "at": 6.314
+     },
+     {
+      "text": "**Dull** costs ~$20.5m extra",
+      "cue": "Dull",
+      "at": 7.092
+     },
+     {
+      "text": "**Earned media**: the real prize",
+      "cue": "earned",
+      "at": 9.309
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "a",
+     "look": "student",
+     "at": "front",
+     "v": 3
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "Dull",
+     "pose": "shrug",
+     "expr": "pained",
+     "at": 7.092
+    },
+    {
+     "who": "host",
+     "cue": "earned",
+     "pose": "cheer",
+     "expr": "grin",
+     "at": 9.309
+    }
+   ],
+   "fx": [
+    {
+     "kind": "money",
+     "who": "a",
+     "cue": "Dull",
+     "at": 7.092
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "Dull",
+     "shot": "close",
+     "at": 7.092
+    },
+    {
+     "cue": "earned",
+     "shot": "board",
+     "at": 9.309
+    }
+   ],
+   "audio": "audio/m-creativity-is-measurable-00.mp3",
+   "leadIn": 0.45,
+   "seconds": 11.898,
+   "words": [
+    {
+     "w": "Creativity",
+     "t": 0.5
+    },
+    {
+     "w": "is",
+     "t": 1.325
+    },
+    {
+     "w": "measurable",
+     "t": 1.491
+    },
+    {
+     "w": "Creative",
+     "t": 2.41
+    },
+    {
+     "w": "ads",
+     "t": 2.917
+    },
+    {
+     "w": "deliver",
+     "t": 3.2
+    },
+    {
+     "w": "about",
+     "t": 3.637
+    },
+    {
+     "w": "two",
+     "t": 3.943
+    },
+    {
+     "w": "and",
+     "t": 4.156
+    },
+    {
+     "w": "a",
+     "t": 4.203
+    },
+    {
+     "w": "half",
+     "t": 4.25
+    },
+    {
+     "w": "times",
+     "t": 4.486
+    },
+    {
+     "w": "the",
+     "t": 4.84
+    },
+    {
+     "w": "revenue",
+     "t": 4.922
+    },
+    {
+     "w": "growth",
+     "t": 5.264
+    },
+    {
+     "w": "and",
+     "t": 5.559
+    },
+    {
+     "w": "four",
+     "t": 5.724
+    },
+    {
+     "w": "times",
+     "t": 5.948
+    },
+    {
+     "w": "the",
+     "t": 6.255
+    },
+    {
+     "w": "profit",
+     "t": 6.314
+    },
+    {
+     "w": "Dull",
+     "t": 7.092
+    },
+    {
+     "w": "work",
+     "t": 7.363
+    },
+    {
+     "w": "costs",
+     "t": 7.634
+    },
+    {
+     "w": "millions",
+     "t": 8.024
+    },
+    {
+     "w": "extra",
+     "t": 8.389
+    },
+    {
+     "w": "and",
+     "t": 9.061
+    },
+    {
+     "w": "earned",
+     "t": 9.309
+    },
+    {
+     "w": "media",
+     "t": 9.521
+    },
+    {
+     "w": "is",
+     "t": 9.958
+    },
+    {
+     "w": "the",
+     "t": 10.099
+    },
+    {
+     "w": "real",
+     "t": 10.193
+    },
+    {
+     "w": "prize",
+     "t": 10.417
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "In the meeting, the safe idea gets nods. The bold idea makes everyone squirm. If it's not bold, it's dumb.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "l"
+    },
+    {
+     "id": "e1",
+     "look": "exec",
+     "at": "table",
+     "v": 3
+    },
+    {
+     "id": "e2",
+     "look": "exec_f",
+     "at": "table2",
+     "v": 2
+    }
+   ],
+   "acts": [
+    {
+     "who": "e1",
+     "cue": "nods",
+     "expr": "smile",
+     "at": 2.399
+    },
+    {
+     "who": "e2",
+     "cue": "squirm",
+     "pose": "none",
+     "expr": "nervous",
+     "at": 4.769
+    },
+    {
+     "who": "host",
+     "cue": "dumb",
+     "pose": "point",
+     "expr": "grin",
+     "at": 6.998
+    }
+   ],
+   "fx": [
+    {
+     "kind": "tick",
+     "who": "e1",
+     "cue": "nods",
+     "at": 2.399
+    },
+    {
+     "kind": "exclaim",
+     "who": "e2",
+     "cue": "squirm",
+     "at": 4.769
+    },
+    {
+     "kind": "bulb",
+     "who": "host",
+     "cue": "dumb",
+     "at": 6.998
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "nods",
+     "shot": "actor",
+     "who": "e1",
+     "at": 2.399
+    },
+    {
+     "cue": "squirm",
+     "shot": "actor",
+     "who": "e2",
+     "at": 4.769
+    },
+    {
+     "cue": "dumb",
+     "shot": "close",
+     "at": 6.998
+    }
+   ],
+   "audio": "audio/m-creativity-is-measurable-01.mp3",
+   "leadIn": 0.45,
+   "seconds": 8.322,
+   "words": [
+    {
+     "w": "In",
+     "t": 0.5
+    },
+    {
+     "w": "the",
+     "t": 0.665
+    },
+    {
+     "w": "meeting",
+     "t": 0.712
+    },
+    {
+     "w": "the",
+     "t": 1.384
+    },
+    {
+     "w": "safe",
+     "t": 1.491
+    },
+    {
+     "w": "idea",
+     "t": 1.809
+    },
+    {
+     "w": "gets",
+     "t": 2.151
+    },
+    {
+     "w": "nods",
+     "t": 2.399
+    },
+    {
+     "w": "The",
+     "t": 3.177
+    },
+    {
+     "w": "bold",
+     "t": 3.33
+    },
+    {
+     "w": "idea",
+     "t": 3.613
+    },
+    {
+     "w": "makes",
+     "t": 4.026
+    },
+    {
+     "w": "everyone",
+     "t": 4.333
+    },
+    {
+     "w": "squirm",
+     "t": 4.769
+    },
+    {
+     "w": "If",
+     "t": 5.641
+    },
+    {
+     "w": "it's",
+     "t": 5.807
+    },
+    {
+     "w": "not",
+     "t": 5.96
+    },
+    {
+     "w": "bold",
+     "t": 6.184
+    },
+    {
+     "w": "it's",
+     "t": 6.797
+    },
+    {
+     "w": "dumb",
+     "t": 6.998
+    }
+   ]
+  },
+  {
+   "set": "street",
+   "say": "Yellow Pages' treehouse used zero paid media. NRMA's koalas went from thirty-sixth to fifth strongest brand. Bold paid off.",
+   "board": {
+    "title": "**Bold** pays",
+    "lines": [
+     {
+      "text": "**Yellow Pages**: $0 paid media",
+      "cue": "Yellow",
+      "at": 0.5
+     },
+     {
+      "text": "**NRMA**: 36th to 5th",
+      "cue": "koalas",
+      "at": 4.144
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "front"
+    },
+    {
+     "id": "p1",
+     "look": "shopper",
+     "at": "l",
+     "v": 1
+    },
+    {
+     "id": "p2",
+     "look": "kid",
+     "at": "r",
+     "v": 2
+    }
+   ],
+   "acts": [
+    {
+     "who": "p1",
+     "cue": "treehouse",
+     "expr": "smile",
+     "at": 1.325
+    },
+    {
+     "who": "p2",
+     "cue": "koalas",
+     "pose": "cheer",
+     "expr": "laugh",
+     "at": 4.144
+    },
+    {
+     "who": "host",
+     "cue": "Bold",
+     "pose": "up",
+     "expr": "grin",
+     "at": 7.269
+    }
+   ],
+   "fx": [
+    {
+     "kind": "heart",
+     "who": "p2",
+     "cue": "koalas",
+     "at": 4.144
+    },
+    {
+     "kind": "stars",
+     "who": "host",
+     "cue": "off",
+     "at": 7.859
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "koalas",
+     "shot": "wide",
+     "at": 4.144
+    },
+    {
+     "cue": "Bold",
+     "shot": "close",
+     "at": 7.269
+    }
+   ],
+   "audio": "audio/m-creativity-is-measurable-02.mp3",
+   "leadIn": 0.45,
+   "seconds": 9.162,
+   "words": [
+    {
+     "w": "Yellow",
+     "t": 0.5
+    },
+    {
+     "w": "Pages'",
+     "t": 0.901
+    },
+    {
+     "w": "treehouse",
+     "t": 1.325
+    },
+    {
+     "w": "used",
+     "t": 1.833
+    },
+    {
+     "w": "zero",
+     "t": 2.139
+    },
+    {
+     "w": "paid",
+     "t": 2.493
+    },
+    {
+     "w": "media",
+     "t": 2.764
+    },
+    {
+     "w": "NRMA's",
+     "t": 3.554
+    },
+    {
+     "w": "koalas",
+     "t": 4.144
+    },
+    {
+     "w": "went",
+     "t": 4.639
+    },
+    {
+     "w": "from",
+     "t": 4.828
+    },
+    {
+     "w": "thirty-sixth",
+     "t": 5.005
+    },
+    {
+     "w": "to",
+     "t": 5.641
+    },
+    {
+     "w": "fifth",
+     "t": 5.736
+    },
+    {
+     "w": "strongest",
+     "t": 6.031
+    },
+    {
+     "w": "brand",
+     "t": 6.455
+    },
+    {
+     "w": "Bold",
+     "t": 7.269
+    },
+    {
+     "w": "paid",
+     "t": 7.611
+    },
+    {
+     "w": "off",
+     "t": 7.859
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Use it like this: back bold work with the numbers, because the biggest risk is taking no risk.",
+   "board": {
+    "title": "Use it like **this**",
+    "lines": [
+     {
+      "text": "Back bold work with **numbers**",
+      "cue": "numbers",
+      "at": 2.67
+     },
+     {
+      "text": "Biggest risk: **no risk**",
+      "cue": "biggest",
+      "at": 3.719
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "e1",
+     "look": "exec_f",
+     "at": "table",
+     "v": 5,
+     "hold": "laptop",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "e1",
+     "cue": "taking",
+     "pose": "cheer",
+     "expr": "grin",
+     "at": 4.45
+    }
+   ],
+   "fx": [
+    {
+     "kind": "chart",
+     "who": "e1",
+     "cue": "numbers",
+     "at": 2.67
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "taking",
+     "shot": "two",
+     "who": "e1",
+     "at": 4.45
+    }
+   ],
+   "hold": 1.0,
+   "audio": "audio/m-creativity-is-measurable-03.mp3",
+   "leadIn": 0.45,
+   "seconds": 6.682,
+   "words": [
+    {
+     "w": "Use",
+     "t": 0.5
+    },
+    {
+     "w": "it",
+     "t": 0.83
+    },
+    {
+     "w": "like",
+     "t": 0.901
+    },
+    {
+     "w": "this",
+     "t": 1.113
+    },
+    {
+     "w": "back",
+     "t": 1.762
+    },
+    {
+     "w": "bold",
+     "t": 1.998
+    },
+    {
+     "w": "work",
+     "t": 2.234
+    },
+    {
+     "w": "with",
+     "t": 2.505
+    },
+    {
+     "w": "the",
+     "t": 2.611
+    },
+    {
+     "w": "numbers",
+     "t": 2.67
+    },
+    {
+     "w": "because",
+     "t": 3.389
+    },
+    {
+     "w": "the",
+     "t": 3.637
+    },
+    {
+     "w": "biggest",
+     "t": 3.719
+    },
+    {
+     "w": "risk",
+     "t": 4.073
+    },
+    {
+     "w": "is",
+     "t": 4.333
+    },
+    {
+     "w": "taking",
+     "t": 4.45
+    },
+    {
+     "w": "no",
+     "t": 4.769
+    },
+    {
+     "w": "risk",
+     "t": 4.934
+    }
+   ]
+  }
+ ],
+ "id": "m-creativity-is-measurable",
+ "total": 36.07
+}

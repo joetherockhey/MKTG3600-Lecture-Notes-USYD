@@ -1,0 +1,706 @@
+{
+ "week": 0,
+ "title": "Distinctive brand assets (and the DBA paradox)",
+ "speaker": "Justin Papps, Week 3; Brent Smart, Week 4; Shannon Wright, Week 5; research from Ipsos and SYSTEM1, building on Jenni Romaniuk",
+ "beats": [
+  {
+   "set": "stage",
+   "say": "Distinctive brand assets trigger your brand in memory: visuals like logo and colour, sounds, characters, and words like slogans. Oddly, the most used are often the least effective.",
+   "board": {
+    "title": "Distinctive **brand assets**",
+    "steps": [
+     {
+      "text": "**Visual**: logo, colour, pack",
+      "cue": "visuals",
+      "at": 3.165
+     },
+     {
+      "text": "**Sonic**: jingles, cues",
+      "cue": "sounds",
+      "at": 4.887
+     },
+     {
+      "text": "**Characters** and celebrities",
+      "cue": "characters",
+      "at": 5.618
+     },
+     {
+      "text": "**Words**: taglines, slogans",
+      "cue": "words",
+      "at": 6.538
+     },
+     {
+      "text": "**Paradox**: most used, least effective",
+      "cue": "Oddly",
+      "at": 7.965
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "a",
+     "look": "student",
+     "at": "front",
+     "v": 5
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "Oddly",
+     "pose": "shrug",
+     "expr": "nervous",
+     "at": 7.965
+    }
+   ],
+   "fx": [
+    {
+     "kind": "question",
+     "who": "a",
+     "cue": "least",
+     "at": 10.028
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "Oddly",
+     "shot": "close",
+     "at": 7.965
+    }
+   ],
+   "audio": "audio/m-distinctive-brand-assets-00.mp3",
+   "leadIn": 0.45,
+   "seconds": 11.802,
+   "words": [
+    {
+     "w": "Distinctive",
+     "t": 0.5
+    },
+    {
+     "w": "brand",
+     "t": 1.042
+    },
+    {
+     "w": "assets",
+     "t": 1.314
+    },
+    {
+     "w": "trigger",
+     "t": 1.715
+    },
+    {
+     "w": "your",
+     "t": 1.962
+    },
+    {
+     "w": "brand",
+     "t": 2.092
+    },
+    {
+     "w": "in",
+     "t": 2.387
+    },
+    {
+     "w": "memory",
+     "t": 2.446
+    },
+    {
+     "w": "visuals",
+     "t": 3.165
+    },
+    {
+     "w": "like",
+     "t": 3.637
+    },
+    {
+     "w": "logo",
+     "t": 3.825
+    },
+    {
+     "w": "and",
+     "t": 4.215
+    },
+    {
+     "w": "colour",
+     "t": 4.321
+    },
+    {
+     "w": "sounds",
+     "t": 4.887
+    },
+    {
+     "w": "characters",
+     "t": 5.618
+    },
+    {
+     "w": "and",
+     "t": 6.373
+    },
+    {
+     "w": "words",
+     "t": 6.538
+    },
+    {
+     "w": "like",
+     "t": 6.891
+    },
+    {
+     "w": "slogans",
+     "t": 7.057
+    },
+    {
+     "w": "Oddly",
+     "t": 7.965
+    },
+    {
+     "w": "the",
+     "t": 8.66
+    },
+    {
+     "w": "most",
+     "t": 8.743
+    },
+    {
+     "w": "used",
+     "t": 9.073
+    },
+    {
+     "w": "are",
+     "t": 9.439
+    },
+    {
+     "w": "often",
+     "t": 9.616
+    },
+    {
+     "w": "the",
+     "t": 9.981
+    },
+    {
+     "w": "least",
+     "t": 10.028
+    },
+    {
+     "w": "effective",
+     "t": 10.3
+    }
+   ]
+  },
+  {
+   "set": "home",
+   "say": "The ad just says, have a... and the whole family finishes it: a break! The asset does the work.",
+   "board": {
+    "title": "Have a...",
+    "lines": [
+     {
+      "text": "**...break!**",
+      "cue": "finishes",
+      "at": 3.495
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "l"
+    },
+    {
+     "id": "a",
+     "look": "kid",
+     "at": "sofa",
+     "v": 1,
+     "mode": "sit"
+    },
+    {
+     "id": "b",
+     "look": "shopper",
+     "at": "sofa2",
+     "v": 4,
+     "mode": "sit"
+    }
+   ],
+   "acts": [
+    {
+     "who": "a",
+     "cue": "finishes",
+     "pose": "cheer",
+     "expr": "laugh",
+     "at": 3.495
+    },
+    {
+     "who": "b",
+     "cue": "break",
+     "expr": "smile",
+     "at": 4.403
+    },
+    {
+     "who": "host",
+     "cue": "asset",
+     "pose": "point",
+     "expr": "grin",
+     "at": 5.429
+    }
+   ],
+   "fx": [
+    {
+     "kind": "say",
+     "who": "a",
+     "cue": "break",
+     "text": "A break!",
+     "at": 4.403
+    },
+    {
+     "kind": "sparkle",
+     "who": "host",
+     "cue": "asset",
+     "at": 5.429
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "have",
+     "shot": "board",
+     "at": 1.844
+    },
+    {
+     "cue": "finishes",
+     "shot": "actor",
+     "who": "a",
+     "at": 3.495
+    },
+    {
+     "cue": "asset",
+     "shot": "close",
+     "at": 5.429
+    }
+   ],
+   "audio": "audio/m-distinctive-brand-assets-01.mp3",
+   "leadIn": 0.45,
+   "seconds": 7.458,
+   "words": [
+    {
+     "w": "The",
+     "t": 0.5
+    },
+    {
+     "w": "ad",
+     "t": 0.736
+    },
+    {
+     "w": "just",
+     "t": 0.995
+    },
+    {
+     "w": "says",
+     "t": 1.231
+    },
+    {
+     "w": "have",
+     "t": 1.844
+    },
+    {
+     "w": "a",
+     "t": 2.068
+    },
+    {
+     "w": "and",
+     "t": 2.729
+    },
+    {
+     "w": "the",
+     "t": 2.859
+    },
+    {
+     "w": "whole",
+     "t": 2.929
+    },
+    {
+     "w": "family",
+     "t": 3.142
+    },
+    {
+     "w": "finishes",
+     "t": 3.495
+    },
+    {
+     "w": "it",
+     "t": 3.92
+    },
+    {
+     "w": "a",
+     "t": 4.309
+    },
+    {
+     "w": "break",
+     "t": 4.403
+    },
+    {
+     "w": "The",
+     "t": 5.182
+    },
+    {
+     "w": "asset",
+     "t": 5.429
+    },
+    {
+     "w": "does",
+     "t": 5.818
+    },
+    {
+     "w": "the",
+     "t": 6.019
+    },
+    {
+     "w": "work",
+     "t": 6.113
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Telstra had no colour it could own, so it built handmade stop-motion animals instead. Before spending, audit which assets people actually recognise.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "r"
+    },
+    {
+     "id": "e1",
+     "look": "exec_f",
+     "at": "table",
+     "v": 6,
+     "hold": "clipboard",
+     "pose": "hold"
+    },
+    {
+     "id": "e2",
+     "look": "exec",
+     "at": "l",
+     "v": 4
+    }
+   ],
+   "acts": [
+    {
+     "who": "e2",
+     "cue": "colour",
+     "pose": "shrug",
+     "expr": "nervous",
+     "at": 1.373
+    },
+    {
+     "who": "e1",
+     "cue": "handmade",
+     "pose": "cheer",
+     "expr": "grin",
+     "at": 3.083
+    },
+    {
+     "who": "host",
+     "cue": "audit",
+     "pose": "point",
+     "at": 6.573
+    }
+   ],
+   "fx": [
+    {
+     "kind": "question",
+     "who": "e2",
+     "cue": "colour",
+     "at": 1.373
+    },
+    {
+     "kind": "heart",
+     "who": "e1",
+     "cue": "animals",
+     "at": 4.156
+    },
+    {
+     "kind": "eye",
+     "who": "host",
+     "cue": "recognise",
+     "at": 8.283
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "colour",
+     "shot": "actor",
+     "who": "e2",
+     "at": 1.373
+    },
+    {
+     "cue": "handmade",
+     "shot": "actor",
+     "who": "e1",
+     "at": 3.083
+    },
+    {
+     "cue": "audit",
+     "shot": "close",
+     "at": 6.573
+    }
+   ],
+   "audio": "audio/m-distinctive-brand-assets-02.mp3",
+   "leadIn": 0.45,
+   "seconds": 9.93,
+   "words": [
+    {
+     "w": "Telstra",
+     "t": 0.5
+    },
+    {
+     "w": "had",
+     "t": 0.972
+    },
+    {
+     "w": "no",
+     "t": 1.172
+    },
+    {
+     "w": "colour",
+     "t": 1.373
+    },
+    {
+     "w": "it",
+     "t": 1.715
+    },
+    {
+     "w": "could",
+     "t": 1.785
+    },
+    {
+     "w": "own",
+     "t": 1.903
+    },
+    {
+     "w": "so",
+     "t": 2.54
+    },
+    {
+     "w": "it",
+     "t": 2.776
+    },
+    {
+     "w": "built",
+     "t": 2.859
+    },
+    {
+     "w": "handmade",
+     "t": 3.083
+    },
+    {
+     "w": "stop-motion",
+     "t": 3.59
+    },
+    {
+     "w": "animals",
+     "t": 4.156
+    },
+    {
+     "w": "instead",
+     "t": 4.568
+    },
+    {
+     "w": "Before",
+     "t": 5.429
+    },
+    {
+     "w": "spending",
+     "t": 5.771
+    },
+    {
+     "w": "audit",
+     "t": 6.573
+    },
+    {
+     "w": "which",
+     "t": 6.856
+    },
+    {
+     "w": "assets",
+     "t": 7.116
+    },
+    {
+     "w": "people",
+     "t": 7.516
+    },
+    {
+     "w": "actually",
+     "t": 7.906
+    },
+    {
+     "w": "recognise",
+     "t": 8.283
+    }
+   ]
+  },
+  {
+   "set": "street",
+   "say": "Use it like this: audit your assets, keep the ones that work, and repeat them until they're yours.",
+   "board": {
+    "title": "Use it like **this**",
+    "lines": [
+     {
+      "text": "**Audit** your assets",
+      "cue": "audit",
+      "at": 1.75
+     },
+     {
+      "text": "Keep what **works**",
+      "cue": "work",
+      "at": 3.542
+     },
+     {
+      "text": "**Repeat** until owned",
+      "cue": "repeat",
+      "at": 4.25
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "front"
+    },
+    {
+     "id": "p1",
+     "look": "shopper",
+     "at": "r",
+     "v": 2
+    }
+   ],
+   "acts": [
+    {
+     "who": "p1",
+     "cue": "yours",
+     "expr": "smile",
+     "at": 5.146
+    }
+   ],
+   "fx": [
+    {
+     "kind": "tick",
+     "who": "p1",
+     "cue": "yours",
+     "at": 5.146
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "yours",
+     "shot": "wide",
+     "at": 5.146
+    }
+   ],
+   "hold": 1.0,
+   "audio": "audio/m-distinctive-brand-assets-03.mp3",
+   "leadIn": 0.45,
+   "seconds": 6.97,
+   "words": [
+    {
+     "w": "Use",
+     "t": 0.5
+    },
+    {
+     "w": "it",
+     "t": 0.83
+    },
+    {
+     "w": "like",
+     "t": 0.901
+    },
+    {
+     "w": "this",
+     "t": 1.101
+    },
+    {
+     "w": "audit",
+     "t": 1.75
+    },
+    {
+     "w": "your",
+     "t": 2.045
+    },
+    {
+     "w": "assets",
+     "t": 2.21
+    },
+    {
+     "w": "keep",
+     "t": 2.859
+    },
+    {
+     "w": "the",
+     "t": 3.094
+    },
+    {
+     "w": "ones",
+     "t": 3.177
+    },
+    {
+     "w": "that",
+     "t": 3.413
+    },
+    {
+     "w": "work",
+     "t": 3.542
+    },
+    {
+     "w": "and",
+     "t": 4.12
+    },
+    {
+     "w": "repeat",
+     "t": 4.25
+    },
+    {
+     "w": "them",
+     "t": 4.604
+    },
+    {
+     "w": "until",
+     "t": 4.769
+    },
+    {
+     "w": "they're",
+     "t": 5.04
+    },
+    {
+     "w": "yours",
+     "t": 5.146
+    }
+   ]
+  }
+ ],
+ "id": "m-distinctive-brand-assets",
+ "total": 36.17
+}

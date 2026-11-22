@@ -1,0 +1,643 @@
+{
+ "week": 0,
+ "title": "The brief, the expected response, the real problem, the solution",
+ "speaker": "Brendan Willenberg, Executive Creative Director, Week 9",
+ "beats": [
+  {
+   "set": "office",
+   "say": "Creativity is fancy problem solving. Start with the brief, then the expected response. Dig for the real problem underneath, and only then build the solution.",
+   "board": {
+    "title": "Brief to **real problem**",
+    "steps": [
+     {
+      "text": "**The brief**: what's asked",
+      "cue": "brief",
+      "at": 3.684
+     },
+     {
+      "text": "**Expected** response",
+      "cue": "expected",
+      "at": 4.745
+     },
+     {
+      "text": "**Real problem**: what's in the way",
+      "cue": "real",
+      "at": 6.609
+     },
+     {
+      "text": "**Solution** to that",
+      "cue": "solution",
+      "at": 9.191
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "e",
+     "look": "exec",
+     "v": 3,
+     "at": "table"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "Dig",
+     "pose": "point",
+     "at": 6.125
+    },
+    {
+     "who": "e",
+     "cue": "solution",
+     "expr": "smile",
+     "at": 9.191
+    }
+   ],
+   "fx": [
+    {
+     "kind": "bulb",
+     "who": "e",
+     "cue": "solution",
+     "at": 9.191
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "Dig",
+     "shot": "close",
+     "at": 6.125
+    },
+    {
+     "cue": "solution",
+     "shot": "board",
+     "at": 9.191
+    }
+   ],
+   "audio": "audio/m-brief-to-real-problem-00.mp3",
+   "leadIn": 0.45,
+   "seconds": 10.722,
+   "words": [
+    {
+     "w": "Creativity",
+     "t": 0.5
+    },
+    {
+     "w": "is",
+     "t": 1.266
+    },
+    {
+     "w": "fancy",
+     "t": 1.443
+    },
+    {
+     "w": "problem",
+     "t": 1.868
+    },
+    {
+     "w": "solving",
+     "t": 2.186
+    },
+    {
+     "w": "Start",
+     "t": 3.012
+    },
+    {
+     "w": "with",
+     "t": 3.448
+    },
+    {
+     "w": "the",
+     "t": 3.613
+    },
+    {
+     "w": "brief",
+     "t": 3.684
+    },
+    {
+     "w": "then",
+     "t": 4.439
+    },
+    {
+     "w": "the",
+     "t": 4.616
+    },
+    {
+     "w": "expected",
+     "t": 4.745
+    },
+    {
+     "w": "response",
+     "t": 5.217
+    },
+    {
+     "w": "Dig",
+     "t": 6.125
+    },
+    {
+     "w": "for",
+     "t": 6.396
+    },
+    {
+     "w": "the",
+     "t": 6.514
+    },
+    {
+     "w": "real",
+     "t": 6.609
+    },
+    {
+     "w": "problem",
+     "t": 6.88
+    },
+    {
+     "w": "underneath",
+     "t": 7.222
+    },
+    {
+     "w": "and",
+     "t": 8.118
+    },
+    {
+     "w": "only",
+     "t": 8.366
+    },
+    {
+     "w": "then",
+     "t": 8.625
+    },
+    {
+     "w": "build",
+     "t": 8.837
+    },
+    {
+     "w": "the",
+     "t": 9.132
+    },
+    {
+     "w": "solution",
+     "t": 9.191
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Extra's brief: sell more gum. The expected response? A bigger ad.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "l",
+     "pose": "none"
+    },
+    {
+     "id": "e1",
+     "look": "exec",
+     "v": 1,
+     "at": "table",
+     "hold": "clipboard",
+     "pose": "hold"
+    },
+    {
+     "id": "e2",
+     "look": "exec_f",
+     "v": 5,
+     "at": "table2"
+    }
+   ],
+   "acts": [
+    {
+     "who": "e1",
+     "cue": "sell",
+     "pose": "point",
+     "expr": "stern",
+     "at": 1.609
+    },
+    {
+     "who": "e2",
+     "cue": "bigger",
+     "pose": "shrug",
+     "expr": "dazed",
+     "at": 4.722
+    }
+   ],
+   "fx": [
+    {
+     "kind": "say",
+     "who": "e1",
+     "cue": "sell",
+     "text": "Sell more gum!",
+     "at": 1.609
+    },
+    {
+     "kind": "say",
+     "who": "e2",
+     "cue": "bigger",
+     "text": "Bigger ad?",
+     "at": 4.722
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "sell",
+     "shot": "actor",
+     "who": "e1",
+     "at": 1.609
+    },
+    {
+     "cue": "bigger",
+     "shot": "actor",
+     "who": "e2",
+     "at": 4.722
+    }
+   ],
+   "audio": "audio/m-brief-to-real-problem-01.mp3",
+   "leadIn": 0.45,
+   "seconds": 6.45,
+   "words": [
+    {
+     "w": "Extra's",
+     "t": 0.5
+    },
+    {
+     "w": "brief",
+     "t": 0.913
+    },
+    {
+     "w": "sell",
+     "t": 1.609
+    },
+    {
+     "w": "more",
+     "t": 1.939
+    },
+    {
+     "w": "gum",
+     "t": 2.139
+    },
+    {
+     "w": "The",
+     "t": 2.87
+    },
+    {
+     "w": "expected",
+     "t": 3.094
+    },
+    {
+     "w": "response",
+     "t": 3.613
+    },
+    {
+     "w": "A",
+     "t": 4.568
+    },
+    {
+     "w": "bigger",
+     "t": 4.722
+    },
+    {
+     "w": "ad",
+     "t": 5.111
+    }
+   ]
+  },
+  {
+   "set": "plaza",
+   "say": "But the real problem? At the checkout, everyone's on their phone and never notices the gum. So the Bad Breath Index put gum into the checkout itself.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "l",
+     "pose": "none"
+    },
+    {
+     "id": "s1",
+     "look": "student",
+     "v": 1,
+     "at": "shelf",
+     "hold": "phone",
+     "pose": "hold"
+    },
+    {
+     "id": "s2",
+     "look": "shopper",
+     "v": 5,
+     "at": "r",
+     "hold": "phone",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "s1",
+     "cue": "phone",
+     "expr": "dazed",
+     "at": 3.696
+    },
+    {
+     "who": "host",
+     "cue": "Breath",
+     "pose": "up",
+     "expr": "grin",
+     "at": 6.337
+    },
+    {
+     "who": "s2",
+     "cue": "itself",
+     "pose": "cheer",
+     "expr": "laugh",
+     "at": 8.106
+    }
+   ],
+   "fx": [
+    {
+     "kind": "zzz",
+     "who": "s1",
+     "cue": "phone",
+     "at": 3.696
+    },
+    {
+     "kind": "exclaim",
+     "who": "host",
+     "cue": "Breath",
+     "at": 6.337
+    },
+    {
+     "kind": "tick",
+     "who": "s2",
+     "cue": "itself",
+     "at": 8.106
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "phone",
+     "shot": "actor",
+     "who": "s1",
+     "at": 3.696
+    },
+    {
+     "cue": "Breath",
+     "shot": "close",
+     "at": 6.337
+    },
+    {
+     "cue": "itself",
+     "shot": "actor",
+     "who": "s2",
+     "at": 8.106
+    }
+   ],
+   "audio": "audio/m-brief-to-real-problem-02.mp3",
+   "leadIn": 0.45,
+   "seconds": 9.57,
+   "words": [
+    {
+     "w": "But",
+     "t": 0.5
+    },
+    {
+     "w": "the",
+     "t": 0.724
+    },
+    {
+     "w": "real",
+     "t": 0.83
+    },
+    {
+     "w": "problem",
+     "t": 1.125
+    },
+    {
+     "w": "At",
+     "t": 1.998
+    },
+    {
+     "w": "the",
+     "t": 2.186
+    },
+    {
+     "w": "checkout",
+     "t": 2.269
+    },
+    {
+     "w": "everyone's",
+     "t": 3.071
+    },
+    {
+     "w": "on",
+     "t": 3.531
+    },
+    {
+     "w": "their",
+     "t": 3.613
+    },
+    {
+     "w": "phone",
+     "t": 3.696
+    },
+    {
+     "w": "and",
+     "t": 4.085
+    },
+    {
+     "w": "never",
+     "t": 4.262
+    },
+    {
+     "w": "notices",
+     "t": 4.545
+    },
+    {
+     "w": "the",
+     "t": 4.981
+    },
+    {
+     "w": "gum",
+     "t": 5.052
+    },
+    {
+     "w": "So",
+     "t": 5.759
+    },
+    {
+     "w": "the",
+     "t": 5.995
+    },
+    {
+     "w": "Bad",
+     "t": 6.09
+    },
+    {
+     "w": "Breath",
+     "t": 6.337
+    },
+    {
+     "w": "Index",
+     "t": 6.561
+    },
+    {
+     "w": "put",
+     "t": 6.939
+    },
+    {
+     "w": "gum",
+     "t": 7.175
+    },
+    {
+     "w": "into",
+     "t": 7.422
+    },
+    {
+     "w": "the",
+     "t": 7.646
+    },
+    {
+     "w": "checkout",
+     "t": 7.741
+    },
+    {
+     "w": "itself",
+     "t": 8.106
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Use it like this: brief the problem, not what you want to say.",
+   "board": {
+    "title": "Use it like **this**",
+    "lines": [
+     {
+      "text": "Brief the **problem**",
+      "cue": "problem",
+      "at": 2.127
+     },
+     {
+      "text": "Not what you **want to say**",
+      "cue": "want",
+      "at": 3.283
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "point"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "say",
+     "pose": "cheer",
+     "expr": "grin",
+     "at": 3.472
+    }
+   ],
+   "fx": [
+    {
+     "kind": "tick",
+     "who": "host",
+     "cue": "say",
+     "at": 3.472
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "say",
+     "shot": "close",
+     "at": 3.472
+    }
+   ],
+   "hold": 1.0,
+   "audio": "audio/m-brief-to-real-problem-03.mp3",
+   "leadIn": 0.45,
+   "seconds": 5.218,
+   "words": [
+    {
+     "w": "Use",
+     "t": 0.5
+    },
+    {
+     "w": "it",
+     "t": 0.83
+    },
+    {
+     "w": "like",
+     "t": 0.913
+    },
+    {
+     "w": "this",
+     "t": 1.125
+    },
+    {
+     "w": "brief",
+     "t": 1.75
+    },
+    {
+     "w": "the",
+     "t": 2.033
+    },
+    {
+     "w": "problem",
+     "t": 2.127
+    },
+    {
+     "w": "not",
+     "t": 2.811
+    },
+    {
+     "w": "what",
+     "t": 3.059
+    },
+    {
+     "w": "you",
+     "t": 3.224
+    },
+    {
+     "w": "want",
+     "t": 3.283
+    },
+    {
+     "w": "to",
+     "t": 3.425
+    },
+    {
+     "w": "say",
+     "t": 3.472
+    }
+   ]
+  }
+ ],
+ "id": "m-brief-to-real-problem",
+ "total": 32.0
+}

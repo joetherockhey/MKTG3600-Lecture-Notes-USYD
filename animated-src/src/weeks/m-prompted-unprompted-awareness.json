@@ -1,0 +1,630 @@
+{
+ "week": 0,
+ "title": "Prompted vs unprompted (top-of-mind) awareness and the measurement chain",
+ "speaker": "Libby Hogson, UNICEF Australia, Week 6",
+ "beats": [
+  {
+   "set": "office",
+   "say": "Awareness comes in levels. Prompted, you recognise the name. Unprompted, you name it unaided. Top of mind, it comes out first.",
+   "board": {
+    "title": "Levels of **awareness**",
+    "steps": [
+     {
+      "text": "**Prompted**: recognised when shown",
+      "cue": "Prompted",
+      "at": 2.387
+     },
+     {
+      "text": "**Unprompted**: named unaided",
+      "cue": "Unprompted",
+      "at": 4.769
+     },
+     {
+      "text": "**Top of mind**: named first",
+      "cue": "Top",
+      "at": 7.281
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "e1",
+     "look": "exec_f",
+     "at": "table",
+     "v": 6
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "Prompted",
+     "pose": "point",
+     "at": 2.387
+    },
+    {
+     "who": "e1",
+     "cue": "Top",
+     "pose": "chin",
+     "expr": "smile",
+     "at": 7.281
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "Unprompted",
+     "shot": "two",
+     "who": "e1",
+     "at": 4.769
+    },
+    {
+     "cue": "Top",
+     "shot": "board",
+     "at": 7.281
+    }
+   ],
+   "audio": "audio/m-prompted-unprompted-awareness-00.mp3",
+   "leadIn": 0.45,
+   "seconds": 10.314,
+   "words": [
+    {
+     "w": "Awareness",
+     "t": 0.5
+    },
+    {
+     "w": "comes",
+     "t": 1.078
+    },
+    {
+     "w": "in",
+     "t": 1.42
+    },
+    {
+     "w": "levels",
+     "t": 1.514
+    },
+    {
+     "w": "Prompted",
+     "t": 2.387
+    },
+    {
+     "w": "you",
+     "t": 3.177
+    },
+    {
+     "w": "recognise",
+     "t": 3.377
+    },
+    {
+     "w": "the",
+     "t": 3.943
+    },
+    {
+     "w": "name",
+     "t": 4.014
+    },
+    {
+     "w": "Unprompted",
+     "t": 4.769
+    },
+    {
+     "w": "you",
+     "t": 5.759
+    },
+    {
+     "w": "name",
+     "t": 5.913
+    },
+    {
+     "w": "it",
+     "t": 6.219
+    },
+    {
+     "w": "unaided",
+     "t": 6.408
+    },
+    {
+     "w": "Top",
+     "t": 7.281
+    },
+    {
+     "w": "of",
+     "t": 7.516
+    },
+    {
+     "w": "mind",
+     "t": 7.623
+    },
+    {
+     "w": "it",
+     "t": 8.307
+    },
+    {
+     "w": "comes",
+     "t": 8.436
+    },
+    {
+     "w": "out",
+     "t": 8.719
+    },
+    {
+     "w": "first",
+     "t": 8.884
+    }
+   ]
+  },
+  {
+   "set": "street",
+   "say": "A researcher asks, name a children's charity. One person shrugs. The other says UNICEF straight away. That's top of mind.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "front"
+    },
+    {
+     "id": "w",
+     "look": "worker",
+     "at": "kerb",
+     "v": 3,
+     "hold": "clipboard",
+     "pose": "hold"
+    },
+    {
+     "id": "p1",
+     "look": "shopper",
+     "at": "l",
+     "v": 3
+    },
+    {
+     "id": "p2",
+     "look": "student",
+     "at": "r",
+     "v": 2
+    }
+   ],
+   "acts": [
+    {
+     "who": "p1",
+     "cue": "shrugs",
+     "pose": "shrug",
+     "expr": "dazed",
+     "at": 4.262
+    },
+    {
+     "who": "p2",
+     "cue": "UNICEF",
+     "pose": "cheer",
+     "expr": "grin",
+     "at": 5.866
+    },
+    {
+     "who": "host",
+     "cue": "top",
+     "pose": "point",
+     "expr": "smile",
+     "at": 7.87
+    }
+   ],
+   "fx": [
+    {
+     "kind": "say",
+     "who": "w",
+     "cue": "asks",
+     "text": "Name a charity?",
+     "at": 1.219
+    },
+    {
+     "kind": "question",
+     "who": "p1",
+     "cue": "shrugs",
+     "at": 4.262
+    },
+    {
+     "kind": "say",
+     "who": "p2",
+     "cue": "UNICEF",
+     "text": "UNICEF!",
+     "at": 5.866
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "shrugs",
+     "shot": "actor",
+     "who": "p1",
+     "at": 4.262
+    },
+    {
+     "cue": "UNICEF",
+     "shot": "actor",
+     "who": "p2",
+     "at": 5.866
+    },
+    {
+     "cue": "top",
+     "shot": "close",
+     "at": 7.87
+    }
+   ],
+   "audio": "audio/m-prompted-unprompted-awareness-01.mp3",
+   "leadIn": 0.45,
+   "seconds": 9.618,
+   "words": [
+    {
+     "w": "A",
+     "t": 0.5
+    },
+    {
+     "w": "researcher",
+     "t": 0.63
+    },
+    {
+     "w": "asks",
+     "t": 1.219
+    },
+    {
+     "w": "name",
+     "t": 1.903
+    },
+    {
+     "w": "a",
+     "t": 2.163
+    },
+    {
+     "w": "children's",
+     "t": 2.21
+    },
+    {
+     "w": "charity",
+     "t": 2.658
+    },
+    {
+     "w": "One",
+     "t": 3.484
+    },
+    {
+     "w": "person",
+     "t": 3.873
+    },
+    {
+     "w": "shrugs",
+     "t": 4.262
+    },
+    {
+     "w": "The",
+     "t": 5.134
+    },
+    {
+     "w": "other",
+     "t": 5.359
+    },
+    {
+     "w": "says",
+     "t": 5.547
+    },
+    {
+     "w": "UNICEF",
+     "t": 5.866
+    },
+    {
+     "w": "straight",
+     "t": 6.408
+    },
+    {
+     "w": "away",
+     "t": 6.715
+    },
+    {
+     "w": "That's",
+     "t": 7.481
+    },
+    {
+     "w": "top",
+     "t": 7.87
+    },
+    {
+     "w": "of",
+     "t": 8.083
+    },
+    {
+     "w": "mind",
+     "t": 8.2
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Top-of-mind people had nineteen percent donation intent. Prompted only? Just seven. Nearly triple.",
+   "board": {
+    "title": "UNICEF **donation intent**",
+    "bars": [
+     {
+      "label": "Top of mind",
+      "value": 19,
+      "display": "19%",
+      "cue": "nineteen",
+      "at": 1.632
+     },
+     {
+      "label": "Prompted only",
+      "value": 7,
+      "display": "7%",
+      "cue": "seven",
+      "at": 5.512
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "point"
+    },
+    {
+     "id": "e1",
+     "look": "exec",
+     "at": "table",
+     "v": 2,
+     "hold": "laptop",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "e1",
+     "cue": "triple",
+     "pose": "cheer",
+     "expr": "grin",
+     "at": 6.809
+    }
+   ],
+   "fx": [
+    {
+     "kind": "chart",
+     "who": "e1",
+     "cue": "triple",
+     "at": 6.809
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "triple",
+     "shot": "actor",
+     "who": "e1",
+     "at": 6.809
+    }
+   ],
+   "audio": "audio/m-prompted-unprompted-awareness-02.mp3",
+   "leadIn": 0.45,
+   "seconds": 8.25,
+   "words": [
+    {
+     "w": "Top-of-mind",
+     "t": 0.5
+    },
+    {
+     "w": "people",
+     "t": 1.054
+    },
+    {
+     "w": "had",
+     "t": 1.432
+    },
+    {
+     "w": "nineteen",
+     "t": 1.632
+    },
+    {
+     "w": "percent",
+     "t": 2.08
+    },
+    {
+     "w": "donation",
+     "t": 2.469
+    },
+    {
+     "w": "intent",
+     "t": 2.941
+    },
+    {
+     "w": "Prompted",
+     "t": 3.719
+    },
+    {
+     "w": "only",
+     "t": 4.285
+    },
+    {
+     "w": "Just",
+     "t": 5.099
+    },
+    {
+     "w": "seven",
+     "t": 5.512
+    },
+    {
+     "w": "Nearly",
+     "t": 6.337
+    },
+    {
+     "w": "triple",
+     "t": 6.809
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "So track the whole chain, from ad awareness, to unprompted awareness, to intent, and finally to market share.",
+   "board": {
+    "title": "The **measurement chain**",
+    "steps": [
+     {
+      "text": "**Ad awareness** and share of voice",
+      "cue": "ad",
+      "at": 2.198
+     },
+     {
+      "text": "**Unprompted** awareness",
+      "cue": "unprompted",
+      "at": 3.212
+     },
+     {
+      "text": "Donation **intent**",
+      "cue": "intent",
+      "at": 4.58
+     },
+     {
+      "text": "Market **share**",
+      "cue": "share",
+      "at": 6.243
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "e1",
+     "look": "exec_f",
+     "at": "table",
+     "v": 6
+    }
+   ],
+   "acts": [
+    {
+     "who": "e1",
+     "cue": "share",
+     "expr": "smile",
+     "at": 6.243
+    }
+   ],
+   "fx": [
+    {
+     "kind": "tick",
+     "who": "e1",
+     "cue": "share",
+     "at": 6.243
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "share",
+     "shot": "two",
+     "who": "e1",
+     "at": 6.243
+    }
+   ],
+   "hold": 1.0,
+   "audio": "audio/m-prompted-unprompted-awareness-03.mp3",
+   "leadIn": 0.45,
+   "seconds": 7.954,
+   "words": [
+    {
+     "w": "So",
+     "t": 0.5
+    },
+    {
+     "w": "track",
+     "t": 0.818
+    },
+    {
+     "w": "the",
+     "t": 1.09
+    },
+    {
+     "w": "whole",
+     "t": 1.16
+    },
+    {
+     "w": "chain",
+     "t": 1.337
+    },
+    {
+     "w": "from",
+     "t": 1.962
+    },
+    {
+     "w": "ad",
+     "t": 2.198
+    },
+    {
+     "w": "awareness",
+     "t": 2.387
+    },
+    {
+     "w": "to",
+     "t": 3.059
+    },
+    {
+     "w": "unprompted",
+     "t": 3.212
+    },
+    {
+     "w": "awareness",
+     "t": 3.708
+    },
+    {
+     "w": "to",
+     "t": 4.439
+    },
+    {
+     "w": "intent",
+     "t": 4.58
+    },
+    {
+     "w": "and",
+     "t": 5.241
+    },
+    {
+     "w": "finally",
+     "t": 5.37
+    },
+    {
+     "w": "to",
+     "t": 5.83
+    },
+    {
+     "w": "market",
+     "t": 5.925
+    },
+    {
+     "w": "share",
+     "t": 6.243
+    }
+   ]
+  }
+ ],
+ "id": "m-prompted-unprompted-awareness",
+ "total": 36.17
+}

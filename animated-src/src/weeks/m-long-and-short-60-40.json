@@ -1,0 +1,702 @@
+{
+ "week": 0,
+ "title": "The long and the short of it (60/40 brand vs activation)",
+ "speaker": "Brent Smart, Week 4; Nicky Barton, Week 12; from Les Binet and Peter Field",
+ "beats": [
+  {
+   "set": "stage",
+   "say": "The long and the short of it. Brand building is long-term and emotional, lifting your base. Activation is short-term and rational, spiking sales. The benchmark is about sixty forty.",
+   "board": {
+    "title": "The long and **the short** of it",
+    "steps": [
+     {
+      "text": "**Brand**: long, emotional, rising base",
+      "cue": "Brand",
+      "at": 2.175
+     },
+     {
+      "text": "**Activation**: short, rational, spike",
+      "cue": "Activation",
+      "at": 5.795
+     },
+     {
+      "text": "**Benchmark**: ~60 brand / 40",
+      "cue": "benchmark",
+      "at": 9.521
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "a",
+     "look": "student",
+     "at": "front",
+     "v": 6
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "Activation",
+     "pose": "point",
+     "at": 5.795
+    },
+    {
+     "who": "host",
+     "cue": "benchmark",
+     "pose": "up",
+     "expr": "grin",
+     "at": 9.521
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "Activation",
+     "shot": "close",
+     "at": 5.795
+    },
+    {
+     "cue": "benchmark",
+     "shot": "board",
+     "at": 9.521
+    }
+   ],
+   "audio": "audio/m-long-and-short-60-40-00.mp3",
+   "leadIn": 0.45,
+   "seconds": 12.282,
+   "words": [
+    {
+     "w": "The",
+     "t": 0.5
+    },
+    {
+     "w": "long",
+     "t": 0.641
+    },
+    {
+     "w": "and",
+     "t": 1.019
+    },
+    {
+     "w": "the",
+     "t": 1.184
+    },
+    {
+     "w": "short",
+     "t": 1.243
+    },
+    {
+     "w": "of",
+     "t": 1.526
+    },
+    {
+     "w": "it",
+     "t": 1.609
+    },
+    {
+     "w": "Brand",
+     "t": 2.175
+    },
+    {
+     "w": "building",
+     "t": 2.517
+    },
+    {
+     "w": "is",
+     "t": 2.917
+    },
+    {
+     "w": "long-term",
+     "t": 3.059
+    },
+    {
+     "w": "and",
+     "t": 3.601
+    },
+    {
+     "w": "emotional",
+     "t": 3.719
+    },
+    {
+     "w": "lifting",
+     "t": 4.521
+    },
+    {
+     "w": "your",
+     "t": 4.91
+    },
+    {
+     "w": "base",
+     "t": 4.993
+    },
+    {
+     "w": "Activation",
+     "t": 5.795
+    },
+    {
+     "w": "is",
+     "t": 6.467
+    },
+    {
+     "w": "short-term",
+     "t": 6.597
+    },
+    {
+     "w": "and",
+     "t": 7.163
+    },
+    {
+     "w": "rational",
+     "t": 7.304
+    },
+    {
+     "w": "spiking",
+     "t": 8.012
+    },
+    {
+     "w": "sales",
+     "t": 8.542
+    },
+    {
+     "w": "The",
+     "t": 9.38
+    },
+    {
+     "w": "benchmark",
+     "t": 9.521
+    },
+    {
+     "w": "is",
+     "t": 10.111
+    },
+    {
+     "w": "about",
+     "t": 10.264
+    },
+    {
+     "w": "sixty",
+     "t": 10.547
+    },
+    {
+     "w": "forty",
+     "t": 10.889
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Brent Smart found Telstra at just twenty percent brand. He didn't leap to sixty. His first move was fifty fifty.",
+   "board": {
+    "title": "Brand share of spend",
+    "bars": [
+     {
+      "label": "Telstra before",
+      "value": 20,
+      "display": "20%",
+      "cue": "twenty",
+      "at": 2.186
+     },
+     {
+      "label": "Benchmark",
+      "value": 60,
+      "display": "60%",
+      "cue": "sixty",
+      "at": 4.45
+     },
+     {
+      "label": "First move",
+      "value": 50,
+      "display": "50%",
+      "cue": "fifty",
+      "at": 6.443
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "point"
+    },
+    {
+     "id": "e1",
+     "look": "exec",
+     "at": "table",
+     "v": 5,
+     "hold": "laptop",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "e1",
+     "cue": "twenty",
+     "pose": "none",
+     "expr": "shock",
+     "at": 2.186
+    },
+    {
+     "who": "e1",
+     "cue": "fifty",
+     "expr": "relief",
+     "at": 6.443
+    }
+   ],
+   "fx": [
+    {
+     "kind": "exclaim",
+     "who": "e1",
+     "cue": "twenty",
+     "at": 2.186
+    },
+    {
+     "kind": "tick",
+     "who": "e1",
+     "cue": "fifty",
+     "at": 6.443
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "twenty",
+     "shot": "actor",
+     "who": "e1",
+     "at": 2.186
+    },
+    {
+     "cue": "first",
+     "shot": "board",
+     "at": 5.583
+    }
+   ],
+   "audio": "audio/m-long-and-short-60-40-01.mp3",
+   "leadIn": 0.45,
+   "seconds": 8.154,
+   "words": [
+    {
+     "w": "Brent",
+     "t": 0.5
+    },
+    {
+     "w": "Smart",
+     "t": 0.771
+    },
+    {
+     "w": "found",
+     "t": 1.09
+    },
+    {
+     "w": "Telstra",
+     "t": 1.349
+    },
+    {
+     "w": "at",
+     "t": 1.809
+    },
+    {
+     "w": "just",
+     "t": 1.95
+    },
+    {
+     "w": "twenty",
+     "t": 2.186
+    },
+    {
+     "w": "percent",
+     "t": 2.446
+    },
+    {
+     "w": "brand",
+     "t": 2.764
+    },
+    {
+     "w": "He",
+     "t": 3.554
+    },
+    {
+     "w": "didn't",
+     "t": 3.767
+    },
+    {
+     "w": "leap",
+     "t": 4.097
+    },
+    {
+     "w": "to",
+     "t": 4.356
+    },
+    {
+     "w": "sixty",
+     "t": 4.45
+    },
+    {
+     "w": "His",
+     "t": 5.335
+    },
+    {
+     "w": "first",
+     "t": 5.583
+    },
+    {
+     "w": "move",
+     "t": 5.889
+    },
+    {
+     "w": "was",
+     "t": 6.208
+    },
+    {
+     "w": "fifty",
+     "t": 6.443
+    },
+    {
+     "w": "fifty",
+     "t": 6.738
+    }
+   ]
+  },
+  {
+   "set": "plaza",
+   "say": "Here's why. A sale cuts the price and shoppers rush in, then vanish when it ends. Brand building keeps people coming back.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "front"
+    },
+    {
+     "id": "s1",
+     "look": "shopper",
+     "at": "walkL",
+     "v": 1,
+     "to": "shelf",
+     "walkCue": "rush",
+     "walkAt": 3.389
+    },
+    {
+     "id": "s2",
+     "look": "student",
+     "at": "r",
+     "v": 4,
+     "hold": "bag",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "s1",
+     "cue": "rush",
+     "pose": "cheer",
+     "expr": "grin",
+     "at": 3.389
+    },
+    {
+     "who": "s1",
+     "cue": "vanish",
+     "to": "walkR",
+     "at": 4.38
+    },
+    {
+     "who": "s2",
+     "cue": "coming",
+     "expr": "smile",
+     "at": 7.127
+    }
+   ],
+   "fx": [
+    {
+     "kind": "money",
+     "who": "host",
+     "cue": "price",
+     "at": 2.375
+    },
+    {
+     "kind": "heart",
+     "who": "s2",
+     "cue": "coming",
+     "at": 7.127
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "rush",
+     "shot": "actor",
+     "who": "s1",
+     "at": 3.389
+    },
+    {
+     "cue": "Brand",
+     "shot": "actor",
+     "who": "s2",
+     "at": 5.63
+    }
+   ],
+   "audio": "audio/m-long-and-short-60-40-02.mp3",
+   "leadIn": 0.45,
+   "seconds": 8.706,
+   "words": [
+    {
+     "w": "Here's",
+     "t": 0.5
+    },
+    {
+     "w": "why",
+     "t": 0.854
+    },
+    {
+     "w": "A",
+     "t": 1.597
+    },
+    {
+     "w": "sale",
+     "t": 1.715
+    },
+    {
+     "w": "cuts",
+     "t": 2.045
+    },
+    {
+     "w": "the",
+     "t": 2.304
+    },
+    {
+     "w": "price",
+     "t": 2.375
+    },
+    {
+     "w": "and",
+     "t": 2.788
+    },
+    {
+     "w": "shoppers",
+     "t": 2.941
+    },
+    {
+     "w": "rush",
+     "t": 3.389
+    },
+    {
+     "w": "in",
+     "t": 3.613
+    },
+    {
+     "w": "then",
+     "t": 4.179
+    },
+    {
+     "w": "vanish",
+     "t": 4.38
+    },
+    {
+     "w": "when",
+     "t": 4.734
+    },
+    {
+     "w": "it",
+     "t": 4.84
+    },
+    {
+     "w": "ends",
+     "t": 4.899
+    },
+    {
+     "w": "Brand",
+     "t": 5.63
+    },
+    {
+     "w": "building",
+     "t": 6.054
+    },
+    {
+     "w": "keeps",
+     "t": 6.502
+    },
+    {
+     "w": "people",
+     "t": 6.774
+    },
+    {
+     "w": "coming",
+     "t": 7.127
+    },
+    {
+     "w": "back",
+     "t": 7.399
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Use it like this: plan both speeds, aim for sixty forty, and agree brand health measures before year one.",
+   "board": {
+    "title": "Use it like **this**",
+    "lines": [
+     {
+      "text": "Plan **both speeds**",
+      "cue": "both",
+      "at": 2.021
+     },
+     {
+      "text": "Aim for **60/40**",
+      "cue": "sixty",
+      "at": 3.248
+     },
+     {
+      "text": "Agree **brand health** measures",
+      "cue": "agree",
+      "at": 4.321
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "e1",
+     "look": "exec_f",
+     "at": "table",
+     "v": 3
+    }
+   ],
+   "acts": [
+    {
+     "who": "e1",
+     "cue": "agree",
+     "expr": "smile",
+     "at": 4.321
+    }
+   ],
+   "fx": [
+    {
+     "kind": "tick",
+     "who": "e1",
+     "cue": "measures",
+     "at": 5.111
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "agree",
+     "shot": "two",
+     "who": "e1",
+     "at": 4.321
+    }
+   ],
+   "hold": 1.0,
+   "audio": "audio/m-long-and-short-60-40-03.mp3",
+   "leadIn": 0.45,
+   "seconds": 7.618,
+   "words": [
+    {
+     "w": "Use",
+     "t": 0.5
+    },
+    {
+     "w": "it",
+     "t": 0.807
+    },
+    {
+     "w": "like",
+     "t": 0.877
+    },
+    {
+     "w": "this",
+     "t": 1.066
+    },
+    {
+     "w": "plan",
+     "t": 1.703
+    },
+    {
+     "w": "both",
+     "t": 2.021
+    },
+    {
+     "w": "speeds",
+     "t": 2.222
+    },
+    {
+     "w": "aim",
+     "t": 2.929
+    },
+    {
+     "w": "for",
+     "t": 3.142
+    },
+    {
+     "w": "sixty",
+     "t": 3.248
+    },
+    {
+     "w": "forty",
+     "t": 3.531
+    },
+    {
+     "w": "and",
+     "t": 4.203
+    },
+    {
+     "w": "agree",
+     "t": 4.321
+    },
+    {
+     "w": "brand",
+     "t": 4.604
+    },
+    {
+     "w": "health",
+     "t": 4.887
+    },
+    {
+     "w": "measures",
+     "t": 5.111
+    },
+    {
+     "w": "before",
+     "t": 5.417
+    },
+    {
+     "w": "year",
+     "t": 5.724
+    },
+    {
+     "w": "one",
+     "t": 5.913
+    }
+   ]
+  }
+ ],
+ "id": "m-long-and-short-60-40",
+ "total": 36.77
+}

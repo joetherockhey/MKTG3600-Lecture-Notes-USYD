@@ -1,0 +1,297 @@
+{
+ "week": 0,
+ "title": "Ubersight trend layers",
+ "speaker": "Estelle Gohil, Fiftyfive5, Week 2 (Fiftyfive5's own tool)",
+ "beats": [
+  {
+   "set": "stage",
+   "say": "Ubersight trend layers work down from cultural drivers, to macro trends, to micro trends, and finally to the tension where the opportunity sits.",
+   "board": {
+    "title": "Ubersight **trend layers**",
+    "steps": [
+     {
+      "text": "**Cultural drivers**: the known future",
+      "cue": "cultural"
+     },
+     {
+      "text": "**Macro**: the big narrative",
+      "cue": "macro"
+     },
+     {
+      "text": "**Micro**: everyday expressions",
+      "cue": "micro"
+     },
+     {
+      "text": "**Tension**: where opportunity sits",
+      "cue": "tension"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "a",
+     "look": "student",
+     "at": "front",
+     "v": 1
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "tension",
+     "pose": "point",
+     "expr": "grin"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "bulb",
+     "who": "host",
+     "cue": "opportunity"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "tension",
+     "shot": "close"
+    }
+   ]
+  },
+  {
+   "set": "home",
+   "say": "Take drinking. The driver is health. The macro trend is wellness. The micro trend is mocktails on a night out.",
+   "board": {
+    "title": "Drinking, **layer by layer**",
+    "lines": [
+     {
+      "text": "Driver: **health**",
+      "cue": "health"
+     },
+     {
+      "text": "Macro: **wellness**",
+      "cue": "wellness"
+     },
+     {
+      "text": "Micro: **mocktails**",
+      "cue": "mocktails"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "l"
+    },
+    {
+     "id": "a",
+     "look": "student",
+     "at": "sofa",
+     "v": 2,
+     "mode": "sit",
+     "hold": "coffee",
+     "holdCol": "#e85d75",
+     "pose": "hold"
+    },
+    {
+     "id": "b",
+     "look": "shopper",
+     "at": "sofa2",
+     "v": 3,
+     "mode": "sit"
+    }
+   ],
+   "acts": [
+    {
+     "who": "b",
+     "cue": "health",
+     "expr": "smile"
+    },
+    {
+     "who": "a",
+     "cue": "mocktails",
+     "pose": "cheer",
+     "expr": "grin"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "heart",
+     "who": "b",
+     "cue": "wellness"
+    },
+    {
+     "kind": "sparkle",
+     "who": "a",
+     "cue": "mocktails"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "wellness",
+     "shot": "board"
+    },
+    {
+     "cue": "mocktails",
+     "shot": "actor",
+     "who": "a"
+    }
+   ]
+  },
+  {
+   "set": "plaza",
+   "say": "Here's the tension. People want to cut back, but still feel part of the party. A premium alcohol-free drink that looks the part resolves it.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "c"
+    },
+    {
+     "id": "s1",
+     "look": "student",
+     "at": "l",
+     "v": 5
+    },
+    {
+     "id": "s2",
+     "look": "shopper",
+     "at": "walkR",
+     "v": 4,
+     "to": "shelf",
+     "walkCue": "premium",
+     "hold": "bag",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "s1",
+     "cue": "cut",
+     "pose": "chin",
+     "expr": "nervous"
+    },
+    {
+     "who": "s1",
+     "cue": "party",
+     "pose": "shrug"
+    },
+    {
+     "who": "host",
+     "cue": "resolves",
+     "pose": "up",
+     "expr": "grin"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "think",
+     "who": "s1",
+     "cue": "cut",
+     "text": "Skip it, or join in?"
+    },
+    {
+     "kind": "bulb",
+     "who": "host",
+     "cue": "premium"
+    },
+    {
+     "kind": "tick",
+     "who": "s2",
+     "cue": "resolves"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "cut",
+     "shot": "actor",
+     "who": "s1"
+    },
+    {
+     "cue": "premium",
+     "shot": "actor",
+     "who": "s2"
+    },
+    {
+     "cue": "resolves",
+     "shot": "close"
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Use it like this: trace a trend down the layers, then build your idea on the tension.",
+   "board": {
+    "title": "Use it like **this**",
+    "lines": [
+     {
+      "text": "Trace it **down the layers**",
+      "cue": "trace"
+     },
+     {
+      "text": "Build on the **tension**",
+      "cue": "tension"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "point"
+    },
+    {
+     "id": "e1",
+     "look": "exec_f",
+     "at": "table",
+     "v": 1
+    }
+   ],
+   "acts": [
+    {
+     "who": "e1",
+     "cue": "tension",
+     "expr": "smile"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "bulb",
+     "who": "e1",
+     "cue": "build"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "build",
+     "shot": "two",
+     "who": "e1"
+    }
+   ],
+   "hold": 1.0
+  }
+ ]
+}

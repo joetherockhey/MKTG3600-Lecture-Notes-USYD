@@ -1,0 +1,282 @@
+{
+ "week": 0,
+ "title": "Marketing mix modelling (MMM) and probabilistic thinking",
+ "speaker": "Nicky Barton, Mutinex, Week 12",
+ "beats": [
+  {
+   "set": "office",
+   "say": "Marketing mix modelling feeds in years of weekly sales, spend, price, seasonality, the economy and competitors. Out comes what drove sales, the return by channel, and where the next dollar goes. It's Bayesian, and privacy safe.",
+   "board": {
+    "title": "**Marketing mix** modelling",
+    "steps": [
+     {
+      "text": "**Inputs**: sales, spend, price, market",
+      "cue": "weekly"
+     },
+     {
+      "text": "**Outputs**: drivers, ROI, next dollar",
+      "cue": "drove"
+     },
+     {
+      "text": "**Bayesian**: prior + evidence",
+      "cue": "Bayesian"
+     },
+     {
+      "text": "**Privacy safe**: no tracking",
+      "cue": "privacy"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "e",
+     "look": "exec_f",
+     "v": 2,
+     "at": "table",
+     "hold": "laptop",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "e",
+     "cue": "drove",
+     "expr": "smile"
+    },
+    {
+     "who": "host",
+     "cue": "Bayesian",
+     "pose": "point"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "chart",
+     "who": "e",
+     "cue": "drove"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "drove",
+     "shot": "actor",
+     "who": "e"
+    },
+    {
+     "cue": "Bayesian",
+     "shot": "board"
+    }
+   ]
+  },
+  {
+   "set": "home",
+   "say": "Think of predicting who'll watch the next episode. You start with what you know about viewers, then update as evidence comes in.",
+   "board": {
+    "title": "Prior + evidence = **posterior**",
+    "lines": [
+     {
+      "text": "**Prior**: what you know",
+      "cue": "know"
+     },
+     {
+      "text": "**Evidence**: update it",
+      "cue": "update"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "l",
+     "pose": "none"
+    },
+    {
+     "id": "p",
+     "look": "shopper",
+     "v": 3,
+     "at": "sofa",
+     "mode": "sit"
+    },
+    {
+     "id": "q",
+     "look": "student",
+     "v": 6,
+     "at": "sofa2",
+     "mode": "sit"
+    }
+   ],
+   "acts": [
+    {
+     "who": "p",
+     "cue": "episode",
+     "expr": "smile"
+    },
+    {
+     "who": "host",
+     "cue": "update",
+     "pose": "point"
+    },
+    {
+     "who": "q",
+     "cue": "evidence",
+     "expr": "grin"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "think",
+     "who": "p",
+     "cue": "episode",
+     "text": "Next episode?"
+    },
+    {
+     "kind": "brain",
+     "who": "host",
+     "cue": "update"
+    },
+    {
+     "kind": "tick",
+     "who": "q",
+     "cue": "evidence"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "episode",
+     "shot": "actor",
+     "who": "p"
+    },
+    {
+     "cue": "update",
+     "shot": "board"
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "No individual is tracked. It reads the whole market, so it looks less precise, but it's more honest.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "l",
+     "pose": "none"
+    },
+    {
+     "id": "e",
+     "look": "exec_f",
+     "v": 2,
+     "at": "table",
+     "hold": "laptop",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "e",
+     "cue": "tracked",
+     "expr": "relief"
+    },
+    {
+     "who": "host",
+     "cue": "honest",
+     "pose": "up",
+     "expr": "smile"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "chart",
+     "who": "e",
+     "cue": "market"
+    },
+    {
+     "kind": "tick",
+     "who": "host",
+     "cue": "honest"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "market",
+     "shot": "actor",
+     "who": "e"
+    },
+    {
+     "cue": "honest",
+     "shot": "close"
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Use it like this: explain the inputs and outputs, then move the next dollar where it works hardest.",
+   "board": {
+    "title": "Use it like **this**",
+    "lines": [
+     {
+      "text": "Inputs in, **outputs** out",
+      "cue": "outputs"
+     },
+     {
+      "text": "Move the **next dollar**",
+      "cue": "next"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "point"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "hardest",
+     "pose": "cheer",
+     "expr": "grin"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "tick",
+     "who": "host",
+     "cue": "hardest"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "hardest",
+     "shot": "close"
+    }
+   ],
+   "hold": 1.0
+  }
+ ]
+}

@@ -1,0 +1,3429 @@
+{
+ "week": 8,
+ "title": "Creating advertising that works",
+ "speaker": "Andrew Baxter",
+ "beats": [
+  {
+   "set": "stage",
+   "say": "Week eight. Creating advertising that works, with Andrew Baxter, chair of Australian Pork, after twenty six years in agencies. His opener? Advertising is like selling fresh air.",
+   "board": {
+    "photo": "photos/w8.jpg",
+    "title": "Creating advertising **that works**",
+    "name": "Andrew Baxter",
+    "org": "Chair, Australian Pork Limited"
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "s1",
+     "look": "student",
+     "v": 1,
+     "at": "aisle"
+    },
+    {
+     "id": "s2",
+     "look": "student",
+     "v": 4,
+     "at": "aisle2"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "fresh",
+     "pose": "shrug",
+     "expr": "grin",
+     "at": 10.818
+    }
+   ],
+   "fx": [
+    {
+     "kind": "question",
+     "who": "s1",
+     "cue": "fresh",
+     "at": 10.818
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "Andrew",
+     "shot": "board",
+     "at": 3.507
+    },
+    {
+     "cue": "opener",
+     "shot": "close",
+     "at": 8.531
+    }
+   ],
+   "audio": "audio/w8-00.mp3",
+   "leadIn": 0.45,
+   "seconds": 12.354,
+   "words": [
+    {
+     "w": "Week",
+     "t": 0.5
+    },
+    {
+     "w": "eight",
+     "t": 0.877
+    },
+    {
+     "w": "Creating",
+     "t": 1.55
+    },
+    {
+     "w": "advertising",
+     "t": 2.033
+    },
+    {
+     "w": "that",
+     "t": 2.611
+    },
+    {
+     "w": "works",
+     "t": 2.752
+    },
+    {
+     "w": "with",
+     "t": 3.33
+    },
+    {
+     "w": "Andrew",
+     "t": 3.507
+    },
+    {
+     "w": "Baxter",
+     "t": 3.849
+    },
+    {
+     "w": "chair",
+     "t": 4.545
+    },
+    {
+     "w": "of",
+     "t": 4.84
+    },
+    {
+     "w": "Australian",
+     "t": 4.922
+    },
+    {
+     "w": "Pork",
+     "t": 5.394
+    },
+    {
+     "w": "after",
+     "t": 6.031
+    },
+    {
+     "w": "twenty",
+     "t": 6.29
+    },
+    {
+     "w": "six",
+     "t": 6.538
+    },
+    {
+     "w": "years",
+     "t": 6.797
+    },
+    {
+     "w": "in",
+     "t": 7.068
+    },
+    {
+     "w": "agencies",
+     "t": 7.222
+    },
+    {
+     "w": "His",
+     "t": 8.212
+    },
+    {
+     "w": "opener",
+     "t": 8.531
+    },
+    {
+     "w": "Advertising",
+     "t": 9.368
+    },
+    {
+     "w": "is",
+     "t": 10.064
+    },
+    {
+     "w": "like",
+     "t": 10.205
+    },
+    {
+     "w": "selling",
+     "t": 10.417
+    },
+    {
+     "w": "fresh",
+     "t": 10.818
+    },
+    {
+     "w": "air",
+     "t": 11.09
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "He ran Ogilvy and Publicis. His advice: pick your side. Agency life jumps around, marketing management goes deep, and consulting sits in between.",
+   "board": {
+    "title": "Pick your **side**",
+    "steps": [
+     {
+      "text": "**Agency** never the same day",
+      "cue": "Agency",
+      "at": 5.04
+     },
+     {
+      "text": "**Marketing** deep, big impact",
+      "cue": "marketing",
+      "at": 6.833
+     },
+     {
+      "text": "**Consulting** six-week deep dives",
+      "cue": "consulting",
+      "at": 8.66
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "point",
+     "mirror": true
+    },
+    {
+     "id": "a",
+     "look": "exec",
+     "v": 2,
+     "at": "table"
+    },
+    {
+     "id": "b",
+     "look": "worker",
+     "v": 3,
+     "at": "walkR",
+     "to": "r",
+     "walkCue": "jumps",
+     "walkAt": 5.854
+    }
+   ],
+   "acts": [
+    {
+     "who": "a",
+     "cue": "deep",
+     "pose": "chin",
+     "at": 7.917
+    }
+   ],
+   "fx": [
+    {
+     "kind": "exclaim",
+     "who": "b",
+     "cue": "jumps",
+     "at": 5.854
+    },
+    {
+     "kind": "brain",
+     "who": "a",
+     "cue": "deep",
+     "at": 7.917
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "Agency",
+     "shot": "actor",
+     "who": "b",
+     "at": 5.04
+    },
+    {
+     "cue": "consulting",
+     "shot": "board",
+     "at": 8.66
+    }
+   ],
+   "audio": "audio/w8-01.mp3",
+   "leadIn": 0.45,
+   "seconds": 11.034,
+   "words": [
+    {
+     "w": "He",
+     "t": 0.5
+    },
+    {
+     "w": "ran",
+     "t": 0.736
+    },
+    {
+     "w": "Ogilvy",
+     "t": 1.137
+    },
+    {
+     "w": "and",
+     "t": 1.62
+    },
+    {
+     "w": "Publicis",
+     "t": 1.785
+    },
+    {
+     "w": "His",
+     "t": 2.811
+    },
+    {
+     "w": "advice",
+     "t": 3.047
+    },
+    {
+     "w": "pick",
+     "t": 3.873
+    },
+    {
+     "w": "your",
+     "t": 4.097
+    },
+    {
+     "w": "side",
+     "t": 4.191
+    },
+    {
+     "w": "Agency",
+     "t": 5.04
+    },
+    {
+     "w": "life",
+     "t": 5.535
+    },
+    {
+     "w": "jumps",
+     "t": 5.854
+    },
+    {
+     "w": "around",
+     "t": 6.125
+    },
+    {
+     "w": "marketing",
+     "t": 6.833
+    },
+    {
+     "w": "management",
+     "t": 7.281
+    },
+    {
+     "w": "goes",
+     "t": 7.682
+    },
+    {
+     "w": "deep",
+     "t": 7.917
+    },
+    {
+     "w": "and",
+     "t": 8.519
+    },
+    {
+     "w": "consulting",
+     "t": 8.66
+    },
+    {
+     "w": "sits",
+     "t": 9.226
+    },
+    {
+     "w": "in",
+     "t": 9.462
+    },
+    {
+     "w": "between",
+     "t": 9.557
+    }
+   ]
+  },
+  {
+   "set": "street",
+   "say": "Ad vertere is Latin for turn the mind toward. Posters go back to Pompeii. Since then, the town crier, newspapers, radio, TV, the internet and social.",
+   "board": {
+    "title": "Ad vertere: **turn the mind**",
+    "lines": [
+     {
+      "text": "Pompeii posters, 1st century",
+      "cue": "Pompeii",
+      "at": 4.38
+     },
+     {
+      "text": "Crier, papers, radio, TV",
+      "cue": "crier",
+      "at": 6.55
+     },
+     {
+      "text": "Internet, then **social**",
+      "cue": "internet",
+      "at": 9.875
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "e",
+     "look": "elder",
+     "v": 2,
+     "at": "bus"
+    },
+    {
+     "id": "k",
+     "look": "student",
+     "v": 5,
+     "at": "walkL",
+     "to": "l",
+     "hold": "phone",
+     "pose": "hold",
+     "walkCue": "internet",
+     "walkAt": 9.875
+    }
+   ],
+   "fx": [
+    {
+     "kind": "say",
+     "who": "host",
+     "text": "Hear ye!",
+     "cue": "crier",
+     "at": 6.55
+    },
+    {
+     "kind": "sparkle",
+     "who": "k",
+     "cue": "social",
+     "at": 10.512
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "crier",
+     "shot": "wide",
+     "at": 6.55
+    },
+    {
+     "cue": "social",
+     "shot": "actor",
+     "who": "k",
+     "at": 10.512
+    }
+   ],
+   "audio": "audio/w8-02.mp3",
+   "leadIn": 0.45,
+   "seconds": 11.994,
+   "words": [
+    {
+     "w": "Ad",
+     "t": 0.5
+    },
+    {
+     "w": "vertere",
+     "t": 0.771
+    },
+    {
+     "w": "is",
+     "t": 1.243
+    },
+    {
+     "w": "Latin",
+     "t": 1.432
+    },
+    {
+     "w": "for",
+     "t": 1.821
+    },
+    {
+     "w": "turn",
+     "t": 1.95
+    },
+    {
+     "w": "the",
+     "t": 2.198
+    },
+    {
+     "w": "mind",
+     "t": 2.245
+    },
+    {
+     "w": "toward",
+     "t": 2.505
+    },
+    {
+     "w": "Posters",
+     "t": 3.33
+    },
+    {
+     "w": "go",
+     "t": 3.849
+    },
+    {
+     "w": "back",
+     "t": 4.026
+    },
+    {
+     "w": "to",
+     "t": 4.274
+    },
+    {
+     "w": "Pompeii",
+     "t": 4.38
+    },
+    {
+     "w": "Since",
+     "t": 5.276
+    },
+    {
+     "w": "then",
+     "t": 5.63
+    },
+    {
+     "w": "the",
+     "t": 6.172
+    },
+    {
+     "w": "town",
+     "t": 6.278
+    },
+    {
+     "w": "crier",
+     "t": 6.55
+    },
+    {
+     "w": "newspapers",
+     "t": 7.163
+    },
+    {
+     "w": "radio",
+     "t": 8.141
+    },
+    {
+     "w": "TV",
+     "t": 8.955
+    },
+    {
+     "w": "the",
+     "t": 9.698
+    },
+    {
+     "w": "internet",
+     "t": 9.875
+    },
+    {
+     "w": "and",
+     "t": 10.37
+    },
+    {
+     "w": "social",
+     "t": 10.512
+    }
+   ]
+  },
+  {
+   "set": "plaza",
+   "say": "Go where the eyeballs are. It used to be TV. Now it's the phone. And today it's about eighty percent science, twenty percent art.",
+   "board": {
+    "title": "Science or **art**?",
+    "bars": [
+     {
+      "label": "Science",
+      "value": 80,
+      "display": "80%",
+      "cue": "eighty",
+      "at": 6.408
+     },
+     {
+      "label": "Art",
+      "value": 20,
+      "display": "20%",
+      "cue": "twenty",
+      "at": 7.658
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "c",
+     "pose": "point"
+    },
+    {
+     "id": "p1",
+     "look": "shopper",
+     "v": 1,
+     "at": "l",
+     "hold": "phone",
+     "pose": "hold"
+    },
+    {
+     "id": "p2",
+     "look": "student",
+     "v": 2,
+     "at": "r",
+     "hold": "phone",
+     "pose": "hold"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "eye",
+     "who": "p1",
+     "cue": "eyeballs",
+     "at": 1.137
+    },
+    {
+     "kind": "eye",
+     "who": "p2",
+     "cue": "phone",
+     "at": 4.474
+    },
+    {
+     "kind": "chart",
+     "who": "host",
+     "cue": "eighty",
+     "at": 6.408
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "phone",
+     "shot": "actor",
+     "who": "p2",
+     "at": 4.474
+    },
+    {
+     "cue": "today",
+     "shot": "board",
+     "at": 5.476
+    }
+   ],
+   "audio": "audio/w8-03.mp3",
+   "leadIn": 0.45,
+   "seconds": 9.546,
+   "words": [
+    {
+     "w": "Go",
+     "t": 0.5
+    },
+    {
+     "w": "where",
+     "t": 0.748
+    },
+    {
+     "w": "the",
+     "t": 0.948
+    },
+    {
+     "w": "eyeballs",
+     "t": 1.137
+    },
+    {
+     "w": "are",
+     "t": 1.573
+    },
+    {
+     "w": "It",
+     "t": 2.222
+    },
+    {
+     "w": "used",
+     "t": 2.41
+    },
+    {
+     "w": "to",
+     "t": 2.682
+    },
+    {
+     "w": "be",
+     "t": 2.752
+    },
+    {
+     "w": "TV",
+     "t": 2.906
+    },
+    {
+     "w": "Now",
+     "t": 3.837
+    },
+    {
+     "w": "it's",
+     "t": 4.226
+    },
+    {
+     "w": "the",
+     "t": 4.391
+    },
+    {
+     "w": "phone",
+     "t": 4.474
+    },
+    {
+     "w": "And",
+     "t": 5.276
+    },
+    {
+     "w": "today",
+     "t": 5.476
+    },
+    {
+     "w": "it's",
+     "t": 5.936
+    },
+    {
+     "w": "about",
+     "t": 6.078
+    },
+    {
+     "w": "eighty",
+     "t": 6.408
+    },
+    {
+     "w": "percent",
+     "t": 6.585
+    },
+    {
+     "w": "science",
+     "t": 6.915
+    },
+    {
+     "w": "twenty",
+     "t": 7.658
+    },
+    {
+     "w": "percent",
+     "t": 7.917
+    },
+    {
+     "w": "art",
+     "t": 8.259
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Ads in Australia must be truthful. Fines run past a million dollars, so bring the receipts. Oddly, politics is exempt, because a court ruled there must be a financial outcome.",
+   "board": {
+    "title": "Ads must be **truthful**",
+    "big": "$1m+",
+    "caption": "fines for **false** advertising",
+    "cue": "million",
+    "at": 3.849
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "hips",
+     "expr": "stern"
+    },
+    {
+     "id": "c",
+     "look": "exec_f",
+     "v": 3,
+     "at": "desk",
+     "hold": "clipboard",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "c",
+     "cue": "receipts",
+     "expr": "nervous",
+     "at": 5.406
+    },
+    {
+     "who": "host",
+     "cue": "politics",
+     "pose": "shrug",
+     "expr": "dazed",
+     "at": 6.962
+    }
+   ],
+   "fx": [
+    {
+     "kind": "money",
+     "who": "host",
+     "cue": "million",
+     "at": 3.849
+    },
+    {
+     "kind": "think",
+     "who": "c",
+     "text": "Where's our research?",
+     "cue": "receipts",
+     "at": 5.406
+    },
+    {
+     "kind": "exclaim",
+     "who": "host",
+     "cue": "politics",
+     "at": 6.962
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "receipts",
+     "shot": "actor",
+     "who": "c",
+     "at": 5.406
+    },
+    {
+     "cue": "politics",
+     "shot": "close",
+     "at": 6.962
+    }
+   ],
+   "audio": "audio/w8-04.mp3",
+   "leadIn": 0.45,
+   "seconds": 11.658,
+   "words": [
+    {
+     "w": "Ads",
+     "t": 0.5
+    },
+    {
+     "w": "in",
+     "t": 0.807
+    },
+    {
+     "w": "Australia",
+     "t": 0.889
+    },
+    {
+     "w": "must",
+     "t": 1.432
+    },
+    {
+     "w": "be",
+     "t": 1.738
+    },
+    {
+     "w": "truthful",
+     "t": 1.868
+    },
+    {
+     "w": "Fines",
+     "t": 2.764
+    },
+    {
+     "w": "run",
+     "t": 3.236
+    },
+    {
+     "w": "past",
+     "t": 3.495
+    },
+    {
+     "w": "a",
+     "t": 3.825
+    },
+    {
+     "w": "million",
+     "t": 3.849
+    },
+    {
+     "w": "dollars",
+     "t": 4.156
+    },
+    {
+     "w": "so",
+     "t": 4.816
+    },
+    {
+     "w": "bring",
+     "t": 5.064
+    },
+    {
+     "w": "the",
+     "t": 5.335
+    },
+    {
+     "w": "receipts",
+     "t": 5.406
+    },
+    {
+     "w": "Oddly",
+     "t": 6.314
+    },
+    {
+     "w": "politics",
+     "t": 6.962
+    },
+    {
+     "w": "is",
+     "t": 7.446
+    },
+    {
+     "w": "exempt",
+     "t": 7.54
+    },
+    {
+     "w": "because",
+     "t": 8.307
+    },
+    {
+     "w": "a",
+     "t": 8.542
+    },
+    {
+     "w": "court",
+     "t": 8.59
+    },
+    {
+     "w": "ruled",
+     "t": 8.896
+    },
+    {
+     "w": "there",
+     "t": 9.191
+    },
+    {
+     "w": "must",
+     "t": 9.285
+    },
+    {
+     "w": "be",
+     "t": 9.568
+    },
+    {
+     "w": "a",
+     "t": 9.698
+    },
+    {
+     "w": "financial",
+     "t": 9.733
+    },
+    {
+     "w": "outcome",
+     "t": 10.252
+    }
+   ]
+  },
+  {
+   "set": "plaza",
+   "say": "Daniel Kahneman showed about ninety five percent of purchases are intuitive. We buy first, then post rationalise, and rational ads mostly help us do that.",
+   "board": {
+    "big": "95%",
+    "caption": "of purchases are **intuitive**",
+    "cue": "ninety",
+    "at": 1.75
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "l",
+     "pose": "present"
+    },
+    {
+     "id": "s",
+     "look": "shopper",
+     "v": 3,
+     "at": "walkR",
+     "to": "shelf",
+     "hold": "bag"
+    }
+   ],
+   "acts": [
+    {
+     "who": "s",
+     "cue": "intuitive",
+     "pose": "cheer",
+     "expr": "grin",
+     "at": 3.448
+    },
+    {
+     "who": "s",
+     "cue": "post",
+     "pose": "chin",
+     "expr": "smile_closed",
+     "at": 5.795
+    }
+   ],
+   "fx": [
+    {
+     "kind": "heart",
+     "who": "s",
+     "cue": "intuitive",
+     "at": 3.448
+    },
+    {
+     "kind": "think",
+     "who": "s",
+     "text": "It was on sale, really",
+     "cue": "post",
+     "at": 5.795
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "ninety",
+     "shot": "board",
+     "at": 1.75
+    },
+    {
+     "cue": "post",
+     "shot": "close",
+     "who": "s",
+     "at": 5.795
+    }
+   ],
+   "audio": "audio/w8-05.mp3",
+   "leadIn": 0.45,
+   "seconds": 9.978,
+   "words": [
+    {
+     "w": "Daniel",
+     "t": 0.5
+    },
+    {
+     "w": "Kahneman",
+     "t": 0.842
+    },
+    {
+     "w": "showed",
+     "t": 1.266
+    },
+    {
+     "w": "about",
+     "t": 1.514
+    },
+    {
+     "w": "ninety",
+     "t": 1.75
+    },
+    {
+     "w": "five",
+     "t": 2.045
+    },
+    {
+     "w": "percent",
+     "t": 2.281
+    },
+    {
+     "w": "of",
+     "t": 2.599
+    },
+    {
+     "w": "purchases",
+     "t": 2.682
+    },
+    {
+     "w": "are",
+     "t": 3.259
+    },
+    {
+     "w": "intuitive",
+     "t": 3.448
+    },
+    {
+     "w": "We",
+     "t": 4.403
+    },
+    {
+     "w": "buy",
+     "t": 4.675
+    },
+    {
+     "w": "first",
+     "t": 4.84
+    },
+    {
+     "w": "then",
+     "t": 5.594
+    },
+    {
+     "w": "post",
+     "t": 5.795
+    },
+    {
+     "w": "rationalise",
+     "t": 6.09
+    },
+    {
+     "w": "and",
+     "t": 7.009
+    },
+    {
+     "w": "rational",
+     "t": 7.175
+    },
+    {
+     "w": "ads",
+     "t": 7.611
+    },
+    {
+     "w": "mostly",
+     "t": 7.906
+    },
+    {
+     "w": "help",
+     "t": 8.295
+    },
+    {
+     "w": "us",
+     "t": 8.483
+    },
+    {
+     "w": "do",
+     "t": 8.601
+    },
+    {
+     "w": "that",
+     "t": 8.743
+    }
+   ]
+  },
+  {
+   "set": "home",
+   "say": "The Effie awards link ads to sales. But success can backfire. Lamb ads worked so well that people think lamb is only for Australia Day.",
+   "board": {
+    "title": "Lamb is for **Australia Day**",
+    "lines": [
+     {
+      "text": "Effies: ads linked to **sales**",
+      "cue": "Effie",
+      "at": 0.748
+     },
+     {
+      "text": "Lamb sales spike once",
+      "cue": "Lamb",
+      "at": 4.781
+     },
+     {
+      "text": "Then **drop** all year",
+      "cue": "Day",
+      "at": 8.165
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "l",
+     "pose": "point"
+    },
+    {
+     "id": "d",
+     "look": "worker",
+     "v": 1,
+     "at": "sofa",
+     "mode": "sit"
+    },
+    {
+     "id": "m",
+     "look": "shopper",
+     "v": 5,
+     "at": "sofa2",
+     "mode": "sit"
+    }
+   ],
+   "acts": [
+    {
+     "who": "d",
+     "cue": "Lamb",
+     "expr": "grin",
+     "at": 4.781
+    },
+    {
+     "who": "m",
+     "cue": "Day",
+     "expr": "dazed",
+     "at": 8.165
+    }
+   ],
+   "fx": [
+    {
+     "kind": "think",
+     "who": "d",
+     "text": "Lamb? Only in January",
+     "cue": "only",
+     "at": 7.328
+    },
+    {
+     "kind": "cross",
+     "who": "m",
+     "cue": "Day",
+     "at": 8.165
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "backfire",
+     "shot": "board",
+     "at": 3.825
+    },
+    {
+     "cue": "only",
+     "shot": "actor",
+     "who": "d",
+     "at": 7.328
+    }
+   ],
+   "audio": "audio/w8-06.mp3",
+   "leadIn": 0.45,
+   "seconds": 9.426,
+   "words": [
+    {
+     "w": "The",
+     "t": 0.5
+    },
+    {
+     "w": "Effie",
+     "t": 0.748
+    },
+    {
+     "w": "awards",
+     "t": 1.031
+    },
+    {
+     "w": "link",
+     "t": 1.361
+    },
+    {
+     "w": "ads",
+     "t": 1.667
+    },
+    {
+     "w": "to",
+     "t": 1.939
+    },
+    {
+     "w": "sales",
+     "t": 2.021
+    },
+    {
+     "w": "But",
+     "t": 2.906
+    },
+    {
+     "w": "success",
+     "t": 3.118
+    },
+    {
+     "w": "can",
+     "t": 3.649
+    },
+    {
+     "w": "backfire",
+     "t": 3.825
+    },
+    {
+     "w": "Lamb",
+     "t": 4.781
+    },
+    {
+     "w": "ads",
+     "t": 5.134
+    },
+    {
+     "w": "worked",
+     "t": 5.382
+    },
+    {
+     "w": "so",
+     "t": 5.748
+    },
+    {
+     "w": "well",
+     "t": 5.936
+    },
+    {
+     "w": "that",
+     "t": 6.137
+    },
+    {
+     "w": "people",
+     "t": 6.266
+    },
+    {
+     "w": "think",
+     "t": 6.561
+    },
+    {
+     "w": "lamb",
+     "t": 6.774
+    },
+    {
+     "w": "is",
+     "t": 7.08
+    },
+    {
+     "w": "only",
+     "t": 7.328
+    },
+    {
+     "w": "for",
+     "t": 7.611
+    },
+    {
+     "w": "Australia",
+     "t": 7.752
+    },
+    {
+     "w": "Day",
+     "t": 8.165
+    }
+   ]
+  },
+  {
+   "set": "plaza",
+   "say": "Advertising is simple: right message, right person, right place, right time. KFC and McDonald's switch screens by the hour, tradies at three, families at six.",
+   "board": {
+    "title": "Advertising is **simple**",
+    "steps": [
+     {
+      "text": "Right **message**",
+      "cue": "message",
+      "at": 2.186
+     },
+     {
+      "text": "Right **person**",
+      "cue": "person",
+      "at": 3.094
+     },
+     {
+      "text": "Right **place**",
+      "cue": "place",
+      "at": 4.05
+     },
+     {
+      "text": "Right **time**",
+      "cue": "time",
+      "at": 4.958
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "c",
+     "pose": "present"
+    },
+    {
+     "id": "t",
+     "look": "worker",
+     "v": 4,
+     "at": "walkL",
+     "to": "shop",
+     "walkCue": "tradies",
+     "walkAt": 8.554
+    },
+    {
+     "id": "f",
+     "look": "shopper",
+     "v": 7,
+     "at": "walkR",
+     "to": "shop2",
+     "walkCue": "famil",
+     "walkAt": 9.675
+    },
+    {
+     "id": "kid",
+     "look": "kid",
+     "v": 2,
+     "at": "walkR",
+     "to": "r",
+     "walkCue": "famil",
+     "walkAt": 9.675
+    }
+   ],
+   "fx": [
+    {
+     "kind": "clock",
+     "who": "t",
+     "cue": "three",
+     "at": 9.038
+    },
+    {
+     "kind": "heart",
+     "who": "kid",
+     "cue": "six",
+     "at": 10.264
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "KFC",
+     "shot": "wide",
+     "at": 5.724
+    },
+    {
+     "cue": "famil",
+     "shot": "actor",
+     "who": "f",
+     "at": 9.675
+    }
+   ],
+   "audio": "audio/w8-07.mp3",
+   "leadIn": 0.45,
+   "seconds": 11.634,
+   "words": [
+    {
+     "w": "Advertising",
+     "t": 0.5
+    },
+    {
+     "w": "is",
+     "t": 1.149
+    },
+    {
+     "w": "simple",
+     "t": 1.208
+    },
+    {
+     "w": "right",
+     "t": 1.88
+    },
+    {
+     "w": "message",
+     "t": 2.186
+    },
+    {
+     "w": "right",
+     "t": 2.823
+    },
+    {
+     "w": "person",
+     "t": 3.094
+    },
+    {
+     "w": "right",
+     "t": 3.778
+    },
+    {
+     "w": "place",
+     "t": 4.05
+    },
+    {
+     "w": "right",
+     "t": 4.698
+    },
+    {
+     "w": "time",
+     "t": 4.958
+    },
+    {
+     "w": "KFC",
+     "t": 5.724
+    },
+    {
+     "w": "and",
+     "t": 6.384
+    },
+    {
+     "w": "McDonald's",
+     "t": 6.514
+    },
+    {
+     "w": "switch",
+     "t": 7.021
+    },
+    {
+     "w": "screens",
+     "t": 7.34
+    },
+    {
+     "w": "by",
+     "t": 7.693
+    },
+    {
+     "w": "the",
+     "t": 7.823
+    },
+    {
+     "w": "hour",
+     "t": 7.941
+    },
+    {
+     "w": "tradies",
+     "t": 8.554
+    },
+    {
+     "w": "at",
+     "t": 8.943
+    },
+    {
+     "w": "three",
+     "t": 9.038
+    },
+    {
+     "w": "families",
+     "t": 9.675
+    },
+    {
+     "w": "at",
+     "t": 10.182
+    },
+    {
+     "w": "six",
+     "t": 10.264
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Making an ad takes four steps. Strategy, the idea, making it, which doesn't always work out, and placing it. Strategy is just ten percent of an agency, yet everyone wants in.",
+   "board": {
+    "title": "Four **steps**",
+    "steps": [
+     {
+      "text": "**Strategy** the message",
+      "cue": "Strategy",
+      "at": 2.693
+     },
+     {
+      "text": "**Idea** about 30% of staff",
+      "cue": "idea",
+      "at": 3.755
+     },
+     {
+      "text": "**Make it** often goes wrong",
+      "cue": "making",
+      "at": 4.486
+     },
+     {
+      "text": "**Place it** media and timing",
+      "cue": "placing",
+      "at": 6.998
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "point",
+     "mirror": true
+    },
+    {
+     "id": "a",
+     "look": "exec",
+     "v": 5,
+     "at": "table"
+    },
+    {
+     "id": "b",
+     "look": "student",
+     "v": 6,
+     "at": "table2"
+    },
+    {
+     "id": "c",
+     "look": "exec_f",
+     "v": 1,
+     "at": "desk2",
+     "hold": "laptop",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "a",
+     "cue": "doesn't",
+     "pose": "shrug",
+     "expr": "nervous",
+     "at": 5.524
+    },
+    {
+     "who": "b",
+     "cue": "everyone",
+     "pose": "up",
+     "expr": "grin",
+     "at": 10.866
+    },
+    {
+     "who": "c",
+     "cue": "wants",
+     "pose": "up",
+     "expr": "grin",
+     "at": 11.266
+    }
+   ],
+   "fx": [
+    {
+     "kind": "bulb",
+     "who": "b",
+     "cue": "idea",
+     "at": 3.755
+    },
+    {
+     "kind": "cross",
+     "who": "a",
+     "cue": "doesn't",
+     "at": 5.524
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "making it",
+     "shot": "actor",
+     "who": "a",
+     "at": 4.486
+    },
+    {
+     "cue": "everyone",
+     "shot": "wide",
+     "at": 10.866
+    }
+   ],
+   "audio": "audio/w8-08.mp3",
+   "leadIn": 0.45,
+   "seconds": 12.738,
+   "words": [
+    {
+     "w": "Making",
+     "t": 0.5
+    },
+    {
+     "w": "an",
+     "t": 0.913
+    },
+    {
+     "w": "ad",
+     "t": 1.031
+    },
+    {
+     "w": "takes",
+     "t": 1.349
+    },
+    {
+     "w": "four",
+     "t": 1.632
+    },
+    {
+     "w": "steps",
+     "t": 1.856
+    },
+    {
+     "w": "Strategy",
+     "t": 2.693
+    },
+    {
+     "w": "the",
+     "t": 3.613
+    },
+    {
+     "w": "idea",
+     "t": 3.755
+    },
+    {
+     "w": "making",
+     "t": 4.486
+    },
+    {
+     "w": "it",
+     "t": 4.875
+    },
+    {
+     "w": "which",
+     "t": 5.311
+    },
+    {
+     "w": "doesn't",
+     "t": 5.524
+    },
+    {
+     "w": "always",
+     "t": 5.818
+    },
+    {
+     "w": "work",
+     "t": 6.149
+    },
+    {
+     "w": "out",
+     "t": 6.373
+    },
+    {
+     "w": "and",
+     "t": 6.856
+    },
+    {
+     "w": "placing",
+     "t": 6.998
+    },
+    {
+     "w": "it",
+     "t": 7.387
+    },
+    {
+     "w": "Strategy",
+     "t": 7.917
+    },
+    {
+     "w": "is",
+     "t": 8.601
+    },
+    {
+     "w": "just",
+     "t": 8.755
+    },
+    {
+     "w": "ten",
+     "t": 8.991
+    },
+    {
+     "w": "percent",
+     "t": 9.215
+    },
+    {
+     "w": "of",
+     "t": 9.568
+    },
+    {
+     "w": "an",
+     "t": 9.639
+    },
+    {
+     "w": "agency",
+     "t": 9.722
+    },
+    {
+     "w": "yet",
+     "t": 10.571
+    },
+    {
+     "w": "everyone",
+     "t": 10.866
+    },
+    {
+     "w": "wants",
+     "t": 11.266
+    },
+    {
+     "w": "in",
+     "t": 11.491
+    }
+   ]
+  },
+  {
+   "set": "street",
+   "say": "You get fifteen words or less. A billboard gets a two second glance. And use one message per ad, like powerful wash in cold water. Don't get too clever.",
+   "board": {
+    "title": "Powerful wash in **cold water**",
+    "lines": [
+     {
+      "text": "Best billboards: **six** words",
+      "cue": "billboard",
+      "at": 2.752
+     },
+     {
+      "text": "**One** message per ad",
+      "cue": "message",
+      "at": 5.618
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "kerb",
+     "pose": "point"
+    },
+    {
+     "id": "w",
+     "look": "worker",
+     "v": 2,
+     "at": "walkL",
+     "to": "walkR",
+     "walkCue": "billboard",
+     "walkAt": 2.752
+    },
+    {
+     "id": "g",
+     "look": "shopper",
+     "v": 9,
+     "at": "bus"
+    }
+   ],
+   "acts": [
+    {
+     "who": "g",
+     "cue": "powerful",
+     "pose": "chin",
+     "expr": "smile",
+     "at": 6.974
+    }
+   ],
+   "fx": [
+    {
+     "kind": "clock",
+     "who": "w",
+     "cue": "two",
+     "at": 3.578
+    },
+    {
+     "kind": "tick",
+     "who": "g",
+     "cue": "powerful",
+     "at": 6.974
+    },
+    {
+     "kind": "cross",
+     "who": "host",
+     "cue": "clever",
+     "at": 9.403
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "message",
+     "shot": "board",
+     "at": 5.618
+    },
+    {
+     "cue": "clever",
+     "shot": "close",
+     "at": 9.403
+    }
+   ],
+   "audio": "audio/w8-09.mp3",
+   "leadIn": 0.45,
+   "seconds": 10.77,
+   "words": [
+    {
+     "w": "You",
+     "t": 0.5
+    },
+    {
+     "w": "get",
+     "t": 0.748
+    },
+    {
+     "w": "fifteen",
+     "t": 0.948
+    },
+    {
+     "w": "words",
+     "t": 1.396
+    },
+    {
+     "w": "or",
+     "t": 1.75
+    },
+    {
+     "w": "less",
+     "t": 1.856
+    },
+    {
+     "w": "A",
+     "t": 2.623
+    },
+    {
+     "w": "billboard",
+     "t": 2.752
+    },
+    {
+     "w": "gets",
+     "t": 3.307
+    },
+    {
+     "w": "a",
+     "t": 3.507
+    },
+    {
+     "w": "two",
+     "t": 3.578
+    },
+    {
+     "w": "second",
+     "t": 3.79
+    },
+    {
+     "w": "glance",
+     "t": 4.132
+    },
+    {
+     "w": "And",
+     "t": 4.934
+    },
+    {
+     "w": "use",
+     "t": 5.134
+    },
+    {
+     "w": "one",
+     "t": 5.394
+    },
+    {
+     "w": "message",
+     "t": 5.618
+    },
+    {
+     "w": "per",
+     "t": 5.925
+    },
+    {
+     "w": "ad",
+     "t": 6.113
+    },
+    {
+     "w": "like",
+     "t": 6.738
+    },
+    {
+     "w": "powerful",
+     "t": 6.974
+    },
+    {
+     "w": "wash",
+     "t": 7.422
+    },
+    {
+     "w": "in",
+     "t": 7.658
+    },
+    {
+     "w": "cold",
+     "t": 7.752
+    },
+    {
+     "w": "water",
+     "t": 7.965
+    },
+    {
+     "w": "Don't",
+     "t": 8.66
+    },
+    {
+     "w": "get",
+     "t": 8.979
+    },
+    {
+     "w": "too",
+     "t": 9.191
+    },
+    {
+     "w": "clever",
+     "t": 9.403
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Ads move people down a funnel: awareness, liking, preference, conviction, purchase. Aim to reach about sixty five percent of your audience at least three times.",
+   "board": {
+    "title": "The **funnel**",
+    "steps": [
+     {
+      "text": "**Awareness** know it",
+      "cue": "awareness",
+      "at": 2.222
+     },
+     {
+      "text": "**Liking** like it",
+      "cue": "liking",
+      "at": 3.094
+     },
+     {
+      "text": "**Preference** over the rest",
+      "cue": "preference",
+      "at": 3.837
+     },
+     {
+      "text": "**Conviction** then purchase",
+      "cue": "conviction",
+      "at": 4.616
+     },
+     {
+      "text": "Reach **65%**, three times",
+      "cue": "sixty",
+      "at": 7.198
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "a",
+     "look": "exec_f",
+     "v": 4,
+     "at": "r",
+     "hold": "clipboard",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "a",
+     "cue": "three",
+     "pose": "up",
+     "expr": "smile",
+     "at": 9.274
+    }
+   ],
+   "fx": [
+    {
+     "kind": "chart",
+     "who": "a",
+     "cue": "reach",
+     "at": 6.726
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "Aim",
+     "shot": "actor",
+     "who": "a",
+     "at": 6.349
+    }
+   ],
+   "audio": "audio/w8-10.mp3",
+   "leadIn": 0.45,
+   "seconds": 10.986,
+   "words": [
+    {
+     "w": "Ads",
+     "t": 0.5
+    },
+    {
+     "w": "move",
+     "t": 0.795
+    },
+    {
+     "w": "people",
+     "t": 1.042
+    },
+    {
+     "w": "down",
+     "t": 1.337
+    },
+    {
+     "w": "a",
+     "t": 1.526
+    },
+    {
+     "w": "funnel",
+     "t": 1.55
+    },
+    {
+     "w": "awareness",
+     "t": 2.222
+    },
+    {
+     "w": "liking",
+     "t": 3.094
+    },
+    {
+     "w": "preference",
+     "t": 3.837
+    },
+    {
+     "w": "conviction",
+     "t": 4.616
+    },
+    {
+     "w": "purchase",
+     "t": 5.453
+    },
+    {
+     "w": "Aim",
+     "t": 6.349
+    },
+    {
+     "w": "to",
+     "t": 6.632
+    },
+    {
+     "w": "reach",
+     "t": 6.726
+    },
+    {
+     "w": "about",
+     "t": 6.962
+    },
+    {
+     "w": "sixty",
+     "t": 7.198
+    },
+    {
+     "w": "five",
+     "t": 7.528
+    },
+    {
+     "w": "percent",
+     "t": 7.788
+    },
+    {
+     "w": "of",
+     "t": 8.153
+    },
+    {
+     "w": "your",
+     "t": 8.224
+    },
+    {
+     "w": "audience",
+     "t": 8.377
+    },
+    {
+     "w": "at",
+     "t": 8.825
+    },
+    {
+     "w": "least",
+     "t": 9.002
+    },
+    {
+     "w": "three",
+     "t": 9.274
+    },
+    {
+     "w": "times",
+     "t": 9.509
+    }
+   ]
+  },
+  {
+   "set": "home",
+   "say": "Kraft Easy Mac sold to mums, for teenage boys who get home hungry. The message: fills them up, fast to make. Kill hunger fast became the hunger blaster when the client balked.",
+   "board": {
+    "title": "Easy Mac: **kill hunger fast**",
+    "lines": [
+     {
+      "text": "Fills them up, **fast**",
+      "cue": "fills",
+      "at": 5.63
+     },
+     {
+      "text": "Now: the hunger blaster",
+      "cue": "blaster",
+      "at": 9.321
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "l",
+     "pose": "present"
+    },
+    {
+     "id": "boy",
+     "look": "kid",
+     "v": 3,
+     "at": "door",
+     "to": "c",
+     "walkCue": "teenage",
+     "expr": "pained",
+     "walkAt": 2.705
+    },
+    {
+     "id": "mum",
+     "look": "shopper",
+     "v": 1,
+     "at": "sofa",
+     "mode": "sit"
+    }
+   ],
+   "acts": [
+    {
+     "who": "boy",
+     "cue": "fills",
+     "expr": "grin",
+     "pose": "cheer",
+     "at": 5.63
+    },
+    {
+     "who": "host",
+     "cue": "balked",
+     "pose": "shrug",
+     "expr": "nervous",
+     "at": 10.3
+    }
+   ],
+   "fx": [
+    {
+     "kind": "say",
+     "who": "boy",
+     "text": "I'm starving!",
+     "cue": "hungry",
+     "at": 3.92
+    },
+    {
+     "kind": "tick",
+     "who": "mum",
+     "cue": "fast",
+     "at": 6.479
+    },
+    {
+     "kind": "cross",
+     "who": "host",
+     "cue": "balked",
+     "at": 10.3
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "hungry",
+     "shot": "actor",
+     "who": "boy",
+     "at": 3.92
+    },
+    {
+     "cue": "Kill",
+     "shot": "board",
+     "at": 7.599
+    },
+    {
+     "cue": "balked",
+     "shot": "close",
+     "at": 10.3
+    }
+   ],
+   "audio": "audio/w8-11.mp3",
+   "leadIn": 0.45,
+   "seconds": 11.682,
+   "words": [
+    {
+     "w": "Kraft",
+     "t": 0.5
+    },
+    {
+     "w": "Easy",
+     "t": 0.96
+    },
+    {
+     "w": "Mac",
+     "t": 1.219
+    },
+    {
+     "w": "sold",
+     "t": 1.514
+    },
+    {
+     "w": "to",
+     "t": 1.809
+    },
+    {
+     "w": "mums",
+     "t": 1.88
+    },
+    {
+     "w": "for",
+     "t": 2.575
+    },
+    {
+     "w": "teenage",
+     "t": 2.705
+    },
+    {
+     "w": "boys",
+     "t": 3.142
+    },
+    {
+     "w": "who",
+     "t": 3.484
+    },
+    {
+     "w": "get",
+     "t": 3.566
+    },
+    {
+     "w": "home",
+     "t": 3.708
+    },
+    {
+     "w": "hungry",
+     "t": 3.92
+    },
+    {
+     "w": "The",
+     "t": 4.698
+    },
+    {
+     "w": "message",
+     "t": 4.828
+    },
+    {
+     "w": "fills",
+     "t": 5.63
+    },
+    {
+     "w": "them",
+     "t": 5.984
+    },
+    {
+     "w": "up",
+     "t": 6.125
+    },
+    {
+     "w": "fast",
+     "t": 6.479
+    },
+    {
+     "w": "to",
+     "t": 6.844
+    },
+    {
+     "w": "make",
+     "t": 6.903
+    },
+    {
+     "w": "Kill",
+     "t": 7.599
+    },
+    {
+     "w": "hunger",
+     "t": 7.894
+    },
+    {
+     "w": "fast",
+     "t": 8.2
+    },
+    {
+     "w": "became",
+     "t": 8.66
+    },
+    {
+     "w": "the",
+     "t": 8.991
+    },
+    {
+     "w": "hunger",
+     "t": 9.061
+    },
+    {
+     "w": "blaster",
+     "t": 9.321
+    },
+    {
+     "w": "when",
+     "t": 9.757
+    },
+    {
+     "w": "the",
+     "t": 9.922
+    },
+    {
+     "w": "client",
+     "t": 9.969
+    },
+    {
+     "w": "balked",
+     "t": 10.3
+    }
+   ]
+  },
+  {
+   "set": "stage",
+   "say": "The most effective ads are famous, with seventy two percent outselling rivals. Emotional, successful sixty two percent of the time. And single minded and memorable.",
+   "board": {
+    "title": "Most **effective** ads",
+    "bars": [
+     {
+      "label": "Famous",
+      "value": 72,
+      "display": "72%",
+      "cue": "famous",
+      "at": 1.656
+     },
+     {
+      "label": "Emotional",
+      "value": 62,
+      "display": "62%",
+      "cue": "emotional",
+      "at": 4.969
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "s1",
+     "look": "student",
+     "v": 7,
+     "at": "aisle"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "single",
+     "pose": "up",
+     "expr": "grin",
+     "at": 8.554
+    }
+   ],
+   "fx": [
+    {
+     "kind": "stars",
+     "who": "host",
+     "cue": "famous",
+     "at": 1.656
+    },
+    {
+     "kind": "heart",
+     "who": "s1",
+     "cue": "emotional",
+     "at": 4.969
+    },
+    {
+     "kind": "bulb",
+     "who": "s1",
+     "cue": "memorable",
+     "at": 9.533
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "emotional",
+     "shot": "actor",
+     "who": "s1",
+     "at": 4.969
+    },
+    {
+     "cue": "single",
+     "shot": "host",
+     "at": 8.554
+    }
+   ],
+   "audio": "audio/w8-12.mp3",
+   "leadIn": 0.45,
+   "seconds": 11.01,
+   "words": [
+    {
+     "w": "The",
+     "t": 0.5
+    },
+    {
+     "w": "most",
+     "t": 0.63
+    },
+    {
+     "w": "effective",
+     "t": 0.913
+    },
+    {
+     "w": "ads",
+     "t": 1.278
+    },
+    {
+     "w": "are",
+     "t": 1.597
+    },
+    {
+     "w": "famous",
+     "t": 1.656
+    },
+    {
+     "w": "with",
+     "t": 2.481
+    },
+    {
+     "w": "seventy",
+     "t": 2.658
+    },
+    {
+     "w": "two",
+     "t": 3.024
+    },
+    {
+     "w": "percent",
+     "t": 3.177
+    },
+    {
+     "w": "outselling",
+     "t": 3.625
+    },
+    {
+     "w": "rivals",
+     "t": 4.109
+    },
+    {
+     "w": "Emotional",
+     "t": 4.969
+    },
+    {
+     "w": "successful",
+     "t": 5.866
+    },
+    {
+     "w": "sixty",
+     "t": 6.479
+    },
+    {
+     "w": "two",
+     "t": 6.809
+    },
+    {
+     "w": "percent",
+     "t": 7.021
+    },
+    {
+     "w": "of",
+     "t": 7.41
+    },
+    {
+     "w": "the",
+     "t": 7.481
+    },
+    {
+     "w": "time",
+     "t": 7.54
+    },
+    {
+     "w": "And",
+     "t": 8.318
+    },
+    {
+     "w": "single",
+     "t": 8.554
+    },
+    {
+     "w": "minded",
+     "t": 8.943
+    },
+    {
+     "w": "and",
+     "t": 9.368
+    },
+    {
+     "w": "memorable",
+     "t": 9.533
+    }
+   ]
+  },
+  {
+   "set": "home",
+   "say": "Differentiation matters most. While Christmas ads all looked alike, John Lewis made Monty the Penguin, pure emotion. A hundred and thirty two million pounds in extra sales, and eight to one ROI.",
+   "board": {
+    "title": "Monty the **Penguin**",
+    "big": "8:1",
+    "caption": "ROI, **£132m** extra sales",
+    "cue": "hundred",
+    "at": 7.67
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "l",
+     "pose": "point"
+    },
+    {
+     "id": "g",
+     "look": "elder",
+     "v": 3,
+     "at": "sofa",
+     "mode": "sit"
+    },
+    {
+     "id": "k",
+     "look": "kid",
+     "v": 5,
+     "at": "sofa2",
+     "mode": "sit"
+    }
+   ],
+   "acts": [
+    {
+     "who": "g",
+     "cue": "Monty",
+     "expr": "relief_open",
+     "at": 5.488
+    },
+    {
+     "who": "k",
+     "cue": "emotion",
+     "expr": "grin",
+     "at": 6.715
+    }
+   ],
+   "fx": [
+    {
+     "kind": "heart",
+     "who": "g",
+     "cue": "Monty",
+     "at": 5.488
+    },
+    {
+     "kind": "heart",
+     "who": "k",
+     "cue": "emotion",
+     "at": 6.715
+    },
+    {
+     "kind": "money",
+     "who": "host",
+     "cue": "hundred",
+     "at": 7.67
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "host",
+     "at": 0.2
+    },
+    {
+     "cue": "Monty",
+     "shot": "wide",
+     "at": 5.488
+    },
+    {
+     "cue": "hundred",
+     "shot": "board",
+     "at": 7.67
+    }
+   ],
+   "audio": "audio/w8-13.mp3",
+   "leadIn": 0.45,
+   "seconds": 12.93,
+   "words": [
+    {
+     "w": "Differentiation",
+     "t": 0.5
+    },
+    {
+     "w": "matters",
+     "t": 1.384
+    },
+    {
+     "w": "most",
+     "t": 1.809
+    },
+    {
+     "w": "While",
+     "t": 2.599
+    },
+    {
+     "w": "Christmas",
+     "t": 2.882
+    },
+    {
+     "w": "ads",
+     "t": 3.271
+    },
+    {
+     "w": "all",
+     "t": 3.531
+    },
+    {
+     "w": "looked",
+     "t": 3.755
+    },
+    {
+     "w": "alike",
+     "t": 3.932
+    },
+    {
+     "w": "John",
+     "t": 4.663
+    },
+    {
+     "w": "Lewis",
+     "t": 4.922
+    },
+    {
+     "w": "made",
+     "t": 5.276
+    },
+    {
+     "w": "Monty",
+     "t": 5.488
+    },
+    {
+     "w": "the",
+     "t": 5.771
+    },
+    {
+     "w": "Penguin",
+     "t": 5.842
+    },
+    {
+     "w": "pure",
+     "t": 6.455
+    },
+    {
+     "w": "emotion",
+     "t": 6.715
+    },
+    {
+     "w": "A",
+     "t": 7.54
+    },
+    {
+     "w": "hundred",
+     "t": 7.67
+    },
+    {
+     "w": "and",
+     "t": 7.953
+    },
+    {
+     "w": "thirty",
+     "t": 8.0
+    },
+    {
+     "w": "two",
+     "t": 8.283
+    },
+    {
+     "w": "million",
+     "t": 8.46
+    },
+    {
+     "w": "pounds",
+     "t": 8.802
+    },
+    {
+     "w": "in",
+     "t": 9.167
+    },
+    {
+     "w": "extra",
+     "t": 9.333
+    },
+    {
+     "w": "sales",
+     "t": 9.604
+    },
+    {
+     "w": "and",
+     "t": 10.382
+    },
+    {
+     "w": "eight",
+     "t": 10.665
+    },
+    {
+     "w": "to",
+     "t": 10.877
+    },
+    {
+     "w": "one",
+     "t": 10.983
+    },
+    {
+     "w": "ROI",
+     "t": 11.325
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "AI now helps with research, synthetic audiences, and many versions of content to test. Nine in ten marketing teams already use it.",
+   "board": {
+    "title": "AI in **advertising**",
+    "lines": [
+     {
+      "text": "Research and market context",
+      "cue": "research",
+      "at": 1.491
+     },
+     {
+      "text": "**Synthetic** audiences",
+      "cue": "synthetic",
+      "at": 2.234
+     },
+     {
+      "text": "Many versions, test and learn",
+      "cue": "versions",
+      "at": 4.097
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "a",
+     "look": "student",
+     "v": 8,
+     "at": "desk",
+     "hold": "laptop",
+     "pose": "hold"
+    },
+    {
+     "id": "b",
+     "look": "exec",
+     "v": 1,
+     "at": "desk2",
+     "hold": "laptop",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "a",
+     "cue": "Nine",
+     "pose": "cheer",
+     "expr": "grin",
+     "at": 5.807
+    }
+   ],
+   "fx": [
+    {
+     "kind": "brain",
+     "who": "a",
+     "cue": "synthetic",
+     "at": 2.234
+    },
+    {
+     "kind": "sparkle",
+     "who": "b",
+     "cue": "versions",
+     "at": 4.097
+    },
+    {
+     "kind": "tick",
+     "who": "a",
+     "cue": "Nine",
+     "at": 5.807
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "versions",
+     "shot": "wide",
+     "at": 4.097
+    },
+    {
+     "cue": "Nine",
+     "shot": "actor",
+     "who": "a",
+     "at": 5.807
+    }
+   ],
+   "audio": "audio/w8-14.mp3",
+   "leadIn": 0.45,
+   "seconds": 9.138,
+   "words": [
+    {
+     "w": "AI",
+     "t": 0.5
+    },
+    {
+     "w": "now",
+     "t": 0.854
+    },
+    {
+     "w": "helps",
+     "t": 1.113
+    },
+    {
+     "w": "with",
+     "t": 1.361
+    },
+    {
+     "w": "research",
+     "t": 1.491
+    },
+    {
+     "w": "synthetic",
+     "t": 2.234
+    },
+    {
+     "w": "audiences",
+     "t": 2.788
+    },
+    {
+     "w": "and",
+     "t": 3.672
+    },
+    {
+     "w": "many",
+     "t": 3.825
+    },
+    {
+     "w": "versions",
+     "t": 4.097
+    },
+    {
+     "w": "of",
+     "t": 4.498
+    },
+    {
+     "w": "content",
+     "t": 4.58
+    },
+    {
+     "w": "to",
+     "t": 4.958
+    },
+    {
+     "w": "test",
+     "t": 5.04
+    },
+    {
+     "w": "Nine",
+     "t": 5.807
+    },
+    {
+     "w": "in",
+     "t": 6.208
+    },
+    {
+     "w": "ten",
+     "t": 6.396
+    },
+    {
+     "w": "marketing",
+     "t": 6.62
+    },
+    {
+     "w": "teams",
+     "t": 7.021
+    },
+    {
+     "w": "already",
+     "t": 7.387
+    },
+    {
+     "w": "use",
+     "t": 7.752
+    },
+    {
+     "w": "it",
+     "t": 7.976
+    }
+   ]
+  },
+  {
+   "set": "street",
+   "say": "Marketing mix models show which channels worked together. Winning campaigns average ten point two. Digital now takes about sixty percent of media spend, led by Google, Meta and Amazon.",
+   "board": {
+    "title": "Where the **money** goes",
+    "bars": [
+     {
+      "label": "Digital",
+      "value": 60,
+      "display": "60%",
+      "cue": "Digital",
+      "at": 6.042
+     },
+     {
+      "label": "Older media",
+      "value": 40,
+      "display": "40%",
+      "cue": "sixty",
+      "at": 7.21
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "point"
+    },
+    {
+     "id": "e",
+     "look": "exec_f",
+     "v": 6,
+     "at": "r",
+     "hold": "phone",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "e",
+     "cue": "ten",
+     "pose": "chin",
+     "at": 4.887
+    }
+   ],
+   "fx": [
+    {
+     "kind": "chart",
+     "who": "e",
+     "cue": "mix",
+     "at": 1.019
+    },
+    {
+     "kind": "think",
+     "who": "e",
+     "text": "Ten point two channels",
+     "cue": "ten",
+     "at": 4.887
+    },
+    {
+     "kind": "money",
+     "who": "host",
+     "cue": "Google",
+     "at": 9.45
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "ten",
+     "shot": "actor",
+     "who": "e",
+     "at": 4.887
+    },
+    {
+     "cue": "Digital",
+     "shot": "board",
+     "at": 6.042
+    }
+   ],
+   "audio": "audio/w8-15.mp3",
+   "leadIn": 0.45,
+   "seconds": 12.138,
+   "words": [
+    {
+     "w": "Marketing",
+     "t": 0.5
+    },
+    {
+     "w": "mix",
+     "t": 1.019
+    },
+    {
+     "w": "models",
+     "t": 1.231
+    },
+    {
+     "w": "show",
+     "t": 1.609
+    },
+    {
+     "w": "which",
+     "t": 1.868
+    },
+    {
+     "w": "channels",
+     "t": 2.104
+    },
+    {
+     "w": "worked",
+     "t": 2.528
+    },
+    {
+     "w": "together",
+     "t": 2.764
+    },
+    {
+     "w": "Winning",
+     "t": 3.542
+    },
+    {
+     "w": "campaigns",
+     "t": 3.92
+    },
+    {
+     "w": "average",
+     "t": 4.439
+    },
+    {
+     "w": "ten",
+     "t": 4.887
+    },
+    {
+     "w": "point",
+     "t": 5.111
+    },
+    {
+     "w": "two",
+     "t": 5.347
+    },
+    {
+     "w": "Digital",
+     "t": 6.042
+    },
+    {
+     "w": "now",
+     "t": 6.467
+    },
+    {
+     "w": "takes",
+     "t": 6.703
+    },
+    {
+     "w": "about",
+     "t": 6.974
+    },
+    {
+     "w": "sixty",
+     "t": 7.21
+    },
+    {
+     "w": "percent",
+     "t": 7.552
+    },
+    {
+     "w": "of",
+     "t": 7.906
+    },
+    {
+     "w": "media",
+     "t": 7.988
+    },
+    {
+     "w": "spend",
+     "t": 8.318
+    },
+    {
+     "w": "led",
+     "t": 9.05
+    },
+    {
+     "w": "by",
+     "t": 9.297
+    },
+    {
+     "w": "Google",
+     "t": 9.45
+    },
+    {
+     "w": "Meta",
+     "t": 10.099
+    },
+    {
+     "w": "and",
+     "t": 10.524
+    },
+    {
+     "w": "Amazon",
+     "t": 10.689
+    }
+   ]
+  },
+  {
+   "set": "stage",
+   "say": "John Singleton said advertising exists to sell. Mostly, but sometimes it's to change behaviour. So keep it simple, emotional and single minded. Make famous work that works. That's week eight.",
+   "board": {
+    "title": "Week 8 **takeaways**",
+    "lines": [
+     {
+      "text": "Right message, person, place, time",
+      "cue": "simple",
+      "at": 7.281
+     },
+     {
+      "text": "We buy on **emotion**",
+      "cue": "emotional",
+      "at": 7.929
+     },
+     {
+      "text": "**One** message per ad",
+      "cue": "single",
+      "at": 8.825
+     },
+     {
+      "text": "Famous work **that works**",
+      "cue": "famous",
+      "at": 10.347
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "s1",
+     "look": "student",
+     "v": 1,
+     "at": "aisle"
+    },
+    {
+     "id": "s2",
+     "look": "student",
+     "v": 2,
+     "at": "aisle2"
+    }
+   ],
+   "acts": [
+    {
+     "who": "s1",
+     "cue": "famous",
+     "pose": "cheer",
+     "expr": "grin",
+     "at": 10.347
+    },
+    {
+     "who": "host",
+     "cue": "week",
+     "pose": "cheer",
+     "expr": "grin",
+     "at": 12.387
+    }
+   ],
+   "fx": [
+    {
+     "kind": "bulb",
+     "who": "s2",
+     "cue": "behaviour",
+     "at": 5.748
+    },
+    {
+     "kind": "stars",
+     "who": "host",
+     "cue": "week",
+     "at": 12.387
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "close",
+     "at": 0.2
+    },
+    {
+     "cue": "keep",
+     "shot": "board",
+     "at": 6.974
+    },
+    {
+     "cue": "week",
+     "shot": "wide",
+     "at": 12.387
+    }
+   ],
+   "audio": "audio/w8-16.mp3",
+   "leadIn": 0.45,
+   "seconds": 13.89,
+   "words": [
+    {
+     "w": "John",
+     "t": 0.5
+    },
+    {
+     "w": "Singleton",
+     "t": 0.807
+    },
+    {
+     "w": "said",
+     "t": 1.325
+    },
+    {
+     "w": "advertising",
+     "t": 1.62
+    },
+    {
+     "w": "exists",
+     "t": 2.281
+    },
+    {
+     "w": "to",
+     "t": 2.752
+    },
+    {
+     "w": "sell",
+     "t": 2.835
+    },
+    {
+     "w": "Mostly",
+     "t": 3.59
+    },
+    {
+     "w": "but",
+     "t": 4.474
+    },
+    {
+     "w": "sometimes",
+     "t": 4.627
+    },
+    {
+     "w": "it's",
+     "t": 5.158
+    },
+    {
+     "w": "to",
+     "t": 5.288
+    },
+    {
+     "w": "change",
+     "t": 5.394
+    },
+    {
+     "w": "behaviour",
+     "t": 5.748
+    },
+    {
+     "w": "So",
+     "t": 6.644
+    },
+    {
+     "w": "keep",
+     "t": 6.974
+    },
+    {
+     "w": "it",
+     "t": 7.175
+    },
+    {
+     "w": "simple",
+     "t": 7.281
+    },
+    {
+     "w": "emotional",
+     "t": 7.929
+    },
+    {
+     "w": "and",
+     "t": 8.672
+    },
+    {
+     "w": "single",
+     "t": 8.825
+    },
+    {
+     "w": "minded",
+     "t": 9.167
+    },
+    {
+     "w": "Make",
+     "t": 9.993
+    },
+    {
+     "w": "famous",
+     "t": 10.347
+    },
+    {
+     "w": "work",
+     "t": 10.783
+    },
+    {
+     "w": "that",
+     "t": 11.054
+    },
+    {
+     "w": "works",
+     "t": 11.196
+    },
+    {
+     "w": "That's",
+     "t": 11.998
+    },
+    {
+     "w": "week",
+     "t": 12.387
+    },
+    {
+     "w": "eight",
+     "t": 12.623
+    }
+   ]
+  }
+ ],
+ "id": "w8",
+ "total": 192.9
+}

@@ -1,0 +1,705 @@
+{
+ "week": 0,
+ "title": "Diffusion of innovations",
+ "speaker": "Everett Rogers, Diffusion of Innovations, 1962",
+ "beats": [
+  {
+   "set": "office",
+   "say": "Diffusion of innovations says new products spread through five groups: innovators, early adopters, the early majority, the late majority and laggards.",
+   "board": {
+    "title": "Diffusion of **innovations**",
+    "bars": [
+     {
+      "label": "Innovators",
+      "value": 2.5,
+      "display": "2.5%",
+      "cue": "innovators",
+      "at": 4.002
+     },
+     {
+      "label": "Early adopters",
+      "value": 13.5,
+      "display": "13.5%",
+      "cue": "adopters",
+      "at": 5.099
+     },
+     {
+      "label": "Early majority",
+      "value": 34,
+      "display": "34%",
+      "cue": "early",
+      "at": 5.995
+     },
+     {
+      "label": "Late majority",
+      "value": 34,
+      "display": "34%",
+      "cue": "late",
+      "at": 6.986
+     },
+     {
+      "label": "Laggards",
+      "value": 16,
+      "display": "16%",
+      "cue": "laggards",
+      "at": 7.823
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "e1",
+     "look": "exec_f",
+     "v": 1,
+     "at": "table"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "spread",
+     "pose": "up",
+     "at": 2.481
+    },
+    {
+     "who": "e1",
+     "cue": "laggards",
+     "expr": "smile",
+     "at": 7.823
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "laggards",
+     "shot": "two",
+     "who": "e1",
+     "at": 7.823
+    }
+   ],
+   "audio": "audio/m-diffusion-of-innovations-00.mp3",
+   "leadIn": 0.45,
+   "seconds": 9.282,
+   "words": [
+    {
+     "w": "Diffusion",
+     "t": 0.5
+    },
+    {
+     "w": "of",
+     "t": 0.984
+    },
+    {
+     "w": "innovations",
+     "t": 1.054
+    },
+    {
+     "w": "says",
+     "t": 1.667
+    },
+    {
+     "w": "new",
+     "t": 1.903
+    },
+    {
+     "w": "products",
+     "t": 2.08
+    },
+    {
+     "w": "spread",
+     "t": 2.481
+    },
+    {
+     "w": "through",
+     "t": 2.764
+    },
+    {
+     "w": "five",
+     "t": 2.941
+    },
+    {
+     "w": "groups",
+     "t": 3.248
+    },
+    {
+     "w": "innovators",
+     "t": 4.002
+    },
+    {
+     "w": "early",
+     "t": 4.816
+    },
+    {
+     "w": "adopters",
+     "t": 5.099
+    },
+    {
+     "w": "the",
+     "t": 5.807
+    },
+    {
+     "w": "early",
+     "t": 5.995
+    },
+    {
+     "w": "majority",
+     "t": 6.184
+    },
+    {
+     "w": "the",
+     "t": 6.891
+    },
+    {
+     "w": "late",
+     "t": 6.986
+    },
+    {
+     "w": "majority",
+     "t": 7.21
+    },
+    {
+     "w": "and",
+     "t": 7.682
+    },
+    {
+     "w": "laggards",
+     "t": 7.823
+    }
+   ]
+  },
+  {
+   "set": "plaza",
+   "say": "A new app lands. Innovators grab it for the novelty. Early adopters show it off. The majority waits for proof, and laggards join only when they have to.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "far"
+    },
+    {
+     "id": "s1",
+     "look": "student",
+     "v": 1,
+     "at": "l",
+     "hold": "phone",
+     "pose": "hold"
+    },
+    {
+     "id": "s2",
+     "look": "student",
+     "v": 4,
+     "at": "c",
+     "hold": "phone",
+     "pose": "hold"
+    },
+    {
+     "id": "s3",
+     "look": "elder",
+     "v": 3,
+     "at": "r"
+    }
+   ],
+   "acts": [
+    {
+     "who": "s1",
+     "cue": "novelty",
+     "pose": "cheer",
+     "expr": "grin",
+     "at": 3.106
+    },
+    {
+     "who": "s2",
+     "cue": "show",
+     "expr": "laugh",
+     "at": 4.863
+    },
+    {
+     "who": "s3",
+     "cue": "laggards",
+     "pose": "shrug",
+     "expr": "stern",
+     "at": 7.729
+    }
+   ],
+   "fx": [
+    {
+     "kind": "sparkle",
+     "who": "s1",
+     "cue": "novelty",
+     "at": 3.106
+    },
+    {
+     "kind": "stars",
+     "who": "s2",
+     "cue": "show",
+     "at": 4.863
+    },
+    {
+     "kind": "question",
+     "who": "s3",
+     "cue": "proof",
+     "at": 6.809
+    },
+    {
+     "kind": "think",
+     "who": "s3",
+     "text": "Fine, I'll try it.",
+     "cue": "have",
+     "at": 9.061
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "novelty",
+     "shot": "actor",
+     "who": "s1",
+     "at": 3.106
+    },
+    {
+     "cue": "show",
+     "shot": "actor",
+     "who": "s2",
+     "at": 4.863
+    },
+    {
+     "cue": "laggards",
+     "shot": "actor",
+     "who": "s3",
+     "at": 7.729
+    }
+   ],
+   "audio": "audio/m-diffusion-of-innovations-01.mp3",
+   "leadIn": 0.45,
+   "seconds": 10.458,
+   "words": [
+    {
+     "w": "A",
+     "t": 0.5
+    },
+    {
+     "w": "new",
+     "t": 0.618
+    },
+    {
+     "w": "app",
+     "t": 0.913
+    },
+    {
+     "w": "lands",
+     "t": 1.066
+    },
+    {
+     "w": "Innovators",
+     "t": 1.939
+    },
+    {
+     "w": "grab",
+     "t": 2.505
+    },
+    {
+     "w": "it",
+     "t": 2.788
+    },
+    {
+     "w": "for",
+     "t": 2.917
+    },
+    {
+     "w": "the",
+     "t": 3.035
+    },
+    {
+     "w": "novelty",
+     "t": 3.106
+    },
+    {
+     "w": "Early",
+     "t": 4.002
+    },
+    {
+     "w": "adopters",
+     "t": 4.38
+    },
+    {
+     "w": "show",
+     "t": 4.863
+    },
+    {
+     "w": "it",
+     "t": 5.111
+    },
+    {
+     "w": "off",
+     "t": 5.158
+    },
+    {
+     "w": "The",
+     "t": 5.842
+    },
+    {
+     "w": "majority",
+     "t": 5.984
+    },
+    {
+     "w": "waits",
+     "t": 6.443
+    },
+    {
+     "w": "for",
+     "t": 6.703
+    },
+    {
+     "w": "proof",
+     "t": 6.809
+    },
+    {
+     "w": "and",
+     "t": 7.575
+    },
+    {
+     "w": "laggards",
+     "t": 7.729
+    },
+    {
+     "w": "join",
+     "t": 8.141
+    },
+    {
+     "w": "only",
+     "t": 8.542
+    },
+    {
+     "w": "when",
+     "t": 8.837
+    },
+    {
+     "w": "they",
+     "t": 8.955
+    },
+    {
+     "w": "have",
+     "t": 9.061
+    },
+    {
+     "w": "to",
+     "t": 9.25
+    }
+   ]
+  },
+  {
+   "set": "plaza",
+   "say": "To win the majority, make it easy to try and easy to see other people using it.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "front"
+    },
+    {
+     "id": "s3",
+     "look": "elder",
+     "v": 3,
+     "at": "r"
+    },
+    {
+     "id": "s2",
+     "look": "student",
+     "v": 4,
+     "at": "c",
+     "hold": "phone",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "s3",
+     "cue": "see",
+     "expr": "relief_open",
+     "at": 3.531
+    },
+    {
+     "who": "host",
+     "cue": "using",
+     "pose": "present",
+     "expr": "grin",
+     "at": 4.297
+    }
+   ],
+   "fx": [
+    {
+     "kind": "eye",
+     "who": "s3",
+     "cue": "see",
+     "at": 3.531
+    },
+    {
+     "kind": "tick",
+     "who": "host",
+     "cue": "using",
+     "at": 4.297
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "see",
+     "shot": "two",
+     "who": "s3",
+     "at": 3.531
+    }
+   ],
+   "audio": "audio/m-diffusion-of-innovations-02.mp3",
+   "leadIn": 0.45,
+   "seconds": 5.754,
+   "words": [
+    {
+     "w": "To",
+     "t": 0.5
+    },
+    {
+     "w": "win",
+     "t": 0.653
+    },
+    {
+     "w": "the",
+     "t": 0.842
+    },
+    {
+     "w": "majority",
+     "t": 0.877
+    },
+    {
+     "w": "make",
+     "t": 1.726
+    },
+    {
+     "w": "it",
+     "t": 1.974
+    },
+    {
+     "w": "easy",
+     "t": 2.151
+    },
+    {
+     "w": "to",
+     "t": 2.399
+    },
+    {
+     "w": "try",
+     "t": 2.493
+    },
+    {
+     "w": "and",
+     "t": 2.894
+    },
+    {
+     "w": "easy",
+     "t": 3.165
+    },
+    {
+     "w": "to",
+     "t": 3.448
+    },
+    {
+     "w": "see",
+     "t": 3.531
+    },
+    {
+     "w": "other",
+     "t": 3.802
+    },
+    {
+     "w": "people",
+     "t": 4.026
+    },
+    {
+     "w": "using",
+     "t": 4.297
+    },
+    {
+     "w": "it",
+     "t": 4.604
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Use it like this: find the group you have now, aim the message at the next one, and make trying it easy.",
+   "board": {
+    "title": "Use it **like this**",
+    "lines": [
+     {
+      "text": "Find the **current** group",
+      "cue": "find",
+      "at": 1.691
+     },
+     {
+      "text": "Aim at the **next** one",
+      "cue": "next",
+      "at": 3.955
+     },
+     {
+      "text": "Make **trying** easy",
+      "cue": "trying",
+      "at": 5.075
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "e1",
+     "look": "exec_f",
+     "v": 1,
+     "at": "table"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "next",
+     "pose": "point",
+     "at": 3.955
+    },
+    {
+     "who": "e1",
+     "cue": "easy",
+     "expr": "smile",
+     "at": 5.453
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "easy",
+     "shot": "close",
+     "at": 5.453
+    }
+   ],
+   "hold": 1.0,
+   "audio": "audio/m-diffusion-of-innovations-03.mp3",
+   "leadIn": 0.45,
+   "seconds": 7.21,
+   "words": [
+    {
+     "w": "Use",
+     "t": 0.5
+    },
+    {
+     "w": "it",
+     "t": 0.807
+    },
+    {
+     "w": "like",
+     "t": 0.877
+    },
+    {
+     "w": "this",
+     "t": 1.078
+    },
+    {
+     "w": "find",
+     "t": 1.691
+    },
+    {
+     "w": "the",
+     "t": 2.009
+    },
+    {
+     "w": "group",
+     "t": 2.057
+    },
+    {
+     "w": "you",
+     "t": 2.304
+    },
+    {
+     "w": "have",
+     "t": 2.387
+    },
+    {
+     "w": "now",
+     "t": 2.564
+    },
+    {
+     "w": "aim",
+     "t": 3.189
+    },
+    {
+     "w": "the",
+     "t": 3.389
+    },
+    {
+     "w": "message",
+     "t": 3.448
+    },
+    {
+     "w": "at",
+     "t": 3.837
+    },
+    {
+     "w": "the",
+     "t": 3.896
+    },
+    {
+     "w": "next",
+     "t": 3.955
+    },
+    {
+     "w": "one",
+     "t": 4.203
+    },
+    {
+     "w": "and",
+     "t": 4.686
+    },
+    {
+     "w": "make",
+     "t": 4.84
+    },
+    {
+     "w": "trying",
+     "t": 5.075
+    },
+    {
+     "w": "it",
+     "t": 5.382
+    },
+    {
+     "w": "easy",
+     "t": 5.453
+    }
+   ]
+  }
+ ],
+ "id": "m-diffusion-of-innovations",
+ "total": 32.7
+}

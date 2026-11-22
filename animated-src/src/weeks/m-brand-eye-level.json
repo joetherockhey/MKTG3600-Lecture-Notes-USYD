@@ -1,0 +1,693 @@
+{
+ "week": 0,
+ "title": "Brand eye level (and the value exchange)",
+ "speaker": "Bryce Coombe, Hypetap, Week 10",
+ "beats": [
+  {
+   "set": "office",
+   "say": "Brand eye level asks what role you play in people's lives. Leadership means experts. Eye to eye means relatable creators. Subservient means making life easier. And the value exchange is the product in real life.",
+   "board": {
+    "title": "Brand **eye level**",
+    "steps": [
+     {
+      "text": "**Leadership**: experts",
+      "cue": "Leadership",
+      "at": 3.979
+     },
+     {
+      "text": "**Eye to eye**: just like you",
+      "cue": "Eye",
+      "at": 5.854
+     },
+     {
+      "text": "**Subservient**: makes life easier",
+      "cue": "Subservient",
+      "at": 8.366
+     },
+     {
+      "text": "**Value exchange**: real life",
+      "cue": "value",
+      "at": 11.16
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "e",
+     "look": "exec",
+     "v": 2,
+     "at": "table"
+    }
+   ],
+   "acts": [
+    {
+     "who": "e",
+     "cue": "relatable",
+     "expr": "smile",
+     "at": 6.891
+    },
+    {
+     "who": "host",
+     "cue": "value",
+     "pose": "point",
+     "at": 11.16
+    }
+   ],
+   "fx": [
+    {
+     "kind": "heart",
+     "who": "e",
+     "cue": "relatable",
+     "at": 6.891
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "relatable",
+     "shot": "actor",
+     "who": "e",
+     "at": 6.891
+    },
+    {
+     "cue": "value",
+     "shot": "board",
+     "at": 11.16
+    }
+   ],
+   "audio": "audio/m-brand-eye-level-00.mp3",
+   "leadIn": 0.45,
+   "seconds": 14.346,
+   "words": [
+    {
+     "w": "Brand",
+     "t": 0.5
+    },
+    {
+     "w": "eye",
+     "t": 0.889
+    },
+    {
+     "w": "level",
+     "t": 0.984
+    },
+    {
+     "w": "asks",
+     "t": 1.396
+    },
+    {
+     "w": "what",
+     "t": 1.785
+    },
+    {
+     "w": "role",
+     "t": 1.986
+    },
+    {
+     "w": "you",
+     "t": 2.198
+    },
+    {
+     "w": "play",
+     "t": 2.292
+    },
+    {
+     "w": "in",
+     "t": 2.646
+    },
+    {
+     "w": "people's",
+     "t": 2.776
+    },
+    {
+     "w": "lives",
+     "t": 3.13
+    },
+    {
+     "w": "Leadership",
+     "t": 3.979
+    },
+    {
+     "w": "means",
+     "t": 4.592
+    },
+    {
+     "w": "experts",
+     "t": 4.91
+    },
+    {
+     "w": "Eye",
+     "t": 5.854
+    },
+    {
+     "w": "to",
+     "t": 6.149
+    },
+    {
+     "w": "eye",
+     "t": 6.432
+    },
+    {
+     "w": "means",
+     "t": 6.55
+    },
+    {
+     "w": "relatable",
+     "t": 6.891
+    },
+    {
+     "w": "creators",
+     "t": 7.41
+    },
+    {
+     "w": "Subservient",
+     "t": 8.366
+    },
+    {
+     "w": "means",
+     "t": 9.191
+    },
+    {
+     "w": "making",
+     "t": 9.474
+    },
+    {
+     "w": "life",
+     "t": 9.816
+    },
+    {
+     "w": "easier",
+     "t": 10.099
+    },
+    {
+     "w": "And",
+     "t": 10.889
+    },
+    {
+     "w": "the",
+     "t": 11.09
+    },
+    {
+     "w": "value",
+     "t": 11.16
+    },
+    {
+     "w": "exchange",
+     "t": 11.491
+    },
+    {
+     "w": "is",
+     "t": 11.998
+    },
+    {
+     "w": "the",
+     "t": 12.139
+    },
+    {
+     "w": "product",
+     "t": 12.233
+    },
+    {
+     "w": "in",
+     "t": 12.623
+    },
+    {
+     "w": "real",
+     "t": 12.788
+    },
+    {
+     "w": "life",
+     "t": 13.0
+    }
+   ]
+  },
+  {
+   "set": "home",
+   "say": "Kmart signed two TV celebrities. Good on paper, but viewers said, these two don't shop at Kmart.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "r",
+     "pose": "none"
+    },
+    {
+     "id": "p",
+     "look": "shopper",
+     "v": 5,
+     "at": "sofa",
+     "mode": "sit"
+    },
+    {
+     "id": "q",
+     "look": "elder",
+     "v": 1,
+     "at": "sofa2",
+     "mode": "sit"
+    }
+   ],
+   "acts": [
+    {
+     "who": "p",
+     "cue": "paper",
+     "expr": "smile",
+     "at": 3.307
+    },
+    {
+     "who": "q",
+     "cue": "don't",
+     "pose": "point",
+     "expr": "stern",
+     "at": 5.512
+    },
+    {
+     "who": "host",
+     "cue": "Kmart",
+     "pose": "shrug",
+     "expr": "nervous",
+     "at": 6.078
+    }
+   ],
+   "fx": [
+    {
+     "kind": "say",
+     "who": "q",
+     "cue": "don't",
+     "text": "They don't shop here!",
+     "at": 5.512
+    },
+    {
+     "kind": "cross",
+     "who": "host",
+     "cue": "Kmart",
+     "at": 6.078
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "don't",
+     "shot": "actor",
+     "who": "q",
+     "at": 5.512
+    },
+    {
+     "cue": "Kmart",
+     "shot": "close",
+     "at": 6.078
+    }
+   ],
+   "audio": "audio/m-brand-eye-level-01.mp3",
+   "leadIn": 0.45,
+   "seconds": 7.554,
+   "words": [
+    {
+     "w": "Kmart",
+     "t": 0.5
+    },
+    {
+     "w": "signed",
+     "t": 0.984
+    },
+    {
+     "w": "two",
+     "t": 1.408
+    },
+    {
+     "w": "TV",
+     "t": 1.609
+    },
+    {
+     "w": "celebrities",
+     "t": 1.962
+    },
+    {
+     "w": "Good",
+     "t": 2.988
+    },
+    {
+     "w": "on",
+     "t": 3.165
+    },
+    {
+     "w": "paper",
+     "t": 3.307
+    },
+    {
+     "w": "but",
+     "t": 3.932
+    },
+    {
+     "w": "viewers",
+     "t": 4.097
+    },
+    {
+     "w": "said",
+     "t": 4.403
+    },
+    {
+     "w": "these",
+     "t": 5.064
+    },
+    {
+     "w": "two",
+     "t": 5.3
+    },
+    {
+     "w": "don't",
+     "t": 5.512
+    },
+    {
+     "w": "shop",
+     "t": 5.712
+    },
+    {
+     "w": "at",
+     "t": 5.995
+    },
+    {
+     "w": "Kmart",
+     "t": 6.078
+    }
+   ]
+  },
+  {
+   "set": "plaza",
+   "say": "A recipe creator cooking with the product in real life beat strict brand scripts on sentiment, and cost less.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "front",
+     "pose": "none"
+    },
+    {
+     "id": "ch",
+     "look": "chef",
+     "v": 2,
+     "at": "stall"
+    },
+    {
+     "id": "s1",
+     "look": "shopper",
+     "v": 7,
+     "at": "l"
+    }
+   ],
+   "acts": [
+    {
+     "who": "ch",
+     "cue": "recipe",
+     "pose": "present",
+     "expr": "grin",
+     "at": 0.63
+    },
+    {
+     "who": "s1",
+     "cue": "sentiment",
+     "pose": "cheer",
+     "expr": "laugh",
+     "at": 4.262
+    },
+    {
+     "who": "host",
+     "cue": "less",
+     "pose": "up",
+     "expr": "grin",
+     "at": 5.476
+    }
+   ],
+   "fx": [
+    {
+     "kind": "sparkle",
+     "who": "ch",
+     "cue": "recipe",
+     "at": 0.63
+    },
+    {
+     "kind": "heart",
+     "who": "s1",
+     "cue": "sentiment",
+     "at": 4.262
+    },
+    {
+     "kind": "money",
+     "who": "host",
+     "cue": "less",
+     "at": 5.476
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "recipe",
+     "shot": "actor",
+     "who": "ch",
+     "at": 0.63
+    },
+    {
+     "cue": "sentiment",
+     "shot": "actor",
+     "who": "s1",
+     "at": 4.262
+    },
+    {
+     "cue": "less",
+     "shot": "close",
+     "at": 5.476
+    }
+   ],
+   "audio": "audio/m-brand-eye-level-02.mp3",
+   "leadIn": 0.45,
+   "seconds": 6.834,
+   "words": [
+    {
+     "w": "A",
+     "t": 0.5
+    },
+    {
+     "w": "recipe",
+     "t": 0.63
+    },
+    {
+     "w": "creator",
+     "t": 1.019
+    },
+    {
+     "w": "cooking",
+     "t": 1.42
+    },
+    {
+     "w": "with",
+     "t": 1.738
+    },
+    {
+     "w": "the",
+     "t": 1.844
+    },
+    {
+     "w": "product",
+     "t": 1.915
+    },
+    {
+     "w": "in",
+     "t": 2.328
+    },
+    {
+     "w": "real",
+     "t": 2.458
+    },
+    {
+     "w": "life",
+     "t": 2.693
+    },
+    {
+     "w": "beat",
+     "t": 3.0
+    },
+    {
+     "w": "strict",
+     "t": 3.212
+    },
+    {
+     "w": "brand",
+     "t": 3.519
+    },
+    {
+     "w": "scripts",
+     "t": 3.825
+    },
+    {
+     "w": "on",
+     "t": 4.156
+    },
+    {
+     "w": "sentiment",
+     "t": 4.262
+    },
+    {
+     "w": "and",
+     "t": 5.016
+    },
+    {
+     "w": "cost",
+     "t": 5.182
+    },
+    {
+     "w": "less",
+     "t": 5.476
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Use it like this: set the eye level first, then give creators freedom to show the product.",
+   "board": {
+    "title": "Use it like **this**",
+    "lines": [
+     {
+      "text": "Set the **eye level**",
+      "cue": "eye",
+      "at": 2.21
+     },
+     {
+      "text": "Give creators **freedom**",
+      "cue": "freedom",
+      "at": 4.156
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "point"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "product",
+     "pose": "cheer",
+     "expr": "grin",
+     "at": 4.875
+    }
+   ],
+   "fx": [
+    {
+     "kind": "tick",
+     "who": "host",
+     "cue": "product",
+     "at": 4.875
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "product",
+     "shot": "close",
+     "at": 4.875
+    }
+   ],
+   "hold": 1.0,
+   "audio": "audio/m-brand-eye-level-03.mp3",
+   "leadIn": 0.45,
+   "seconds": 6.682,
+   "words": [
+    {
+     "w": "Use",
+     "t": 0.5
+    },
+    {
+     "w": "it",
+     "t": 0.83
+    },
+    {
+     "w": "like",
+     "t": 0.901
+    },
+    {
+     "w": "this",
+     "t": 1.113
+    },
+    {
+     "w": "set",
+     "t": 1.738
+    },
+    {
+     "w": "the",
+     "t": 2.033
+    },
+    {
+     "w": "eye",
+     "t": 2.21
+    },
+    {
+     "w": "level",
+     "t": 2.363
+    },
+    {
+     "w": "first",
+     "t": 2.623
+    },
+    {
+     "w": "then",
+     "t": 3.354
+    },
+    {
+     "w": "give",
+     "t": 3.519
+    },
+    {
+     "w": "creators",
+     "t": 3.696
+    },
+    {
+     "w": "freedom",
+     "t": 4.156
+    },
+    {
+     "w": "to",
+     "t": 4.533
+    },
+    {
+     "w": "show",
+     "t": 4.616
+    },
+    {
+     "w": "the",
+     "t": 4.804
+    },
+    {
+     "w": "product",
+     "t": 4.875
+    }
+   ]
+  }
+ ],
+ "id": "m-brand-eye-level",
+ "total": 35.4
+}

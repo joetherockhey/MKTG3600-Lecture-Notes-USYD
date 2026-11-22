@@ -1,0 +1,261 @@
+{
+ "week": 0,
+ "title": "King's motivators and discriminators (and the three appeals)",
+ "speaker": "Stephen King's JWT Planning Guide (1974), included in the Week 7 notes via Tim Collier",
+ "beats": [
+  {
+   "set": "office",
+   "say": "Stephen King split brand appeal in two. Motivators are category must-haves. Discriminators set one brand apart. Both draw on the senses, reason and emotions.",
+   "board": {
+    "title": "Motivators and **discriminators**",
+    "steps": [
+     {
+      "text": "**Motivators**: category must-haves",
+      "cue": "Motivators"
+     },
+     {
+      "text": "**Discriminators**: what sets you apart",
+      "cue": "Discriminators"
+     },
+     {
+      "text": "**Appeals**: senses, reason, emotions",
+      "cue": "senses"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "e1",
+     "look": "exec_f",
+     "at": "table",
+     "v": 3
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "Motivators",
+     "pose": "point"
+    },
+    {
+     "who": "e1",
+     "cue": "apart",
+     "pose": "chin",
+     "expr": "smile"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "Discriminators",
+     "shot": "two",
+     "who": "e1"
+    },
+    {
+     "cue": "senses",
+     "shot": "board"
+    }
+   ]
+  },
+  {
+   "set": "plaza",
+   "say": "In the laundry aisle, every detergent gets clothes clean. That's a motivator. Without it, you're not even on the list.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "c"
+    },
+    {
+     "id": "s1",
+     "look": "shopper",
+     "at": "shelf",
+     "v": 5,
+     "hold": "bag",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "s1",
+     "cue": "every",
+     "pose": "chin",
+     "expr": "neutral"
+    },
+    {
+     "who": "host",
+     "cue": "motivator",
+     "pose": "point"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "think",
+     "who": "s1",
+     "cue": "clean",
+     "text": "They all clean..."
+    },
+    {
+     "kind": "tick",
+     "who": "host",
+     "cue": "motivator"
+    },
+    {
+     "kind": "cross",
+     "who": "host",
+     "cue": "Without"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "clean",
+     "shot": "actor",
+     "who": "s1"
+    },
+    {
+     "cue": "Without",
+     "shot": "close"
+    }
+   ]
+  },
+  {
+   "set": "plaza",
+   "say": "But one smells of fresh linen and has a friendly mascot. That discriminator wins her over, with no price war.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "c"
+    },
+    {
+     "id": "s1",
+     "look": "shopper",
+     "at": "shelf",
+     "v": 5,
+     "hold": "bag",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "s1",
+     "cue": "smells",
+     "expr": "smile"
+    },
+    {
+     "who": "s1",
+     "cue": "wins",
+     "pose": "cheer",
+     "expr": "grin"
+    },
+    {
+     "who": "host",
+     "cue": "price",
+     "pose": "up",
+     "expr": "grin"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "sparkle",
+     "who": "s1",
+     "cue": "smells"
+    },
+    {
+     "kind": "heart",
+     "who": "s1",
+     "cue": "wins"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "smells",
+     "shot": "actor",
+     "who": "s1"
+    },
+    {
+     "cue": "price",
+     "shot": "close"
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "So meet the motivators, then build a discriminator, ideally emotional, so you never compete on price alone.",
+   "board": {
+    "title": "Use it **like this**",
+    "lines": [
+     {
+      "text": "**Meet** the motivators",
+      "cue": "meet"
+     },
+     {
+      "text": "**Build** a discriminator",
+      "cue": "build"
+     },
+     {
+      "text": "Never compete on **price** alone",
+      "cue": "price"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "point"
+    },
+    {
+     "id": "e1",
+     "look": "exec",
+     "at": "table",
+     "v": 1
+    }
+   ],
+   "acts": [
+    {
+     "who": "e1",
+     "cue": "emotional",
+     "expr": "smile"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "tick",
+     "who": "e1",
+     "cue": "price"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "emotional",
+     "shot": "two",
+     "who": "e1"
+    }
+   ],
+   "hold": 1.0
+  }
+ ]
+}

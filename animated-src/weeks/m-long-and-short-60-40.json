@@ -1,0 +1,286 @@
+{
+ "week": 0,
+ "title": "The long and the short of it (60/40 brand vs activation)",
+ "speaker": "Brent Smart, Week 4; Nicky Barton, Week 12; from Les Binet and Peter Field",
+ "beats": [
+  {
+   "set": "stage",
+   "say": "The long and the short of it. Brand building is long-term and emotional, lifting your base. Activation is short-term and rational, spiking sales. The benchmark is about sixty forty.",
+   "board": {
+    "title": "The long and **the short** of it",
+    "steps": [
+     {
+      "text": "**Brand**: long, emotional, rising base",
+      "cue": "Brand"
+     },
+     {
+      "text": "**Activation**: short, rational, spike",
+      "cue": "Activation"
+     },
+     {
+      "text": "**Benchmark**: ~60 brand / 40",
+      "cue": "benchmark"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "a",
+     "look": "student",
+     "at": "front",
+     "v": 6
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "Activation",
+     "pose": "point"
+    },
+    {
+     "who": "host",
+     "cue": "benchmark",
+     "pose": "up",
+     "expr": "grin"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "Activation",
+     "shot": "close"
+    },
+    {
+     "cue": "benchmark",
+     "shot": "board"
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Brent Smart found Telstra at just twenty percent brand. He didn't leap to sixty. His first move was fifty fifty.",
+   "board": {
+    "title": "Brand share of spend",
+    "bars": [
+     {
+      "label": "Telstra before",
+      "value": 20,
+      "display": "20%",
+      "cue": "twenty"
+     },
+     {
+      "label": "Benchmark",
+      "value": 60,
+      "display": "60%",
+      "cue": "sixty"
+     },
+     {
+      "label": "First move",
+      "value": 50,
+      "display": "50%",
+      "cue": "fifty"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "point"
+    },
+    {
+     "id": "e1",
+     "look": "exec",
+     "at": "table",
+     "v": 5,
+     "hold": "laptop",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "e1",
+     "cue": "twenty",
+     "pose": "none",
+     "expr": "shock"
+    },
+    {
+     "who": "e1",
+     "cue": "fifty",
+     "expr": "relief"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "exclaim",
+     "who": "e1",
+     "cue": "twenty"
+    },
+    {
+     "kind": "tick",
+     "who": "e1",
+     "cue": "fifty"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "twenty",
+     "shot": "actor",
+     "who": "e1"
+    },
+    {
+     "cue": "first",
+     "shot": "board"
+    }
+   ]
+  },
+  {
+   "set": "plaza",
+   "say": "Here's why. A sale cuts the price and shoppers rush in, then vanish when it ends. Brand building keeps people coming back.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "front"
+    },
+    {
+     "id": "s1",
+     "look": "shopper",
+     "at": "walkL",
+     "v": 1,
+     "to": "shelf",
+     "walkCue": "rush"
+    },
+    {
+     "id": "s2",
+     "look": "student",
+     "at": "r",
+     "v": 4,
+     "hold": "bag",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "s1",
+     "cue": "rush",
+     "pose": "cheer",
+     "expr": "grin"
+    },
+    {
+     "who": "s1",
+     "cue": "vanish",
+     "to": "walkR"
+    },
+    {
+     "who": "s2",
+     "cue": "coming",
+     "expr": "smile"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "money",
+     "who": "host",
+     "cue": "price"
+    },
+    {
+     "kind": "heart",
+     "who": "s2",
+     "cue": "coming"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "rush",
+     "shot": "actor",
+     "who": "s1"
+    },
+    {
+     "cue": "Brand",
+     "shot": "actor",
+     "who": "s2"
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Use it like this: plan both speeds, aim for sixty forty, and agree brand health measures before year one.",
+   "board": {
+    "title": "Use it like **this**",
+    "lines": [
+     {
+      "text": "Plan **both speeds**",
+      "cue": "both"
+     },
+     {
+      "text": "Aim for **60/40**",
+      "cue": "sixty"
+     },
+     {
+      "text": "Agree **brand health** measures",
+      "cue": "agree"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "e1",
+     "look": "exec_f",
+     "at": "table",
+     "v": 3
+    }
+   ],
+   "acts": [
+    {
+     "who": "e1",
+     "cue": "agree",
+     "expr": "smile"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "tick",
+     "who": "e1",
+     "cue": "measures"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "agree",
+     "shot": "two",
+     "who": "e1"
+    }
+   ],
+   "hold": 1.0
+  }
+ ]
+}

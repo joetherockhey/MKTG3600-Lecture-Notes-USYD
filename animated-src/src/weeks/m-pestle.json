@@ -1,0 +1,712 @@
+{
+ "week": 0,
+ "title": "PESTLE analysis",
+ "speaker": "Francis Aguilar's environmental scanning, 1967; later PEST and PESTLE",
+ "beats": [
+  {
+   "set": "office",
+   "say": "PESTLE scans the big forces around a market. Political and economic. Social and technological. Legal and environmental. Six forces no single brand controls.",
+   "board": {
+    "title": "**PESTLE** analysis",
+    "lines": [
+     {
+      "text": "**Political** and **Economic**",
+      "cue": "Political",
+      "at": 3.295
+     },
+     {
+      "text": "**Social** and **Technological**",
+      "cue": "Social",
+      "at": 5.099
+     },
+     {
+      "text": "**Legal** and **Environmental**",
+      "cue": "Legal",
+      "at": 7.116
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "e1",
+     "look": "exec",
+     "v": 4,
+     "at": "table"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "Six",
+     "pose": "up",
+     "expr": "grin",
+     "at": 9.014
+    },
+    {
+     "who": "e1",
+     "cue": "controls",
+     "pose": "chin",
+     "expr": "nervous",
+     "at": 10.641
+    }
+   ],
+   "fx": [
+    {
+     "kind": "question",
+     "who": "e1",
+     "cue": "controls",
+     "at": 10.641
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "Six",
+     "shot": "close",
+     "at": 9.014
+    },
+    {
+     "cue": "controls",
+     "shot": "two",
+     "who": "e1",
+     "at": 10.641
+    }
+   ],
+   "audio": "audio/m-pestle-00.mp3",
+   "leadIn": 0.45,
+   "seconds": 12.186,
+   "words": [
+    {
+     "w": "PESTLE",
+     "t": 0.5
+    },
+    {
+     "w": "scans",
+     "t": 0.948
+    },
+    {
+     "w": "the",
+     "t": 1.349
+    },
+    {
+     "w": "big",
+     "t": 1.432
+    },
+    {
+     "w": "forces",
+     "t": 1.679
+    },
+    {
+     "w": "around",
+     "t": 2.175
+    },
+    {
+     "w": "a",
+     "t": 2.469
+    },
+    {
+     "w": "market",
+     "t": 2.481
+    },
+    {
+     "w": "Political",
+     "t": 3.295
+    },
+    {
+     "w": "and",
+     "t": 3.92
+    },
+    {
+     "w": "economic",
+     "t": 4.191
+    },
+    {
+     "w": "Social",
+     "t": 5.099
+    },
+    {
+     "w": "and",
+     "t": 5.748
+    },
+    {
+     "w": "technological",
+     "t": 5.96
+    },
+    {
+     "w": "Legal",
+     "t": 7.116
+    },
+    {
+     "w": "and",
+     "t": 7.658
+    },
+    {
+     "w": "environmental",
+     "t": 7.835
+    },
+    {
+     "w": "Six",
+     "t": 9.014
+    },
+    {
+     "w": "forces",
+     "t": 9.38
+    },
+    {
+     "w": "no",
+     "t": 9.828
+    },
+    {
+     "w": "single",
+     "t": 10.052
+    },
+    {
+     "w": "brand",
+     "t": 10.394
+    },
+    {
+     "w": "controls",
+     "t": 10.641
+    }
+   ]
+  },
+  {
+   "set": "street",
+   "say": "Take an Australian beer brand. Younger people are drinking less. Social media is now their search engine. Ad rules are strict, and the cost of living bites.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "front"
+    },
+    {
+     "id": "p1",
+     "look": "student",
+     "v": 2,
+     "at": "l",
+     "hold": "phone",
+     "pose": "hold"
+    },
+    {
+     "id": "p2",
+     "look": "exec_f",
+     "v": 5,
+     "at": "r"
+    }
+   ],
+   "acts": [
+    {
+     "who": "p1",
+     "cue": "drinking",
+     "expr": "smile_closed",
+     "at": 3.484
+    },
+    {
+     "who": "p2",
+     "cue": "rules",
+     "pose": "hips",
+     "expr": "stern",
+     "at": 7.446
+    },
+    {
+     "who": "host",
+     "cue": "bites",
+     "pose": "shrug",
+     "expr": "nervous",
+     "at": 9.474
+    }
+   ],
+   "fx": [
+    {
+     "kind": "think",
+     "who": "p1",
+     "text": "Sparkling water, thanks.",
+     "cue": "drinking",
+     "at": 3.484
+    },
+    {
+     "kind": "eye",
+     "who": "p1",
+     "cue": "search",
+     "at": 6.125
+    },
+    {
+     "kind": "exclaim",
+     "who": "p2",
+     "cue": "rules",
+     "at": 7.446
+    },
+    {
+     "kind": "money",
+     "who": "host",
+     "cue": "cost",
+     "at": 8.778
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "drinking",
+     "shot": "actor",
+     "who": "p1",
+     "at": 3.484
+    },
+    {
+     "cue": "rules",
+     "shot": "actor",
+     "who": "p2",
+     "at": 7.446
+    },
+    {
+     "cue": "cost",
+     "shot": "close",
+     "at": 8.778
+    }
+   ],
+   "audio": "audio/m-pestle-01.mp3",
+   "leadIn": 0.45,
+   "seconds": 10.89,
+   "words": [
+    {
+     "w": "Take",
+     "t": 0.5
+    },
+    {
+     "w": "an",
+     "t": 0.783
+    },
+    {
+     "w": "Australian",
+     "t": 0.866
+    },
+    {
+     "w": "beer",
+     "t": 1.443
+    },
+    {
+     "w": "brand",
+     "t": 1.667
+    },
+    {
+     "w": "Younger",
+     "t": 2.528
+    },
+    {
+     "w": "people",
+     "t": 2.965
+    },
+    {
+     "w": "are",
+     "t": 3.413
+    },
+    {
+     "w": "drinking",
+     "t": 3.484
+    },
+    {
+     "w": "less",
+     "t": 3.908
+    },
+    {
+     "w": "Social",
+     "t": 4.663
+    },
+    {
+     "w": "media",
+     "t": 5.123
+    },
+    {
+     "w": "is",
+     "t": 5.559
+    },
+    {
+     "w": "now",
+     "t": 5.724
+    },
+    {
+     "w": "their",
+     "t": 5.972
+    },
+    {
+     "w": "search",
+     "t": 6.125
+    },
+    {
+     "w": "engine",
+     "t": 6.455
+    },
+    {
+     "w": "Ad",
+     "t": 7.186
+    },
+    {
+     "w": "rules",
+     "t": 7.446
+    },
+    {
+     "w": "are",
+     "t": 7.8
+    },
+    {
+     "w": "strict",
+     "t": 7.823
+    },
+    {
+     "w": "and",
+     "t": 8.566
+    },
+    {
+     "w": "the",
+     "t": 8.696
+    },
+    {
+     "w": "cost",
+     "t": 8.778
+    },
+    {
+     "w": "of",
+     "t": 9.108
+    },
+    {
+     "w": "living",
+     "t": 9.191
+    },
+    {
+     "w": "bites",
+     "t": 9.474
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "So the response writes itself: a premium no-alcohol range, sold through creators, inside the ad rules.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "l"
+    },
+    {
+     "id": "e1",
+     "look": "exec",
+     "v": 4,
+     "at": "table"
+    },
+    {
+     "id": "e2",
+     "look": "exec_f",
+     "v": 1,
+     "at": "table2"
+    }
+   ],
+   "acts": [
+    {
+     "who": "e1",
+     "cue": "premium",
+     "pose": "up",
+     "expr": "grin",
+     "at": 2.351
+    },
+    {
+     "who": "e2",
+     "cue": "creators",
+     "pose": "cheer",
+     "expr": "laugh",
+     "at": 4.521
+    }
+   ],
+   "fx": [
+    {
+     "kind": "bulb",
+     "who": "e1",
+     "cue": "premium",
+     "at": 2.351
+    },
+    {
+     "kind": "tick",
+     "who": "e2",
+     "cue": "rules",
+     "at": 6.019
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "premium",
+     "shot": "actor",
+     "who": "e1",
+     "at": 2.351
+    },
+    {
+     "cue": "creators",
+     "shot": "two",
+     "who": "e2",
+     "at": 4.521
+    }
+   ],
+   "audio": "audio/m-pestle-02.mp3",
+   "leadIn": 0.45,
+   "seconds": 7.41,
+   "words": [
+    {
+     "w": "So",
+     "t": 0.5
+    },
+    {
+     "w": "the",
+     "t": 0.748
+    },
+    {
+     "w": "response",
+     "t": 0.83
+    },
+    {
+     "w": "writes",
+     "t": 1.255
+    },
+    {
+     "w": "itself",
+     "t": 1.479
+    },
+    {
+     "w": "a",
+     "t": 2.269
+    },
+    {
+     "w": "premium",
+     "t": 2.351
+    },
+    {
+     "w": "no-alcohol",
+     "t": 2.788
+    },
+    {
+     "w": "range",
+     "t": 3.342
+    },
+    {
+     "w": "sold",
+     "t": 3.967
+    },
+    {
+     "w": "through",
+     "t": 4.321
+    },
+    {
+     "w": "creators",
+     "t": 4.521
+    },
+    {
+     "w": "inside",
+     "t": 5.311
+    },
+    {
+     "w": "the",
+     "t": 5.724
+    },
+    {
+     "w": "ad",
+     "t": 5.854
+    },
+    {
+     "w": "rules",
+     "t": 6.019
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Use it like this: pick the two or three forces that matter most, give a real example of each, and say what the brand should do.",
+   "board": {
+    "title": "Use it **like this**",
+    "lines": [
+     {
+      "text": "Pick the **two or three** that matter",
+      "cue": "pick",
+      "at": 1.715
+     },
+     {
+      "text": "A real **example** of each",
+      "cue": "example",
+      "at": 4.462
+     },
+     {
+      "text": "Then the brand's **response**",
+      "cue": "should",
+      "at": 6.373
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "e1",
+     "look": "exec",
+     "v": 4,
+     "at": "table"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "example",
+     "pose": "point",
+     "at": 4.462
+    },
+    {
+     "who": "e1",
+     "cue": "should",
+     "expr": "smile",
+     "at": 6.373
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "should",
+     "shot": "close",
+     "at": 6.373
+    }
+   ],
+   "hold": 1.0,
+   "audio": "audio/m-pestle-03.mp3",
+   "leadIn": 0.45,
+   "seconds": 8.242,
+   "words": [
+    {
+     "w": "Use",
+     "t": 0.5
+    },
+    {
+     "w": "it",
+     "t": 0.807
+    },
+    {
+     "w": "like",
+     "t": 0.877
+    },
+    {
+     "w": "this",
+     "t": 1.078
+    },
+    {
+     "w": "pick",
+     "t": 1.715
+    },
+    {
+     "w": "the",
+     "t": 1.927
+    },
+    {
+     "w": "two",
+     "t": 2.033
+    },
+    {
+     "w": "or",
+     "t": 2.257
+    },
+    {
+     "w": "three",
+     "t": 2.328
+    },
+    {
+     "w": "forces",
+     "t": 2.564
+    },
+    {
+     "w": "that",
+     "t": 3.035
+    },
+    {
+     "w": "matter",
+     "t": 3.153
+    },
+    {
+     "w": "most",
+     "t": 3.342
+    },
+    {
+     "w": "give",
+     "t": 4.014
+    },
+    {
+     "w": "a",
+     "t": 4.132
+    },
+    {
+     "w": "real",
+     "t": 4.203
+    },
+    {
+     "w": "example",
+     "t": 4.462
+    },
+    {
+     "w": "of",
+     "t": 4.84
+    },
+    {
+     "w": "each",
+     "t": 4.91
+    },
+    {
+     "w": "and",
+     "t": 5.441
+    },
+    {
+     "w": "say",
+     "t": 5.571
+    },
+    {
+     "w": "what",
+     "t": 5.807
+    },
+    {
+     "w": "the",
+     "t": 5.972
+    },
+    {
+     "w": "brand",
+     "t": 6.042
+    },
+    {
+     "w": "should",
+     "t": 6.373
+    },
+    {
+     "w": "do",
+     "t": 6.55
+    }
+   ]
+  }
+ ],
+ "id": "m-pestle",
+ "total": 38.73
+}

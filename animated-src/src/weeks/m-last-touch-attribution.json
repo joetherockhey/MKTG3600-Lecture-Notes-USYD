@@ -1,0 +1,668 @@
+{
+ "week": 0,
+ "title": "Last-touch attribution and its fallacy",
+ "speaker": "Nicky Barton, Mutinex, Week 12",
+ "beats": [
+  {
+   "set": "office",
+   "say": "Last touch attribution gives the final click all the credit for a sale. So budgets drift to the bottom of the funnel, the brand starves, and privacy rules are breaking the tracking anyway.",
+   "board": {
+    "title": "**Last-touch** attribution",
+    "steps": [
+     {
+      "text": "**Final click** gets 100% credit",
+      "cue": "final",
+      "at": 2.068
+     },
+     {
+      "text": "Budgets **drift** down the funnel",
+      "cue": "drift",
+      "at": 5.028
+     },
+     {
+      "text": "Brand **starves**",
+      "cue": "starves",
+      "at": 6.927
+     },
+     {
+      "text": "**Privacy** breaks tracking",
+      "cue": "privacy",
+      "at": 7.859
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "e",
+     "look": "exec_f",
+     "v": 1,
+     "at": "table"
+    }
+   ],
+   "acts": [
+    {
+     "who": "e",
+     "cue": "starves",
+     "expr": "shock",
+     "at": 6.927
+    },
+    {
+     "who": "host",
+     "cue": "privacy",
+     "pose": "shrug",
+     "at": 7.859
+    }
+   ],
+   "fx": [
+    {
+     "kind": "cross",
+     "who": "e",
+     "cue": "starves",
+     "at": 6.927
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "starves",
+     "shot": "actor",
+     "who": "e",
+     "at": 6.927
+    },
+    {
+     "cue": "privacy",
+     "shot": "board",
+     "at": 7.859
+    }
+   ],
+   "audio": "audio/m-last-touch-attribution-00.mp3",
+   "leadIn": 0.45,
+   "seconds": 10.818,
+   "words": [
+    {
+     "w": "Last",
+     "t": 0.5
+    },
+    {
+     "w": "touch",
+     "t": 0.913
+    },
+    {
+     "w": "attribution",
+     "t": 1.16
+    },
+    {
+     "w": "gives",
+     "t": 1.785
+    },
+    {
+     "w": "the",
+     "t": 1.986
+    },
+    {
+     "w": "final",
+     "t": 2.068
+    },
+    {
+     "w": "click",
+     "t": 2.422
+    },
+    {
+     "w": "all",
+     "t": 2.717
+    },
+    {
+     "w": "the",
+     "t": 2.941
+    },
+    {
+     "w": "credit",
+     "t": 3.024
+    },
+    {
+     "w": "for",
+     "t": 3.342
+    },
+    {
+     "w": "a",
+     "t": 3.495
+    },
+    {
+     "w": "sale",
+     "t": 3.519
+    },
+    {
+     "w": "So",
+     "t": 4.333
+    },
+    {
+     "w": "budgets",
+     "t": 4.639
+    },
+    {
+     "w": "drift",
+     "t": 5.028
+    },
+    {
+     "w": "to",
+     "t": 5.288
+    },
+    {
+     "w": "the",
+     "t": 5.347
+    },
+    {
+     "w": "bottom",
+     "t": 5.417
+    },
+    {
+     "w": "of",
+     "t": 5.736
+    },
+    {
+     "w": "the",
+     "t": 5.807
+    },
+    {
+     "w": "funnel",
+     "t": 5.866
+    },
+    {
+     "w": "the",
+     "t": 6.514
+    },
+    {
+     "w": "brand",
+     "t": 6.609
+    },
+    {
+     "w": "starves",
+     "t": 6.927
+    },
+    {
+     "w": "and",
+     "t": 7.717
+    },
+    {
+     "w": "privacy",
+     "t": 7.859
+    },
+    {
+     "w": "rules",
+     "t": 8.271
+    },
+    {
+     "w": "are",
+     "t": 8.566
+    },
+    {
+     "w": "breaking",
+     "t": 8.601
+    },
+    {
+     "w": "the",
+     "t": 9.002
+    },
+    {
+     "w": "tracking",
+     "t": 9.073
+    },
+    {
+     "w": "anyway",
+     "t": 9.403
+    }
+   ]
+  },
+  {
+   "set": "stage",
+   "say": "It's like a group assignment where whoever hits submit gets the whole mark.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "aisle",
+     "pose": "none"
+    },
+    {
+     "id": "a",
+     "look": "student",
+     "v": 1,
+     "at": "l"
+    },
+    {
+     "id": "b",
+     "look": "student",
+     "v": 2,
+     "at": "front"
+    },
+    {
+     "id": "c",
+     "look": "student",
+     "v": 5,
+     "at": "r",
+     "hold": "laptop",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "c",
+     "cue": "submit",
+     "pose": "cheer",
+     "expr": "grin",
+     "at": 2.434
+    },
+    {
+     "who": "b",
+     "cue": "whole",
+     "expr": "shock",
+     "at": 3.153
+    },
+    {
+     "who": "a",
+     "cue": "mark",
+     "pose": "shrug",
+     "expr": "stern",
+     "at": 3.318
+    }
+   ],
+   "fx": [
+    {
+     "kind": "tick",
+     "who": "c",
+     "cue": "submit",
+     "at": 2.434
+    },
+    {
+     "kind": "say",
+     "who": "a",
+     "cue": "mark",
+     "text": "We did the work!",
+     "at": 3.318
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "submit",
+     "shot": "actor",
+     "who": "c",
+     "at": 2.434
+    },
+    {
+     "cue": "mark",
+     "shot": "actor",
+     "who": "a",
+     "at": 3.318
+    }
+   ],
+   "audio": "audio/m-last-touch-attribution-01.mp3",
+   "leadIn": 0.45,
+   "seconds": 4.674,
+   "words": [
+    {
+     "w": "It's",
+     "t": 0.5
+    },
+    {
+     "w": "like",
+     "t": 0.7
+    },
+    {
+     "w": "a",
+     "t": 0.901
+    },
+    {
+     "w": "group",
+     "t": 0.948
+    },
+    {
+     "w": "assignment",
+     "t": 1.196
+    },
+    {
+     "w": "where",
+     "t": 1.691
+    },
+    {
+     "w": "whoever",
+     "t": 1.856
+    },
+    {
+     "w": "hits",
+     "t": 2.21
+    },
+    {
+     "w": "submit",
+     "t": 2.434
+    },
+    {
+     "w": "gets",
+     "t": 2.859
+    },
+    {
+     "w": "the",
+     "t": 3.071
+    },
+    {
+     "w": "whole",
+     "t": 3.153
+    },
+    {
+     "w": "mark",
+     "t": 3.318
+    }
+   ]
+  },
+  {
+   "set": "home",
+   "say": "Nike moved spend to the bottom of the funnel. People stopped seeing its ads, and the brand faded from memory.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "r",
+     "pose": "none"
+    },
+    {
+     "id": "p",
+     "look": "student",
+     "v": 3,
+     "at": "sofa",
+     "mode": "sit"
+    },
+    {
+     "id": "q",
+     "look": "shopper",
+     "v": 4,
+     "at": "sofa2",
+     "mode": "sit"
+    }
+   ],
+   "acts": [
+    {
+     "who": "p",
+     "cue": "stopped",
+     "expr": "dazed",
+     "at": 3.436
+    },
+    {
+     "who": "host",
+     "cue": "faded",
+     "pose": "shrug",
+     "expr": "pained",
+     "at": 5.347
+    },
+    {
+     "who": "q",
+     "cue": "memory",
+     "expr": "neutral",
+     "at": 5.854
+    }
+   ],
+   "fx": [
+    {
+     "kind": "zzz",
+     "who": "p",
+     "cue": "stopped",
+     "at": 3.436
+    },
+    {
+     "kind": "question",
+     "who": "q",
+     "cue": "memory",
+     "at": 5.854
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "stopped",
+     "shot": "actor",
+     "who": "p",
+     "at": 3.436
+    },
+    {
+     "cue": "faded",
+     "shot": "close",
+     "at": 5.347
+    }
+   ],
+   "audio": "audio/m-last-touch-attribution-02.mp3",
+   "leadIn": 0.45,
+   "seconds": 7.194,
+   "words": [
+    {
+     "w": "Nike",
+     "t": 0.5
+    },
+    {
+     "w": "moved",
+     "t": 0.948
+    },
+    {
+     "w": "spend",
+     "t": 1.266
+    },
+    {
+     "w": "to",
+     "t": 1.667
+    },
+    {
+     "w": "the",
+     "t": 1.738
+    },
+    {
+     "w": "bottom",
+     "t": 1.821
+    },
+    {
+     "w": "of",
+     "t": 2.186
+    },
+    {
+     "w": "the",
+     "t": 2.292
+    },
+    {
+     "w": "funnel",
+     "t": 2.351
+    },
+    {
+     "w": "People",
+     "t": 3.106
+    },
+    {
+     "w": "stopped",
+     "t": 3.436
+    },
+    {
+     "w": "seeing",
+     "t": 3.743
+    },
+    {
+     "w": "its",
+     "t": 3.991
+    },
+    {
+     "w": "ads",
+     "t": 4.097
+    },
+    {
+     "w": "and",
+     "t": 4.792
+    },
+    {
+     "w": "the",
+     "t": 4.934
+    },
+    {
+     "w": "brand",
+     "t": 4.993
+    },
+    {
+     "w": "faded",
+     "t": 5.347
+    },
+    {
+     "w": "from",
+     "t": 5.712
+    },
+    {
+     "w": "memory",
+     "t": 5.854
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Use it like this: credit the ads people saw but never clicked, and measure the whole market.",
+   "board": {
+    "title": "Use it like **this**",
+    "lines": [
+     {
+      "text": "Credit what was **seen**",
+      "cue": "saw",
+      "at": 2.705
+     },
+     {
+      "text": "Measure the **whole market**",
+      "cue": "whole",
+      "at": 4.627
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "point"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "market",
+     "pose": "cheer",
+     "expr": "grin",
+     "at": 4.804
+    }
+   ],
+   "fx": [
+    {
+     "kind": "tick",
+     "who": "host",
+     "cue": "market",
+     "at": 4.804
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "market",
+     "shot": "close",
+     "at": 4.804
+    }
+   ],
+   "hold": 1.0,
+   "audio": "audio/m-last-touch-attribution-03.mp3",
+   "leadIn": 0.45,
+   "seconds": 6.61,
+   "words": [
+    {
+     "w": "Use",
+     "t": 0.5
+    },
+    {
+     "w": "it",
+     "t": 0.83
+    },
+    {
+     "w": "like",
+     "t": 0.901
+    },
+    {
+     "w": "this",
+     "t": 1.113
+    },
+    {
+     "w": "credit",
+     "t": 1.774
+    },
+    {
+     "w": "the",
+     "t": 2.092
+    },
+    {
+     "w": "ads",
+     "t": 2.245
+    },
+    {
+     "w": "people",
+     "t": 2.458
+    },
+    {
+     "w": "saw",
+     "t": 2.705
+    },
+    {
+     "w": "but",
+     "t": 3.047
+    },
+    {
+     "w": "never",
+     "t": 3.224
+    },
+    {
+     "w": "clicked",
+     "t": 3.472
+    },
+    {
+     "w": "and",
+     "t": 4.061
+    },
+    {
+     "w": "measure",
+     "t": 4.215
+    },
+    {
+     "w": "the",
+     "t": 4.545
+    },
+    {
+     "w": "whole",
+     "t": 4.627
+    },
+    {
+     "w": "market",
+     "t": 4.804
+    }
+   ]
+  }
+ ],
+ "id": "m-last-touch-attribution",
+ "total": 29.3
+}

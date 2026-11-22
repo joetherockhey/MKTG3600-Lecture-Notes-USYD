@@ -1,0 +1,3487 @@
+{
+ "week": 7,
+ "title": "Strategy in a creative agency",
+ "speaker": "Tim Collier",
+ "beats": [
+  {
+   "set": "stage",
+   "say": "Week seven. Strategy in a creative agency, with Tim Collier, National Head of Strategy at Cummins and Partners. His advice: be curious, and be opinionated.",
+   "board": {
+    "photo": "photos/w7.jpg",
+    "title": "Strategy in a **creative agency**",
+    "name": "Tim Collier",
+    "org": "National Head of Strategy, Cummins & Partners"
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present",
+     "expr": "smile"
+    },
+    {
+     "id": "a",
+     "look": "student",
+     "v": 1,
+     "at": "aisle"
+    },
+    {
+     "id": "b",
+     "look": "student",
+     "v": 6,
+     "at": "aisle2"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "curious",
+     "pose": "up",
+     "expr": "grin",
+     "at": 8.684
+    },
+    {
+     "who": "host",
+     "cue": "opinionated",
+     "pose": "point",
+     "at": 9.733
+    }
+   ],
+   "fx": [
+    {
+     "kind": "eye",
+     "who": "host",
+     "cue": "curious",
+     "at": 8.684
+    },
+    {
+     "kind": "exclaim",
+     "who": "host",
+     "cue": "opinionated",
+     "at": 9.733
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "Tim",
+     "shot": "board",
+     "at": 3.932
+    },
+    {
+     "cue": "curious",
+     "shot": "close",
+     "at": 8.684
+    }
+   ],
+   "audio": "audio/w7-00.mp3",
+   "leadIn": 0.45,
+   "seconds": 11.394,
+   "words": [
+    {
+     "w": "Week",
+     "t": 0.5
+    },
+    {
+     "w": "seven",
+     "t": 0.854
+    },
+    {
+     "w": "Strategy",
+     "t": 1.667
+    },
+    {
+     "w": "in",
+     "t": 2.34
+    },
+    {
+     "w": "a",
+     "t": 2.434
+    },
+    {
+     "w": "creative",
+     "t": 2.481
+    },
+    {
+     "w": "agency",
+     "t": 2.917
+    },
+    {
+     "w": "with",
+     "t": 3.731
+    },
+    {
+     "w": "Tim",
+     "t": 3.932
+    },
+    {
+     "w": "Collier",
+     "t": 4.132
+    },
+    {
+     "w": "National",
+     "t": 4.828
+    },
+    {
+     "w": "Head",
+     "t": 5.276
+    },
+    {
+     "w": "of",
+     "t": 5.394
+    },
+    {
+     "w": "Strategy",
+     "t": 5.465
+    },
+    {
+     "w": "at",
+     "t": 5.995
+    },
+    {
+     "w": "Cummins",
+     "t": 6.137
+    },
+    {
+     "w": "and",
+     "t": 6.502
+    },
+    {
+     "w": "Partners",
+     "t": 6.597
+    },
+    {
+     "w": "His",
+     "t": 7.493
+    },
+    {
+     "w": "advice",
+     "t": 7.729
+    },
+    {
+     "w": "be",
+     "t": 8.566
+    },
+    {
+     "w": "curious",
+     "t": 8.684
+    },
+    {
+     "w": "and",
+     "t": 9.427
+    },
+    {
+     "w": "be",
+     "t": 9.58
+    },
+    {
+     "w": "opinionated",
+     "t": 9.733
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "A planner informs what the work says, and why it will work. The client brings a business problem, creatives bring the idea, and strategy sits between, speaking for the audience.",
+   "board": {
+    "title": "Where **strategy** sits",
+    "steps": [
+     {
+      "text": "**Client** what problem is there?",
+      "cue": "client",
+      "at": 4.073
+     },
+     {
+      "text": "**Creative** what gets remembered?",
+      "cue": "creatives",
+      "at": 5.665
+     },
+     {
+      "text": "**Strategy** how does it affect the audience?",
+      "cue": "strategy",
+      "at": 7.422
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "c",
+     "pose": "present"
+    },
+    {
+     "id": "cl",
+     "look": "exec",
+     "v": 2,
+     "at": "l",
+     "hold": "clipboard",
+     "pose": "hold"
+    },
+    {
+     "id": "cr",
+     "look": "student",
+     "v": 7,
+     "at": "r",
+     "hold": "laptop",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "cl",
+     "cue": "problem",
+     "expr": "nervous",
+     "at": 5.052
+    },
+    {
+     "who": "cr",
+     "cue": "idea",
+     "expr": "grin",
+     "at": 6.561
+    },
+    {
+     "who": "host",
+     "cue": "audience",
+     "pose": "cheer",
+     "expr": "smile",
+     "at": 9.58
+    }
+   ],
+   "fx": [
+    {
+     "kind": "question",
+     "who": "cl",
+     "cue": "problem",
+     "at": 5.052
+    },
+    {
+     "kind": "bulb",
+     "who": "cr",
+     "cue": "idea",
+     "at": 6.561
+    },
+    {
+     "kind": "heart",
+     "who": "host",
+     "cue": "audience",
+     "at": 9.58
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "host",
+     "at": 0.2
+    },
+    {
+     "cue": "client",
+     "shot": "wide",
+     "at": 4.073
+    },
+    {
+     "cue": "audience",
+     "shot": "board",
+     "at": 9.58
+    }
+   ],
+   "audio": "audio/w7-01.mp3",
+   "leadIn": 0.45,
+   "seconds": 11.01,
+   "words": [
+    {
+     "w": "A",
+     "t": 0.5
+    },
+    {
+     "w": "planner",
+     "t": 0.63
+    },
+    {
+     "w": "informs",
+     "t": 0.972
+    },
+    {
+     "w": "what",
+     "t": 1.502
+    },
+    {
+     "w": "the",
+     "t": 1.644
+    },
+    {
+     "w": "work",
+     "t": 1.703
+    },
+    {
+     "w": "says",
+     "t": 1.927
+    },
+    {
+     "w": "and",
+     "t": 2.575
+    },
+    {
+     "w": "why",
+     "t": 2.752
+    },
+    {
+     "w": "it",
+     "t": 3.035
+    },
+    {
+     "w": "will",
+     "t": 3.094
+    },
+    {
+     "w": "work",
+     "t": 3.236
+    },
+    {
+     "w": "The",
+     "t": 3.932
+    },
+    {
+     "w": "client",
+     "t": 4.073
+    },
+    {
+     "w": "brings",
+     "t": 4.427
+    },
+    {
+     "w": "a",
+     "t": 4.686
+    },
+    {
+     "w": "business",
+     "t": 4.722
+    },
+    {
+     "w": "problem",
+     "t": 5.052
+    },
+    {
+     "w": "creatives",
+     "t": 5.665
+    },
+    {
+     "w": "bring",
+     "t": 6.243
+    },
+    {
+     "w": "the",
+     "t": 6.467
+    },
+    {
+     "w": "idea",
+     "t": 6.561
+    },
+    {
+     "w": "and",
+     "t": 7.281
+    },
+    {
+     "w": "strategy",
+     "t": 7.422
+    },
+    {
+     "w": "sits",
+     "t": 7.929
+    },
+    {
+     "w": "between",
+     "t": 8.141
+    },
+    {
+     "w": "speaking",
+     "t": 8.837
+    },
+    {
+     "w": "for",
+     "t": 9.356
+    },
+    {
+     "w": "the",
+     "t": 9.45
+    },
+    {
+     "w": "audience",
+     "t": 9.58
+    }
+   ]
+  },
+  {
+   "set": "stage",
+   "say": "Planning was born in 1974, in Stephen King's Planning Guide at JWT London. A method must stimulate imagination, not just control it: realistic, pragmatic, fundamental and structured.",
+   "board": {
+    "title": "King's **four rules**",
+    "steps": [
+     {
+      "text": "**Realistic** based in practice",
+      "cue": "realistic",
+      "at": 9.368
+     },
+     {
+      "text": "**Pragmatic** simple, memorable",
+      "cue": "pragmatic",
+      "at": 10.193
+     },
+     {
+      "text": "**Fundamental** real theory",
+      "cue": "fundamental",
+      "at": 10.995
+     },
+     {
+      "text": "**Structured** a frame for imagination",
+      "cue": "structured",
+      "at": 11.939
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "a",
+     "look": "student",
+     "v": 3,
+     "at": "aisle"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "imagination",
+     "pose": "up",
+     "expr": "grin",
+     "at": 7.045
+    }
+   ],
+   "fx": [
+    {
+     "kind": "clock",
+     "who": "host",
+     "cue": "born",
+     "at": 1.019
+    },
+    {
+     "kind": "sparkle",
+     "who": "host",
+     "cue": "imagination",
+     "at": 7.045
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "host",
+     "at": 0.2
+    },
+    {
+     "cue": "realistic",
+     "shot": "board",
+     "at": 9.368
+    }
+   ],
+   "audio": "audio/w7-02.mp3",
+   "leadIn": 0.45,
+   "seconds": 13.458,
+   "words": [
+    {
+     "w": "Planning",
+     "t": 0.5
+    },
+    {
+     "w": "was",
+     "t": 0.889
+    },
+    {
+     "w": "born",
+     "t": 1.019
+    },
+    {
+     "w": "in 1974",
+     "t": 1.278
+    },
+    {
+     "w": "in",
+     "t": 2.8
+    },
+    {
+     "w": "Stephen",
+     "t": 2.941
+    },
+    {
+     "w": "King's",
+     "t": 3.354
+    },
+    {
+     "w": "Planning",
+     "t": 3.625
+    },
+    {
+     "w": "Guide",
+     "t": 3.932
+    },
+    {
+     "w": "at",
+     "t": 4.215
+    },
+    {
+     "w": "JWT",
+     "t": 4.403
+    },
+    {
+     "w": "London",
+     "t": 5.04
+    },
+    {
+     "w": "A",
+     "t": 5.83
+    },
+    {
+     "w": "method",
+     "t": 5.936
+    },
+    {
+     "w": "must",
+     "t": 6.325
+    },
+    {
+     "w": "stimulate",
+     "t": 6.561
+    },
+    {
+     "w": "imagination",
+     "t": 7.045
+    },
+    {
+     "w": "not",
+     "t": 8.0
+    },
+    {
+     "w": "just",
+     "t": 8.248
+    },
+    {
+     "w": "control",
+     "t": 8.472
+    },
+    {
+     "w": "it",
+     "t": 8.849
+    },
+    {
+     "w": "realistic",
+     "t": 9.368
+    },
+    {
+     "w": "pragmatic",
+     "t": 10.193
+    },
+    {
+     "w": "fundamental",
+     "t": 10.995
+    },
+    {
+     "w": "and",
+     "t": 11.809
+    },
+    {
+     "w": "structured",
+     "t": 11.939
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Planning has since split into three jobs. Brand planners own what's said and why. Comms planners own where, when and in what order. Media planners own who sees it.",
+   "board": {
+    "title": "Three **flavours** of planner",
+    "steps": [
+     {
+      "text": "**Brand** what's said, and why",
+      "cue": "brand",
+      "at": 3.024
+     },
+     {
+      "text": "**Comms** where, when, what order",
+      "cue": "comms",
+      "at": 5.476
+     },
+     {
+      "text": "**Media** who sees it, and how",
+      "cue": "media",
+      "at": 8.873
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "p1",
+     "look": "exec_f",
+     "v": 1,
+     "at": "desk",
+     "mode": "sit",
+     "hold": "laptop",
+     "pose": "hold"
+    },
+    {
+     "id": "p2",
+     "look": "worker",
+     "v": 4,
+     "at": "r",
+     "hold": "laptop",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "p1",
+     "cue": "brand",
+     "expr": "smile",
+     "at": 3.024
+    },
+    {
+     "who": "p2",
+     "cue": "media",
+     "expr": "neutral",
+     "at": 8.873
+    }
+   ],
+   "fx": [
+    {
+     "kind": "heart",
+     "who": "p1",
+     "cue": "brand",
+     "at": 3.024
+    },
+    {
+     "kind": "clock",
+     "who": "host",
+     "cue": "order",
+     "at": 8.153
+    },
+    {
+     "kind": "chart",
+     "who": "p2",
+     "cue": "media",
+     "at": 8.873
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "brand",
+     "shot": "board",
+     "at": 3.024
+    },
+    {
+     "cue": "media",
+     "shot": "actor",
+     "who": "p2",
+     "at": 8.873
+    }
+   ],
+   "audio": "audio/w7-03.mp3",
+   "leadIn": 0.45,
+   "seconds": 11.682,
+   "words": [
+    {
+     "w": "Planning",
+     "t": 0.5
+    },
+    {
+     "w": "has",
+     "t": 0.925
+    },
+    {
+     "w": "since",
+     "t": 1.09
+    },
+    {
+     "w": "split",
+     "t": 1.314
+    },
+    {
+     "w": "into",
+     "t": 1.632
+    },
+    {
+     "w": "three",
+     "t": 1.927
+    },
+    {
+     "w": "jobs",
+     "t": 2.186
+    },
+    {
+     "w": "Brand",
+     "t": 3.024
+    },
+    {
+     "w": "planners",
+     "t": 3.413
+    },
+    {
+     "w": "own",
+     "t": 3.908
+    },
+    {
+     "w": "what's",
+     "t": 4.144
+    },
+    {
+     "w": "said",
+     "t": 4.368
+    },
+    {
+     "w": "and",
+     "t": 4.627
+    },
+    {
+     "w": "why",
+     "t": 4.745
+    },
+    {
+     "w": "Comms",
+     "t": 5.476
+    },
+    {
+     "w": "planners",
+     "t": 5.818
+    },
+    {
+     "w": "own",
+     "t": 6.255
+    },
+    {
+     "w": "where",
+     "t": 6.467
+    },
+    {
+     "w": "when",
+     "t": 7.116
+    },
+    {
+     "w": "and",
+     "t": 7.658
+    },
+    {
+     "w": "in",
+     "t": 7.823
+    },
+    {
+     "w": "what",
+     "t": 7.965
+    },
+    {
+     "w": "order",
+     "t": 8.153
+    },
+    {
+     "w": "Media",
+     "t": 8.873
+    },
+    {
+     "w": "planners",
+     "t": 9.321
+    },
+    {
+     "w": "own",
+     "t": 9.851
+    },
+    {
+     "w": "who",
+     "t": 10.087
+    },
+    {
+     "w": "sees",
+     "t": 10.217
+    },
+    {
+     "w": "it",
+     "t": 10.524
+    }
+   ]
+  },
+  {
+   "set": "street",
+   "say": "Brand planning is the underlying message. Not just do it, but I can be an athlete if I just try.",
+   "board": {
+    "title": "Just **do it**",
+    "lines": [
+     {
+      "text": "The message underneath:",
+      "cue": "underlying",
+      "at": 1.55
+     },
+     {
+      "text": "I can be an **athlete**",
+      "cue": "athlete",
+      "at": 4.71
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "l",
+     "pose": "point"
+    },
+    {
+     "id": "r",
+     "look": "student",
+     "v": 5,
+     "at": "walkR",
+     "to": "r",
+     "walkCue": "message",
+     "walkAt": 2.057
+    }
+   ],
+   "acts": [
+    {
+     "who": "r",
+     "cue": "athlete",
+     "pose": "cheer",
+     "expr": "grin",
+     "at": 4.71
+    }
+   ],
+   "fx": [
+    {
+     "kind": "think",
+     "who": "r",
+     "text": "I can do this",
+     "cue": "athlete",
+     "at": 4.71
+    },
+    {
+     "kind": "stars",
+     "who": "r",
+     "cue": "try",
+     "at": 5.594
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "athlete",
+     "shot": "actor",
+     "who": "r",
+     "at": 4.71
+    }
+   ],
+   "audio": "audio/w7-04.mp3",
+   "leadIn": 0.45,
+   "seconds": 6.954,
+   "words": [
+    {
+     "w": "Brand",
+     "t": 0.5
+    },
+    {
+     "w": "planning",
+     "t": 0.818
+    },
+    {
+     "w": "is",
+     "t": 1.219
+    },
+    {
+     "w": "the",
+     "t": 1.361
+    },
+    {
+     "w": "underlying",
+     "t": 1.55
+    },
+    {
+     "w": "message",
+     "t": 2.057
+    },
+    {
+     "w": "Not",
+     "t": 2.882
+    },
+    {
+     "w": "just",
+     "t": 3.189
+    },
+    {
+     "w": "do",
+     "t": 3.425
+    },
+    {
+     "w": "it",
+     "t": 3.601
+    },
+    {
+     "w": "but",
+     "t": 4.073
+    },
+    {
+     "w": "I",
+     "t": 4.191
+    },
+    {
+     "w": "can",
+     "t": 4.309
+    },
+    {
+     "w": "be",
+     "t": 4.45
+    },
+    {
+     "w": "an",
+     "t": 4.58
+    },
+    {
+     "w": "athlete",
+     "t": 4.71
+    },
+    {
+     "w": "if",
+     "t": 5.158
+    },
+    {
+     "w": "I",
+     "t": 5.276
+    },
+    {
+     "w": "just",
+     "t": 5.37
+    },
+    {
+     "w": "try",
+     "t": 5.594
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "The job is reading, research, writing, consulting and leading. Writing is the real skill: one page that inspires the creatives.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "l",
+     "pose": "hold",
+     "hold": "card"
+    },
+    {
+     "id": "cr",
+     "look": "student",
+     "v": 2,
+     "at": "table",
+     "expr": "neutral"
+    },
+    {
+     "id": "cr2",
+     "look": "shopper",
+     "v": 3,
+     "at": "table2",
+     "expr": "neutral"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "writing is",
+     "pose": "up",
+     "expr": "grin",
+     "at": 4.757
+    },
+    {
+     "who": "cr",
+     "cue": "inspires",
+     "pose": "cheer",
+     "expr": "laugh",
+     "at": 7.281
+    },
+    {
+     "who": "cr2",
+     "cue": "creatives",
+     "pose": "up",
+     "expr": "grin",
+     "at": 7.894
+    }
+   ],
+   "fx": [
+    {
+     "kind": "brain",
+     "who": "host",
+     "cue": "reading",
+     "at": 1.019
+    },
+    {
+     "kind": "bulb",
+     "who": "cr",
+     "cue": "inspires",
+     "at": 7.281
+    },
+    {
+     "kind": "bulb",
+     "who": "cr2",
+     "cue": "creatives",
+     "at": 7.894
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "writing is",
+     "shot": "host",
+     "at": 4.757
+    },
+    {
+     "cue": "inspires",
+     "shot": "two",
+     "who": "cr",
+     "at": 7.281
+    }
+   ],
+   "audio": "audio/w7-05.mp3",
+   "leadIn": 0.45,
+   "seconds": 9.45,
+   "words": [
+    {
+     "w": "The",
+     "t": 0.5
+    },
+    {
+     "w": "job",
+     "t": 0.641
+    },
+    {
+     "w": "is",
+     "t": 0.889
+    },
+    {
+     "w": "reading",
+     "t": 1.019
+    },
+    {
+     "w": "research",
+     "t": 1.679
+    },
+    {
+     "w": "writing",
+     "t": 2.517
+    },
+    {
+     "w": "consulting",
+     "t": 3.224
+    },
+    {
+     "w": "and",
+     "t": 3.825
+    },
+    {
+     "w": "leading",
+     "t": 3.979
+    },
+    {
+     "w": "Writing",
+     "t": 4.757
+    },
+    {
+     "w": "is",
+     "t": 5.276
+    },
+    {
+     "w": "the",
+     "t": 5.406
+    },
+    {
+     "w": "real",
+     "t": 5.488
+    },
+    {
+     "w": "skill",
+     "t": 5.748
+    },
+    {
+     "w": "one",
+     "t": 6.491
+    },
+    {
+     "w": "page",
+     "t": 6.774
+    },
+    {
+     "w": "that",
+     "t": 7.163
+    },
+    {
+     "w": "inspires",
+     "t": 7.281
+    },
+    {
+     "w": "the",
+     "t": 7.835
+    },
+    {
+     "w": "creatives",
+     "t": 7.894
+    }
+   ]
+  },
+  {
+   "set": "plaza",
+   "say": "Tim wanted to design for General Pants, but did marketing work experience there. The people he met that week got him a decade of jobs. People who get jobs know people.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "front",
+     "pose": "present"
+    },
+    {
+     "id": "t",
+     "look": "student",
+     "v": 4,
+     "at": "walkL",
+     "to": "shop",
+     "walkCue": "experience",
+     "hold": "bag",
+     "pose": "hold",
+     "walkAt": 3.696
+    },
+    {
+     "id": "m",
+     "look": "exec_f",
+     "v": 2,
+     "at": "shop2"
+    }
+   ],
+   "acts": [
+    {
+     "who": "m",
+     "cue": "met",
+     "pose": "present",
+     "expr": "smile",
+     "at": 5.453
+    },
+    {
+     "who": "t",
+     "cue": "decade",
+     "pose": "cheer",
+     "expr": "grin",
+     "at": 6.432
+    }
+   ],
+   "fx": [
+    {
+     "kind": "say",
+     "who": "m",
+     "text": "Welcome aboard!",
+     "cue": "met",
+     "at": 5.453
+    },
+    {
+     "kind": "stars",
+     "who": "t",
+     "cue": "decade",
+     "at": 6.432
+    },
+    {
+     "kind": "heart",
+     "who": "host",
+     "cue": "know",
+     "at": 8.908
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "met",
+     "shot": "two",
+     "who": "m",
+     "at": 5.453
+    },
+    {
+     "cue": "know people",
+     "shot": "close",
+     "at": 8.908
+    }
+   ],
+   "audio": "audio/w7-06.mp3",
+   "leadIn": 0.45,
+   "seconds": 10.482,
+   "words": [
+    {
+     "w": "Tim",
+     "t": 0.5
+    },
+    {
+     "w": "wanted",
+     "t": 0.771
+    },
+    {
+     "w": "to",
+     "t": 1.007
+    },
+    {
+     "w": "design",
+     "t": 1.066
+    },
+    {
+     "w": "for",
+     "t": 1.502
+    },
+    {
+     "w": "General",
+     "t": 1.62
+    },
+    {
+     "w": "Pants",
+     "t": 1.939
+    },
+    {
+     "w": "but",
+     "t": 2.693
+    },
+    {
+     "w": "did",
+     "t": 2.859
+    },
+    {
+     "w": "marketing",
+     "t": 3.059
+    },
+    {
+     "w": "work",
+     "t": 3.484
+    },
+    {
+     "w": "experience",
+     "t": 3.696
+    },
+    {
+     "w": "there",
+     "t": 4.226
+    },
+    {
+     "w": "The",
+     "t": 4.875
+    },
+    {
+     "w": "people",
+     "t": 5.016
+    },
+    {
+     "w": "he",
+     "t": 5.347
+    },
+    {
+     "w": "met",
+     "t": 5.453
+    },
+    {
+     "w": "that",
+     "t": 5.665
+    },
+    {
+     "w": "week",
+     "t": 5.807
+    },
+    {
+     "w": "got",
+     "t": 6.101
+    },
+    {
+     "w": "him",
+     "t": 6.255
+    },
+    {
+     "w": "a",
+     "t": 6.384
+    },
+    {
+     "w": "decade",
+     "t": 6.432
+    },
+    {
+     "w": "of",
+     "t": 6.88
+    },
+    {
+     "w": "jobs",
+     "t": 6.986
+    },
+    {
+     "w": "People",
+     "t": 7.8
+    },
+    {
+     "w": "who",
+     "t": 8.177
+    },
+    {
+     "w": "get",
+     "t": 8.318
+    },
+    {
+     "w": "jobs",
+     "t": 8.519
+    },
+    {
+     "w": "know",
+     "t": 8.908
+    },
+    {
+     "w": "people",
+     "t": 9.061
+    }
+   ]
+  },
+  {
+   "set": "home",
+   "say": "On social, stop thinking like a user. Media is cheap, so use scale. Don't blend in with the algorithm; stand out. Don't scam it either, it's a black box.",
+   "board": {
+    "title": "Stop thinking like a **user**",
+    "lines": [
+     {
+      "text": "Cheap media, **use scale**",
+      "cue": "scale",
+      "at": 4.946
+     },
+     {
+      "text": "**Stand out**, don't blend in",
+      "cue": "stand",
+      "at": 7.481
+     },
+     {
+      "text": "The algorithm is a **black box**",
+      "cue": "black",
+      "at": 10.016
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "l",
+     "pose": "present"
+    },
+    {
+     "id": "u",
+     "look": "student",
+     "v": 8,
+     "at": "sofa",
+     "mode": "sit",
+     "hold": "phone",
+     "pose": "hold",
+     "expr": "dazed"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "stand",
+     "pose": "cheer",
+     "expr": "grin",
+     "at": 7.481
+    },
+    {
+     "who": "u",
+     "cue": "out",
+     "expr": "shock",
+     "at": 7.894
+    },
+    {
+     "who": "host",
+     "cue": "scam",
+     "pose": "hips",
+     "expr": "stern",
+     "at": 8.849
+    }
+   ],
+   "fx": [
+    {
+     "kind": "zzz",
+     "who": "u",
+     "cue": "user",
+     "at": 2.422
+    },
+    {
+     "kind": "exclaim",
+     "who": "u",
+     "cue": "stand",
+     "at": 7.481
+    },
+    {
+     "kind": "question",
+     "who": "host",
+     "cue": "black",
+     "at": 10.016
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "media",
+     "shot": "board",
+     "at": 3.236
+    },
+    {
+     "cue": "stand",
+     "shot": "actor",
+     "who": "u",
+     "at": 7.481
+    },
+    {
+     "cue": "scam",
+     "shot": "host",
+     "at": 8.849
+    }
+   ],
+   "audio": "audio/w7-07.mp3",
+   "leadIn": 0.45,
+   "seconds": 11.706,
+   "words": [
+    {
+     "w": "On",
+     "t": 0.5
+    },
+    {
+     "w": "social",
+     "t": 0.712
+    },
+    {
+     "w": "stop",
+     "t": 1.479
+    },
+    {
+     "w": "thinking",
+     "t": 1.868
+    },
+    {
+     "w": "like",
+     "t": 2.198
+    },
+    {
+     "w": "a",
+     "t": 2.399
+    },
+    {
+     "w": "user",
+     "t": 2.422
+    },
+    {
+     "w": "Media",
+     "t": 3.236
+    },
+    {
+     "w": "is",
+     "t": 3.731
+    },
+    {
+     "w": "cheap",
+     "t": 3.908
+    },
+    {
+     "w": "so",
+     "t": 4.474
+    },
+    {
+     "w": "use",
+     "t": 4.686
+    },
+    {
+     "w": "scale",
+     "t": 4.946
+    },
+    {
+     "w": "Don't",
+     "t": 5.783
+    },
+    {
+     "w": "blend",
+     "t": 6.054
+    },
+    {
+     "w": "in",
+     "t": 6.325
+    },
+    {
+     "w": "with",
+     "t": 6.514
+    },
+    {
+     "w": "the",
+     "t": 6.632
+    },
+    {
+     "w": "algorithm",
+     "t": 6.774
+    },
+    {
+     "w": "stand",
+     "t": 7.481
+    },
+    {
+     "w": "out",
+     "t": 7.894
+    },
+    {
+     "w": "Don't",
+     "t": 8.578
+    },
+    {
+     "w": "scam",
+     "t": 8.849
+    },
+    {
+     "w": "it",
+     "t": 9.12
+    },
+    {
+     "w": "either",
+     "t": 9.191
+    },
+    {
+     "w": "it's",
+     "t": 9.804
+    },
+    {
+     "w": "a",
+     "t": 9.958
+    },
+    {
+     "w": "black",
+     "t": 10.016
+    },
+    {
+     "w": "box",
+     "t": 10.323
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "A strategist works in four steps: discover, synthesis, plan and instruct. The client hands you a five page brief with everything under the sun. Your first job is subtraction.",
+   "board": {
+    "title": "The strategist's **four steps**",
+    "steps": [
+     {
+      "text": "**Discover**",
+      "cue": "discover",
+      "at": 2.646
+     },
+     {
+      "text": "**Synthesis**",
+      "cue": "synthesis",
+      "at": 3.366
+     },
+     {
+      "text": "**Plan**",
+      "cue": "plan",
+      "at": 4.25
+     },
+     {
+      "text": "**Instruct**",
+      "cue": "instruct",
+      "at": 4.828
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "c",
+     "pose": "present"
+    },
+    {
+     "id": "cl",
+     "look": "exec",
+     "v": 6,
+     "at": "walkR",
+     "to": "r",
+     "walkCue": "client",
+     "hold": "box",
+     "pose": "hold",
+     "walkAt": 5.866
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "everything",
+     "pose": "shrug",
+     "expr": "shock",
+     "at": 7.835
+    },
+    {
+     "who": "host",
+     "cue": "subtraction",
+     "pose": "point",
+     "expr": "grin",
+     "at": 10.382
+    }
+   ],
+   "fx": [
+    {
+     "kind": "burst",
+     "who": "cl",
+     "cue": "five",
+     "at": 6.62
+    },
+    {
+     "kind": "say",
+     "who": "host",
+     "text": "Keep it simple",
+     "cue": "subtraction",
+     "at": 10.382
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "client",
+     "shot": "two",
+     "who": "cl",
+     "at": 5.866
+    },
+    {
+     "cue": "subtraction",
+     "shot": "close",
+     "at": 10.382
+    }
+   ],
+   "audio": "audio/w7-08.mp3",
+   "leadIn": 0.45,
+   "seconds": 11.994,
+   "words": [
+    {
+     "w": "A",
+     "t": 0.5
+    },
+    {
+     "w": "strategist",
+     "t": 0.618
+    },
+    {
+     "w": "works",
+     "t": 1.196
+    },
+    {
+     "w": "in",
+     "t": 1.514
+    },
+    {
+     "w": "four",
+     "t": 1.597
+    },
+    {
+     "w": "steps",
+     "t": 1.809
+    },
+    {
+     "w": "discover",
+     "t": 2.646
+    },
+    {
+     "w": "synthesis",
+     "t": 3.366
+    },
+    {
+     "w": "plan",
+     "t": 4.25
+    },
+    {
+     "w": "and",
+     "t": 4.675
+    },
+    {
+     "w": "instruct",
+     "t": 4.828
+    },
+    {
+     "w": "The",
+     "t": 5.724
+    },
+    {
+     "w": "client",
+     "t": 5.866
+    },
+    {
+     "w": "hands",
+     "t": 6.243
+    },
+    {
+     "w": "you",
+     "t": 6.479
+    },
+    {
+     "w": "a",
+     "t": 6.585
+    },
+    {
+     "w": "five",
+     "t": 6.62
+    },
+    {
+     "w": "page",
+     "t": 6.962
+    },
+    {
+     "w": "brief",
+     "t": 7.257
+    },
+    {
+     "w": "with",
+     "t": 7.599
+    },
+    {
+     "w": "everything",
+     "t": 7.835
+    },
+    {
+     "w": "under",
+     "t": 8.271
+    },
+    {
+     "w": "the",
+     "t": 8.495
+    },
+    {
+     "w": "sun",
+     "t": 8.578
+    },
+    {
+     "w": "Your",
+     "t": 9.321
+    },
+    {
+     "w": "first",
+     "t": 9.616
+    },
+    {
+     "w": "job",
+     "t": 9.958
+    },
+    {
+     "w": "is",
+     "t": 10.241
+    },
+    {
+     "w": "subtraction",
+     "t": 10.382
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "To discover, use the five Cs: company, culture, category, connections and consumer. Mostly desk research.",
+   "board": {
+    "title": "The **5Cs**",
+    "steps": [
+     {
+      "text": "**Company**",
+      "cue": "company",
+      "at": 2.823
+     },
+     {
+      "text": "**Culture**",
+      "cue": "culture",
+      "at": 3.519
+     },
+     {
+      "text": "**Category**",
+      "cue": "category",
+      "at": 4.262
+     },
+     {
+      "text": "**Connections** the medium",
+      "cue": "connections",
+      "at": 4.993
+     },
+     {
+      "text": "**Consumer**",
+      "cue": "consumer",
+      "at": 5.877
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "point"
+    },
+    {
+     "id": "w",
+     "look": "student",
+     "v": 1,
+     "at": "r",
+     "hold": "laptop",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "w",
+     "cue": "desk",
+     "expr": "smile",
+     "at": 7.304
+    }
+   ],
+   "fx": [
+    {
+     "kind": "eye",
+     "who": "w",
+     "cue": "desk",
+     "at": 7.304
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "desk",
+     "shot": "actor",
+     "who": "w",
+     "at": 7.304
+    }
+   ],
+   "audio": "audio/w7-09.mp3",
+   "leadIn": 0.45,
+   "seconds": 9.162,
+   "words": [
+    {
+     "w": "To",
+     "t": 0.5
+    },
+    {
+     "w": "discover",
+     "t": 0.63
+    },
+    {
+     "w": "use",
+     "t": 1.384
+    },
+    {
+     "w": "the",
+     "t": 1.632
+    },
+    {
+     "w": "five",
+     "t": 1.703
+    },
+    {
+     "w": "Cs",
+     "t": 1.998
+    },
+    {
+     "w": "company",
+     "t": 2.823
+    },
+    {
+     "w": "culture",
+     "t": 3.519
+    },
+    {
+     "w": "category",
+     "t": 4.262
+    },
+    {
+     "w": "connections",
+     "t": 4.993
+    },
+    {
+     "w": "and",
+     "t": 5.712
+    },
+    {
+     "w": "consumer",
+     "t": 5.877
+    },
+    {
+     "w": "Mostly",
+     "t": 6.774
+    },
+    {
+     "w": "desk",
+     "t": 7.304
+    },
+    {
+     "w": "research",
+     "t": 7.611
+    }
+   ]
+  },
+  {
+   "set": "plaza",
+   "say": "Bill Bernbach said nothing is so powerful as an insight into human nature. So watch people, and enjoy how strange they are. Frameworks add discipline, not the insight.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "front",
+     "pose": "hold",
+     "hold": "clipboard"
+    },
+    {
+     "id": "a",
+     "look": "shopper",
+     "v": 1,
+     "at": "stall",
+     "pose": "chin"
+    },
+    {
+     "id": "b",
+     "look": "elder",
+     "v": 3,
+     "at": "shelf",
+     "hold": "bag",
+     "pose": "hold"
+    },
+    {
+     "id": "k",
+     "look": "kid",
+     "v": 4,
+     "at": "walkL",
+     "to": "l",
+     "walkCue": "watch",
+     "walkAt": 4.946
+    }
+   ],
+   "acts": [
+    {
+     "who": "a",
+     "cue": "watch",
+     "expr": "nervous",
+     "at": 4.946
+    },
+    {
+     "who": "k",
+     "cue": "strange",
+     "pose": "cheer",
+     "expr": "laugh",
+     "at": 6.526
+    },
+    {
+     "who": "host",
+     "cue": "insight",
+     "pose": "point",
+     "expr": "stern",
+     "at": 9.887
+    }
+   ],
+   "fx": [
+    {
+     "kind": "eye",
+     "who": "host",
+     "cue": "watch",
+     "at": 4.946
+    },
+    {
+     "kind": "question",
+     "who": "a",
+     "cue": "enjoy",
+     "at": 5.925
+    },
+    {
+     "kind": "burst",
+     "who": "k",
+     "cue": "strange",
+     "at": 6.526
+    },
+    {
+     "kind": "brain",
+     "who": "host",
+     "cue": "insight",
+     "at": 9.887
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "watch",
+     "shot": "host",
+     "at": 4.946
+    },
+    {
+     "cue": "strange",
+     "shot": "actor",
+     "who": "k",
+     "at": 6.526
+    },
+    {
+     "cue": "Frameworks",
+     "shot": "close",
+     "at": 7.8
+    }
+   ],
+   "audio": "audio/w7-10.mp3",
+   "leadIn": 0.45,
+   "seconds": 11.298,
+   "words": [
+    {
+     "w": "Bill",
+     "t": 0.5
+    },
+    {
+     "w": "Bernbach",
+     "t": 0.748
+    },
+    {
+     "w": "said",
+     "t": 1.231
+    },
+    {
+     "w": "nothing",
+     "t": 1.467
+    },
+    {
+     "w": "is",
+     "t": 1.809
+    },
+    {
+     "w": "so",
+     "t": 1.88
+    },
+    {
+     "w": "powerful",
+     "t": 2.08
+    },
+    {
+     "w": "as",
+     "t": 2.634
+    },
+    {
+     "w": "an",
+     "t": 2.752
+    },
+    {
+     "w": "insight",
+     "t": 2.847
+    },
+    {
+     "w": "into",
+     "t": 3.318
+    },
+    {
+     "w": "human",
+     "t": 3.578
+    },
+    {
+     "w": "nature",
+     "t": 3.849
+    },
+    {
+     "w": "So",
+     "t": 4.627
+    },
+    {
+     "w": "watch",
+     "t": 4.946
+    },
+    {
+     "w": "people",
+     "t": 5.17
+    },
+    {
+     "w": "and",
+     "t": 5.795
+    },
+    {
+     "w": "enjoy",
+     "t": 5.925
+    },
+    {
+     "w": "how",
+     "t": 6.325
+    },
+    {
+     "w": "strange",
+     "t": 6.526
+    },
+    {
+     "w": "they",
+     "t": 6.986
+    },
+    {
+     "w": "are",
+     "t": 7.151
+    },
+    {
+     "w": "Frameworks",
+     "t": 7.8
+    },
+    {
+     "w": "add",
+     "t": 8.472
+    },
+    {
+     "w": "discipline",
+     "t": 8.672
+    },
+    {
+     "w": "not",
+     "t": 9.45
+    },
+    {
+     "w": "the",
+     "t": 9.722
+    },
+    {
+     "w": "insight",
+     "t": 9.887
+    }
+   ]
+  },
+  {
+   "set": "stage",
+   "say": "The basic brief is get, who, to, by. Get inspiring athletes, who just did this, to repurchase, by reminding them of something.",
+   "board": {
+    "title": "GET / WHO / TO / BY",
+    "steps": [
+     {
+      "text": "**Get** inspiring athletes",
+      "cue": "get inspiring",
+      "at": 3.613
+     },
+     {
+      "text": "**Who** just did this",
+      "cue": "who just",
+      "at": 5.087
+     },
+     {
+      "text": "**To** repurchase",
+      "cue": "repurchase",
+      "at": 6.231
+     },
+     {
+      "text": "**By** reminding them",
+      "cue": "reminding",
+      "at": 7.328
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "a",
+     "look": "student",
+     "v": 2,
+     "at": "aisle2"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "reminding",
+     "pose": "up",
+     "expr": "grin",
+     "at": 7.328
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "reminding",
+     "shot": "host",
+     "at": 7.328
+    }
+   ],
+   "audio": "audio/w7-11.mp3",
+   "leadIn": 0.45,
+   "seconds": 9.426,
+   "words": [
+    {
+     "w": "The",
+     "t": 0.5
+    },
+    {
+     "w": "basic",
+     "t": 0.641
+    },
+    {
+     "w": "brief",
+     "t": 0.995
+    },
+    {
+     "w": "is",
+     "t": 1.314
+    },
+    {
+     "w": "get",
+     "t": 1.42
+    },
+    {
+     "w": "who",
+     "t": 1.915
+    },
+    {
+     "w": "to",
+     "t": 2.41
+    },
+    {
+     "w": "by",
+     "t": 2.87
+    },
+    {
+     "w": "Get",
+     "t": 3.613
+    },
+    {
+     "w": "inspiring",
+     "t": 3.814
+    },
+    {
+     "w": "athletes",
+     "t": 4.38
+    },
+    {
+     "w": "who",
+     "t": 5.087
+    },
+    {
+     "w": "just",
+     "t": 5.217
+    },
+    {
+     "w": "did",
+     "t": 5.488
+    },
+    {
+     "w": "this",
+     "t": 5.641
+    },
+    {
+     "w": "to",
+     "t": 6.125
+    },
+    {
+     "w": "repurchase",
+     "t": 6.231
+    },
+    {
+     "w": "by",
+     "t": 7.186
+    },
+    {
+     "w": "reminding",
+     "t": 7.328
+    },
+    {
+     "w": "them",
+     "t": 7.811
+    },
+    {
+     "w": "of",
+     "t": 7.917
+    },
+    {
+     "w": "something",
+     "t": 7.988
+    }
+   ]
+  },
+  {
+   "set": "plaza",
+   "say": "The single minded proposition is the hardest part. It's an invitation, not a claim. Not our chocolate is the richest, but what the richest chocolate tastes like, and this is ours.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "c",
+     "pose": "hold",
+     "hold": "box",
+     "holdCol": "#6b3b22"
+    },
+    {
+     "id": "s",
+     "look": "shopper",
+     "v": 5,
+     "at": "r",
+     "hold": "bag",
+     "pose": "hold",
+     "expr": "neutral"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "claim",
+     "pose": "hips",
+     "expr": "stern",
+     "at": 4.958
+    },
+    {
+     "who": "host",
+     "cue": "tastes",
+     "pose": "present",
+     "expr": "smile",
+     "at": 8.684
+    },
+    {
+     "who": "s",
+     "cue": "ours",
+     "expr": "lick",
+     "at": 10.028
+    }
+   ],
+   "fx": [
+    {
+     "kind": "cross",
+     "who": "host",
+     "cue": "richest",
+     "at": 6.797
+    },
+    {
+     "kind": "heart",
+     "who": "s",
+     "cue": "tastes",
+     "at": 8.684
+    },
+    {
+     "kind": "think",
+     "who": "s",
+     "text": "Ooh, yes please",
+     "cue": "ours",
+     "at": 10.028
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "claim",
+     "shot": "host",
+     "at": 4.958
+    },
+    {
+     "cue": "tastes",
+     "shot": "two",
+     "who": "s",
+     "at": 8.684
+    },
+    {
+     "cue": "ours",
+     "shot": "close",
+     "who": "s",
+     "at": 10.028
+    }
+   ],
+   "audio": "audio/w7-12.mp3",
+   "leadIn": 0.45,
+   "seconds": 11.418,
+   "words": [
+    {
+     "w": "The",
+     "t": 0.5
+    },
+    {
+     "w": "single",
+     "t": 0.653
+    },
+    {
+     "w": "minded",
+     "t": 1.031
+    },
+    {
+     "w": "proposition",
+     "t": 1.384
+    },
+    {
+     "w": "is",
+     "t": 2.009
+    },
+    {
+     "w": "the",
+     "t": 2.151
+    },
+    {
+     "w": "hardest",
+     "t": 2.245
+    },
+    {
+     "w": "part",
+     "t": 2.693
+    },
+    {
+     "w": "It's",
+     "t": 3.413
+    },
+    {
+     "w": "an",
+     "t": 3.613
+    },
+    {
+     "w": "invitation",
+     "t": 3.696
+    },
+    {
+     "w": "not",
+     "t": 4.675
+    },
+    {
+     "w": "a",
+     "t": 4.91
+    },
+    {
+     "w": "claim",
+     "t": 4.958
+    },
+    {
+     "w": "Not",
+     "t": 5.783
+    },
+    {
+     "w": "our",
+     "t": 6.042
+    },
+    {
+     "w": "chocolate",
+     "t": 6.184
+    },
+    {
+     "w": "is",
+     "t": 6.609
+    },
+    {
+     "w": "the",
+     "t": 6.726
+    },
+    {
+     "w": "richest",
+     "t": 6.797
+    },
+    {
+     "w": "but",
+     "t": 7.54
+    },
+    {
+     "w": "what",
+     "t": 7.67
+    },
+    {
+     "w": "the",
+     "t": 7.859
+    },
+    {
+     "w": "richest",
+     "t": 7.941
+    },
+    {
+     "w": "chocolate",
+     "t": 8.342
+    },
+    {
+     "w": "tastes",
+     "t": 8.684
+    },
+    {
+     "w": "like",
+     "t": 9.014
+    },
+    {
+     "w": "and",
+     "t": 9.568
+    },
+    {
+     "w": "this",
+     "t": 9.733
+    },
+    {
+     "w": "is",
+     "t": 9.934
+    },
+    {
+     "w": "ours",
+     "t": 10.028
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "To write a brief: gather everything, write the task plainly, get to a point of view, then rewrite and recap. Without a point of view, it's just a summary.",
+   "board": {
+    "title": "How to write a **brief**",
+    "steps": [
+     {
+      "text": "**Gather** everything",
+      "cue": "gather",
+      "at": 1.632
+     },
+     {
+      "text": "Write the task **plainly**",
+      "cue": "plainly",
+      "at": 3.259
+     },
+     {
+      "text": "Get to a **point of view**",
+      "cue": "point",
+      "at": 4.238
+     },
+     {
+      "text": "**Rewrite** and recap",
+      "cue": "rewrite",
+      "at": 5.335
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "e",
+     "look": "exec_f",
+     "v": 3,
+     "at": "table",
+     "hold": "card",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "e",
+     "cue": "summary",
+     "expr": "dazed",
+     "at": 8.755
+    }
+   ],
+   "fx": [
+    {
+     "kind": "zzz",
+     "who": "e",
+     "cue": "summary",
+     "at": 8.755
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "summary",
+     "shot": "two",
+     "who": "e",
+     "at": 8.755
+    }
+   ],
+   "audio": "audio/w7-13.mp3",
+   "leadIn": 0.45,
+   "seconds": 10.194,
+   "words": [
+    {
+     "w": "To",
+     "t": 0.5
+    },
+    {
+     "w": "write",
+     "t": 0.641
+    },
+    {
+     "w": "a",
+     "t": 0.83
+    },
+    {
+     "w": "brief",
+     "t": 0.866
+    },
+    {
+     "w": "gather",
+     "t": 1.632
+    },
+    {
+     "w": "everything",
+     "t": 1.939
+    },
+    {
+     "w": "write",
+     "t": 2.634
+    },
+    {
+     "w": "the",
+     "t": 2.894
+    },
+    {
+     "w": "task",
+     "t": 2.965
+    },
+    {
+     "w": "plainly",
+     "t": 3.259
+    },
+    {
+     "w": "get",
+     "t": 3.932
+    },
+    {
+     "w": "to",
+     "t": 4.097
+    },
+    {
+     "w": "a",
+     "t": 4.203
+    },
+    {
+     "w": "point",
+     "t": 4.238
+    },
+    {
+     "w": "of",
+     "t": 4.486
+    },
+    {
+     "w": "view",
+     "t": 4.545
+    },
+    {
+     "w": "then",
+     "t": 5.146
+    },
+    {
+     "w": "rewrite",
+     "t": 5.335
+    },
+    {
+     "w": "and",
+     "t": 5.818
+    },
+    {
+     "w": "recap",
+     "t": 5.984
+    },
+    {
+     "w": "Without",
+     "t": 6.809
+    },
+    {
+     "w": "a",
+     "t": 7.186
+    },
+    {
+     "w": "point",
+     "t": 7.234
+    },
+    {
+     "w": "of",
+     "t": 7.493
+    },
+    {
+     "w": "view",
+     "t": 7.564
+    },
+    {
+     "w": "it's",
+     "t": 8.2
+    },
+    {
+     "w": "just",
+     "t": 8.413
+    },
+    {
+     "w": "a",
+     "t": 8.719
+    },
+    {
+     "w": "summary",
+     "t": 8.755
+    }
+   ]
+  },
+  {
+   "set": "stage",
+   "say": "Then the planning cycle: where are we, why are we there, where could we be, how could we get there, and are we getting there? Then round again.",
+   "board": {
+    "title": "The **planning cycle**",
+    "steps": [
+     {
+      "text": "Where **are** we?",
+      "cue": "where are",
+      "at": 1.833
+     },
+     {
+      "text": "**Why** are we there?",
+      "cue": "why",
+      "at": 2.682
+     },
+     {
+      "text": "Where **could** we be?",
+      "cue": "could we be",
+      "at": 3.837
+     },
+     {
+      "text": "**How** could we get there?",
+      "cue": "how",
+      "at": 4.604
+     },
+     {
+      "text": "Are we **getting** there?",
+      "cue": "getting",
+      "at": 5.96
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "round",
+     "pose": "cheer",
+     "expr": "grin",
+     "at": 7.257
+    }
+   ],
+   "fx": [
+    {
+     "kind": "clock",
+     "who": "host",
+     "cue": "round",
+     "at": 7.257
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "round",
+     "shot": "host",
+     "at": 7.257
+    }
+   ],
+   "audio": "audio/w7-14.mp3",
+   "leadIn": 0.45,
+   "seconds": 8.922,
+   "words": [
+    {
+     "w": "Then",
+     "t": 0.5
+    },
+    {
+     "w": "the",
+     "t": 0.759
+    },
+    {
+     "w": "planning",
+     "t": 0.818
+    },
+    {
+     "w": "cycle",
+     "t": 1.149
+    },
+    {
+     "w": "where",
+     "t": 1.833
+    },
+    {
+     "w": "are",
+     "t": 2.092
+    },
+    {
+     "w": "we",
+     "t": 2.116
+    },
+    {
+     "w": "why",
+     "t": 2.682
+    },
+    {
+     "w": "are",
+     "t": 2.953
+    },
+    {
+     "w": "we",
+     "t": 2.976
+    },
+    {
+     "w": "there",
+     "t": 3.118
+    },
+    {
+     "w": "where",
+     "t": 3.625
+    },
+    {
+     "w": "could",
+     "t": 3.837
+    },
+    {
+     "w": "we",
+     "t": 3.979
+    },
+    {
+     "w": "be",
+     "t": 4.097
+    },
+    {
+     "w": "how",
+     "t": 4.604
+    },
+    {
+     "w": "could",
+     "t": 4.792
+    },
+    {
+     "w": "we",
+     "t": 4.934
+    },
+    {
+     "w": "get",
+     "t": 5.028
+    },
+    {
+     "w": "there",
+     "t": 5.217
+    },
+    {
+     "w": "and",
+     "t": 5.653
+    },
+    {
+     "w": "are",
+     "t": 5.818
+    },
+    {
+     "w": "we",
+     "t": 5.854
+    },
+    {
+     "w": "getting",
+     "t": 5.96
+    },
+    {
+     "w": "there",
+     "t": 6.243
+    },
+    {
+     "w": "Then",
+     "t": 6.868
+    },
+    {
+     "w": "round",
+     "t": 7.257
+    },
+    {
+     "w": "again",
+     "t": 7.54
+    }
+   ]
+  },
+  {
+   "set": "street",
+   "say": "The Effie is the strategist's award, the only one that matters to Tim. It takes a four thousand word essay proving the campaign worked, because strategy leads to profit.",
+   "board": {
+    "title": "The **Effie**",
+    "big": "4,000",
+    "caption": "words proving it **worked**",
+    "cue": "four",
+    "at": 5.005
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "c",
+     "look": "exec",
+     "v": 1,
+     "at": "r",
+     "hold": "phone",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "award",
+     "pose": "cheer",
+     "expr": "grin",
+     "at": 1.903
+    },
+    {
+     "who": "c",
+     "cue": "profit",
+     "expr": "grin",
+     "pose": "up",
+     "at": 8.814
+    }
+   ],
+   "fx": [
+    {
+     "kind": "stars",
+     "who": "host",
+     "cue": "award",
+     "at": 1.903
+    },
+    {
+     "kind": "money",
+     "who": "c",
+     "cue": "profit",
+     "at": 8.814
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "host",
+     "at": 0.2
+    },
+    {
+     "cue": "four",
+     "shot": "board",
+     "at": 5.005
+    },
+    {
+     "cue": "profit",
+     "shot": "actor",
+     "who": "c",
+     "at": 8.814
+    }
+   ],
+   "audio": "audio/w7-15.mp3",
+   "leadIn": 0.45,
+   "seconds": 10.218,
+   "words": [
+    {
+     "w": "The",
+     "t": 0.5
+    },
+    {
+     "w": "Effie",
+     "t": 0.736
+    },
+    {
+     "w": "is",
+     "t": 1.101
+    },
+    {
+     "w": "the",
+     "t": 1.243
+    },
+    {
+     "w": "strategist's",
+     "t": 1.325
+    },
+    {
+     "w": "award",
+     "t": 1.903
+    },
+    {
+     "w": "the",
+     "t": 2.623
+    },
+    {
+     "w": "only",
+     "t": 2.8
+    },
+    {
+     "w": "one",
+     "t": 3.071
+    },
+    {
+     "w": "that",
+     "t": 3.307
+    },
+    {
+     "w": "matters",
+     "t": 3.436
+    },
+    {
+     "w": "to",
+     "t": 3.767
+    },
+    {
+     "w": "Tim",
+     "t": 3.849
+    },
+    {
+     "w": "It",
+     "t": 4.568
+    },
+    {
+     "w": "takes",
+     "t": 4.734
+    },
+    {
+     "w": "a",
+     "t": 4.958
+    },
+    {
+     "w": "four",
+     "t": 5.005
+    },
+    {
+     "w": "thousand",
+     "t": 5.241
+    },
+    {
+     "w": "word",
+     "t": 5.618
+    },
+    {
+     "w": "essay",
+     "t": 5.854
+    },
+    {
+     "w": "proving",
+     "t": 6.184
+    },
+    {
+     "w": "the",
+     "t": 6.55
+    },
+    {
+     "w": "campaign",
+     "t": 6.609
+    },
+    {
+     "w": "worked",
+     "t": 7.057
+    },
+    {
+     "w": "because",
+     "t": 7.717
+    },
+    {
+     "w": "strategy",
+     "t": 7.965
+    },
+    {
+     "w": "leads",
+     "t": 8.436
+    },
+    {
+     "w": "to",
+     "t": 8.743
+    },
+    {
+     "w": "profit",
+     "t": 8.814
+    }
+   ]
+  },
+  {
+   "set": "street",
+   "say": "And we owe our clients. If an agency does a bad job, it probably won't get fired. The people in the factory will.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "l",
+     "pose": "present",
+     "expr": "stern"
+    },
+    {
+     "id": "f1",
+     "look": "worker",
+     "v": 1,
+     "at": "c"
+    },
+    {
+     "id": "f2",
+     "look": "worker",
+     "v": 6,
+     "at": "r"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "bad",
+     "pose": "shrug",
+     "at": 3.283
+    },
+    {
+     "who": "f1",
+     "cue": "factory",
+     "expr": "shock",
+     "at": 6.75
+    },
+    {
+     "who": "f2",
+     "cue": "will",
+     "expr": "pained",
+     "at": 7.163
+    }
+   ],
+   "fx": [
+    {
+     "kind": "exclaim",
+     "who": "f1",
+     "cue": "factory",
+     "at": 6.75
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "factory",
+     "shot": "close",
+     "who": "f1",
+     "at": 6.75
+    }
+   ],
+   "audio": "audio/w7-16.mp3",
+   "leadIn": 0.45,
+   "seconds": 8.514,
+   "words": [
+    {
+     "w": "And",
+     "t": 0.5
+    },
+    {
+     "w": "we",
+     "t": 0.724
+    },
+    {
+     "w": "owe",
+     "t": 1.042
+    },
+    {
+     "w": "our",
+     "t": 1.29
+    },
+    {
+     "w": "clients",
+     "t": 1.432
+    },
+    {
+     "w": "If",
+     "t": 2.316
+    },
+    {
+     "w": "an",
+     "t": 2.493
+    },
+    {
+     "w": "agency",
+     "t": 2.67
+    },
+    {
+     "w": "does",
+     "t": 3.083
+    },
+    {
+     "w": "a",
+     "t": 3.236
+    },
+    {
+     "w": "bad",
+     "t": 3.283
+    },
+    {
+     "w": "job",
+     "t": 3.542
+    },
+    {
+     "w": "it",
+     "t": 4.226
+    },
+    {
+     "w": "probably",
+     "t": 4.368
+    },
+    {
+     "w": "won't",
+     "t": 4.792
+    },
+    {
+     "w": "get",
+     "t": 5.04
+    },
+    {
+     "w": "fired",
+     "t": 5.182
+    },
+    {
+     "w": "The",
+     "t": 5.995
+    },
+    {
+     "w": "people",
+     "t": 6.16
+    },
+    {
+     "w": "in",
+     "t": 6.573
+    },
+    {
+     "w": "the",
+     "t": 6.679
+    },
+    {
+     "w": "factory",
+     "t": 6.75
+    },
+    {
+     "w": "will",
+     "t": 7.163
+    }
+   ]
+  },
+  {
+   "set": "stage",
+   "say": "So learn, process, apply. Nobody reads advertising; people read what interests them, and sometimes it's an ad. Be curious and opinionated. That's week seven.",
+   "board": {
+    "title": "The **takeaways**",
+    "lines": [
+     {
+      "text": "**Learn**, process, apply",
+      "cue": "learn",
+      "at": 0.795
+     },
+     {
+      "text": "People read what **interests** them",
+      "cue": "interests",
+      "at": 5.653
+     },
+     {
+      "text": "Be **curious**, be **opinionated**",
+      "cue": "curious",
+      "at": 8.271
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "a",
+     "look": "student",
+     "v": 1,
+     "at": "aisle"
+    },
+    {
+     "id": "b",
+     "look": "student",
+     "v": 6,
+     "at": "aisle2"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "week",
+     "pose": "cheer",
+     "expr": "grin",
+     "at": 10.465
+    }
+   ],
+   "fx": [
+    {
+     "kind": "stars",
+     "who": "host",
+     "cue": "week",
+     "at": 10.465
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "curious",
+     "shot": "host",
+     "at": 8.271
+    },
+    {
+     "cue": "week",
+     "shot": "close",
+     "at": 10.465
+    }
+   ],
+   "audio": "audio/w7-17.mp3",
+   "leadIn": 0.45,
+   "seconds": 12.09,
+   "words": [
+    {
+     "w": "So",
+     "t": 0.5
+    },
+    {
+     "w": "learn",
+     "t": 0.795
+    },
+    {
+     "w": "process",
+     "t": 1.479
+    },
+    {
+     "w": "apply",
+     "t": 2.292
+    },
+    {
+     "w": "Nobody",
+     "t": 3.189
+    },
+    {
+     "w": "reads",
+     "t": 3.672
+    },
+    {
+     "w": "advertising",
+     "t": 3.932
+    },
+    {
+     "w": "people",
+     "t": 4.958
+    },
+    {
+     "w": "read",
+     "t": 5.3
+    },
+    {
+     "w": "what",
+     "t": 5.512
+    },
+    {
+     "w": "interests",
+     "t": 5.653
+    },
+    {
+     "w": "them",
+     "t": 6.066
+    },
+    {
+     "w": "and",
+     "t": 6.502
+    },
+    {
+     "w": "sometimes",
+     "t": 6.632
+    },
+    {
+     "w": "it's",
+     "t": 7.175
+    },
+    {
+     "w": "an",
+     "t": 7.281
+    },
+    {
+     "w": "ad",
+     "t": 7.363
+    },
+    {
+     "w": "Be",
+     "t": 8.083
+    },
+    {
+     "w": "curious",
+     "t": 8.271
+    },
+    {
+     "w": "and",
+     "t": 8.814
+    },
+    {
+     "w": "opinionated",
+     "t": 8.991
+    },
+    {
+     "w": "That's",
+     "t": 10.087
+    },
+    {
+     "w": "week",
+     "t": 10.465
+    },
+    {
+     "w": "seven",
+     "t": 10.7
+    }
+   ]
+  }
+ ],
+ "id": "w7",
+ "total": 189.43
+}

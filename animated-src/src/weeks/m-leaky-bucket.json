@@ -1,0 +1,637 @@
+{
+ "week": 0,
+ "title": "The leaky bucket",
+ "speaker": "Shannon Wright, Nestle Oceania, Week 5 (on Allen's)",
+ "beats": [
+  {
+   "set": "office",
+   "say": "The leaky bucket says brand health drains. The bucket holds today's buyers. Natural loss and trend pressure leak them out. A refill means new buyers.",
+   "board": {
+    "title": "The **leaky bucket**",
+    "steps": [
+     {
+      "text": "**Bucket**: today's buyers",
+      "cue": "today",
+      "at": 3.814
+     },
+     {
+      "text": "**Leak**: loss plus trend pressure",
+      "cue": "Natural",
+      "at": 5.005
+     },
+     {
+      "text": "**Refill**: new buyers, fresh relevance",
+      "cue": "refill",
+      "at": 7.741
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "e1",
+     "look": "exec",
+     "at": "table",
+     "v": 2
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "drains",
+     "pose": "point",
+     "at": 2.127
+    },
+    {
+     "who": "e1",
+     "cue": "refill",
+     "pose": "chin",
+     "expr": "smile",
+     "at": 7.741
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "Natural",
+     "shot": "two",
+     "who": "e1",
+     "at": 5.005
+    },
+    {
+     "cue": "refill",
+     "shot": "board",
+     "at": 7.741
+    }
+   ],
+   "audio": "audio/m-leaky-bucket-00.mp3",
+   "leadIn": 0.45,
+   "seconds": 10.146,
+   "words": [
+    {
+     "w": "The",
+     "t": 0.5
+    },
+    {
+     "w": "leaky",
+     "t": 0.641
+    },
+    {
+     "w": "bucket",
+     "t": 0.948
+    },
+    {
+     "w": "says",
+     "t": 1.302
+    },
+    {
+     "w": "brand",
+     "t": 1.573
+    },
+    {
+     "w": "health",
+     "t": 1.915
+    },
+    {
+     "w": "drains",
+     "t": 2.127
+    },
+    {
+     "w": "The",
+     "t": 2.976
+    },
+    {
+     "w": "bucket",
+     "t": 3.118
+    },
+    {
+     "w": "holds",
+     "t": 3.448
+    },
+    {
+     "w": "today's",
+     "t": 3.814
+    },
+    {
+     "w": "buyers",
+     "t": 4.144
+    },
+    {
+     "w": "Natural",
+     "t": 5.005
+    },
+    {
+     "w": "loss",
+     "t": 5.476
+    },
+    {
+     "w": "and",
+     "t": 5.771
+    },
+    {
+     "w": "trend",
+     "t": 5.936
+    },
+    {
+     "w": "pressure",
+     "t": 6.219
+    },
+    {
+     "w": "leak",
+     "t": 6.55
+    },
+    {
+     "w": "them",
+     "t": 6.821
+    },
+    {
+     "w": "out",
+     "t": 6.927
+    },
+    {
+     "w": "A",
+     "t": 7.587
+    },
+    {
+     "w": "refill",
+     "t": 7.741
+    },
+    {
+     "w": "means",
+     "t": 8.177
+    },
+    {
+     "w": "new",
+     "t": 8.507
+    },
+    {
+     "w": "buyers",
+     "t": 8.672
+    }
+   ]
+  },
+  {
+   "set": "plaza",
+   "say": "Allen's lollies look healthy today. But older fans drift away, and health trends pull younger ones off too.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "c"
+    },
+    {
+     "id": "e",
+     "look": "elder",
+     "at": "shelf",
+     "v": 2
+    },
+    {
+     "id": "s",
+     "look": "student",
+     "at": "r",
+     "v": 4,
+     "hold": "phone",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "healthy",
+     "pose": "present",
+     "expr": "smile",
+     "at": 1.491
+    },
+    {
+     "who": "e",
+     "cue": "drift",
+     "pose": "none",
+     "expr": "dazed",
+     "to": "walkL",
+     "at": 3.354
+    },
+    {
+     "who": "s",
+     "cue": "health",
+     "pose": "chin",
+     "expr": "nervous",
+     "at": 4.45
+    }
+   ],
+   "fx": [
+    {
+     "kind": "zzz",
+     "who": "e",
+     "cue": "drift",
+     "at": 3.354
+    },
+    {
+     "kind": "think",
+     "who": "s",
+     "cue": "health",
+     "text": "Too much sugar?",
+     "at": 4.45
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "drift",
+     "shot": "actor",
+     "who": "e",
+     "at": 3.354
+    },
+    {
+     "cue": "trends",
+     "shot": "actor",
+     "who": "s",
+     "at": 4.686
+    }
+   ],
+   "audio": "audio/m-leaky-bucket-01.mp3",
+   "leadIn": 0.45,
+   "seconds": 7.194,
+   "words": [
+    {
+     "w": "Allen's",
+     "t": 0.5
+    },
+    {
+     "w": "lollies",
+     "t": 0.889
+    },
+    {
+     "w": "look",
+     "t": 1.325
+    },
+    {
+     "w": "healthy",
+     "t": 1.491
+    },
+    {
+     "w": "today",
+     "t": 1.785
+    },
+    {
+     "w": "But",
+     "t": 2.564
+    },
+    {
+     "w": "older",
+     "t": 2.776
+    },
+    {
+     "w": "fans",
+     "t": 3.0
+    },
+    {
+     "w": "drift",
+     "t": 3.354
+    },
+    {
+     "w": "away",
+     "t": 3.59
+    },
+    {
+     "w": "and",
+     "t": 4.321
+    },
+    {
+     "w": "health",
+     "t": 4.45
+    },
+    {
+     "w": "trends",
+     "t": 4.686
+    },
+    {
+     "w": "pull",
+     "t": 4.993
+    },
+    {
+     "w": "younger",
+     "t": 5.205
+    },
+    {
+     "w": "ones",
+     "t": 5.512
+    },
+    {
+     "w": "off",
+     "t": 5.759
+    },
+    {
+     "w": "too",
+     "t": 5.889
+    }
+   ]
+  },
+  {
+   "set": "plaza",
+   "say": "So Allen's refills the bucket. A playground, not a museum: intense flavours and wild textures for Gen Z.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "c"
+    },
+    {
+     "id": "k",
+     "look": "student",
+     "at": "walkR",
+     "v": 6,
+     "to": "shelf",
+     "walkCue": "refills",
+     "walkAt": 1.373
+    },
+    {
+     "id": "kid",
+     "look": "kid",
+     "at": "l",
+     "v": 3
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "playground",
+     "pose": "up",
+     "expr": "grin",
+     "at": 2.8
+    },
+    {
+     "who": "k",
+     "cue": "intense",
+     "pose": "cheer",
+     "expr": "laugh",
+     "at": 4.686
+    },
+    {
+     "who": "kid",
+     "cue": "textures",
+     "expr": "grin",
+     "at": 6.007
+    }
+   ],
+   "fx": [
+    {
+     "kind": "tick",
+     "who": "host",
+     "cue": "playground",
+     "at": 2.8
+    },
+    {
+     "kind": "stars",
+     "who": "k",
+     "cue": "intense",
+     "at": 4.686
+    },
+    {
+     "kind": "heart",
+     "who": "kid",
+     "cue": "textures",
+     "at": 6.007
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "intense",
+     "shot": "actor",
+     "who": "k",
+     "at": 4.686
+    },
+    {
+     "cue": "textures",
+     "shot": "actor",
+     "who": "kid",
+     "at": 6.007
+    }
+   ],
+   "audio": "audio/m-leaky-bucket-02.mp3",
+   "leadIn": 0.45,
+   "seconds": 8.13,
+   "words": [
+    {
+     "w": "So",
+     "t": 0.5
+    },
+    {
+     "w": "Allen's",
+     "t": 0.913
+    },
+    {
+     "w": "refills",
+     "t": 1.373
+    },
+    {
+     "w": "the",
+     "t": 1.833
+    },
+    {
+     "w": "bucket",
+     "t": 1.903
+    },
+    {
+     "w": "A",
+     "t": 2.682
+    },
+    {
+     "w": "playground",
+     "t": 2.8
+    },
+    {
+     "w": "not",
+     "t": 3.531
+    },
+    {
+     "w": "a",
+     "t": 3.767
+    },
+    {
+     "w": "museum",
+     "t": 3.79
+    },
+    {
+     "w": "intense",
+     "t": 4.686
+    },
+    {
+     "w": "flavours",
+     "t": 5.075
+    },
+    {
+     "w": "and",
+     "t": 5.535
+    },
+    {
+     "w": "wild",
+     "t": 5.689
+    },
+    {
+     "w": "textures",
+     "t": 6.007
+    },
+    {
+     "w": "for",
+     "t": 6.455
+    },
+    {
+     "w": "Gen",
+     "t": 6.561
+    },
+    {
+     "w": "Z",
+     "t": 6.797
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Even a strong brand has to keep recruiting new buyers, or it slowly runs dry.",
+   "board": {
+    "title": "Keep the **bucket full**",
+    "lines": [
+     {
+      "text": "Keep **recruiting** new buyers",
+      "cue": "recruiting",
+      "at": 2.033
+     },
+     {
+      "text": "Or it runs **dry**",
+      "cue": "dry",
+      "at": 4.297
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "point"
+    },
+    {
+     "id": "e1",
+     "look": "exec_f",
+     "at": "table",
+     "v": 5
+    }
+   ],
+   "acts": [
+    {
+     "who": "e1",
+     "cue": "dry",
+     "expr": "nervous",
+     "at": 4.297
+    }
+   ],
+   "fx": [
+    {
+     "kind": "exclaim",
+     "who": "e1",
+     "cue": "dry",
+     "at": 4.297
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "dry",
+     "shot": "two",
+     "who": "e1",
+     "at": 4.297
+    }
+   ],
+   "hold": 1.0,
+   "audio": "audio/m-leaky-bucket-03.mp3",
+   "leadIn": 0.45,
+   "seconds": 6.082,
+   "words": [
+    {
+     "w": "Even",
+     "t": 0.5
+    },
+    {
+     "w": "a",
+     "t": 0.807
+    },
+    {
+     "w": "strong",
+     "t": 0.842
+    },
+    {
+     "w": "brand",
+     "t": 1.196
+    },
+    {
+     "w": "has",
+     "t": 1.55
+    },
+    {
+     "w": "to",
+     "t": 1.726
+    },
+    {
+     "w": "keep",
+     "t": 1.797
+    },
+    {
+     "w": "recruiting",
+     "t": 2.033
+    },
+    {
+     "w": "new",
+     "t": 2.434
+    },
+    {
+     "w": "buyers",
+     "t": 2.587
+    },
+    {
+     "w": "or",
+     "t": 3.377
+    },
+    {
+     "w": "it",
+     "t": 3.519
+    },
+    {
+     "w": "slowly",
+     "t": 3.59
+    },
+    {
+     "w": "runs",
+     "t": 4.05
+    },
+    {
+     "w": "dry",
+     "t": 4.297
+    }
+   ]
+  }
+ ],
+ "id": "m-leaky-bucket",
+ "total": 31.53
+}

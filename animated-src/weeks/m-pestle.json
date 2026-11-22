@@ -1,0 +1,288 @@
+{
+ "week": 0,
+ "title": "PESTLE analysis",
+ "speaker": "Francis Aguilar's environmental scanning, 1967; later PEST and PESTLE",
+ "beats": [
+  {
+   "set": "office",
+   "say": "PESTLE scans the big forces around a market. Political and economic. Social and technological. Legal and environmental. Six forces no single brand controls.",
+   "board": {
+    "title": "**PESTLE** analysis",
+    "lines": [
+     {
+      "text": "**Political** and **Economic**",
+      "cue": "Political"
+     },
+     {
+      "text": "**Social** and **Technological**",
+      "cue": "Social"
+     },
+     {
+      "text": "**Legal** and **Environmental**",
+      "cue": "Legal"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "e1",
+     "look": "exec",
+     "v": 4,
+     "at": "table"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "Six",
+     "pose": "up",
+     "expr": "grin"
+    },
+    {
+     "who": "e1",
+     "cue": "controls",
+     "pose": "chin",
+     "expr": "nervous"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "question",
+     "who": "e1",
+     "cue": "controls"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "Six",
+     "shot": "close"
+    },
+    {
+     "cue": "controls",
+     "shot": "two",
+     "who": "e1"
+    }
+   ]
+  },
+  {
+   "set": "street",
+   "say": "Take an Australian beer brand. Younger people are drinking less. Social media is now their search engine. Ad rules are strict, and the cost of living bites.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "front"
+    },
+    {
+     "id": "p1",
+     "look": "student",
+     "v": 2,
+     "at": "l",
+     "hold": "phone",
+     "pose": "hold"
+    },
+    {
+     "id": "p2",
+     "look": "exec_f",
+     "v": 5,
+     "at": "r"
+    }
+   ],
+   "acts": [
+    {
+     "who": "p1",
+     "cue": "drinking",
+     "expr": "smile_closed"
+    },
+    {
+     "who": "p2",
+     "cue": "rules",
+     "pose": "hips",
+     "expr": "stern"
+    },
+    {
+     "who": "host",
+     "cue": "bites",
+     "pose": "shrug",
+     "expr": "nervous"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "think",
+     "who": "p1",
+     "text": "Sparkling water, thanks.",
+     "cue": "drinking"
+    },
+    {
+     "kind": "eye",
+     "who": "p1",
+     "cue": "search"
+    },
+    {
+     "kind": "exclaim",
+     "who": "p2",
+     "cue": "rules"
+    },
+    {
+     "kind": "money",
+     "who": "host",
+     "cue": "cost"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "drinking",
+     "shot": "actor",
+     "who": "p1"
+    },
+    {
+     "cue": "rules",
+     "shot": "actor",
+     "who": "p2"
+    },
+    {
+     "cue": "cost",
+     "shot": "close"
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "So the response writes itself: a premium no-alcohol range, sold through creators, inside the ad rules.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "l"
+    },
+    {
+     "id": "e1",
+     "look": "exec",
+     "v": 4,
+     "at": "table"
+    },
+    {
+     "id": "e2",
+     "look": "exec_f",
+     "v": 1,
+     "at": "table2"
+    }
+   ],
+   "acts": [
+    {
+     "who": "e1",
+     "cue": "premium",
+     "pose": "up",
+     "expr": "grin"
+    },
+    {
+     "who": "e2",
+     "cue": "creators",
+     "pose": "cheer",
+     "expr": "laugh"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "bulb",
+     "who": "e1",
+     "cue": "premium"
+    },
+    {
+     "kind": "tick",
+     "who": "e2",
+     "cue": "rules"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "premium",
+     "shot": "actor",
+     "who": "e1"
+    },
+    {
+     "cue": "creators",
+     "shot": "two",
+     "who": "e2"
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Use it like this: pick the two or three forces that matter most, give a real example of each, and say what the brand should do.",
+   "board": {
+    "title": "Use it **like this**",
+    "lines": [
+     {
+      "text": "Pick the **two or three** that matter",
+      "cue": "pick"
+     },
+     {
+      "text": "A real **example** of each",
+      "cue": "example"
+     },
+     {
+      "text": "Then the brand's **response**",
+      "cue": "should"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "e1",
+     "look": "exec",
+     "v": 4,
+     "at": "table"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "example",
+     "pose": "point"
+    },
+    {
+     "who": "e1",
+     "cue": "should",
+     "expr": "smile"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "should",
+     "shot": "close"
+    }
+   ],
+   "hold": 1.0
+  }
+ ]
+}

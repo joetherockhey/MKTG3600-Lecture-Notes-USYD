@@ -1,0 +1,663 @@
+{
+ "week": 0,
+ "title": "Four principles for brand conversations (cultural relevance)",
+ "speaker": "Shannon Wright, Nestle Oceania, Week 5",
+ "beats": [
+  {
+   "set": "office",
+   "say": "To join culture, follow four principles. Meet people where they are, nail tone and timing, know the brand's role, and subvert your own equity.",
+   "board": {
+    "title": "Four principles for **cultural relevance**",
+    "steps": [
+     {
+      "text": "**Meet them** where they are",
+      "cue": "Meet",
+      "at": 3.307
+     },
+     {
+      "text": "**Tone and timing** are everything",
+      "cue": "tone",
+      "at": 5.123
+     },
+     {
+      "text": "**Role** and point of view",
+      "cue": "role",
+      "at": 6.88
+     },
+     {
+      "text": "**Subvert** your equity",
+      "cue": "subvert",
+      "at": 7.599
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "e1",
+     "look": "exec_f",
+     "at": "table",
+     "v": 3
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "Meet",
+     "pose": "point",
+     "at": 3.307
+    },
+    {
+     "who": "e1",
+     "cue": "subvert",
+     "pose": "chin",
+     "expr": "grin",
+     "at": 7.599
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "role",
+     "shot": "two",
+     "who": "e1",
+     "at": 6.88
+    },
+    {
+     "cue": "subvert",
+     "shot": "board",
+     "at": 7.599
+    }
+   ],
+   "audio": "audio/m-four-principles-cultural-relevance-00.mp3",
+   "leadIn": 0.45,
+   "seconds": 9.834,
+   "words": [
+    {
+     "w": "To",
+     "t": 0.5
+    },
+    {
+     "w": "join",
+     "t": 0.653
+    },
+    {
+     "w": "culture",
+     "t": 0.936
+    },
+    {
+     "w": "follow",
+     "t": 1.644
+    },
+    {
+     "w": "four",
+     "t": 2.045
+    },
+    {
+     "w": "principles",
+     "t": 2.292
+    },
+    {
+     "w": "Meet",
+     "t": 3.307
+    },
+    {
+     "w": "people",
+     "t": 3.625
+    },
+    {
+     "w": "where",
+     "t": 3.92
+    },
+    {
+     "w": "they",
+     "t": 4.061
+    },
+    {
+     "w": "are",
+     "t": 4.25
+    },
+    {
+     "w": "nail",
+     "t": 4.804
+    },
+    {
+     "w": "tone",
+     "t": 5.123
+    },
+    {
+     "w": "and",
+     "t": 5.429
+    },
+    {
+     "w": "timing",
+     "t": 5.524
+    },
+    {
+     "w": "know",
+     "t": 6.243
+    },
+    {
+     "w": "the",
+     "t": 6.479
+    },
+    {
+     "w": "brand's",
+     "t": 6.561
+    },
+    {
+     "w": "role",
+     "t": 6.88
+    },
+    {
+     "w": "and",
+     "t": 7.458
+    },
+    {
+     "w": "subvert",
+     "t": 7.599
+    },
+    {
+     "w": "your",
+     "t": 8.059
+    },
+    {
+     "w": "own",
+     "t": 8.236
+    },
+    {
+     "w": "equity",
+     "t": 8.448
+    }
+   ]
+  },
+  {
+   "set": "home",
+   "say": "People argued online about how to eat a KitKat. Snap the fingers, or bite straight in? Twenty-seven million engagements.",
+   "board": {
+    "title": "The KitKat **debate**",
+    "big": "27M",
+    "caption": "social **engagements**",
+    "cue": "Twenty",
+    "at": 6.125
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "l"
+    },
+    {
+     "id": "a",
+     "look": "student",
+     "at": "sofa",
+     "v": 2,
+     "mode": "sit",
+     "hold": "phone",
+     "pose": "hold"
+    },
+    {
+     "id": "b",
+     "look": "shopper",
+     "at": "sofa2",
+     "v": 5,
+     "mode": "sit"
+    }
+   ],
+   "acts": [
+    {
+     "who": "a",
+     "cue": "argued",
+     "expr": "stern",
+     "at": 0.972
+    },
+    {
+     "who": "b",
+     "cue": "bite",
+     "expr": "laugh",
+     "at": 4.84
+    }
+   ],
+   "fx": [
+    {
+     "kind": "say",
+     "who": "a",
+     "cue": "Snap",
+     "text": "Snap it first!",
+     "at": 3.542
+    },
+    {
+     "kind": "say",
+     "who": "b",
+     "cue": "bite",
+     "text": "Just bite it!",
+     "at": 4.84
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "Snap",
+     "shot": "actor",
+     "who": "a",
+     "at": 3.542
+    },
+    {
+     "cue": "bite",
+     "shot": "actor",
+     "who": "b",
+     "at": 4.84
+    },
+    {
+     "cue": "Twenty",
+     "shot": "board",
+     "at": 6.125
+    }
+   ],
+   "audio": "audio/m-four-principles-cultural-relevance-01.mp3",
+   "leadIn": 0.45,
+   "seconds": 8.826,
+   "words": [
+    {
+     "w": "People",
+     "t": 0.5
+    },
+    {
+     "w": "argued",
+     "t": 0.972
+    },
+    {
+     "w": "online",
+     "t": 1.302
+    },
+    {
+     "w": "about",
+     "t": 1.762
+    },
+    {
+     "w": "how",
+     "t": 2.045
+    },
+    {
+     "w": "to",
+     "t": 2.269
+    },
+    {
+     "w": "eat",
+     "t": 2.422
+    },
+    {
+     "w": "a",
+     "t": 2.611
+    },
+    {
+     "w": "KitKat",
+     "t": 2.658
+    },
+    {
+     "w": "Snap",
+     "t": 3.542
+    },
+    {
+     "w": "the",
+     "t": 3.932
+    },
+    {
+     "w": "fingers",
+     "t": 4.002
+    },
+    {
+     "w": "or",
+     "t": 4.734
+    },
+    {
+     "w": "bite",
+     "t": 4.84
+    },
+    {
+     "w": "straight",
+     "t": 5.146
+    },
+    {
+     "w": "in",
+     "t": 5.465
+    },
+    {
+     "w": "Twenty-seven",
+     "t": 6.125
+    },
+    {
+     "w": "million",
+     "t": 6.785
+    },
+    {
+     "w": "engagements",
+     "t": 7.186
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "A debate about your brand is a jackpot. KitKat fanned the flames instead of settling it.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "c"
+    },
+    {
+     "id": "e1",
+     "look": "exec",
+     "at": "table",
+     "v": 1
+    },
+    {
+     "id": "e2",
+     "look": "exec_f",
+     "at": "table2",
+     "v": 4,
+     "hold": "laptop",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "e1",
+     "cue": "jackpot",
+     "pose": "cheer",
+     "expr": "grin",
+     "at": 1.962
+    },
+    {
+     "who": "host",
+     "cue": "fanned",
+     "pose": "up",
+     "expr": "grin",
+     "at": 3.366
+    },
+    {
+     "who": "e2",
+     "cue": "settling",
+     "expr": "laugh",
+     "at": 4.675
+    }
+   ],
+   "fx": [
+    {
+     "kind": "money",
+     "who": "e1",
+     "cue": "jackpot",
+     "at": 1.962
+    },
+    {
+     "kind": "burst",
+     "who": "host",
+     "cue": "flames",
+     "at": 3.708
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "jackpot",
+     "shot": "actor",
+     "who": "e1",
+     "at": 1.962
+    },
+    {
+     "cue": "fanned",
+     "shot": "close",
+     "at": 3.366
+    }
+   ],
+   "audio": "audio/m-four-principles-cultural-relevance-02.mp3",
+   "leadIn": 0.45,
+   "seconds": 6.186,
+   "words": [
+    {
+     "w": "A",
+     "t": 0.5
+    },
+    {
+     "w": "debate",
+     "t": 0.63
+    },
+    {
+     "w": "about",
+     "t": 1.007
+    },
+    {
+     "w": "your",
+     "t": 1.243
+    },
+    {
+     "w": "brand",
+     "t": 1.325
+    },
+    {
+     "w": "is",
+     "t": 1.762
+    },
+    {
+     "w": "a",
+     "t": 1.915
+    },
+    {
+     "w": "jackpot",
+     "t": 1.962
+    },
+    {
+     "w": "KitKat",
+     "t": 2.859
+    },
+    {
+     "w": "fanned",
+     "t": 3.366
+    },
+    {
+     "w": "the",
+     "t": 3.66
+    },
+    {
+     "w": "flames",
+     "t": 3.708
+    },
+    {
+     "w": "instead",
+     "t": 4.179
+    },
+    {
+     "w": "of",
+     "t": 4.592
+    },
+    {
+     "w": "settling",
+     "t": 4.675
+    },
+    {
+     "w": "it",
+     "t": 5.064
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "So only join a conversation when the brand has a real reason to be there, with the right tone at the right moment.",
+   "board": {
+    "title": "Join culture **with a reason**",
+    "lines": [
+     {
+      "text": "A **real reason** to be there",
+      "cue": "reason",
+      "at": 3.035
+     },
+     {
+      "text": "Right **tone**, right **moment**",
+      "cue": "moment",
+      "at": 5.406
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "e1",
+     "look": "exec_f",
+     "at": "table",
+     "v": 3
+    }
+   ],
+   "acts": [
+    {
+     "who": "e1",
+     "cue": "reason",
+     "expr": "smile",
+     "at": 3.035
+    }
+   ],
+   "fx": [
+    {
+     "kind": "tick",
+     "who": "e1",
+     "cue": "moment",
+     "at": 5.406
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "reason",
+     "shot": "two",
+     "who": "e1",
+     "at": 3.035
+    }
+   ],
+   "hold": 1.0,
+   "audio": "audio/m-four-principles-cultural-relevance-03.mp3",
+   "leadIn": 0.45,
+   "seconds": 7.162,
+   "words": [
+    {
+     "w": "So",
+     "t": 0.5
+    },
+    {
+     "w": "only",
+     "t": 0.818
+    },
+    {
+     "w": "join",
+     "t": 1.101
+    },
+    {
+     "w": "a",
+     "t": 1.337
+    },
+    {
+     "w": "conversation",
+     "t": 1.373
+    },
+    {
+     "w": "when",
+     "t": 2.045
+    },
+    {
+     "w": "the",
+     "t": 2.175
+    },
+    {
+     "w": "brand",
+     "t": 2.222
+    },
+    {
+     "w": "has",
+     "t": 2.54
+    },
+    {
+     "w": "a",
+     "t": 2.682
+    },
+    {
+     "w": "real",
+     "t": 2.741
+    },
+    {
+     "w": "reason",
+     "t": 3.035
+    },
+    {
+     "w": "to",
+     "t": 3.366
+    },
+    {
+     "w": "be",
+     "t": 3.436
+    },
+    {
+     "w": "there",
+     "t": 3.578
+    },
+    {
+     "w": "with",
+     "t": 4.144
+    },
+    {
+     "w": "the",
+     "t": 4.285
+    },
+    {
+     "w": "right",
+     "t": 4.356
+    },
+    {
+     "w": "tone",
+     "t": 4.627
+    },
+    {
+     "w": "at",
+     "t": 4.958
+    },
+    {
+     "w": "the",
+     "t": 5.087
+    },
+    {
+     "w": "right",
+     "t": 5.158
+    },
+    {
+     "w": "moment",
+     "t": 5.406
+    }
+   ]
+  }
+ ],
+ "id": "m-four-principles-cultural-relevance",
+ "total": 32.03
+}

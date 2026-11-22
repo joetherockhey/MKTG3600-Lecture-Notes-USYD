@@ -1,0 +1,284 @@
+{
+ "week": 0,
+ "title": "The brief, the expected response, the real problem, the solution",
+ "speaker": "Brendan Willenberg, Executive Creative Director, Week 9",
+ "beats": [
+  {
+   "set": "office",
+   "say": "Creativity is fancy problem solving. Start with the brief, then the expected response. Dig for the real problem underneath, and only then build the solution.",
+   "board": {
+    "title": "Brief to **real problem**",
+    "steps": [
+     {
+      "text": "**The brief**: what's asked",
+      "cue": "brief"
+     },
+     {
+      "text": "**Expected** response",
+      "cue": "expected"
+     },
+     {
+      "text": "**Real problem**: what's in the way",
+      "cue": "real"
+     },
+     {
+      "text": "**Solution** to that",
+      "cue": "solution"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "e",
+     "look": "exec",
+     "v": 3,
+     "at": "table"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "Dig",
+     "pose": "point"
+    },
+    {
+     "who": "e",
+     "cue": "solution",
+     "expr": "smile"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "bulb",
+     "who": "e",
+     "cue": "solution"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "Dig",
+     "shot": "close"
+    },
+    {
+     "cue": "solution",
+     "shot": "board"
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Extra's brief: sell more gum. The expected response? A bigger ad.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "l",
+     "pose": "none"
+    },
+    {
+     "id": "e1",
+     "look": "exec",
+     "v": 1,
+     "at": "table",
+     "hold": "clipboard",
+     "pose": "hold"
+    },
+    {
+     "id": "e2",
+     "look": "exec_f",
+     "v": 5,
+     "at": "table2"
+    }
+   ],
+   "acts": [
+    {
+     "who": "e1",
+     "cue": "sell",
+     "pose": "point",
+     "expr": "stern"
+    },
+    {
+     "who": "e2",
+     "cue": "bigger",
+     "pose": "shrug",
+     "expr": "dazed"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "say",
+     "who": "e1",
+     "cue": "sell",
+     "text": "Sell more gum!"
+    },
+    {
+     "kind": "say",
+     "who": "e2",
+     "cue": "bigger",
+     "text": "Bigger ad?"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "sell",
+     "shot": "actor",
+     "who": "e1"
+    },
+    {
+     "cue": "bigger",
+     "shot": "actor",
+     "who": "e2"
+    }
+   ]
+  },
+  {
+   "set": "plaza",
+   "say": "But the real problem? At the checkout, everyone's on their phone and never notices the gum. So the Bad Breath Index put gum into the checkout itself.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "l",
+     "pose": "none"
+    },
+    {
+     "id": "s1",
+     "look": "student",
+     "v": 1,
+     "at": "shelf",
+     "hold": "phone",
+     "pose": "hold"
+    },
+    {
+     "id": "s2",
+     "look": "shopper",
+     "v": 5,
+     "at": "r",
+     "hold": "phone",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "s1",
+     "cue": "phone",
+     "expr": "dazed"
+    },
+    {
+     "who": "host",
+     "cue": "Breath",
+     "pose": "up",
+     "expr": "grin"
+    },
+    {
+     "who": "s2",
+     "cue": "itself",
+     "pose": "cheer",
+     "expr": "laugh"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "zzz",
+     "who": "s1",
+     "cue": "phone"
+    },
+    {
+     "kind": "exclaim",
+     "who": "host",
+     "cue": "Breath"
+    },
+    {
+     "kind": "tick",
+     "who": "s2",
+     "cue": "itself"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "phone",
+     "shot": "actor",
+     "who": "s1"
+    },
+    {
+     "cue": "Breath",
+     "shot": "close"
+    },
+    {
+     "cue": "itself",
+     "shot": "actor",
+     "who": "s2"
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Use it like this: brief the problem, not what you want to say.",
+   "board": {
+    "title": "Use it like **this**",
+    "lines": [
+     {
+      "text": "Brief the **problem**",
+      "cue": "problem"
+     },
+     {
+      "text": "Not what you **want to say**",
+      "cue": "want"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "point"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "say",
+     "pose": "cheer",
+     "expr": "grin"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "tick",
+     "who": "host",
+     "cue": "say"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "say",
+     "shot": "close"
+    }
+   ],
+   "hold": 1.0
+  }
+ ]
+}

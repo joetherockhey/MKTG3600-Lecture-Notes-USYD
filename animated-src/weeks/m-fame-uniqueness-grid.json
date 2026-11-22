@@ -1,0 +1,274 @@
+{
+ "week": 0,
+ "title": "Fame vs uniqueness grid (distinctive asset audit)",
+ "speaker": "Shannon Wright, Nestle Oceania, Week 5; the grid comes from Jenni Romaniuk's distinctive asset research",
+ "beats": [
+  {
+   "set": "office",
+   "say": "The fame versus uniqueness grid audits your brand assets. Each one lands in a box: use or lose, avoid solo use, invest potential, or ignore.",
+   "board": {
+    "title": "Fame vs **uniqueness**",
+    "steps": [
+     {
+      "text": "**Use or lose**: famous and unique",
+      "cue": "use"
+     },
+     {
+      "text": "**Avoid solo use**: unique, not famous",
+      "cue": "avoid"
+     },
+     {
+      "text": "**Invest potential**: famous, not unique",
+      "cue": "invest"
+     },
+     {
+      "text": "**Ignore**: neither",
+      "cue": "ignore"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "e1",
+     "look": "exec_f",
+     "at": "table",
+     "v": 5,
+     "hold": "clipboard",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "use",
+     "pose": "point"
+    },
+    {
+     "who": "e1",
+     "cue": "ignore",
+     "expr": "smile"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "box",
+     "shot": "two",
+     "who": "e1"
+    },
+    {
+     "cue": "use",
+     "shot": "board"
+    }
+   ]
+  },
+  {
+   "set": "plaza",
+   "say": "A shopper hears just Have a break, and instantly thinks KitKat. Famous and unique. Use it or lose it.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "c"
+    },
+    {
+     "id": "s1",
+     "look": "shopper",
+     "at": "shelf",
+     "v": 3
+    }
+   ],
+   "acts": [
+    {
+     "who": "s1",
+     "cue": "instantly",
+     "pose": "up",
+     "expr": "grin"
+    },
+    {
+     "who": "host",
+     "cue": "Use",
+     "pose": "point",
+     "expr": "smile"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "bulb",
+     "who": "s1",
+     "cue": "instantly"
+    },
+    {
+     "kind": "think",
+     "who": "s1",
+     "cue": "thinks",
+     "text": "KitKat!"
+    },
+    {
+     "kind": "tick",
+     "who": "host",
+     "cue": "unique"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "break",
+     "shot": "actor",
+     "who": "s1"
+    },
+    {
+     "cue": "Use",
+     "shot": "close"
+    }
+   ]
+  },
+  {
+   "set": "street",
+   "say": "But a plain blue bank billboard? People guess three different banks. Famous, but shared by rivals. Invest potential at best.",
+   "board": {
+    "title": "Your **bank**?",
+    "lines": [
+     {
+      "text": "Plain blue... **which one?**",
+      "cue": "blue"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "front"
+    },
+    {
+     "id": "p1",
+     "look": "elder",
+     "at": "bus",
+     "v": 3
+    },
+    {
+     "id": "p2",
+     "look": "shopper",
+     "at": "r",
+     "v": 5
+    }
+   ],
+   "acts": [
+    {
+     "who": "p1",
+     "cue": "guess",
+     "pose": "shrug",
+     "expr": "dazed"
+    },
+    {
+     "who": "p2",
+     "cue": "shared",
+     "pose": "shrug",
+     "expr": "nervous"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "question",
+     "who": "p1",
+     "cue": "guess"
+    },
+    {
+     "kind": "question",
+     "who": "p2",
+     "cue": "shared"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "guess",
+     "shot": "wide"
+    },
+    {
+     "cue": "Invest",
+     "shot": "close"
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "So list every asset, place each one on the grid, then protect it, build it, or drop it.",
+   "board": {
+    "title": "Audit your **assets**",
+    "lines": [
+     {
+      "text": "**List** every asset",
+      "cue": "list"
+     },
+     {
+      "text": "**Place** it on the grid",
+      "cue": "place"
+     },
+     {
+      "text": "Protect, build or **drop**",
+      "cue": "protect"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "point"
+    },
+    {
+     "id": "e1",
+     "look": "exec",
+     "at": "table",
+     "v": 2,
+     "hold": "clipboard",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "e1",
+     "cue": "protect",
+     "expr": "smile"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "tick",
+     "who": "e1",
+     "cue": "drop"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "protect",
+     "shot": "two",
+     "who": "e1"
+    }
+   ],
+   "hold": 1.0
+  }
+ ]
+}

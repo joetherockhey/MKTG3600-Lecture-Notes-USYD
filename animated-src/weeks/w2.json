@@ -1,0 +1,1322 @@
+{
+ "week": 2,
+ "title": "Market research and consumer insights",
+ "speaker": "Estelle Gohil",
+ "beats": [
+  {
+   "set": "stage",
+   "say": "Week two. Market research and consumer insights, with Estelle Gohil from Fifty-five Five. Her job is to take complexity and make it simple enough to decide on.",
+   "board": {
+    "photo": "photos/w2.jpg",
+    "title": "Market research and **consumer insights**",
+    "name": "Estelle Gohil",
+    "org": "Fiftyfive5, a qualitative research agency"
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "a",
+     "look": "student",
+     "v": 1,
+     "at": "front"
+    },
+    {
+     "id": "b",
+     "look": "student",
+     "v": 4,
+     "at": "r"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "simple",
+     "pose": "up",
+     "expr": "grin"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "Estelle",
+     "shot": "board"
+    },
+    {
+     "cue": "complexity",
+     "shot": "close"
+    }
+   ]
+  },
+  {
+   "set": "plaza",
+   "say": "Behavioural data tells you what happened, like people drinking less. It can't tell you why, and the why decides what the business does.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "c",
+     "pose": "chin"
+    },
+    {
+     "id": "s1",
+     "look": "shopper",
+     "v": 1,
+     "at": "walkL",
+     "to": "shelf",
+     "hold": "bag",
+     "pose": "hold"
+    },
+    {
+     "id": "s2",
+     "look": "shopper",
+     "v": 2,
+     "at": "stall"
+    }
+   ],
+   "acts": [
+    {
+     "who": "s1",
+     "cue": "drinking",
+     "pose": "shrug",
+     "expr": "neutral"
+    },
+    {
+     "who": "host",
+     "cue": "why",
+     "pose": "shrug",
+     "expr": "nervous"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "chart",
+     "who": "host",
+     "cue": "data"
+    },
+    {
+     "kind": "question",
+     "who": "s1",
+     "cue": "why"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "drinking",
+     "shot": "actor",
+     "who": "s1"
+    },
+    {
+     "cue": "why",
+     "shot": "two",
+     "who": "s1"
+    }
+   ]
+  },
+  {
+   "set": "plaza",
+   "say": "A shopper says, I want something cheaper. But the real driver might be value for money or saving time. So keep asking why.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "l"
+    },
+    {
+     "id": "s1",
+     "look": "shopper",
+     "v": 3,
+     "at": "shelf",
+     "hold": "box",
+     "pose": "hold"
+    },
+    {
+     "id": "s2",
+     "look": "elder",
+     "v": 2,
+     "at": "walkR",
+     "to": "shop",
+     "walkCue": "real"
+    }
+   ],
+   "acts": [
+    {
+     "who": "s1",
+     "cue": "cheaper",
+     "expr": "smile"
+    },
+    {
+     "who": "host",
+     "cue": "real",
+     "pose": "point"
+    },
+    {
+     "who": "host",
+     "cue": "keep",
+     "pose": "up",
+     "expr": "grin"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "say",
+     "who": "s1",
+     "text": "Something cheaper!",
+     "cue": "cheaper"
+    },
+    {
+     "kind": "think",
+     "who": "s1",
+     "text": "Save me time...",
+     "cue": "value"
+    },
+    {
+     "kind": "question",
+     "who": "host",
+     "cue": "asking"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "shopper",
+     "shot": "actor",
+     "who": "s1"
+    },
+    {
+     "cue": "real",
+     "shot": "close",
+     "who": "s1"
+    },
+    {
+     "cue": "keep",
+     "shot": "host"
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Meanwhile the dashboards pile up, CRM and sales data. But too much data creates complexity, not simplicity, and none of it makes a decision on its own.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "c"
+    },
+    {
+     "id": "e1",
+     "look": "exec",
+     "v": 1,
+     "at": "desk",
+     "hold": "laptop",
+     "pose": "hold"
+    },
+    {
+     "id": "e2",
+     "look": "exec_f",
+     "v": 3,
+     "at": "desk2",
+     "hold": "clipboard",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "e1",
+     "cue": "complexity",
+     "expr": "dazed"
+    },
+    {
+     "who": "e2",
+     "cue": "decision",
+     "pose": "shrug",
+     "expr": "nervous"
+    },
+    {
+     "who": "host",
+     "cue": "own",
+     "pose": "hips",
+     "expr": "stern"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "chart",
+     "who": "e1",
+     "cue": "dashboards"
+    },
+    {
+     "kind": "chart",
+     "who": "e2",
+     "cue": "sales"
+    },
+    {
+     "kind": "burst",
+     "who": "e1",
+     "cue": "complexity"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "complexity",
+     "shot": "actor",
+     "who": "e1"
+    },
+    {
+     "cue": "none",
+     "shot": "host"
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Research drives growth three ways. Identify where to play. Execute how to win, from the value proposition to pricing. And evaluate what matters.",
+   "board": {
+    "title": "Research drives **growth**",
+    "steps": [
+     {
+      "text": "**Identify** where to play",
+      "cue": "identify"
+     },
+     {
+      "text": "**Execute** how to win",
+      "cue": "execute"
+     },
+     {
+      "text": "**Evaluate** metrics that matter",
+      "cue": "evaluate"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "point"
+    },
+    {
+     "id": "e1",
+     "look": "exec_f",
+     "v": 1,
+     "at": "table",
+     "hold": "coffee",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "e1",
+     "cue": "pricing",
+     "expr": "smile"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "tick",
+     "who": "e1",
+     "cue": "evaluate"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "proposition",
+     "shot": "two",
+     "who": "e1"
+    },
+    {
+     "cue": "evaluate",
+     "shot": "board"
+    }
+   ]
+  },
+  {
+   "set": "stage",
+   "say": "Why not just add gen AI? It can't close three gaps: cultural understanding, data that doesn't exist yet, and the analysis itself. Keep a human in the lead.",
+   "board": {
+    "title": "Three gaps **gen AI** can't close",
+    "lines": [
+     {
+      "text": "**Cultural** understanding",
+      "cue": "cultural"
+     },
+     {
+      "text": "Data that **doesn't exist** yet",
+      "cue": "exist"
+     },
+     {
+      "text": "LLMs can't do the **analysis**",
+      "cue": "analysis"
+     },
+     {
+      "text": "Human **in the lead**, in the loop",
+      "cue": "lead"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "a",
+     "look": "student",
+     "v": 2,
+     "at": "front"
+    }
+   ],
+   "acts": [
+    {
+     "who": "a",
+     "cue": "AI",
+     "pose": "up",
+     "expr": "grin"
+    },
+    {
+     "who": "host",
+     "cue": "gaps",
+     "pose": "hips",
+     "expr": "stern"
+    },
+    {
+     "who": "a",
+     "cue": "analysis",
+     "pose": "none",
+     "expr": "nervous"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "bulb",
+     "who": "a",
+     "cue": "AI"
+    },
+    {
+     "kind": "cross",
+     "who": "host",
+     "cue": "close"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "three",
+     "shot": "board"
+    },
+    {
+     "cue": "human",
+     "shot": "close"
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "The toolkit starts with talking. Discussion groups of six to ten. Conflict encounters, putting Apple fans with Samsung fans. And consumer juries that deliver a verdict.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "l"
+    },
+    {
+     "id": "a",
+     "look": "student",
+     "v": 1,
+     "at": "table",
+     "hold": "phone",
+     "pose": "hold",
+     "holdCol": "#dddddd"
+    },
+    {
+     "id": "b",
+     "look": "shopper",
+     "v": 2,
+     "at": "table2",
+     "hold": "phone",
+     "pose": "hold",
+     "holdCol": "#2255aa"
+    },
+    {
+     "id": "c",
+     "look": "elder",
+     "v": 3,
+     "at": "r"
+    }
+   ],
+   "acts": [
+    {
+     "who": "a",
+     "cue": "Apple",
+     "pose": "point",
+     "expr": "stern"
+    },
+    {
+     "who": "b",
+     "cue": "Samsung",
+     "pose": "point",
+     "expr": "stern",
+     "mirror": true
+    },
+    {
+     "who": "c",
+     "cue": "verdict",
+     "pose": "up",
+     "expr": "smile_closed"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "say",
+     "who": "a",
+     "text": "Apple, obviously.",
+     "cue": "Apple"
+    },
+    {
+     "kind": "say",
+     "who": "b",
+     "text": "Samsung wins!",
+     "cue": "Samsung"
+    },
+    {
+     "kind": "tick",
+     "who": "c",
+     "cue": "verdict"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "Apple",
+     "shot": "actor",
+     "who": "a"
+    },
+    {
+     "cue": "Samsung",
+     "shot": "actor",
+     "who": "b"
+    },
+    {
+     "cue": "juries",
+     "shot": "actor",
+     "who": "c"
+    }
+   ]
+  },
+  {
+   "set": "home",
+   "say": "Cognitive interviewing uses memory to reach emotion. What made you hesitate? In mobile ethnography, people film their own lives on their phones, in the moment.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "l",
+     "pose": "chin"
+    },
+    {
+     "id": "a",
+     "look": "shopper",
+     "v": 5,
+     "at": "sofa",
+     "mode": "sit"
+    },
+    {
+     "id": "b",
+     "look": "student",
+     "v": 3,
+     "at": "r",
+     "hold": "phone",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "a",
+     "cue": "hesitate",
+     "pose": "chin",
+     "expr": "nervous"
+    },
+    {
+     "who": "b",
+     "cue": "film",
+     "expr": "grin"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "brain",
+     "who": "a",
+     "cue": "memory"
+    },
+    {
+     "kind": "think",
+     "who": "a",
+     "text": "I nearly didn't buy it...",
+     "cue": "hesitate"
+    },
+    {
+     "kind": "eye",
+     "who": "b",
+     "cue": "film"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "hesitate",
+     "shot": "close",
+     "who": "a"
+    },
+    {
+     "cue": "Mobile",
+     "shot": "actor",
+     "who": "b"
+    }
+   ]
+  },
+  {
+   "set": "plaza",
+   "say": "Then there's watching. On a shopping safari you follow someone. What do they pick up, then put back? What people say isn't what they do.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "l",
+     "hold": "clipboard",
+     "pose": "hold"
+    },
+    {
+     "id": "s1",
+     "look": "shopper",
+     "v": 7,
+     "at": "walkR",
+     "to": "shelf",
+     "hold": "bag",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "follow",
+     "to": "c"
+    },
+    {
+     "who": "s1",
+     "cue": "pick",
+     "pose": "up",
+     "expr": "smile"
+    },
+    {
+     "who": "s1",
+     "cue": "back",
+     "pose": "none",
+     "expr": "nervous"
+    },
+    {
+     "who": "host",
+     "cue": "say",
+     "pose": "point",
+     "expr": "grin"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "eye",
+     "who": "host",
+     "cue": "watching"
+    },
+    {
+     "kind": "exclaim",
+     "who": "s1",
+     "cue": "pick"
+    },
+    {
+     "kind": "cross",
+     "who": "s1",
+     "cue": "back"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "pick",
+     "shot": "actor",
+     "who": "s1"
+    },
+    {
+     "cue": "say",
+     "shot": "two",
+     "who": "s1"
+    }
+   ]
+  },
+  {
+   "set": "street",
+   "say": "Consumer immersions put the client on a bus into a lower socio-economic neighbourhood. Not to interview the consumer, but to briefly become them.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "front"
+    },
+    {
+     "id": "e1",
+     "look": "exec",
+     "v": 4,
+     "at": "walkL",
+     "to": "bus",
+     "hold": "laptop",
+     "pose": "hold"
+    },
+    {
+     "id": "w",
+     "look": "worker",
+     "v": 2,
+     "at": "kerb"
+    }
+   ],
+   "acts": [
+    {
+     "who": "e1",
+     "cue": "neighbourhood",
+     "pose": "none",
+     "expr": "nervous"
+    },
+    {
+     "who": "e1",
+     "cue": "become",
+     "expr": "relief_open"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "think",
+     "who": "e1",
+     "text": "So this is their day.",
+     "cue": "become"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "bus",
+     "shot": "actor",
+     "who": "e1"
+    },
+    {
+     "cue": "become",
+     "shot": "close",
+     "who": "e1"
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Longer methods include agile innovation loops, digital communities and case studies from many angles. Social listening is where AI genuinely helps.",
+   "board": {
+    "title": "Longer and **secondary**",
+    "lines": [
+     {
+      "text": "**Agile** innovation loops",
+      "cue": "Agile"
+     },
+     {
+      "text": "**Digital** communities",
+      "cue": "Digital"
+     },
+     {
+      "text": "**Case studies**, many angles",
+      "cue": "Case"
+     },
+     {
+      "text": "**Social listening**: AI helps",
+      "cue": "social"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "point"
+    },
+    {
+     "id": "e1",
+     "look": "exec_f",
+     "v": 5,
+     "at": "desk",
+     "hold": "laptop",
+     "pose": "hold"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "tick",
+     "who": "e1",
+     "cue": "genuinely"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "social",
+     "shot": "two",
+     "who": "e1"
+    }
+   ]
+  },
+  {
+   "set": "plaza",
+   "say": "One project put body cameras on baristas. At speed, they weren't thinking about plant milk cartons. Watching the footage back surfaced opening, storage and disposal problems.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "c"
+    },
+    {
+     "id": "b1",
+     "look": "chef",
+     "v": 1,
+     "at": "stall",
+     "hold": "box",
+     "pose": "hold",
+     "holdCol": "#f2efe4"
+    },
+    {
+     "id": "s1",
+     "look": "shopper",
+     "v": 2,
+     "at": "r",
+     "hold": "coffee",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "b1",
+     "cue": "speed",
+     "expr": "pained"
+    },
+    {
+     "who": "host",
+     "cue": "footage",
+     "pose": "chin"
+    },
+    {
+     "who": "b1",
+     "cue": "surfaced",
+     "pose": "shrug",
+     "expr": "relief_open"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "eye",
+     "who": "b1",
+     "cue": "cameras"
+    },
+    {
+     "kind": "clock",
+     "who": "b1",
+     "cue": "speed"
+    },
+    {
+     "kind": "bulb",
+     "who": "host",
+     "cue": "surfaced"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "baristas",
+     "shot": "actor",
+     "who": "b1"
+    },
+    {
+     "cue": "footage",
+     "shot": "two",
+     "who": "b1"
+    }
+   ]
+  },
+  {
+   "set": "street",
+   "say": "A tea brand ran seven markets together to find the similarities, not make separate campaigns. And an ad built on jokes is hard to land across seven cultures.",
+   "board": {
+    "title": "One story, **seven markets**",
+    "lines": [
+     {
+      "text": "Look for the **similarities**",
+      "cue": "similarities"
+     },
+     {
+      "text": "Jokes don't **travel**",
+      "cue": "jokes"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "front"
+    },
+    {
+     "id": "p1",
+     "look": "elder",
+     "v": 1,
+     "at": "l"
+    },
+    {
+     "id": "p2",
+     "look": "student",
+     "v": 6,
+     "at": "r",
+     "hold": "phone",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "p1",
+     "cue": "jokes",
+     "expr": "laugh"
+    },
+    {
+     "who": "p2",
+     "cue": "hard",
+     "pose": "shrug",
+     "expr": "dazed"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "question",
+     "who": "p2",
+     "cue": "hard"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "jokes",
+     "shot": "wide"
+    },
+    {
+     "cue": "cultures",
+     "shot": "actor",
+     "who": "p2"
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "For universities, demand and performance data make two maps. Existing programs plot performance against attractiveness, new ones momentum against size. But numbers can't explain why students choose.",
+   "board": {
+    "title": "Predicting **student demand**",
+    "vs": {
+     "left": "Existing programs",
+     "right": "New programs",
+     "leftItems": [
+      "Performance",
+      "vs attractiveness"
+     ],
+     "rightItems": [
+      "Momentum",
+      "vs size"
+     ],
+     "cue": "Existing"
+    }
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "s1",
+     "look": "student",
+     "v": 5,
+     "at": "r"
+    }
+   ],
+   "acts": [
+    {
+     "who": "s1",
+     "cue": "numbers",
+     "pose": "shrug",
+     "expr": "nervous"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "question",
+     "who": "s1",
+     "cue": "why"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "numbers",
+     "shot": "actor",
+     "who": "s1"
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Their tool Ubersight layers cultural drivers, macro trends, micro trends and tension. Dynamic personas use the client's own data, so you can question a segment.",
+   "board": {
+    "title": "**Ubersight** layers",
+    "steps": [
+     {
+      "text": "**Cultural drivers**",
+      "cue": "drivers"
+     },
+     {
+      "text": "**Macro** trends",
+      "cue": "macro"
+     },
+     {
+      "text": "**Micro** trends",
+      "cue": "micro"
+     },
+     {
+      "text": "**Tension**: the opportunity",
+      "cue": "tension"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "point"
+    },
+    {
+     "id": "e1",
+     "look": "exec",
+     "v": 6,
+     "at": "table",
+     "hold": "laptop",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "e1",
+     "cue": "personas",
+     "expr": "grin"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "say",
+     "who": "e1",
+     "text": "How would you respond?",
+     "cue": "question"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "personas",
+     "shot": "actor",
+     "who": "e1"
+    }
+   ]
+  },
+  {
+   "set": "stage",
+   "say": "AI does help. It scans every transcript, and one real consumer clip beats a slide deck. But it makes mistakes, and words miss tone and body language.",
+   "board": {
+    "title": "AI in **qual research**",
+    "vs": {
+     "left": "Dos",
+     "right": "Don'ts",
+     "leftItems": [
+      "Efficiency",
+      "Every transcript",
+      "One real clip"
+     ],
+     "rightItems": [
+      "Makes mistakes",
+      "Words miss tone",
+      "Not always secure"
+     ],
+     "cue": "help"
+    }
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "e1",
+     "look": "exec",
+     "v": 2,
+     "at": "r"
+    }
+   ],
+   "acts": [
+    {
+     "who": "e1",
+     "cue": "clip",
+     "pose": "cheer",
+     "expr": "grin"
+    },
+    {
+     "who": "host",
+     "cue": "mistakes",
+     "pose": "shrug",
+     "expr": "nervous"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "tick",
+     "who": "e1",
+     "cue": "clip"
+    },
+    {
+     "kind": "cross",
+     "who": "host",
+     "cue": "mistakes"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "clip",
+     "shot": "actor",
+     "who": "e1"
+    },
+    {
+     "cue": "mistakes",
+     "shot": "close"
+    }
+   ]
+  },
+  {
+   "set": "stage",
+   "say": "Her lingering worry is the Emperor's New Clothes: everyone agrees the output is good when it may not be. Watch for bias, in the tool and in yourself.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "c"
+    },
+    {
+     "id": "a",
+     "look": "exec",
+     "v": 3,
+     "at": "l"
+    },
+    {
+     "id": "b",
+     "look": "exec_f",
+     "v": 2,
+     "at": "r"
+    },
+    {
+     "id": "k",
+     "look": "kid",
+     "v": 1,
+     "at": "front"
+    }
+   ],
+   "acts": [
+    {
+     "who": "a",
+     "cue": "agrees",
+     "pose": "cheer",
+     "expr": "grin"
+    },
+    {
+     "who": "b",
+     "cue": "good",
+     "pose": "cheer",
+     "expr": "grin"
+    },
+    {
+     "who": "k",
+     "cue": "may",
+     "pose": "point",
+     "expr": "shock"
+    },
+    {
+     "who": "host",
+     "cue": "yourself",
+     "pose": "point",
+     "expr": "stern"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "stars",
+     "who": "a",
+     "cue": "agrees"
+    },
+    {
+     "kind": "say",
+     "who": "k",
+     "text": "But is it good?",
+     "cue": "may"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "may",
+     "shot": "close",
+     "who": "k"
+    },
+    {
+     "cue": "watch",
+     "shot": "host"
+    }
+   ]
+  },
+  {
+   "set": "stage",
+   "say": "So understand people, don't just collect data. Keep asking why. Insight must enable a decision, and AI is a tool, not a replacement. That's week two.",
+   "board": {
+    "title": "Week 2 **takeaways**",
+    "lines": [
+     {
+      "text": "Understand **people**, not data",
+      "cue": "understand"
+     },
+     {
+      "text": "Keep asking **why**",
+      "cue": "asking"
+     },
+     {
+      "text": "Insight must enable a **decision**",
+      "cue": "decision"
+     },
+     {
+      "text": "AI is a **tool**, not a replacement",
+      "cue": "tool"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "a",
+     "look": "student",
+     "v": 1,
+     "at": "front"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "That's",
+     "pose": "cheer",
+     "expr": "grin"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "tick",
+     "who": "a",
+     "cue": "decision"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "tool",
+     "shot": "close"
+    },
+    {
+     "cue": "That's",
+     "shot": "wide",
+     "glide": true
+    }
+   ],
+   "hold": 1.2
+  }
+ ]
+}

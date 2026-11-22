@@ -1,0 +1,694 @@
+{
+ "week": 0,
+ "title": "Ubersight trend layers",
+ "speaker": "Estelle Gohil, Fiftyfive5, Week 2 (Fiftyfive5's own tool)",
+ "beats": [
+  {
+   "set": "stage",
+   "say": "Ubersight trend layers work down from cultural drivers, to macro trends, to micro trends, and finally to the tension where the opportunity sits.",
+   "board": {
+    "title": "Ubersight **trend layers**",
+    "steps": [
+     {
+      "text": "**Cultural drivers**: the known future",
+      "cue": "cultural",
+      "at": 2.304
+     },
+     {
+      "text": "**Macro**: the big narrative",
+      "cue": "macro",
+      "at": 3.495
+     },
+     {
+      "text": "**Micro**: everyday expressions",
+      "cue": "micro",
+      "at": 4.592
+     },
+     {
+      "text": "**Tension**: where opportunity sits",
+      "cue": "tension",
+      "at": 6.396
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "a",
+     "look": "student",
+     "at": "front",
+     "v": 1
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "tension",
+     "pose": "point",
+     "expr": "grin",
+     "at": 6.396
+    }
+   ],
+   "fx": [
+    {
+     "kind": "bulb",
+     "who": "host",
+     "cue": "opportunity",
+     "at": 7.057
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "tension",
+     "shot": "close",
+     "at": 6.396
+    }
+   ],
+   "audio": "audio/m-ubersight-trend-layers-00.mp3",
+   "leadIn": 0.45,
+   "seconds": 8.85,
+   "words": [
+    {
+     "w": "Ubersight",
+     "t": 0.5
+    },
+    {
+     "w": "trend",
+     "t": 1.078
+    },
+    {
+     "w": "layers",
+     "t": 1.314
+    },
+    {
+     "w": "work",
+     "t": 1.62
+    },
+    {
+     "w": "down",
+     "t": 1.891
+    },
+    {
+     "w": "from",
+     "t": 2.151
+    },
+    {
+     "w": "cultural",
+     "t": 2.304
+    },
+    {
+     "w": "drivers",
+     "t": 2.634
+    },
+    {
+     "w": "to",
+     "t": 3.401
+    },
+    {
+     "w": "macro",
+     "t": 3.495
+    },
+    {
+     "w": "trends",
+     "t": 3.837
+    },
+    {
+     "w": "to",
+     "t": 4.498
+    },
+    {
+     "w": "micro",
+     "t": 4.592
+    },
+    {
+     "w": "trends",
+     "t": 4.946
+    },
+    {
+     "w": "and",
+     "t": 5.594
+    },
+    {
+     "w": "finally",
+     "t": 5.724
+    },
+    {
+     "w": "to",
+     "t": 6.208
+    },
+    {
+     "w": "the",
+     "t": 6.302
+    },
+    {
+     "w": "tension",
+     "t": 6.396
+    },
+    {
+     "w": "where",
+     "t": 6.821
+    },
+    {
+     "w": "the",
+     "t": 6.939
+    },
+    {
+     "w": "opportunity",
+     "t": 7.057
+    },
+    {
+     "w": "sits",
+     "t": 7.505
+    }
+   ]
+  },
+  {
+   "set": "home",
+   "say": "Take drinking. The driver is health. The macro trend is wellness. The micro trend is mocktails on a night out.",
+   "board": {
+    "title": "Drinking, **layer by layer**",
+    "lines": [
+     {
+      "text": "Driver: **health**",
+      "cue": "health",
+      "at": 2.446
+     },
+     {
+      "text": "Macro: **wellness**",
+      "cue": "wellness",
+      "at": 4.25
+     },
+     {
+      "text": "Micro: **mocktails**",
+      "cue": "mocktails",
+      "at": 6.113
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "l"
+    },
+    {
+     "id": "a",
+     "look": "student",
+     "at": "sofa",
+     "v": 2,
+     "mode": "sit",
+     "hold": "coffee",
+     "holdCol": "#e85d75",
+     "pose": "hold"
+    },
+    {
+     "id": "b",
+     "look": "shopper",
+     "at": "sofa2",
+     "v": 3,
+     "mode": "sit"
+    }
+   ],
+   "acts": [
+    {
+     "who": "b",
+     "cue": "health",
+     "expr": "smile",
+     "at": 2.446
+    },
+    {
+     "who": "a",
+     "cue": "mocktails",
+     "pose": "cheer",
+     "expr": "grin",
+     "at": 6.113
+    }
+   ],
+   "fx": [
+    {
+     "kind": "heart",
+     "who": "b",
+     "cue": "wellness",
+     "at": 4.25
+    },
+    {
+     "kind": "sparkle",
+     "who": "a",
+     "cue": "mocktails",
+     "at": 6.113
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "wellness",
+     "shot": "board",
+     "at": 4.25
+    },
+    {
+     "cue": "mocktails",
+     "shot": "actor",
+     "who": "a",
+     "at": 6.113
+    }
+   ],
+   "audio": "audio/m-ubersight-trend-layers-01.mp3",
+   "leadIn": 0.45,
+   "seconds": 8.37,
+   "words": [
+    {
+     "w": "Take",
+     "t": 0.5
+    },
+    {
+     "w": "drinking",
+     "t": 0.818
+    },
+    {
+     "w": "The",
+     "t": 1.656
+    },
+    {
+     "w": "driver",
+     "t": 1.809
+    },
+    {
+     "w": "is",
+     "t": 2.281
+    },
+    {
+     "w": "health",
+     "t": 2.446
+    },
+    {
+     "w": "The",
+     "t": 3.224
+    },
+    {
+     "w": "macro",
+     "t": 3.366
+    },
+    {
+     "w": "trend",
+     "t": 3.755
+    },
+    {
+     "w": "is",
+     "t": 4.085
+    },
+    {
+     "w": "wellness",
+     "t": 4.25
+    },
+    {
+     "w": "The",
+     "t": 5.123
+    },
+    {
+     "w": "micro",
+     "t": 5.252
+    },
+    {
+     "w": "trend",
+     "t": 5.641
+    },
+    {
+     "w": "is",
+     "t": 5.96
+    },
+    {
+     "w": "mocktails",
+     "t": 6.113
+    },
+    {
+     "w": "on",
+     "t": 6.691
+    },
+    {
+     "w": "a",
+     "t": 6.844
+    },
+    {
+     "w": "night",
+     "t": 6.868
+    },
+    {
+     "w": "out",
+     "t": 7.092
+    }
+   ]
+  },
+  {
+   "set": "plaza",
+   "say": "Here's the tension. People want to cut back, but still feel part of the party. A premium alcohol-free drink that looks the part resolves it.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "c"
+    },
+    {
+     "id": "s1",
+     "look": "student",
+     "at": "l",
+     "v": 5
+    },
+    {
+     "id": "s2",
+     "look": "shopper",
+     "at": "walkR",
+     "v": 4,
+     "to": "shelf",
+     "walkCue": "premium",
+     "hold": "bag",
+     "pose": "hold",
+     "walkAt": 5.347
+    }
+   ],
+   "acts": [
+    {
+     "who": "s1",
+     "cue": "cut",
+     "pose": "chin",
+     "expr": "nervous",
+     "at": 2.458
+    },
+    {
+     "who": "s1",
+     "cue": "party",
+     "pose": "shrug",
+     "at": 4.427
+    },
+    {
+     "who": "host",
+     "cue": "resolves",
+     "pose": "up",
+     "expr": "grin",
+     "at": 7.623
+    }
+   ],
+   "fx": [
+    {
+     "kind": "think",
+     "who": "s1",
+     "cue": "cut",
+     "text": "Skip it, or join in?",
+     "at": 2.458
+    },
+    {
+     "kind": "bulb",
+     "who": "host",
+     "cue": "premium",
+     "at": 5.347
+    },
+    {
+     "kind": "tick",
+     "who": "s2",
+     "cue": "resolves",
+     "at": 7.623
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "cut",
+     "shot": "actor",
+     "who": "s1",
+     "at": 2.458
+    },
+    {
+     "cue": "premium",
+     "shot": "actor",
+     "who": "s2",
+     "at": 5.347
+    },
+    {
+     "cue": "resolves",
+     "shot": "close",
+     "at": 7.623
+    }
+   ],
+   "audio": "audio/m-ubersight-trend-layers-02.mp3",
+   "leadIn": 0.45,
+   "seconds": 9.162,
+   "words": [
+    {
+     "w": "Here's",
+     "t": 0.5
+    },
+    {
+     "w": "the",
+     "t": 0.948
+    },
+    {
+     "w": "tension",
+     "t": 1.066
+    },
+    {
+     "w": "People",
+     "t": 1.903
+    },
+    {
+     "w": "want",
+     "t": 2.245
+    },
+    {
+     "w": "to",
+     "t": 2.399
+    },
+    {
+     "w": "cut",
+     "t": 2.458
+    },
+    {
+     "w": "back",
+     "t": 2.658
+    },
+    {
+     "w": "but",
+     "t": 3.271
+    },
+    {
+     "w": "still",
+     "t": 3.413
+    },
+    {
+     "w": "feel",
+     "t": 3.731
+    },
+    {
+     "w": "part",
+     "t": 4.002
+    },
+    {
+     "w": "of",
+     "t": 4.285
+    },
+    {
+     "w": "the",
+     "t": 4.368
+    },
+    {
+     "w": "party",
+     "t": 4.427
+    },
+    {
+     "w": "A",
+     "t": 5.217
+    },
+    {
+     "w": "premium",
+     "t": 5.347
+    },
+    {
+     "w": "alcohol-free",
+     "t": 5.807
+    },
+    {
+     "w": "drink",
+     "t": 6.467
+    },
+    {
+     "w": "that",
+     "t": 6.833
+    },
+    {
+     "w": "looks",
+     "t": 6.962
+    },
+    {
+     "w": "the",
+     "t": 7.21
+    },
+    {
+     "w": "part",
+     "t": 7.292
+    },
+    {
+     "w": "resolves",
+     "t": 7.623
+    },
+    {
+     "w": "it",
+     "t": 8.0
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Use it like this: trace a trend down the layers, then build your idea on the tension.",
+   "board": {
+    "title": "Use it like **this**",
+    "lines": [
+     {
+      "text": "Trace it **down the layers**",
+      "cue": "trace",
+      "at": 1.75
+     },
+     {
+      "text": "Build on the **tension**",
+      "cue": "tension",
+      "at": 4.509
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "point"
+    },
+    {
+     "id": "e1",
+     "look": "exec_f",
+     "at": "table",
+     "v": 1
+    }
+   ],
+   "acts": [
+    {
+     "who": "e1",
+     "cue": "tension",
+     "expr": "smile",
+     "at": 4.509
+    }
+   ],
+   "fx": [
+    {
+     "kind": "bulb",
+     "who": "e1",
+     "cue": "build",
+     "at": 3.484
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "build",
+     "shot": "two",
+     "who": "e1",
+     "at": 3.484
+    }
+   ],
+   "hold": 1.0,
+   "audio": "audio/m-ubersight-trend-layers-03.mp3",
+   "leadIn": 0.45,
+   "seconds": 6.322,
+   "words": [
+    {
+     "w": "Use",
+     "t": 0.5
+    },
+    {
+     "w": "it",
+     "t": 0.83
+    },
+    {
+     "w": "like",
+     "t": 0.901
+    },
+    {
+     "w": "this",
+     "t": 1.101
+    },
+    {
+     "w": "trace",
+     "t": 1.75
+    },
+    {
+     "w": "a",
+     "t": 2.033
+    },
+    {
+     "w": "trend",
+     "t": 2.092
+    },
+    {
+     "w": "down",
+     "t": 2.387
+    },
+    {
+     "w": "the",
+     "t": 2.564
+    },
+    {
+     "w": "layers",
+     "t": 2.611
+    },
+    {
+     "w": "then",
+     "t": 3.283
+    },
+    {
+     "w": "build",
+     "t": 3.484
+    },
+    {
+     "w": "your",
+     "t": 3.755
+    },
+    {
+     "w": "idea",
+     "t": 3.908
+    },
+    {
+     "w": "on",
+     "t": 4.321
+    },
+    {
+     "w": "the",
+     "t": 4.45
+    },
+    {
+     "w": "tension",
+     "t": 4.509
+    }
+   ]
+  }
+ ],
+ "id": "m-ubersight-trend-layers",
+ "total": 32.73
+}

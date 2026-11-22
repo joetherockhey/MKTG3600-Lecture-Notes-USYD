@@ -1,0 +1,677 @@
+{
+ "week": 0,
+ "title": "The golden circle (start with why)",
+ "speaker": "Simon Sinek, Start With Why, 2009",
+ "beats": [
+  {
+   "set": "stage",
+   "say": "The golden circle has three rings. Why is your purpose. How is the distinctive way you deliver it. What is the stuff you sell.",
+   "board": {
+    "title": "The **golden circle**",
+    "steps": [
+     {
+      "text": "**Why** the purpose or belief",
+      "cue": "Why",
+      "at": 2.788
+     },
+     {
+      "text": "**How** the distinctive way",
+      "cue": "How",
+      "at": 4.474
+     },
+     {
+      "text": "**What** the products you sell",
+      "cue": "What",
+      "at": 7.021
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "a",
+     "look": "student",
+     "v": 2,
+     "at": "front"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "purpose",
+     "pose": "up",
+     "expr": "grin",
+     "at": 3.542
+    },
+    {
+     "who": "a",
+     "cue": "sell",
+     "pose": "chin",
+     "at": 8.059
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "purpose",
+     "shot": "close",
+     "at": 3.542
+    },
+    {
+     "cue": "How",
+     "shot": "board",
+     "at": 4.474
+    }
+   ],
+   "audio": "audio/m-golden-circle-00.mp3",
+   "leadIn": 0.45,
+   "seconds": 9.426,
+   "words": [
+    {
+     "w": "The",
+     "t": 0.5
+    },
+    {
+     "w": "golden",
+     "t": 0.641
+    },
+    {
+     "w": "circle",
+     "t": 1.019
+    },
+    {
+     "w": "has",
+     "t": 1.443
+    },
+    {
+     "w": "three",
+     "t": 1.679
+    },
+    {
+     "w": "rings",
+     "t": 1.962
+    },
+    {
+     "w": "Why",
+     "t": 2.788
+    },
+    {
+     "w": "is",
+     "t": 3.189
+    },
+    {
+     "w": "your",
+     "t": 3.413
+    },
+    {
+     "w": "purpose",
+     "t": 3.542
+    },
+    {
+     "w": "How",
+     "t": 4.474
+    },
+    {
+     "w": "is",
+     "t": 4.84
+    },
+    {
+     "w": "the",
+     "t": 5.028
+    },
+    {
+     "w": "distinctive",
+     "t": 5.111
+    },
+    {
+     "w": "way",
+     "t": 5.7
+    },
+    {
+     "w": "you",
+     "t": 5.936
+    },
+    {
+     "w": "deliver",
+     "t": 6.113
+    },
+    {
+     "w": "it",
+     "t": 6.514
+    },
+    {
+     "w": "What",
+     "t": 7.021
+    },
+    {
+     "w": "is",
+     "t": 7.351
+    },
+    {
+     "w": "the",
+     "t": 7.552
+    },
+    {
+     "w": "stuff",
+     "t": 7.634
+    },
+    {
+     "w": "you",
+     "t": 7.976
+    },
+    {
+     "w": "sell",
+     "t": 8.059
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Most companies start outside in: here's our computer, it's fast. Apple starts with why: we challenge the status quo, and we happen to make computers.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "l"
+    },
+    {
+     "id": "e1",
+     "look": "exec",
+     "v": 3,
+     "at": "table"
+    },
+    {
+     "id": "e2",
+     "look": "exec_f",
+     "v": 6,
+     "at": "table2"
+    }
+   ],
+   "acts": [
+    {
+     "who": "e1",
+     "cue": "fast",
+     "pose": "present",
+     "expr": "dazed",
+     "at": 3.684
+    },
+    {
+     "who": "e2",
+     "cue": "challenge",
+     "pose": "cheer",
+     "expr": "grin",
+     "at": 6.125
+    }
+   ],
+   "fx": [
+    {
+     "kind": "say",
+     "who": "e1",
+     "text": "It's fast!",
+     "cue": "here's",
+     "at": 2.434
+    },
+    {
+     "kind": "zzz",
+     "who": "e1",
+     "cue": "fast",
+     "at": 3.684
+    },
+    {
+     "kind": "bulb",
+     "who": "e2",
+     "cue": "challenge",
+     "at": 6.125
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "here's",
+     "shot": "actor",
+     "who": "e1",
+     "at": 2.434
+    },
+    {
+     "cue": "challenge",
+     "shot": "actor",
+     "who": "e2",
+     "at": 6.125
+    }
+   ],
+   "audio": "audio/m-golden-circle-01.mp3",
+   "leadIn": 0.45,
+   "seconds": 9.93,
+   "words": [
+    {
+     "w": "Most",
+     "t": 0.5
+    },
+    {
+     "w": "companies",
+     "t": 0.842
+    },
+    {
+     "w": "start",
+     "t": 1.208
+    },
+    {
+     "w": "outside",
+     "t": 1.479
+    },
+    {
+     "w": "in",
+     "t": 1.891
+    },
+    {
+     "w": "here's",
+     "t": 2.434
+    },
+    {
+     "w": "our",
+     "t": 2.717
+    },
+    {
+     "w": "computer",
+     "t": 2.847
+    },
+    {
+     "w": "it's",
+     "t": 3.507
+    },
+    {
+     "w": "fast",
+     "t": 3.684
+    },
+    {
+     "w": "Apple",
+     "t": 4.533
+    },
+    {
+     "w": "starts",
+     "t": 4.828
+    },
+    {
+     "w": "with",
+     "t": 5.182
+    },
+    {
+     "w": "why",
+     "t": 5.311
+    },
+    {
+     "w": "we",
+     "t": 5.995
+    },
+    {
+     "w": "challenge",
+     "t": 6.125
+    },
+    {
+     "w": "the",
+     "t": 6.538
+    },
+    {
+     "w": "status",
+     "t": 6.609
+    },
+    {
+     "w": "quo",
+     "t": 6.962
+    },
+    {
+     "w": "and",
+     "t": 7.505
+    },
+    {
+     "w": "we",
+     "t": 7.646
+    },
+    {
+     "w": "happen",
+     "t": 7.752
+    },
+    {
+     "w": "to",
+     "t": 8.106
+    },
+    {
+     "w": "make",
+     "t": 8.177
+    },
+    {
+     "w": "computers",
+     "t": 8.366
+    }
+   ]
+  },
+  {
+   "set": "stage",
+   "say": "People buy into beliefs. But the why must be genuine and backed by proof, or it's just empty words.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "lectern"
+    },
+    {
+     "id": "a",
+     "look": "student",
+     "v": 2,
+     "at": "l"
+    },
+    {
+     "id": "b",
+     "look": "student",
+     "v": 5,
+     "at": "r"
+    }
+   ],
+   "acts": [
+    {
+     "who": "a",
+     "cue": "beliefs",
+     "expr": "smile",
+     "at": 1.514
+    },
+    {
+     "who": "host",
+     "cue": "proof",
+     "pose": "point",
+     "expr": "stern",
+     "at": 4.297
+    },
+    {
+     "who": "b",
+     "cue": "empty",
+     "pose": "shrug",
+     "expr": "nervous",
+     "at": 5.665
+    }
+   ],
+   "fx": [
+    {
+     "kind": "heart",
+     "who": "a",
+     "cue": "beliefs",
+     "at": 1.514
+    },
+    {
+     "kind": "tick",
+     "who": "host",
+     "cue": "proof",
+     "at": 4.297
+    },
+    {
+     "kind": "cross",
+     "who": "b",
+     "cue": "empty",
+     "at": 5.665
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "genuine",
+     "shot": "close",
+     "at": 3.236
+    },
+    {
+     "cue": "empty",
+     "shot": "actor",
+     "who": "b",
+     "at": 5.665
+    }
+   ],
+   "audio": "audio/m-golden-circle-02.mp3",
+   "leadIn": 0.45,
+   "seconds": 7.362,
+   "words": [
+    {
+     "w": "People",
+     "t": 0.5
+    },
+    {
+     "w": "buy",
+     "t": 0.913
+    },
+    {
+     "w": "into",
+     "t": 1.208
+    },
+    {
+     "w": "beliefs",
+     "t": 1.514
+    },
+    {
+     "w": "But",
+     "t": 2.422
+    },
+    {
+     "w": "the",
+     "t": 2.599
+    },
+    {
+     "w": "why",
+     "t": 2.67
+    },
+    {
+     "w": "must",
+     "t": 2.906
+    },
+    {
+     "w": "be",
+     "t": 3.13
+    },
+    {
+     "w": "genuine",
+     "t": 3.236
+    },
+    {
+     "w": "and",
+     "t": 3.708
+    },
+    {
+     "w": "backed",
+     "t": 3.873
+    },
+    {
+     "w": "by",
+     "t": 4.167
+    },
+    {
+     "w": "proof",
+     "t": 4.297
+    },
+    {
+     "w": "or",
+     "t": 5.075
+    },
+    {
+     "w": "it's",
+     "t": 5.217
+    },
+    {
+     "w": "just",
+     "t": 5.347
+    },
+    {
+     "w": "empty",
+     "t": 5.665
+    },
+    {
+     "w": "words",
+     "t": 5.925
+    }
+   ]
+  },
+  {
+   "set": "stage",
+   "say": "Use it like this: write the brand's why, how and what in one line each, then check the why has proof.",
+   "board": {
+    "title": "Use it **like this**",
+    "lines": [
+     {
+      "text": "**Why, how, what** in a line each",
+      "cue": "write",
+      "at": 1.679
+     },
+     {
+      "text": "Check the why has **proof**",
+      "cue": "check",
+      "at": 5.04
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "a",
+     "look": "student",
+     "v": 2,
+     "at": "front"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "check",
+     "pose": "point",
+     "at": 5.04
+    },
+    {
+     "who": "a",
+     "cue": "proof",
+     "expr": "smile",
+     "at": 5.759
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "proof",
+     "shot": "close",
+     "at": 5.759
+    }
+   ],
+   "hold": 1.0,
+   "audio": "audio/m-golden-circle-03.mp3",
+   "leadIn": 0.45,
+   "seconds": 7.522,
+   "words": [
+    {
+     "w": "Use",
+     "t": 0.5
+    },
+    {
+     "w": "it",
+     "t": 0.807
+    },
+    {
+     "w": "like",
+     "t": 0.877
+    },
+    {
+     "w": "this",
+     "t": 1.066
+    },
+    {
+     "w": "write",
+     "t": 1.679
+    },
+    {
+     "w": "the",
+     "t": 1.962
+    },
+    {
+     "w": "brand's",
+     "t": 2.033
+    },
+    {
+     "w": "why",
+     "t": 2.316
+    },
+    {
+     "w": "how",
+     "t": 2.906
+    },
+    {
+     "w": "and",
+     "t": 3.425
+    },
+    {
+     "w": "what",
+     "t": 3.566
+    },
+    {
+     "w": "in",
+     "t": 3.743
+    },
+    {
+     "w": "one",
+     "t": 3.849
+    },
+    {
+     "w": "line",
+     "t": 4.026
+    },
+    {
+     "w": "each",
+     "t": 4.25
+    },
+    {
+     "w": "then",
+     "t": 4.851
+    },
+    {
+     "w": "check",
+     "t": 5.04
+    },
+    {
+     "w": "the",
+     "t": 5.276
+    },
+    {
+     "w": "why",
+     "t": 5.347
+    },
+    {
+     "w": "has",
+     "t": 5.606
+    },
+    {
+     "w": "proof",
+     "t": 5.759
+    }
+   ]
+  }
+ ],
+ "id": "m-golden-circle",
+ "total": 34.27
+}

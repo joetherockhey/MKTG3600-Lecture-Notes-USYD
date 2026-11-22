@@ -1,0 +1,289 @@
+{
+ "week": 0,
+ "title": "The creative brief (Kraft Easy Mac)",
+ "speaker": "Andrew Baxter, Australian Pork Limited, Week 8",
+ "beats": [
+  {
+   "set": "stage",
+   "say": "The creative brief is a set of questions, answered in order. What's the problem? Who's the audience, and what's the insight? What's different? What's the one thing to say? And why should anyone believe it?",
+   "board": {
+    "title": "The **creative brief**",
+    "steps": [
+     {
+      "text": "**Problem**: what must ads solve",
+      "cue": "problem"
+     },
+     {
+      "text": "**Audience** and insight",
+      "cue": "audience"
+     },
+     {
+      "text": "**Difference**: what's unique",
+      "cue": "different"
+     },
+     {
+      "text": "**One thing** to say",
+      "cue": "one"
+     },
+     {
+      "text": "**Reason to believe**, and tone",
+      "cue": "believe"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "a",
+     "look": "student",
+     "v": 3,
+     "at": "r"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "problem",
+     "pose": "point"
+    },
+    {
+     "who": "a",
+     "cue": "believe",
+     "pose": "chin"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "question",
+     "who": "a",
+     "cue": "believe"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "creative",
+     "shot": "board"
+    },
+    {
+     "cue": "believe",
+     "shot": "actor",
+     "who": "a"
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Take Kraft's Easy Mac. The brief targets mums, for teenage boys who get home starving. The one thing to say: it fills them up, fast.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "l",
+     "pose": "none"
+    },
+    {
+     "id": "m",
+     "look": "exec_f",
+     "v": 2,
+     "at": "table",
+     "hold": "clipboard",
+     "pose": "hold"
+    },
+    {
+     "id": "k",
+     "look": "kid",
+     "v": 4,
+     "at": "walkR",
+     "to": "r",
+     "walkCue": "boys"
+    }
+   ],
+   "acts": [
+    {
+     "who": "k",
+     "cue": "starving",
+     "pose": "chin",
+     "expr": "pained"
+    },
+    {
+     "who": "m",
+     "cue": "fills",
+     "pose": "cheer",
+     "expr": "grin"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "think",
+     "who": "k",
+     "cue": "starving",
+     "text": "So hungry!"
+    },
+    {
+     "kind": "bulb",
+     "who": "m",
+     "cue": "fast"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "boys",
+     "shot": "actor",
+     "who": "k"
+    },
+    {
+     "cue": "fills",
+     "shot": "two",
+     "who": "m"
+    }
+   ]
+  },
+  {
+   "set": "home",
+   "say": "The line was kill hunger fast. The client balked at the word kill, so it became the hunger blaster.",
+   "board": {
+    "title": "The **hunger blaster**",
+    "lines": [
+     {
+      "text": "Kill hunger fast? **No.**",
+      "cue": "balked"
+     },
+     {
+      "text": "Hunger **blaster**",
+      "cue": "blaster"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "r",
+     "pose": "none"
+    },
+    {
+     "id": "k",
+     "look": "kid",
+     "v": 4,
+     "at": "sofa",
+     "mode": "sit"
+    },
+    {
+     "id": "m",
+     "look": "shopper",
+     "v": 1,
+     "at": "sofa2",
+     "mode": "sit"
+    }
+   ],
+   "acts": [
+    {
+     "who": "m",
+     "cue": "balked",
+     "expr": "stern"
+    },
+    {
+     "who": "k",
+     "cue": "blaster",
+     "pose": "cheer",
+     "expr": "laugh"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "cross",
+     "who": "m",
+     "cue": "balked"
+    },
+    {
+     "kind": "stars",
+     "who": "k",
+     "cue": "blaster"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "balked",
+     "shot": "close",
+     "who": "m"
+    },
+    {
+     "cue": "blaster",
+     "shot": "board"
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Use it like this: one line per answer, ending in one message and one reason to believe, both tied to the insight.",
+   "board": {
+    "title": "Use it like **this**",
+    "lines": [
+     {
+      "text": "One line per **answer**",
+      "cue": "answer"
+     },
+     {
+      "text": "One **message**",
+      "cue": "message"
+     },
+     {
+      "text": "Tied to the **insight**",
+      "cue": "insight"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "point"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "insight",
+     "pose": "cheer",
+     "expr": "grin"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "tick",
+     "who": "host",
+     "cue": "insight"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "insight",
+     "shot": "close"
+    }
+   ],
+   "hold": 1.0
+  }
+ ]
+}

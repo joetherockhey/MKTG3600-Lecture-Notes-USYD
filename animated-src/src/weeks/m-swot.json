@@ -1,0 +1,715 @@
+{
+ "week": 0,
+ "title": "SWOT analysis",
+ "speaker": "Albert Humphrey and colleagues, Stanford Research Institute, 1960s",
+ "beats": [
+  {
+   "set": "office",
+   "say": "SWOT analysis audits a brand's situation before you set strategy. Strengths and weaknesses are internal, things you control. Opportunities and threats are external, out in the market.",
+   "board": {
+    "title": "**SWOT** analysis",
+    "steps": [
+     {
+      "text": "**Strengths** internal advantages",
+      "cue": "Strengths",
+      "at": 4.91
+     },
+     {
+      "text": "**Weaknesses** internal limits",
+      "cue": "weaknesses",
+      "at": 5.594
+     },
+     {
+      "text": "**Opportunities** external openings",
+      "cue": "Opportunities",
+      "at": 8.542
+     },
+     {
+      "text": "**Threats** external risks",
+      "cue": "threats",
+      "at": 9.474
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "e1",
+     "look": "exec_f",
+     "v": 2,
+     "at": "table"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "internal",
+     "pose": "point",
+     "at": 6.337
+    },
+    {
+     "who": "e1",
+     "cue": "market",
+     "pose": "chin",
+     "at": 11.149
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "internal",
+     "shot": "close",
+     "at": 6.337
+    },
+    {
+     "cue": "Opportunities",
+     "shot": "board",
+     "at": 8.542
+    }
+   ],
+   "audio": "audio/m-swot-00.mp3",
+   "leadIn": 0.45,
+   "seconds": 12.57,
+   "words": [
+    {
+     "w": "SWOT",
+     "t": 0.5
+    },
+    {
+     "w": "analysis",
+     "t": 1.361
+    },
+    {
+     "w": "audits",
+     "t": 1.986
+    },
+    {
+     "w": "a",
+     "t": 2.292
+    },
+    {
+     "w": "brand's",
+     "t": 2.34
+    },
+    {
+     "w": "situation",
+     "t": 2.682
+    },
+    {
+     "w": "before",
+     "t": 3.318
+    },
+    {
+     "w": "you",
+     "t": 3.672
+    },
+    {
+     "w": "set",
+     "t": 3.79
+    },
+    {
+     "w": "strategy",
+     "t": 4.014
+    },
+    {
+     "w": "Strengths",
+     "t": 4.91
+    },
+    {
+     "w": "and",
+     "t": 5.453
+    },
+    {
+     "w": "weaknesses",
+     "t": 5.594
+    },
+    {
+     "w": "are",
+     "t": 6.16
+    },
+    {
+     "w": "internal",
+     "t": 6.337
+    },
+    {
+     "w": "things",
+     "t": 7.21
+    },
+    {
+     "w": "you",
+     "t": 7.54
+    },
+    {
+     "w": "control",
+     "t": 7.623
+    },
+    {
+     "w": "Opportunities",
+     "t": 8.542
+    },
+    {
+     "w": "and",
+     "t": 9.309
+    },
+    {
+     "w": "threats",
+     "t": 9.474
+    },
+    {
+     "w": "are",
+     "t": 9.84
+    },
+    {
+     "w": "external",
+     "t": 9.958
+    },
+    {
+     "w": "out",
+     "t": 10.818
+    },
+    {
+     "w": "in",
+     "t": 11.031
+    },
+    {
+     "w": "the",
+     "t": 11.113
+    },
+    {
+     "w": "market",
+     "t": 11.149
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Take Telstra. Strength: the biggest network. Weakness: a reputation barely above the tax office. Opportunity: the Olympics. Threat: cheaper rivals winning on price.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "l"
+    },
+    {
+     "id": "e1",
+     "look": "exec_f",
+     "v": 2,
+     "at": "table"
+    },
+    {
+     "id": "e2",
+     "look": "exec",
+     "v": 3,
+     "at": "table2"
+    }
+   ],
+   "acts": [
+    {
+     "who": "e1",
+     "cue": "network",
+     "pose": "cheer",
+     "expr": "grin",
+     "at": 3.106
+    },
+    {
+     "who": "e2",
+     "cue": "reputation",
+     "pose": "shrug",
+     "expr": "pained",
+     "at": 5.016
+    },
+    {
+     "who": "e1",
+     "cue": "Olympics",
+     "pose": "up",
+     "expr": "grin",
+     "at": 8.672
+    },
+    {
+     "who": "e2",
+     "cue": "cheaper",
+     "pose": "none",
+     "expr": "shock",
+     "at": 10.394
+    }
+   ],
+   "fx": [
+    {
+     "kind": "tick",
+     "who": "e1",
+     "cue": "network",
+     "at": 3.106
+    },
+    {
+     "kind": "cross",
+     "who": "e2",
+     "cue": "reputation",
+     "at": 5.016
+    },
+    {
+     "kind": "bulb",
+     "who": "e1",
+     "cue": "Olympics",
+     "at": 8.672
+    },
+    {
+     "kind": "money",
+     "who": "e2",
+     "cue": "cheaper",
+     "at": 10.394
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "network",
+     "shot": "actor",
+     "who": "e1",
+     "at": 3.106
+    },
+    {
+     "cue": "reputation",
+     "shot": "actor",
+     "who": "e2",
+     "at": 5.016
+    },
+    {
+     "cue": "cheaper",
+     "shot": "two",
+     "who": "e2",
+     "at": 10.394
+    }
+   ],
+   "audio": "audio/m-swot-01.mp3",
+   "leadIn": 0.45,
+   "seconds": 13.026,
+   "words": [
+    {
+     "w": "Take",
+     "t": 0.5
+    },
+    {
+     "w": "Telstra",
+     "t": 0.818
+    },
+    {
+     "w": "Strength",
+     "t": 1.703
+    },
+    {
+     "w": "the",
+     "t": 2.599
+    },
+    {
+     "w": "biggest",
+     "t": 2.717
+    },
+    {
+     "w": "network",
+     "t": 3.106
+    },
+    {
+     "w": "Weakness",
+     "t": 3.943
+    },
+    {
+     "w": "a",
+     "t": 4.922
+    },
+    {
+     "w": "reputation",
+     "t": 5.016
+    },
+    {
+     "w": "barely",
+     "t": 5.7
+    },
+    {
+     "w": "above",
+     "t": 6.125
+    },
+    {
+     "w": "the",
+     "t": 6.373
+    },
+    {
+     "w": "tax",
+     "t": 6.455
+    },
+    {
+     "w": "office",
+     "t": 6.726
+    },
+    {
+     "w": "Opportunity",
+     "t": 7.469
+    },
+    {
+     "w": "the",
+     "t": 8.531
+    },
+    {
+     "w": "Olympics",
+     "t": 8.672
+    },
+    {
+     "w": "Threat",
+     "t": 9.592
+    },
+    {
+     "w": "cheaper",
+     "t": 10.394
+    },
+    {
+     "w": "rivals",
+     "t": 10.724
+    },
+    {
+     "w": "winning",
+     "t": 11.184
+    },
+    {
+     "w": "on",
+     "t": 11.479
+    },
+    {
+     "w": "price",
+     "t": 11.597
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "The value is in the links. Use the network strength to seize the Olympics, and fix the dull ads before rivals exploit them.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "l"
+    },
+    {
+     "id": "e1",
+     "look": "exec_f",
+     "v": 2,
+     "at": "table"
+    },
+    {
+     "id": "e2",
+     "look": "exec",
+     "v": 3,
+     "at": "table2"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "links",
+     "pose": "up",
+     "expr": "grin",
+     "at": 1.491
+    },
+    {
+     "who": "e1",
+     "cue": "seize",
+     "pose": "cheer",
+     "expr": "laugh",
+     "at": 3.649
+    },
+    {
+     "who": "e2",
+     "cue": "fix",
+     "pose": "point",
+     "expr": "relief",
+     "at": 4.946
+    }
+   ],
+   "fx": [
+    {
+     "kind": "think",
+     "who": "e1",
+     "text": "Network plus Olympics!",
+     "cue": "seize",
+     "at": 3.649
+    },
+    {
+     "kind": "tick",
+     "who": "e2",
+     "cue": "fix",
+     "at": 4.946
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "host",
+     "at": 0.2
+    },
+    {
+     "cue": "seize",
+     "shot": "actor",
+     "who": "e1",
+     "at": 3.649
+    },
+    {
+     "cue": "fix",
+     "shot": "two",
+     "who": "e2",
+     "at": 4.946
+    }
+   ],
+   "audio": "audio/m-swot-02.mp3",
+   "leadIn": 0.45,
+   "seconds": 8.178,
+   "words": [
+    {
+     "w": "The",
+     "t": 0.5
+    },
+    {
+     "w": "value",
+     "t": 0.653
+    },
+    {
+     "w": "is",
+     "t": 1.09
+    },
+    {
+     "w": "in",
+     "t": 1.29
+    },
+    {
+     "w": "the",
+     "t": 1.443
+    },
+    {
+     "w": "links",
+     "t": 1.491
+    },
+    {
+     "w": "Use",
+     "t": 2.304
+    },
+    {
+     "w": "the",
+     "t": 2.693
+    },
+    {
+     "w": "network",
+     "t": 2.764
+    },
+    {
+     "w": "strength",
+     "t": 3.165
+    },
+    {
+     "w": "to",
+     "t": 3.554
+    },
+    {
+     "w": "seize",
+     "t": 3.649
+    },
+    {
+     "w": "the",
+     "t": 3.908
+    },
+    {
+     "w": "Olympics",
+     "t": 4.002
+    },
+    {
+     "w": "and",
+     "t": 4.804
+    },
+    {
+     "w": "fix",
+     "t": 4.946
+    },
+    {
+     "w": "the",
+     "t": 5.217
+    },
+    {
+     "w": "dull",
+     "t": 5.3
+    },
+    {
+     "w": "ads",
+     "t": 5.559
+    },
+    {
+     "w": "before",
+     "t": 5.854
+    },
+    {
+     "w": "rivals",
+     "t": 6.16
+    },
+    {
+     "w": "exploit",
+     "t": 6.62
+    },
+    {
+     "w": "them",
+     "t": 6.974
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Use it like this: two or three specific, evidenced points per box, then the strategic moves they point to.",
+   "board": {
+    "title": "Use it **like this**",
+    "lines": [
+     {
+      "text": "Two or three **specific** points per box",
+      "cue": "specific",
+      "at": 2.245
+     },
+     {
+      "text": "Then the **strategic moves**",
+      "cue": "moves",
+      "at": 5.193
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "e1",
+     "look": "exec_f",
+     "v": 2,
+     "at": "table"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "evidenced",
+     "pose": "point",
+     "at": 2.976
+    },
+    {
+     "who": "e1",
+     "cue": "moves",
+     "expr": "smile",
+     "at": 5.193
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "moves",
+     "shot": "close",
+     "at": 5.193
+    }
+   ],
+   "hold": 1.0,
+   "audio": "audio/m-swot-03.mp3",
+   "leadIn": 0.45,
+   "seconds": 7.426,
+   "words": [
+    {
+     "w": "Use",
+     "t": 0.5
+    },
+    {
+     "w": "it",
+     "t": 0.818
+    },
+    {
+     "w": "like",
+     "t": 0.889
+    },
+    {
+     "w": "this",
+     "t": 1.09
+    },
+    {
+     "w": "two",
+     "t": 1.667
+    },
+    {
+     "w": "or",
+     "t": 1.927
+    },
+    {
+     "w": "three",
+     "t": 1.998
+    },
+    {
+     "w": "specific",
+     "t": 2.245
+    },
+    {
+     "w": "evidenced",
+     "t": 2.976
+    },
+    {
+     "w": "points",
+     "t": 3.366
+    },
+    {
+     "w": "per",
+     "t": 3.625
+    },
+    {
+     "w": "box",
+     "t": 3.743
+    },
+    {
+     "w": "then",
+     "t": 4.415
+    },
+    {
+     "w": "the",
+     "t": 4.545
+    },
+    {
+     "w": "strategic",
+     "t": 4.592
+    },
+    {
+     "w": "moves",
+     "t": 5.193
+    },
+    {
+     "w": "they",
+     "t": 5.465
+    },
+    {
+     "w": "point",
+     "t": 5.571
+    },
+    {
+     "w": "to",
+     "t": 5.818
+    }
+   ]
+  }
+ ],
+ "id": "m-swot",
+ "total": 41.2
+}

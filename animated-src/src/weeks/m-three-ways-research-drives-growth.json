@@ -1,0 +1,700 @@
+{
+ "week": 0,
+ "title": "Three ways market research drives growth",
+ "speaker": "Estelle Gohil, Fiftyfive5, Week 2",
+ "beats": [
+  {
+   "set": "stage",
+   "say": "Market research drives growth in three ways. First, identify where to play. Then execute how to win. Finally, evaluate performance with the metrics that matter.",
+   "board": {
+    "title": "Three ways **research** drives growth",
+    "steps": [
+     {
+      "text": "**Identify** where to play",
+      "cue": "identify",
+      "at": 4.226
+     },
+     {
+      "text": "**Execute** how to win",
+      "cue": "execute",
+      "at": 6.325
+     },
+     {
+      "text": "**Evaluate** what matters",
+      "cue": "evaluate",
+      "at": 8.696
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "a",
+     "look": "student",
+     "at": "front",
+     "v": 3
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "identify",
+     "pose": "point",
+     "at": 4.226
+    },
+    {
+     "who": "host",
+     "cue": "evaluate",
+     "pose": "up",
+     "expr": "grin",
+     "at": 8.696
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "Finally",
+     "shot": "close",
+     "at": 7.811
+    }
+   ],
+   "audio": "audio/m-three-ways-research-drives-growth-00.mp3",
+   "leadIn": 0.45,
+   "seconds": 11.85,
+   "words": [
+    {
+     "w": "Market",
+     "t": 0.5
+    },
+    {
+     "w": "research",
+     "t": 0.925
+    },
+    {
+     "w": "drives",
+     "t": 1.42
+    },
+    {
+     "w": "growth",
+     "t": 1.762
+    },
+    {
+     "w": "in",
+     "t": 2.139
+    },
+    {
+     "w": "three",
+     "t": 2.304
+    },
+    {
+     "w": "ways",
+     "t": 2.54
+    },
+    {
+     "w": "First",
+     "t": 3.354
+    },
+    {
+     "w": "identify",
+     "t": 4.226
+    },
+    {
+     "w": "where",
+     "t": 4.828
+    },
+    {
+     "w": "to",
+     "t": 5.005
+    },
+    {
+     "w": "play",
+     "t": 5.099
+    },
+    {
+     "w": "Then",
+     "t": 5.877
+    },
+    {
+     "w": "execute",
+     "t": 6.325
+    },
+    {
+     "w": "how",
+     "t": 6.833
+    },
+    {
+     "w": "to",
+     "t": 7.021
+    },
+    {
+     "w": "win",
+     "t": 7.104
+    },
+    {
+     "w": "Finally",
+     "t": 7.811
+    },
+    {
+     "w": "evaluate",
+     "t": 8.696
+    },
+    {
+     "w": "performance",
+     "t": 9.25
+    },
+    {
+     "w": "with",
+     "t": 9.792
+    },
+    {
+     "w": "the",
+     "t": 9.922
+    },
+    {
+     "w": "metrics",
+     "t": 9.981
+    },
+    {
+     "w": "that",
+     "t": 10.417
+    },
+    {
+     "w": "matter",
+     "t": 10.547
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "A university asks where to play. Demand data maps every course on attractiveness and performance, showing which programs to grow.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "l",
+     "pose": "none"
+    },
+    {
+     "id": "e1",
+     "look": "exec_f",
+     "at": "table",
+     "v": 2,
+     "hold": "laptop",
+     "pose": "hold"
+    },
+    {
+     "id": "e2",
+     "look": "exec",
+     "at": "table2",
+     "v": 3
+    }
+   ],
+   "acts": [
+    {
+     "who": "e1",
+     "cue": "where",
+     "pose": "chin",
+     "expr": "nervous",
+     "at": 1.715
+    },
+    {
+     "who": "e1",
+     "cue": "showing",
+     "pose": "cheer",
+     "expr": "grin",
+     "at": 6.16
+    }
+   ],
+   "fx": [
+    {
+     "kind": "question",
+     "who": "e1",
+     "cue": "where",
+     "at": 1.715
+    },
+    {
+     "kind": "chart",
+     "who": "e1",
+     "cue": "maps",
+     "at": 3.472
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "Demand",
+     "shot": "actor",
+     "who": "e1",
+     "at": 2.752
+    },
+    {
+     "cue": "grow",
+     "shot": "two",
+     "who": "e1",
+     "at": 7.281
+    }
+   ],
+   "audio": "audio/m-three-ways-research-drives-growth-01.mp3",
+   "leadIn": 0.45,
+   "seconds": 8.634,
+   "words": [
+    {
+     "w": "A",
+     "t": 0.5
+    },
+    {
+     "w": "university",
+     "t": 0.606
+    },
+    {
+     "w": "asks",
+     "t": 1.325
+    },
+    {
+     "w": "where",
+     "t": 1.715
+    },
+    {
+     "w": "to",
+     "t": 1.868
+    },
+    {
+     "w": "play",
+     "t": 1.962
+    },
+    {
+     "w": "Demand",
+     "t": 2.752
+    },
+    {
+     "w": "data",
+     "t": 3.177
+    },
+    {
+     "w": "maps",
+     "t": 3.472
+    },
+    {
+     "w": "every",
+     "t": 3.79
+    },
+    {
+     "w": "course",
+     "t": 4.038
+    },
+    {
+     "w": "on",
+     "t": 4.391
+    },
+    {
+     "w": "attractiveness",
+     "t": 4.509
+    },
+    {
+     "w": "and",
+     "t": 5.134
+    },
+    {
+     "w": "performance",
+     "t": 5.264
+    },
+    {
+     "w": "showing",
+     "t": 6.16
+    },
+    {
+     "w": "which",
+     "t": 6.55
+    },
+    {
+     "w": "programs",
+     "t": 6.715
+    },
+    {
+     "w": "to",
+     "t": 7.21
+    },
+    {
+     "w": "grow",
+     "t": 7.281
+    }
+   ]
+  },
+  {
+   "set": "plaza",
+   "say": "But numbers can't say why students choose. So qualitative research guides how to win, shaping the offer, the positioning and the creative.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "c"
+    },
+    {
+     "id": "s1",
+     "look": "student",
+     "at": "walkL",
+     "v": 3,
+     "to": "l",
+     "walkCue": "numbers",
+     "walkAt": 0.689
+    },
+    {
+     "id": "s2",
+     "look": "student",
+     "at": "r",
+     "v": 4
+    }
+   ],
+   "acts": [
+    {
+     "who": "s1",
+     "cue": "why",
+     "pose": "chin",
+     "expr": "nervous",
+     "at": 1.62
+    },
+    {
+     "who": "host",
+     "cue": "qualitative",
+     "pose": "point",
+     "at": 3.542
+    },
+    {
+     "who": "s2",
+     "cue": "positioning",
+     "pose": "cheer",
+     "expr": "grin",
+     "at": 6.821
+    }
+   ],
+   "fx": [
+    {
+     "kind": "think",
+     "who": "s1",
+     "cue": "choose",
+     "text": "Why this course?",
+     "at": 2.387
+    },
+    {
+     "kind": "bulb",
+     "who": "host",
+     "cue": "qualitative",
+     "at": 3.542
+    },
+    {
+     "kind": "tick",
+     "who": "s2",
+     "cue": "positioning",
+     "at": 6.821
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "why",
+     "shot": "actor",
+     "who": "s1",
+     "at": 1.62
+    },
+    {
+     "cue": "qualitative",
+     "shot": "close",
+     "at": 3.542
+    },
+    {
+     "cue": "positioning",
+     "shot": "two",
+     "who": "s2",
+     "at": 6.821
+    }
+   ],
+   "audio": "audio/m-three-ways-research-drives-growth-02.mp3",
+   "leadIn": 0.45,
+   "seconds": 9.162,
+   "words": [
+    {
+     "w": "But",
+     "t": 0.5
+    },
+    {
+     "w": "numbers",
+     "t": 0.689
+    },
+    {
+     "w": "can't",
+     "t": 1.101
+    },
+    {
+     "w": "say",
+     "t": 1.373
+    },
+    {
+     "w": "why",
+     "t": 1.62
+    },
+    {
+     "w": "students",
+     "t": 1.891
+    },
+    {
+     "w": "choose",
+     "t": 2.387
+    },
+    {
+     "w": "So",
+     "t": 3.224
+    },
+    {
+     "w": "qualitative",
+     "t": 3.542
+    },
+    {
+     "w": "research",
+     "t": 4.073
+    },
+    {
+     "w": "guides",
+     "t": 4.509
+    },
+    {
+     "w": "how",
+     "t": 4.84
+    },
+    {
+     "w": "to",
+     "t": 4.993
+    },
+    {
+     "w": "win",
+     "t": 5.075
+    },
+    {
+     "w": "shaping",
+     "t": 5.7
+    },
+    {
+     "w": "the",
+     "t": 6.101
+    },
+    {
+     "w": "offer",
+     "t": 6.208
+    },
+    {
+     "w": "the",
+     "t": 6.726
+    },
+    {
+     "w": "positioning",
+     "t": 6.821
+    },
+    {
+     "w": "and",
+     "t": 7.41
+    },
+    {
+     "w": "the",
+     "t": 7.564
+    },
+    {
+     "w": "creative",
+     "t": 7.634
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Then track customer experience, brand and sentiment. Use it like this: for any brand, name the research at each stage and the decision it unlocks.",
+   "board": {
+    "title": "Use it like **this**",
+    "lines": [
+     {
+      "text": "Track **CX, brand, sentiment**",
+      "cue": "track",
+      "at": 0.83
+     },
+     {
+      "text": "Research at **each stage**",
+      "cue": "stage",
+      "at": 7.469
+     },
+     {
+      "text": "Tie it to a **decision**",
+      "cue": "decision",
+      "at": 8.13
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "e1",
+     "look": "exec",
+     "at": "table",
+     "v": 4,
+     "hold": "clipboard",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "e1",
+     "cue": "decision",
+     "expr": "smile",
+     "at": 8.13
+    }
+   ],
+   "fx": [
+    {
+     "kind": "tick",
+     "who": "e1",
+     "cue": "decision",
+     "at": 8.13
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "decision",
+     "shot": "two",
+     "who": "e1",
+     "at": 8.13
+    }
+   ],
+   "hold": 1.0,
+   "audio": "audio/m-three-ways-research-drives-growth-03.mp3",
+   "leadIn": 0.45,
+   "seconds": 10.522,
+   "words": [
+    {
+     "w": "Then",
+     "t": 0.5
+    },
+    {
+     "w": "track",
+     "t": 0.83
+    },
+    {
+     "w": "customer",
+     "t": 1.113
+    },
+    {
+     "w": "experience",
+     "t": 1.491
+    },
+    {
+     "w": "brand",
+     "t": 2.363
+    },
+    {
+     "w": "and",
+     "t": 2.941
+    },
+    {
+     "w": "sentiment",
+     "t": 3.071
+    },
+    {
+     "w": "Use",
+     "t": 3.955
+    },
+    {
+     "w": "it",
+     "t": 4.285
+    },
+    {
+     "w": "like",
+     "t": 4.356
+    },
+    {
+     "w": "this",
+     "t": 4.545
+    },
+    {
+     "w": "for",
+     "t": 5.123
+    },
+    {
+     "w": "any",
+     "t": 5.382
+    },
+    {
+     "w": "brand",
+     "t": 5.583
+    },
+    {
+     "w": "name",
+     "t": 6.302
+    },
+    {
+     "w": "the",
+     "t": 6.585
+    },
+    {
+     "w": "research",
+     "t": 6.667
+    },
+    {
+     "w": "at",
+     "t": 7.163
+    },
+    {
+     "w": "each",
+     "t": 7.292
+    },
+    {
+     "w": "stage",
+     "t": 7.469
+    },
+    {
+     "w": "and",
+     "t": 7.917
+    },
+    {
+     "w": "the",
+     "t": 8.071
+    },
+    {
+     "w": "decision",
+     "t": 8.13
+    },
+    {
+     "w": "it",
+     "t": 8.554
+    },
+    {
+     "w": "unlocks",
+     "t": 8.637
+    }
+   ]
+  }
+ ],
+ "id": "m-three-ways-research-drives-growth",
+ "total": 40.2
+}

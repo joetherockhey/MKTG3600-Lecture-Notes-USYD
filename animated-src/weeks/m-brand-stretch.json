@@ -1,0 +1,297 @@
+{
+ "week": 0,
+ "title": "Five brand stretch considerations (stretch map and McKinsey matrix)",
+ "speaker": "Shannon Wright, Nestle Oceania, Week 5",
+ "beats": [
+  {
+   "set": "office",
+   "say": "Before stretching a brand, check five things. Positioning fit, distance from the core, consumer permission, risk versus reward, then test and monitor.",
+   "board": {
+    "title": "Five **stretch** checks",
+    "steps": [
+     {
+      "text": "**Positioning** fit",
+      "cue": "Positioning"
+     },
+     {
+      "text": "**Distance** from the core",
+      "cue": "distance"
+     },
+     {
+      "text": "Consumer **permission**",
+      "cue": "permission"
+     },
+     {
+      "text": "**Risk** vs reward",
+      "cue": "risk"
+     },
+     {
+      "text": "**Test** and monitor",
+      "cue": "test"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "e1",
+     "look": "exec",
+     "at": "table",
+     "v": 1,
+     "hold": "clipboard",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "Positioning",
+     "pose": "point"
+    },
+    {
+     "who": "e1",
+     "cue": "test",
+     "expr": "smile"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "permission",
+     "shot": "two",
+     "who": "e1"
+    },
+    {
+     "cue": "test",
+     "shot": "board"
+    }
+   ]
+  },
+  {
+   "set": "plaza",
+   "say": "Heinz soup is a near step. Pasta sauce, a credible stretch. Vodka? Shoppers squint. It only worked thanks to the vodka pasta moment.",
+   "board": {
+    "title": "Heinz **stretch map**",
+    "lines": [
+     {
+      "text": "Soup: **near**",
+      "cue": "soup"
+     },
+     {
+      "text": "Pasta sauce: **credible**",
+      "cue": "Pasta"
+     },
+     {
+      "text": "Vodka: **exception**",
+      "cue": "Vodka"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "c"
+    },
+    {
+     "id": "s1",
+     "look": "shopper",
+     "at": "shelf",
+     "v": 1,
+     "hold": "bag",
+     "pose": "hold"
+    },
+    {
+     "id": "s2",
+     "look": "elder",
+     "at": "r",
+     "v": 4
+    }
+   ],
+   "acts": [
+    {
+     "who": "s1",
+     "cue": "soup",
+     "expr": "smile"
+    },
+    {
+     "who": "s2",
+     "cue": "squint",
+     "pose": "shrug",
+     "expr": "dazed"
+    },
+    {
+     "who": "s2",
+     "cue": "moment",
+     "pose": "up",
+     "expr": "grin"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "tick",
+     "who": "s1",
+     "cue": "soup"
+    },
+    {
+     "kind": "question",
+     "who": "s2",
+     "cue": "squint"
+    },
+    {
+     "kind": "bulb",
+     "who": "s2",
+     "cue": "moment"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "Vodka",
+     "shot": "actor",
+     "who": "s2"
+    },
+    {
+     "cue": "moment",
+     "shot": "close",
+     "who": "s2"
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Allen's tested its stretch cheaply, with Pepsi and Mountain Dew collaborations instead of building new products alone.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "c"
+    },
+    {
+     "id": "e1",
+     "look": "exec_f",
+     "at": "table",
+     "v": 2
+    },
+    {
+     "id": "e2",
+     "look": "exec",
+     "at": "table2",
+     "v": 4,
+     "hold": "box",
+     "pose": "hold",
+     "holdCol": "#2a9d3a"
+    }
+   ],
+   "acts": [
+    {
+     "who": "e1",
+     "cue": "cheaply",
+     "expr": "grin"
+    },
+    {
+     "who": "e2",
+     "cue": "collaborations",
+     "pose": "cheer",
+     "expr": "laugh"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "money",
+     "who": "e1",
+     "cue": "cheaply"
+    },
+    {
+     "kind": "tick",
+     "who": "e2",
+     "cue": "collaborations"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "cheaply",
+     "shot": "actor",
+     "who": "e1"
+    },
+    {
+     "cue": "collaborations",
+     "shot": "actor",
+     "who": "e2"
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "So walk every extension through all five checks, then launch, collaborate or avoid.",
+   "board": {
+    "title": "Stretch **with care**",
+    "lines": [
+     {
+      "text": "Run all **five** checks",
+      "cue": "five"
+     },
+     {
+      "text": "**Launch**, collaborate or avoid",
+      "cue": "launch"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "point"
+    },
+    {
+     "id": "e1",
+     "look": "exec",
+     "at": "table",
+     "v": 1
+    }
+   ],
+   "acts": [
+    {
+     "who": "e1",
+     "cue": "launch",
+     "expr": "smile"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "tick",
+     "who": "e1",
+     "cue": "avoid"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "launch",
+     "shot": "two",
+     "who": "e1"
+    }
+   ],
+   "hold": 1.0
+  }
+ ]
+}

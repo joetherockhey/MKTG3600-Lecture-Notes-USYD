@@ -1,0 +1,300 @@
+{
+ "week": 0,
+ "title": "Distinctive brand assets (and the DBA paradox)",
+ "speaker": "Justin Papps, Week 3; Brent Smart, Week 4; Shannon Wright, Week 5; research from Ipsos and SYSTEM1, building on Jenni Romaniuk",
+ "beats": [
+  {
+   "set": "stage",
+   "say": "Distinctive brand assets trigger your brand in memory: visuals like logo and colour, sounds, characters, and words like slogans. Oddly, the most used are often the least effective.",
+   "board": {
+    "title": "Distinctive **brand assets**",
+    "steps": [
+     {
+      "text": "**Visual**: logo, colour, pack",
+      "cue": "visuals"
+     },
+     {
+      "text": "**Sonic**: jingles, cues",
+      "cue": "sounds"
+     },
+     {
+      "text": "**Characters** and celebrities",
+      "cue": "characters"
+     },
+     {
+      "text": "**Words**: taglines, slogans",
+      "cue": "words"
+     },
+     {
+      "text": "**Paradox**: most used, least effective",
+      "cue": "Oddly"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "a",
+     "look": "student",
+     "at": "front",
+     "v": 5
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "Oddly",
+     "pose": "shrug",
+     "expr": "nervous"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "question",
+     "who": "a",
+     "cue": "least"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "Oddly",
+     "shot": "close"
+    }
+   ]
+  },
+  {
+   "set": "home",
+   "say": "The ad just says, have a... and the whole family finishes it: a break! The asset does the work.",
+   "board": {
+    "title": "Have a...",
+    "lines": [
+     {
+      "text": "**...break!**",
+      "cue": "finishes"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "l"
+    },
+    {
+     "id": "a",
+     "look": "kid",
+     "at": "sofa",
+     "v": 1,
+     "mode": "sit"
+    },
+    {
+     "id": "b",
+     "look": "shopper",
+     "at": "sofa2",
+     "v": 4,
+     "mode": "sit"
+    }
+   ],
+   "acts": [
+    {
+     "who": "a",
+     "cue": "finishes",
+     "pose": "cheer",
+     "expr": "laugh"
+    },
+    {
+     "who": "b",
+     "cue": "break",
+     "expr": "smile"
+    },
+    {
+     "who": "host",
+     "cue": "asset",
+     "pose": "point",
+     "expr": "grin"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "say",
+     "who": "a",
+     "cue": "break",
+     "text": "A break!"
+    },
+    {
+     "kind": "sparkle",
+     "who": "host",
+     "cue": "asset"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "have",
+     "shot": "board"
+    },
+    {
+     "cue": "finishes",
+     "shot": "actor",
+     "who": "a"
+    },
+    {
+     "cue": "asset",
+     "shot": "close"
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Telstra had no colour it could own, so it built handmade stop-motion animals instead. Before spending, audit which assets people actually recognise.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "r"
+    },
+    {
+     "id": "e1",
+     "look": "exec_f",
+     "at": "table",
+     "v": 6,
+     "hold": "clipboard",
+     "pose": "hold"
+    },
+    {
+     "id": "e2",
+     "look": "exec",
+     "at": "l",
+     "v": 4
+    }
+   ],
+   "acts": [
+    {
+     "who": "e2",
+     "cue": "colour",
+     "pose": "shrug",
+     "expr": "nervous"
+    },
+    {
+     "who": "e1",
+     "cue": "handmade",
+     "pose": "cheer",
+     "expr": "grin"
+    },
+    {
+     "who": "host",
+     "cue": "audit",
+     "pose": "point"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "question",
+     "who": "e2",
+     "cue": "colour"
+    },
+    {
+     "kind": "heart",
+     "who": "e1",
+     "cue": "animals"
+    },
+    {
+     "kind": "eye",
+     "who": "host",
+     "cue": "recognise"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "colour",
+     "shot": "actor",
+     "who": "e2"
+    },
+    {
+     "cue": "handmade",
+     "shot": "actor",
+     "who": "e1"
+    },
+    {
+     "cue": "audit",
+     "shot": "close"
+    }
+   ]
+  },
+  {
+   "set": "street",
+   "say": "Use it like this: audit your assets, keep the ones that work, and repeat them until they're yours.",
+   "board": {
+    "title": "Use it like **this**",
+    "lines": [
+     {
+      "text": "**Audit** your assets",
+      "cue": "audit"
+     },
+     {
+      "text": "Keep what **works**",
+      "cue": "work"
+     },
+     {
+      "text": "**Repeat** until owned",
+      "cue": "repeat"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "front"
+    },
+    {
+     "id": "p1",
+     "look": "shopper",
+     "at": "r",
+     "v": 2
+    }
+   ],
+   "acts": [
+    {
+     "who": "p1",
+     "cue": "yours",
+     "expr": "smile"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "tick",
+     "who": "p1",
+     "cue": "yours"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "yours",
+     "shot": "wide"
+    }
+   ],
+   "hold": 1.0
+  }
+ ]
+}

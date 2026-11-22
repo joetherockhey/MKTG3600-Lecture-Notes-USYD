@@ -1,0 +1,656 @@
+{
+ "week": 0,
+ "title": "Aaker's brand equity model",
+ "speaker": "David Aaker, Managing Brand Equity, 1991",
+ "beats": [
+  {
+   "set": "office",
+   "say": "Aaker's model says brand equity comes from five assets: awareness, perceived quality, associations, loyalty, and other proprietary assets like trademarks.",
+   "board": {
+    "title": "**Aaker's** brand equity",
+    "steps": [
+     {
+      "text": "**Awareness**",
+      "cue": "awareness",
+      "at": 3.531
+     },
+     {
+      "text": "**Perceived quality**",
+      "cue": "perceived",
+      "at": 4.285
+     },
+     {
+      "text": "**Associations**",
+      "cue": "associations",
+      "at": 5.311
+     },
+     {
+      "text": "**Loyalty**",
+      "cue": "loyalty",
+      "at": 6.373
+     },
+     {
+      "text": "**Proprietary assets**",
+      "cue": "proprietary",
+      "at": 7.54
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "e1",
+     "look": "exec",
+     "v": 6,
+     "at": "table"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "five",
+     "pose": "up",
+     "at": 2.505
+    },
+    {
+     "who": "e1",
+     "cue": "trademarks",
+     "expr": "smile",
+     "at": 8.649
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "loyalty",
+     "shot": "board",
+     "at": 6.373
+    },
+    {
+     "cue": "trademarks",
+     "shot": "two",
+     "who": "e1",
+     "at": 8.649
+    }
+   ],
+   "audio": "audio/m-aaker-brand-equity-00.mp3",
+   "leadIn": 0.45,
+   "seconds": 10.218,
+   "words": [
+    {
+     "w": "Aaker's",
+     "t": 0.5
+    },
+    {
+     "w": "model",
+     "t": 0.889
+    },
+    {
+     "w": "says",
+     "t": 1.184
+    },
+    {
+     "w": "brand",
+     "t": 1.42
+    },
+    {
+     "w": "equity",
+     "t": 1.785
+    },
+    {
+     "w": "comes",
+     "t": 2.116
+    },
+    {
+     "w": "from",
+     "t": 2.375
+    },
+    {
+     "w": "five",
+     "t": 2.505
+    },
+    {
+     "w": "assets",
+     "t": 2.776
+    },
+    {
+     "w": "awareness",
+     "t": 3.531
+    },
+    {
+     "w": "perceived",
+     "t": 4.285
+    },
+    {
+     "w": "quality",
+     "t": 4.639
+    },
+    {
+     "w": "associations",
+     "t": 5.311
+    },
+    {
+     "w": "loyalty",
+     "t": 6.373
+    },
+    {
+     "w": "and",
+     "t": 7.139
+    },
+    {
+     "w": "other",
+     "t": 7.351
+    },
+    {
+     "w": "proprietary",
+     "t": 7.54
+    },
+    {
+     "w": "assets",
+     "t": 8.106
+    },
+    {
+     "w": "like",
+     "t": 8.483
+    },
+    {
+     "w": "trademarks",
+     "t": 8.649
+    }
+   ]
+  },
+  {
+   "set": "plaza",
+   "say": "Two backpacks. One has more pockets and a better warranty. The other is Louis Vuitton, and it sells for many times the price.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "front"
+    },
+    {
+     "id": "s1",
+     "look": "shopper",
+     "v": 1,
+     "at": "shelf",
+     "hold": "bag",
+     "pose": "hold"
+    },
+    {
+     "id": "s2",
+     "look": "shopper",
+     "v": 5,
+     "at": "shelf2",
+     "hold": "bag",
+     "pose": "hold",
+     "holdCol": "#7a4a1d"
+    }
+   ],
+   "acts": [
+    {
+     "who": "s1",
+     "cue": "pockets",
+     "expr": "smile_closed",
+     "at": 2.493
+    },
+    {
+     "who": "s2",
+     "cue": "Louis",
+     "expr": "grin",
+     "at": 4.993
+    },
+    {
+     "who": "host",
+     "cue": "price",
+     "pose": "shrug",
+     "expr": "shock",
+     "at": 7.328
+    }
+   ],
+   "fx": [
+    {
+     "kind": "tick",
+     "who": "s1",
+     "cue": "warranty",
+     "at": 3.46
+    },
+    {
+     "kind": "stars",
+     "who": "s2",
+     "cue": "Louis",
+     "at": 4.993
+    },
+    {
+     "kind": "money",
+     "who": "host",
+     "cue": "price",
+     "at": 7.328
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "pockets",
+     "shot": "actor",
+     "who": "s1",
+     "at": 2.493
+    },
+    {
+     "cue": "Louis",
+     "shot": "actor",
+     "who": "s2",
+     "at": 4.993
+    },
+    {
+     "cue": "price",
+     "shot": "close",
+     "at": 7.328
+    }
+   ],
+   "audio": "audio/m-aaker-brand-equity-01.mp3",
+   "leadIn": 0.45,
+   "seconds": 8.754,
+   "words": [
+    {
+     "w": "Two",
+     "t": 0.5
+    },
+    {
+     "w": "backpacks",
+     "t": 0.783
+    },
+    {
+     "w": "One",
+     "t": 1.774
+    },
+    {
+     "w": "has",
+     "t": 2.116
+    },
+    {
+     "w": "more",
+     "t": 2.316
+    },
+    {
+     "w": "pockets",
+     "t": 2.493
+    },
+    {
+     "w": "and",
+     "t": 2.976
+    },
+    {
+     "w": "a",
+     "t": 3.142
+    },
+    {
+     "w": "better",
+     "t": 3.189
+    },
+    {
+     "w": "warranty",
+     "t": 3.46
+    },
+    {
+     "w": "The",
+     "t": 4.309
+    },
+    {
+     "w": "other",
+     "t": 4.545
+    },
+    {
+     "w": "is",
+     "t": 4.84
+    },
+    {
+     "w": "Louis",
+     "t": 4.993
+    },
+    {
+     "w": "Vuitton",
+     "t": 5.241
+    },
+    {
+     "w": "and",
+     "t": 6.031
+    },
+    {
+     "w": "it",
+     "t": 6.16
+    },
+    {
+     "w": "sells",
+     "t": 6.255
+    },
+    {
+     "w": "for",
+     "t": 6.573
+    },
+    {
+     "w": "many",
+     "t": 6.667
+    },
+    {
+     "w": "times",
+     "t": 6.974
+    },
+    {
+     "w": "the",
+     "t": 7.269
+    },
+    {
+     "w": "price",
+     "t": 7.328
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "That premium is equity at work. People know it, rate it, link it with luxury and stay loyal.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "l"
+    },
+    {
+     "id": "e1",
+     "look": "exec",
+     "v": 6,
+     "at": "table"
+    },
+    {
+     "id": "e2",
+     "look": "exec_f",
+     "v": 2,
+     "at": "table2"
+    }
+   ],
+   "acts": [
+    {
+     "who": "e1",
+     "cue": "premium",
+     "pose": "cheer",
+     "expr": "grin",
+     "at": 0.807
+    },
+    {
+     "who": "e2",
+     "cue": "luxury",
+     "expr": "smile",
+     "at": 4.922
+    },
+    {
+     "who": "host",
+     "cue": "loyal",
+     "pose": "point",
+     "at": 5.818
+    }
+   ],
+   "fx": [
+    {
+     "kind": "money",
+     "who": "e1",
+     "cue": "premium",
+     "at": 0.807
+    },
+    {
+     "kind": "sparkle",
+     "who": "e2",
+     "cue": "luxury",
+     "at": 4.922
+    },
+    {
+     "kind": "heart",
+     "who": "host",
+     "cue": "loyal",
+     "at": 5.818
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "premium",
+     "shot": "actor",
+     "who": "e1",
+     "at": 0.807
+    },
+    {
+     "cue": "loyal",
+     "shot": "close",
+     "at": 5.818
+    }
+   ],
+   "audio": "audio/m-aaker-brand-equity-02.mp3",
+   "leadIn": 0.45,
+   "seconds": 7.17,
+   "words": [
+    {
+     "w": "That",
+     "t": 0.5
+    },
+    {
+     "w": "premium",
+     "t": 0.807
+    },
+    {
+     "w": "is",
+     "t": 1.266
+    },
+    {
+     "w": "equity",
+     "t": 1.514
+    },
+    {
+     "w": "at",
+     "t": 1.88
+    },
+    {
+     "w": "work",
+     "t": 1.95
+    },
+    {
+     "w": "People",
+     "t": 2.693
+    },
+    {
+     "w": "know",
+     "t": 3.012
+    },
+    {
+     "w": "it",
+     "t": 3.271
+    },
+    {
+     "w": "rate",
+     "t": 3.66
+    },
+    {
+     "w": "it",
+     "t": 3.92
+    },
+    {
+     "w": "link",
+     "t": 4.439
+    },
+    {
+     "w": "it",
+     "t": 4.686
+    },
+    {
+     "w": "with",
+     "t": 4.781
+    },
+    {
+     "w": "luxury",
+     "t": 4.922
+    },
+    {
+     "w": "and",
+     "t": 5.417
+    },
+    {
+     "w": "stay",
+     "t": 5.559
+    },
+    {
+     "w": "loyal",
+     "t": 5.818
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Use it like this: score the brand on all five, then build up the weakest one first.",
+   "board": {
+    "title": "Use it **like this**",
+    "lines": [
+     {
+      "text": "**Score** the brand on all five",
+      "cue": "score",
+      "at": 1.667
+     },
+     {
+      "text": "Build the **weakest** first",
+      "cue": "weakest",
+      "at": 4.191
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "e1",
+     "look": "exec",
+     "v": 6,
+     "at": "table"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "score",
+     "pose": "point",
+     "at": 1.667
+    },
+    {
+     "who": "e1",
+     "cue": "weakest",
+     "expr": "smile",
+     "at": 4.191
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "weakest",
+     "shot": "close",
+     "at": 4.191
+    }
+   ],
+   "hold": 1.0,
+   "audio": "audio/m-aaker-brand-equity-03.mp3",
+   "leadIn": 0.45,
+   "seconds": 6.61,
+   "words": [
+    {
+     "w": "Use",
+     "t": 0.5
+    },
+    {
+     "w": "it",
+     "t": 0.818
+    },
+    {
+     "w": "like",
+     "t": 0.889
+    },
+    {
+     "w": "this",
+     "t": 1.09
+    },
+    {
+     "w": "score",
+     "t": 1.667
+    },
+    {
+     "w": "the",
+     "t": 2.045
+    },
+    {
+     "w": "brand",
+     "t": 2.127
+    },
+    {
+     "w": "on",
+     "t": 2.469
+    },
+    {
+     "w": "all",
+     "t": 2.587
+    },
+    {
+     "w": "five",
+     "t": 2.776
+    },
+    {
+     "w": "then",
+     "t": 3.531
+    },
+    {
+     "w": "build",
+     "t": 3.719
+    },
+    {
+     "w": "up",
+     "t": 3.955
+    },
+    {
+     "w": "the",
+     "t": 4.109
+    },
+    {
+     "w": "weakest",
+     "t": 4.191
+    },
+    {
+     "w": "one",
+     "t": 4.592
+    },
+    {
+     "w": "first",
+     "t": 4.781
+    }
+   ]
+  }
+ ],
+ "id": "m-aaker-brand-equity",
+ "total": 32.77
+}

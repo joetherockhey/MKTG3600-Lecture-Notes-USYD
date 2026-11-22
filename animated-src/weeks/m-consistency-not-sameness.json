@@ -1,0 +1,278 @@
+{
+ "week": 0,
+ "title": "Consistency, not sameness",
+ "speaker": "Shannon Wright, Week 5; Brent Smart, Week 4; Libby Hogson, Week 6; Nicky Barton, Week 12",
+ "beats": [
+  {
+   "set": "stage",
+   "say": "Consistency, not sameness. Keep the core idea, voice and assets. Update the executions, tension and channels. And never let a bored brand manager change everything.",
+   "board": {
+    "title": "Consistency, **not sameness**",
+    "steps": [
+     {
+      "text": "**Keep**: idea, voice, assets",
+      "cue": "Keep"
+     },
+     {
+      "text": "**Update**: executions, channels",
+      "cue": "Update"
+     },
+     {
+      "text": "**Avoid**: the bored brand manager",
+      "cue": "bored"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "a",
+     "look": "student",
+     "at": "front",
+     "v": 6
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "bored",
+     "pose": "shrug",
+     "expr": "stern"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "zzz",
+     "who": "a",
+     "cue": "bored"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "bored",
+     "shot": "close"
+    }
+   ]
+  },
+  {
+   "set": "home",
+   "say": "KitKat still says have a break. But Gen Z can't switch off, so the break is now for the mind, not just the body.",
+   "board": {
+    "title": "Have a **break**",
+    "lines": [
+     {
+      "text": "A break **for the mind**",
+      "cue": "mind"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "l"
+    },
+    {
+     "id": "a",
+     "look": "student",
+     "at": "sofa",
+     "v": 2,
+     "mode": "sit",
+     "hold": "phone",
+     "pose": "hold"
+    },
+    {
+     "id": "b",
+     "look": "student",
+     "at": "sofa2",
+     "v": 5,
+     "mode": "sit"
+    }
+   ],
+   "acts": [
+    {
+     "who": "a",
+     "cue": "switch",
+     "expr": "nervous"
+    },
+    {
+     "who": "b",
+     "cue": "mind",
+     "expr": "relief"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "exclaim",
+     "who": "a",
+     "cue": "switch"
+    },
+    {
+     "kind": "brain",
+     "who": "b",
+     "cue": "mind"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "Gen",
+     "shot": "actor",
+     "who": "a"
+    },
+    {
+     "cue": "mind",
+     "shot": "board"
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Meanwhile a new manager, bored of the old ads, wants to scrap it all. That throws away years of built memory.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "r"
+    },
+    {
+     "id": "e1",
+     "look": "exec",
+     "at": "l",
+     "v": 4
+    },
+    {
+     "id": "e2",
+     "look": "exec_f",
+     "at": "table",
+     "v": 1
+    }
+   ],
+   "acts": [
+    {
+     "who": "e1",
+     "cue": "bored",
+     "expr": "dazed"
+    },
+    {
+     "who": "e1",
+     "cue": "scrap",
+     "pose": "point",
+     "expr": "grin"
+    },
+    {
+     "who": "host",
+     "cue": "throws",
+     "pose": "shrug",
+     "expr": "pained"
+    },
+    {
+     "who": "e2",
+     "cue": "memory",
+     "expr": "shock"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "zzz",
+     "who": "e1",
+     "cue": "bored"
+    },
+    {
+     "kind": "say",
+     "who": "e1",
+     "cue": "scrap",
+     "text": "Let's change everything!"
+    },
+    {
+     "kind": "cross",
+     "who": "host",
+     "cue": "throws"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "bored",
+     "shot": "actor",
+     "who": "e1"
+    },
+    {
+     "cue": "throws",
+     "shot": "close"
+    }
+   ]
+  },
+  {
+   "set": "stage",
+   "say": "Use it like this: turn up differently each time, but keep the idea, voice and craft the same.",
+   "board": {
+    "title": "Use it like **this**",
+    "lines": [
+     {
+      "text": "Turn up **differently**",
+      "cue": "differently"
+     },
+     {
+      "text": "Same **idea, voice, craft**",
+      "cue": "same"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "a",
+     "look": "student",
+     "at": "front",
+     "v": 3
+    }
+   ],
+   "acts": [
+    {
+     "who": "a",
+     "cue": "same",
+     "expr": "smile"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "tick",
+     "who": "a",
+     "cue": "same"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "same",
+     "shot": "close"
+    }
+   ],
+   "hold": 1.0
+  }
+ ]
+}

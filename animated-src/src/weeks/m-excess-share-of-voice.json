@@ -1,0 +1,719 @@
+{
+ "week": 0,
+ "title": "Excess share of voice (ESOV)",
+ "speaker": "John Philip Jones, 1990; extended by Les Binet and Peter Field",
+ "beats": [
+  {
+   "set": "office",
+   "say": "Excess share of voice compares your slice of category advertising with your share of market. Voice minus market is the excess.",
+   "board": {
+    "title": "Excess **share of voice**",
+    "steps": [
+     {
+      "text": "**Share of voice** your slice of ads",
+      "cue": "slice",
+      "at": 2.186
+     },
+     {
+      "text": "**Share of market** your slice of sales",
+      "cue": "market",
+      "at": 4.344
+     },
+     {
+      "text": "**ESOV** voice minus market",
+      "cue": "minus",
+      "at": 5.524
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "e1",
+     "look": "exec",
+     "v": 5,
+     "at": "table"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "minus",
+     "pose": "point",
+     "at": 5.524
+    },
+    {
+     "who": "e1",
+     "cue": "excess",
+     "pose": "chin",
+     "at": 6.55
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "minus",
+     "shot": "close",
+     "at": 5.524
+    },
+    {
+     "cue": "excess",
+     "shot": "board",
+     "at": 6.55
+    }
+   ],
+   "audio": "audio/m-excess-share-of-voice-00.mp3",
+   "leadIn": 0.45,
+   "seconds": 8.034,
+   "words": [
+    {
+     "w": "Excess",
+     "t": 0.5
+    },
+    {
+     "w": "share",
+     "t": 0.936
+    },
+    {
+     "w": "of",
+     "t": 1.219
+    },
+    {
+     "w": "voice",
+     "t": 1.29
+    },
+    {
+     "w": "compares",
+     "t": 1.644
+    },
+    {
+     "w": "your",
+     "t": 2.092
+    },
+    {
+     "w": "slice",
+     "t": 2.186
+    },
+    {
+     "w": "of",
+     "t": 2.552
+    },
+    {
+     "w": "category",
+     "t": 2.646
+    },
+    {
+     "w": "advertising",
+     "t": 3.047
+    },
+    {
+     "w": "with",
+     "t": 3.66
+    },
+    {
+     "w": "your",
+     "t": 3.825
+    },
+    {
+     "w": "share",
+     "t": 3.932
+    },
+    {
+     "w": "of",
+     "t": 4.238
+    },
+    {
+     "w": "market",
+     "t": 4.344
+    },
+    {
+     "w": "Voice",
+     "t": 5.123
+    },
+    {
+     "w": "minus",
+     "t": 5.524
+    },
+    {
+     "w": "market",
+     "t": 5.866
+    },
+    {
+     "w": "is",
+     "t": 6.219
+    },
+    {
+     "w": "the",
+     "t": 6.408
+    },
+    {
+     "w": "excess",
+     "t": 6.55
+    }
+   ]
+  },
+  {
+   "set": "street",
+   "say": "Brands that shout louder than their size tend to grow. Every ten points of excess is worth roughly half to one point of market share a year.",
+   "board": {
+    "title": "The **rule of thumb**",
+    "big": "+10 ESOV",
+    "caption": "about **0.5 to 1** share point a year",
+    "cue": "ten",
+    "at": 2.375
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "l"
+    },
+    {
+     "id": "p1",
+     "look": "shopper",
+     "v": 1,
+     "at": "bus"
+    },
+    {
+     "id": "p2",
+     "look": "student",
+     "v": 3,
+     "at": "r"
+    }
+   ],
+   "acts": [
+    {
+     "who": "p1",
+     "cue": "louder",
+     "pose": "point",
+     "expr": "grin",
+     "at": 1.302
+    },
+    {
+     "who": "p2",
+     "cue": "grow",
+     "pose": "cheer",
+     "expr": "smile",
+     "at": 2.658
+    },
+    {
+     "who": "host",
+     "cue": "share",
+     "pose": "present",
+     "expr": "grin",
+     "at": 6.774
+    }
+   ],
+   "fx": [
+    {
+     "kind": "eye",
+     "who": "p1",
+     "cue": "louder",
+     "at": 1.302
+    },
+    {
+     "kind": "chart",
+     "who": "p2",
+     "cue": "grow",
+     "at": 2.658
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "louder",
+     "shot": "actor",
+     "who": "p1",
+     "at": 1.302
+    },
+    {
+     "cue": "ten",
+     "shot": "board",
+     "at": 2.375
+    }
+   ],
+   "audio": "audio/m-excess-share-of-voice-01.mp3",
+   "leadIn": 0.45,
+   "seconds": 8.37,
+   "words": [
+    {
+     "w": "Brands",
+     "t": 0.5
+    },
+    {
+     "w": "that",
+     "t": 0.877
+    },
+    {
+     "w": "shout",
+     "t": 0.995
+    },
+    {
+     "w": "louder",
+     "t": 1.302
+    },
+    {
+     "w": "than",
+     "t": 1.656
+    },
+    {
+     "w": "their",
+     "t": 1.809
+    },
+    {
+     "w": "size",
+     "t": 1.915
+    },
+    {
+     "w": "tend",
+     "t": 2.375
+    },
+    {
+     "w": "to",
+     "t": 2.599
+    },
+    {
+     "w": "grow",
+     "t": 2.658
+    },
+    {
+     "w": "Every",
+     "t": 3.413
+    },
+    {
+     "w": "ten",
+     "t": 3.719
+    },
+    {
+     "w": "points",
+     "t": 3.932
+    },
+    {
+     "w": "of",
+     "t": 4.191
+    },
+    {
+     "w": "excess",
+     "t": 4.262
+    },
+    {
+     "w": "is",
+     "t": 4.722
+    },
+    {
+     "w": "worth",
+     "t": 4.875
+    },
+    {
+     "w": "roughly",
+     "t": 5.111
+    },
+    {
+     "w": "half",
+     "t": 5.453
+    },
+    {
+     "w": "to",
+     "t": 5.771
+    },
+    {
+     "w": "one",
+     "t": 5.866
+    },
+    {
+     "w": "point",
+     "t": 6.125
+    },
+    {
+     "w": "of",
+     "t": 6.361
+    },
+    {
+     "w": "market",
+     "t": 6.443
+    },
+    {
+     "w": "share",
+     "t": 6.774
+    },
+    {
+     "w": "a",
+     "t": 7.009
+    },
+    {
+     "w": "year",
+     "t": 7.045
+    }
+   ]
+  },
+  {
+   "set": "home",
+   "say": "UNICEF Australia lifted its broadcast share of voice from twenty to fifty-five percent, far above its share of donations, and awareness rose.",
+   "board": {
+    "title": "UNICEF **share of voice**",
+    "bars": [
+     {
+      "label": "2020",
+      "value": 20,
+      "display": "20%",
+      "cue": "twenty",
+      "at": 3.307
+     },
+     {
+      "label": "2024",
+      "value": 55,
+      "display": "55%",
+      "cue": "fifty",
+      "at": 3.637
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "l"
+    },
+    {
+     "id": "a",
+     "look": "elder",
+     "v": 2,
+     "at": "sofa",
+     "mode": "sit"
+    },
+    {
+     "id": "b",
+     "look": "shopper",
+     "v": 3,
+     "at": "sofa2",
+     "mode": "sit"
+    }
+   ],
+   "acts": [
+    {
+     "who": "a",
+     "cue": "fifty",
+     "expr": "shock",
+     "at": 3.637
+    },
+    {
+     "who": "b",
+     "cue": "awareness",
+     "pose": "cheer",
+     "expr": "smile",
+     "at": 6.833
+    }
+   ],
+   "fx": [
+    {
+     "kind": "eye",
+     "who": "a",
+     "cue": "fifty",
+     "at": 3.637
+    },
+    {
+     "kind": "heart",
+     "who": "b",
+     "cue": "awareness",
+     "at": 6.833
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "twenty",
+     "shot": "board",
+     "at": 3.307
+    },
+    {
+     "cue": "awareness",
+     "shot": "actor",
+     "who": "b",
+     "at": 6.833
+    }
+   ],
+   "audio": "audio/m-excess-share-of-voice-02.mp3",
+   "leadIn": 0.45,
+   "seconds": 8.61,
+   "words": [
+    {
+     "w": "UNICEF",
+     "t": 0.5
+    },
+    {
+     "w": "Australia",
+     "t": 1.031
+    },
+    {
+     "w": "lifted",
+     "t": 1.491
+    },
+    {
+     "w": "its",
+     "t": 1.785
+    },
+    {
+     "w": "broadcast",
+     "t": 1.903
+    },
+    {
+     "w": "share",
+     "t": 2.493
+    },
+    {
+     "w": "of",
+     "t": 2.717
+    },
+    {
+     "w": "voice",
+     "t": 2.788
+    },
+    {
+     "w": "from",
+     "t": 3.142
+    },
+    {
+     "w": "twenty",
+     "t": 3.307
+    },
+    {
+     "w": "to",
+     "t": 3.566
+    },
+    {
+     "w": "fifty-five",
+     "t": 3.637
+    },
+    {
+     "w": "percent",
+     "t": 4.085
+    },
+    {
+     "w": "far",
+     "t": 4.91
+    },
+    {
+     "w": "above",
+     "t": 5.229
+    },
+    {
+     "w": "its",
+     "t": 5.453
+    },
+    {
+     "w": "share",
+     "t": 5.559
+    },
+    {
+     "w": "of",
+     "t": 5.818
+    },
+    {
+     "w": "donations",
+     "t": 5.901
+    },
+    {
+     "w": "and",
+     "t": 6.715
+    },
+    {
+     "w": "awareness",
+     "t": 6.833
+    },
+    {
+     "w": "rose",
+     "t": 7.234
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Use it like this: compare share of voice with share of market, set the gap to fit your growth goal, and make the work creative.",
+   "board": {
+    "title": "Use it **like this**",
+    "lines": [
+     {
+      "text": "**Compare** voice with market",
+      "cue": "compare",
+      "at": 1.691
+     },
+     {
+      "text": "Set the **gap** to your goal",
+      "cue": "gap",
+      "at": 4.191
+     },
+     {
+      "text": "Make it **creative**",
+      "cue": "creative",
+      "at": 6.219
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "e1",
+     "look": "exec",
+     "v": 5,
+     "at": "table"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "gap",
+     "pose": "point",
+     "at": 4.191
+    },
+    {
+     "who": "e1",
+     "cue": "creative",
+     "expr": "smile",
+     "at": 6.219
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "creative",
+     "shot": "close",
+     "at": 6.219
+    }
+   ],
+   "hold": 1.0,
+   "audio": "audio/m-excess-share-of-voice-03.mp3",
+   "leadIn": 0.45,
+   "seconds": 8.146,
+   "words": [
+    {
+     "w": "Use",
+     "t": 0.5
+    },
+    {
+     "w": "it",
+     "t": 0.818
+    },
+    {
+     "w": "like",
+     "t": 0.889
+    },
+    {
+     "w": "this",
+     "t": 1.066
+    },
+    {
+     "w": "compare",
+     "t": 1.691
+    },
+    {
+     "w": "share",
+     "t": 2.092
+    },
+    {
+     "w": "of",
+     "t": 2.351
+    },
+    {
+     "w": "voice",
+     "t": 2.422
+    },
+    {
+     "w": "with",
+     "t": 2.776
+    },
+    {
+     "w": "share",
+     "t": 2.894
+    },
+    {
+     "w": "of",
+     "t": 3.13
+    },
+    {
+     "w": "market",
+     "t": 3.212
+    },
+    {
+     "w": "set",
+     "t": 3.873
+    },
+    {
+     "w": "the",
+     "t": 4.132
+    },
+    {
+     "w": "gap",
+     "t": 4.191
+    },
+    {
+     "w": "to",
+     "t": 4.427
+    },
+    {
+     "w": "fit",
+     "t": 4.509
+    },
+    {
+     "w": "your",
+     "t": 4.71
+    },
+    {
+     "w": "growth",
+     "t": 4.804
+    },
+    {
+     "w": "goal",
+     "t": 5.052
+    },
+    {
+     "w": "and",
+     "t": 5.559
+    },
+    {
+     "w": "make",
+     "t": 5.7
+    },
+    {
+     "w": "the",
+     "t": 5.936
+    },
+    {
+     "w": "work",
+     "t": 6.007
+    },
+    {
+     "w": "creative",
+     "t": 6.219
+    }
+   ]
+  }
+ ],
+ "id": "m-excess-share-of-voice",
+ "total": 33.13
+}

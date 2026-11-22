@@ -1,0 +1,268 @@
+{
+ "week": 0,
+ "title": "Papps' brand definition and the five reasons brands matter",
+ "speaker": "Justin Papps, Tenet, Week 3",
+ "beats": [
+  {
+   "set": "stage",
+   "say": "A brand is the beliefs that predispose people to choose you. It matters for five reasons: economic engine, behavioural shortcut, strategy in action, culture shaper, and volatility moat.",
+   "board": {
+    "title": "Why **brands** matter",
+    "steps": [
+     {
+      "text": "**Economic** engines",
+      "cue": "economic"
+     },
+     {
+      "text": "**Behavioural** shortcuts",
+      "cue": "behavioural"
+     },
+     {
+      "text": "**Strategy** in action",
+      "cue": "strategy"
+     },
+     {
+      "text": "Shapers of **culture**",
+      "cue": "culture"
+     },
+     {
+      "text": "**Volatility** moats",
+      "cue": "volatility"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "a",
+     "look": "student",
+     "at": "front",
+     "v": 1
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "five",
+     "pose": "up"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "strategy",
+     "shot": "close"
+    },
+    {
+     "cue": "volatility",
+     "shot": "board"
+    }
+   ]
+  },
+  {
+   "set": "plaza",
+   "say": "Take two backpacks. Louis Vuitton costs about fifteen times more, with fewer compartments and a worse warranty. People still pay. That's the brand.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "l"
+    },
+    {
+     "id": "s1",
+     "look": "shopper",
+     "at": "shelf",
+     "v": 3,
+     "hold": "bag",
+     "holdCol": "#7a5230",
+     "pose": "hold"
+    },
+    {
+     "id": "s2",
+     "look": "student",
+     "at": "r",
+     "v": 2,
+     "hold": "bag",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "s2",
+     "cue": "fewer",
+     "pose": "chin",
+     "expr": "dazed"
+    },
+    {
+     "who": "s1",
+     "cue": "pay",
+     "pose": "cheer",
+     "expr": "grin"
+    },
+    {
+     "who": "host",
+     "cue": "brand",
+     "pose": "up"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "money",
+     "who": "s1",
+     "cue": "fifteen"
+    },
+    {
+     "kind": "question",
+     "who": "s2",
+     "cue": "fewer"
+    },
+    {
+     "kind": "heart",
+     "who": "s1",
+     "cue": "pay"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "fifteen",
+     "shot": "actor",
+     "who": "s1"
+    },
+    {
+     "cue": "fewer",
+     "shot": "actor",
+     "who": "s2"
+    },
+    {
+     "cue": "brand",
+     "shot": "close"
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Brands mean margin. An iPhone sells for over three times what it costs to make, a margin above sixty-seven percent.",
+   "board": {
+    "title": "**iPhone** economics",
+    "big": "67%+",
+    "caption": "gross **margin**",
+    "cue": "margin"
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "point"
+    },
+    {
+     "id": "e1",
+     "look": "exec",
+     "at": "table",
+     "v": 5,
+     "hold": "laptop",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "e1",
+     "cue": "sixty",
+     "pose": "cheer",
+     "expr": "grin"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "money",
+     "who": "e1",
+     "cue": "sixty"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "sixty",
+     "shot": "actor",
+     "who": "e1"
+    }
+   ]
+  },
+  {
+   "set": "stage",
+   "say": "Use it like this: argue brand as a commercial asset. Attention is cheap, memory is expensive, preference is priceless.",
+   "board": {
+    "title": "Brand is a **commercial asset**",
+    "lines": [
+     {
+      "text": "Attention is **cheap**",
+      "cue": "Attention"
+     },
+     {
+      "text": "Memory is **expensive**",
+      "cue": "memory"
+     },
+     {
+      "text": "Preference is **priceless**",
+      "cue": "preference"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "a",
+     "look": "student",
+     "at": "front",
+     "v": 4
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "priceless",
+     "pose": "cheer",
+     "expr": "grin"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "stars",
+     "who": "host",
+     "cue": "priceless"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "priceless",
+     "shot": "close"
+    }
+   ],
+   "hold": 1.0
+  }
+ ]
+}

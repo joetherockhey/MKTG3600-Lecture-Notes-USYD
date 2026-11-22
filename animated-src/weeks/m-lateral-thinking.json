@@ -1,0 +1,288 @@
+{
+ "week": 0,
+ "title": "Lateral thinking and how ideas happen",
+ "speaker": "Brendan Willenberg, Executive Creative Director, Week 9; from Edward de Bono",
+ "beats": [
+  {
+   "set": "stage",
+   "say": "Lateral thinking, from Edward de Bono. Vertical thinking moves logically with the pieces you have. Lateral thinking changes the pieces by questioning the assumption. Ideas are new combinations, and AI should be an antagonist.",
+   "board": {
+    "title": "**Lateral** thinking",
+    "steps": [
+     {
+      "text": "**Vertical**: logic, same pieces",
+      "cue": "Vertical"
+     },
+     {
+      "text": "**Lateral**: change the assumption",
+      "cue": "Lateral"
+     },
+     {
+      "text": "**New combination** of old things",
+      "cue": "combinations"
+     },
+     {
+      "text": "**AI** as antagonist",
+      "cue": "antagonist"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "a",
+     "look": "student",
+     "v": 5,
+     "at": "r"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "changes",
+     "pose": "up",
+     "expr": "grin"
+    },
+    {
+     "who": "a",
+     "cue": "antagonist",
+     "pose": "chin"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "bulb",
+     "who": "host",
+     "cue": "combinations"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "changes",
+     "shot": "close"
+    },
+    {
+     "cue": "combinations",
+     "shot": "board"
+    }
+   ]
+  },
+  {
+   "set": "plaza",
+   "say": "Extra gum joined two things: gum and the checkout scanner. The Bad Breath Index nudged shoppers right at the till.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "l",
+     "pose": "none"
+    },
+    {
+     "id": "s1",
+     "look": "shopper",
+     "v": 3,
+     "at": "shelf",
+     "hold": "phone",
+     "pose": "hold"
+    },
+    {
+     "id": "s2",
+     "look": "shopper",
+     "v": 4,
+     "at": "walkR",
+     "to": "r",
+     "walkCue": "nudged"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "joined",
+     "pose": "up",
+     "expr": "grin"
+    },
+    {
+     "who": "s1",
+     "cue": "Breath",
+     "expr": "shock"
+    },
+    {
+     "who": "s2",
+     "cue": "till",
+     "pose": "cheer",
+     "expr": "laugh"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "bulb",
+     "who": "host",
+     "cue": "joined"
+    },
+    {
+     "kind": "think",
+     "who": "s1",
+     "cue": "Breath",
+     "text": "My breath?"
+    },
+    {
+     "kind": "tick",
+     "who": "s2",
+     "cue": "till"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "joined",
+     "shot": "close"
+    },
+    {
+     "cue": "Breath",
+     "shot": "actor",
+     "who": "s1"
+    },
+    {
+     "cue": "till",
+     "shot": "actor",
+     "who": "s2"
+    }
+   ]
+  },
+  {
+   "set": "street",
+   "say": "Rexona joined a logo with an armpit: Pitvertising. No new inputs, just a new connection.",
+   "board": {
+    "title": "**Pitvertising**",
+    "lines": [
+     {
+      "text": "A logo **+** an armpit",
+      "cue": "armpit"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "front",
+     "pose": "none"
+    },
+    {
+     "id": "p",
+     "look": "student",
+     "v": 6,
+     "at": "kerb"
+    }
+   ],
+   "acts": [
+    {
+     "who": "p",
+     "cue": "armpit",
+     "pose": "point",
+     "expr": "laugh"
+    },
+    {
+     "who": "host",
+     "cue": "connection",
+     "pose": "up",
+     "expr": "grin"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "burst",
+     "who": "p",
+     "cue": "armpit"
+    },
+    {
+     "kind": "bulb",
+     "who": "host",
+     "cue": "connection"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "armpit",
+     "shot": "actor",
+     "who": "p"
+    },
+    {
+     "cue": "connection",
+     "shot": "host"
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Use it like this: write the obvious answer, then reframe the problem so competitors can't copy you.",
+   "board": {
+    "title": "Use it like **this**",
+    "lines": [
+     {
+      "text": "Write the **obvious** answer",
+      "cue": "obvious"
+     },
+     {
+      "text": "**Reframe** the problem",
+      "cue": "reframe"
+     },
+     {
+      "text": "Hard to **copy**",
+      "cue": "copy"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "point"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "copy",
+     "pose": "cheer",
+     "expr": "grin"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "tick",
+     "who": "host",
+     "cue": "copy"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "copy",
+     "shot": "close"
+    }
+   ],
+   "hold": 1.0
+  }
+ ]
+}

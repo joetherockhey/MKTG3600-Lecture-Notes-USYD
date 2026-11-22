@@ -1,0 +1,285 @@
+{
+ "week": 0,
+ "title": "Brand eye level (and the value exchange)",
+ "speaker": "Bryce Coombe, Hypetap, Week 10",
+ "beats": [
+  {
+   "set": "office",
+   "say": "Brand eye level asks what role you play in people's lives. Leadership means experts. Eye to eye means relatable creators. Subservient means making life easier. And the value exchange is the product in real life.",
+   "board": {
+    "title": "Brand **eye level**",
+    "steps": [
+     {
+      "text": "**Leadership**: experts",
+      "cue": "Leadership"
+     },
+     {
+      "text": "**Eye to eye**: just like you",
+      "cue": "Eye"
+     },
+     {
+      "text": "**Subservient**: makes life easier",
+      "cue": "Subservient"
+     },
+     {
+      "text": "**Value exchange**: real life",
+      "cue": "value"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "e",
+     "look": "exec",
+     "v": 2,
+     "at": "table"
+    }
+   ],
+   "acts": [
+    {
+     "who": "e",
+     "cue": "relatable",
+     "expr": "smile"
+    },
+    {
+     "who": "host",
+     "cue": "value",
+     "pose": "point"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "heart",
+     "who": "e",
+     "cue": "relatable"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "relatable",
+     "shot": "actor",
+     "who": "e"
+    },
+    {
+     "cue": "value",
+     "shot": "board"
+    }
+   ]
+  },
+  {
+   "set": "home",
+   "say": "Kmart signed two TV celebrities. Good on paper, but viewers said, these two don't shop at Kmart.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "r",
+     "pose": "none"
+    },
+    {
+     "id": "p",
+     "look": "shopper",
+     "v": 5,
+     "at": "sofa",
+     "mode": "sit"
+    },
+    {
+     "id": "q",
+     "look": "elder",
+     "v": 1,
+     "at": "sofa2",
+     "mode": "sit"
+    }
+   ],
+   "acts": [
+    {
+     "who": "p",
+     "cue": "paper",
+     "expr": "smile"
+    },
+    {
+     "who": "q",
+     "cue": "don't",
+     "pose": "point",
+     "expr": "stern"
+    },
+    {
+     "who": "host",
+     "cue": "Kmart",
+     "pose": "shrug",
+     "expr": "nervous"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "say",
+     "who": "q",
+     "cue": "don't",
+     "text": "They don't shop here!"
+    },
+    {
+     "kind": "cross",
+     "who": "host",
+     "cue": "Kmart"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "don't",
+     "shot": "actor",
+     "who": "q"
+    },
+    {
+     "cue": "Kmart",
+     "shot": "close"
+    }
+   ]
+  },
+  {
+   "set": "plaza",
+   "say": "A recipe creator cooking with the product in real life beat strict brand scripts on sentiment, and cost less.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "front",
+     "pose": "none"
+    },
+    {
+     "id": "ch",
+     "look": "chef",
+     "v": 2,
+     "at": "stall"
+    },
+    {
+     "id": "s1",
+     "look": "shopper",
+     "v": 7,
+     "at": "l"
+    }
+   ],
+   "acts": [
+    {
+     "who": "ch",
+     "cue": "recipe",
+     "pose": "present",
+     "expr": "grin"
+    },
+    {
+     "who": "s1",
+     "cue": "sentiment",
+     "pose": "cheer",
+     "expr": "laugh"
+    },
+    {
+     "who": "host",
+     "cue": "less",
+     "pose": "up",
+     "expr": "grin"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "sparkle",
+     "who": "ch",
+     "cue": "recipe"
+    },
+    {
+     "kind": "heart",
+     "who": "s1",
+     "cue": "sentiment"
+    },
+    {
+     "kind": "money",
+     "who": "host",
+     "cue": "less"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "recipe",
+     "shot": "actor",
+     "who": "ch"
+    },
+    {
+     "cue": "sentiment",
+     "shot": "actor",
+     "who": "s1"
+    },
+    {
+     "cue": "less",
+     "shot": "close"
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Use it like this: set the eye level first, then give creators freedom to show the product.",
+   "board": {
+    "title": "Use it like **this**",
+    "lines": [
+     {
+      "text": "Set the **eye level**",
+      "cue": "eye"
+     },
+     {
+      "text": "Give creators **freedom**",
+      "cue": "freedom"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "point"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "product",
+     "pose": "cheer",
+     "expr": "grin"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "tick",
+     "who": "host",
+     "cue": "product"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "product",
+     "shot": "close"
+    }
+   ],
+   "hold": 1.0
+  }
+ ]
+}

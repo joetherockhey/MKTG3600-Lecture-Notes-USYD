@@ -1,0 +1,690 @@
+{
+ "week": 0,
+ "title": "What vs why (say is not do) and the qualitative toolkit",
+ "speaker": "Estelle Gohil, Fiftyfive5, Week 2",
+ "beats": [
+  {
+   "set": "stage",
+   "say": "What versus why. Behavioural data from sales and dashboards shows what happened. Qualitative research uncovers why, by talking, watching and following people over time.",
+   "board": {
+    "title": "What vs **why**",
+    "steps": [
+     {
+      "text": "**What**: behavioural data",
+      "cue": "Behavioural",
+      "at": 2.057
+     },
+     {
+      "text": "**Why**: qualitative research",
+      "cue": "Qualitative",
+      "at": 5.583
+     },
+     {
+      "text": "**Talk**: groups, juries, interviews",
+      "cue": "talking",
+      "at": 7.906
+     },
+     {
+      "text": "**Watch**: safaris, ethnography",
+      "cue": "watching",
+      "at": 8.613
+     },
+     {
+      "text": "**Follow**: communities, listening",
+      "cue": "following",
+      "at": 9.25
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "a",
+     "look": "student",
+     "at": "front",
+     "v": 5
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "Qualitative",
+     "pose": "point",
+     "at": 5.583
+    },
+    {
+     "who": "a",
+     "cue": "following",
+     "pose": "chin",
+     "at": 9.25
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "watching",
+     "shot": "close",
+     "at": 8.613
+    },
+    {
+     "cue": "following",
+     "shot": "board",
+     "at": 9.25
+    }
+   ],
+   "audio": "audio/m-what-vs-why-00.mp3",
+   "leadIn": 0.45,
+   "seconds": 11.538,
+   "words": [
+    {
+     "w": "What",
+     "t": 0.5
+    },
+    {
+     "w": "versus",
+     "t": 0.854
+    },
+    {
+     "w": "why",
+     "t": 1.314
+    },
+    {
+     "w": "Behavioural",
+     "t": 2.057
+    },
+    {
+     "w": "data",
+     "t": 2.611
+    },
+    {
+     "w": "from",
+     "t": 2.953
+    },
+    {
+     "w": "sales",
+     "t": 3.142
+    },
+    {
+     "w": "and",
+     "t": 3.542
+    },
+    {
+     "w": "dashboards",
+     "t": 3.672
+    },
+    {
+     "w": "shows",
+     "t": 4.309
+    },
+    {
+     "w": "what",
+     "t": 4.675
+    },
+    {
+     "w": "happened",
+     "t": 4.781
+    },
+    {
+     "w": "Qualitative",
+     "t": 5.583
+    },
+    {
+     "w": "research",
+     "t": 6.149
+    },
+    {
+     "w": "uncovers",
+     "t": 6.644
+    },
+    {
+     "w": "why",
+     "t": 7.092
+    },
+    {
+     "w": "by",
+     "t": 7.776
+    },
+    {
+     "w": "talking",
+     "t": 7.906
+    },
+    {
+     "w": "watching",
+     "t": 8.613
+    },
+    {
+     "w": "and",
+     "t": 9.12
+    },
+    {
+     "w": "following",
+     "t": 9.25
+    },
+    {
+     "w": "people",
+     "t": 9.639
+    },
+    {
+     "w": "over",
+     "t": 9.981
+    },
+    {
+     "w": "time",
+     "t": 10.158
+    }
+   ]
+  },
+  {
+   "set": "plaza",
+   "say": "A shopper says she wants something cheaper. Keep asking why, and the real driver turns out to be saving time.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "l"
+    },
+    {
+     "id": "s1",
+     "look": "shopper",
+     "at": "shelf",
+     "v": 1,
+     "hold": "bag",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "s1",
+     "cue": "cheaper",
+     "pose": "shrug",
+     "at": 2.045
+    },
+    {
+     "who": "host",
+     "cue": "why",
+     "pose": "point",
+     "at": 3.436
+    },
+    {
+     "who": "s1",
+     "cue": "time",
+     "expr": "relief",
+     "at": 5.936
+    }
+   ],
+   "fx": [
+    {
+     "kind": "say",
+     "who": "s1",
+     "cue": "cheaper",
+     "text": "Something cheaper!",
+     "at": 2.045
+    },
+    {
+     "kind": "question",
+     "who": "host",
+     "cue": "why",
+     "at": 3.436
+    },
+    {
+     "kind": "clock",
+     "who": "s1",
+     "cue": "time",
+     "at": 5.936
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "cheaper",
+     "shot": "actor",
+     "who": "s1",
+     "at": 2.045
+    },
+    {
+     "cue": "why",
+     "shot": "two",
+     "who": "s1",
+     "at": 3.436
+    },
+    {
+     "cue": "time",
+     "shot": "close",
+     "who": "s1",
+     "at": 5.936
+    }
+   ],
+   "audio": "audio/m-what-vs-why-01.mp3",
+   "leadIn": 0.45,
+   "seconds": 7.29,
+   "words": [
+    {
+     "w": "A",
+     "t": 0.5
+    },
+    {
+     "w": "shopper",
+     "t": 0.606
+    },
+    {
+     "w": "says",
+     "t": 1.019
+    },
+    {
+     "w": "she",
+     "t": 1.29
+    },
+    {
+     "w": "wants",
+     "t": 1.467
+    },
+    {
+     "w": "something",
+     "t": 1.703
+    },
+    {
+     "w": "cheaper",
+     "t": 2.045
+    },
+    {
+     "w": "Keep",
+     "t": 2.823
+    },
+    {
+     "w": "asking",
+     "t": 3.094
+    },
+    {
+     "w": "why",
+     "t": 3.436
+    },
+    {
+     "w": "and",
+     "t": 4.109
+    },
+    {
+     "w": "the",
+     "t": 4.238
+    },
+    {
+     "w": "real",
+     "t": 4.321
+    },
+    {
+     "w": "driver",
+     "t": 4.58
+    },
+    {
+     "w": "turns",
+     "t": 4.922
+    },
+    {
+     "w": "out",
+     "t": 5.229
+    },
+    {
+     "w": "to",
+     "t": 5.394
+    },
+    {
+     "w": "be",
+     "t": 5.453
+    },
+    {
+     "w": "saving",
+     "t": 5.547
+    },
+    {
+     "w": "time",
+     "t": 5.936
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Estelle's team put body cameras on baristas. Watching the footage surfaced carton problems nobody had mentioned when asked.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "r"
+    },
+    {
+     "id": "w1",
+     "look": "worker",
+     "at": "table",
+     "v": 2,
+     "hold": "box",
+     "holdCol": "#f4efe2",
+     "pose": "hold"
+    },
+    {
+     "id": "e1",
+     "look": "exec_f",
+     "at": "l",
+     "v": 3,
+     "hold": "laptop",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "w1",
+     "cue": "cameras",
+     "expr": "nervous",
+     "at": 1.785
+    },
+    {
+     "who": "e1",
+     "cue": "footage",
+     "pose": "chin",
+     "at": 3.79
+    },
+    {
+     "who": "w1",
+     "cue": "problems",
+     "pose": "none",
+     "expr": "pained",
+     "at": 5.052
+    }
+   ],
+   "fx": [
+    {
+     "kind": "eye",
+     "who": "e1",
+     "cue": "Watching",
+     "at": 3.283
+    },
+    {
+     "kind": "exclaim",
+     "who": "w1",
+     "cue": "problems",
+     "at": 5.052
+    },
+    {
+     "kind": "say",
+     "who": "w1",
+     "cue": "nobody",
+     "text": "Never noticed that!",
+     "at": 5.535
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "Watching",
+     "shot": "actor",
+     "who": "e1",
+     "at": 3.283
+    },
+    {
+     "cue": "problems",
+     "shot": "actor",
+     "who": "w1",
+     "at": 5.052
+    },
+    {
+     "cue": "asked",
+     "shot": "close",
+     "at": 6.609
+    }
+   ],
+   "audio": "audio/m-what-vs-why-02.mp3",
+   "leadIn": 0.45,
+   "seconds": 8.01,
+   "words": [
+    {
+     "w": "Estelle's",
+     "t": 0.5
+    },
+    {
+     "w": "team",
+     "t": 1.007
+    },
+    {
+     "w": "put",
+     "t": 1.325
+    },
+    {
+     "w": "body",
+     "t": 1.526
+    },
+    {
+     "w": "cameras",
+     "t": 1.785
+    },
+    {
+     "w": "on",
+     "t": 2.163
+    },
+    {
+     "w": "baristas",
+     "t": 2.328
+    },
+    {
+     "w": "Watching",
+     "t": 3.283
+    },
+    {
+     "w": "the",
+     "t": 3.731
+    },
+    {
+     "w": "footage",
+     "t": 3.79
+    },
+    {
+     "w": "surfaced",
+     "t": 4.179
+    },
+    {
+     "w": "carton",
+     "t": 4.675
+    },
+    {
+     "w": "problems",
+     "t": 5.052
+    },
+    {
+     "w": "nobody",
+     "t": 5.535
+    },
+    {
+     "w": "had",
+     "t": 5.936
+    },
+    {
+     "w": "mentioned",
+     "t": 6.101
+    },
+    {
+     "w": "when",
+     "t": 6.479
+    },
+    {
+     "w": "asked",
+     "t": 6.609
+    }
+   ]
+  },
+  {
+   "set": "stage",
+   "say": "Use it like this: name the what the client already has, then pick two or three qualitative methods to find the why.",
+   "board": {
+    "title": "Use it like **this**",
+    "lines": [
+     {
+      "text": "Name the **what** you have",
+      "cue": "name",
+      "at": 1.726
+     },
+     {
+      "text": "Pick **2 or 3** methods",
+      "cue": "pick",
+      "at": 3.849
+     },
+     {
+      "text": "Find the **why**",
+      "cue": "find",
+      "at": 5.524
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "a",
+     "look": "student",
+     "at": "front",
+     "v": 2
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "pick",
+     "pose": "point",
+     "at": 3.849
+    }
+   ],
+   "fx": [
+    {
+     "kind": "bulb",
+     "who": "a",
+     "cue": "find",
+     "at": 5.524
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "find",
+     "shot": "close",
+     "at": 5.524
+    }
+   ],
+   "hold": 1.0,
+   "audio": "audio/m-what-vs-why-03.mp3",
+   "leadIn": 0.45,
+   "seconds": 7.546,
+   "words": [
+    {
+     "w": "Use",
+     "t": 0.5
+    },
+    {
+     "w": "it",
+     "t": 0.83
+    },
+    {
+     "w": "like",
+     "t": 0.901
+    },
+    {
+     "w": "this",
+     "t": 1.09
+    },
+    {
+     "w": "name",
+     "t": 1.726
+    },
+    {
+     "w": "the",
+     "t": 2.033
+    },
+    {
+     "w": "what",
+     "t": 2.092
+    },
+    {
+     "w": "the",
+     "t": 2.245
+    },
+    {
+     "w": "client",
+     "t": 2.316
+    },
+    {
+     "w": "already",
+     "t": 2.658
+    },
+    {
+     "w": "has",
+     "t": 3.0
+    },
+    {
+     "w": "then",
+     "t": 3.672
+    },
+    {
+     "w": "pick",
+     "t": 3.849
+    },
+    {
+     "w": "two",
+     "t": 4.073
+    },
+    {
+     "w": "or",
+     "t": 4.297
+    },
+    {
+     "w": "three",
+     "t": 4.344
+    },
+    {
+     "w": "qualitative",
+     "t": 4.604
+    },
+    {
+     "w": "methods",
+     "t": 5.075
+    },
+    {
+     "w": "to",
+     "t": 5.441
+    },
+    {
+     "w": "find",
+     "t": 5.524
+    },
+    {
+     "w": "the",
+     "t": 5.759
+    },
+    {
+     "w": "why",
+     "t": 5.807
+    }
+   ]
+  }
+ ],
+ "id": "m-what-vs-why",
+ "total": 34.37
+}

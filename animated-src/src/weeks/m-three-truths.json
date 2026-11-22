@@ -1,0 +1,682 @@
+{
+ "week": 0,
+ "title": "The three truths (brand, audience, product)",
+ "speaker": "Shannon Wright, Nestle Oceania, Week 5",
+ "beats": [
+  {
+   "set": "office",
+   "say": "A strong position lines up three truths: a brand belief, an audience truth and a product truth, all saying the same thing.",
+   "board": {
+    "title": "The **three truths**",
+    "steps": [
+     {
+      "text": "**Brand belief**: what it stands for",
+      "cue": "brand",
+      "at": 2.953
+     },
+     {
+      "text": "**Audience truth**: a felt need",
+      "cue": "audience",
+      "at": 4.038
+     },
+     {
+      "text": "**Product truth**: a fact that proves it",
+      "cue": "product",
+      "at": 4.887
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "e1",
+     "look": "exec_f",
+     "at": "table",
+     "v": 1
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "brand",
+     "pose": "point",
+     "at": 2.953
+    },
+    {
+     "who": "e1",
+     "cue": "same",
+     "expr": "smile",
+     "at": 6.29
+    }
+   ],
+   "fx": [
+    {
+     "kind": "tick",
+     "who": "e1",
+     "cue": "same",
+     "at": 6.29
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "product",
+     "shot": "two",
+     "who": "e1",
+     "at": 4.887
+    },
+    {
+     "cue": "same",
+     "shot": "close",
+     "at": 6.29
+    }
+   ],
+   "audio": "audio/m-three-truths-00.mp3",
+   "leadIn": 0.45,
+   "seconds": 7.842,
+   "words": [
+    {
+     "w": "A",
+     "t": 0.5
+    },
+    {
+     "w": "strong",
+     "t": 0.618
+    },
+    {
+     "w": "position",
+     "t": 0.925
+    },
+    {
+     "w": "lines",
+     "t": 1.384
+    },
+    {
+     "w": "up",
+     "t": 1.703
+    },
+    {
+     "w": "three",
+     "t": 1.833
+    },
+    {
+     "w": "truths",
+     "t": 2.092
+    },
+    {
+     "w": "a",
+     "t": 2.87
+    },
+    {
+     "w": "brand",
+     "t": 2.953
+    },
+    {
+     "w": "belief",
+     "t": 3.259
+    },
+    {
+     "w": "an",
+     "t": 3.849
+    },
+    {
+     "w": "audience",
+     "t": 4.038
+    },
+    {
+     "w": "truth",
+     "t": 4.415
+    },
+    {
+     "w": "and",
+     "t": 4.698
+    },
+    {
+     "w": "a",
+     "t": 4.851
+    },
+    {
+     "w": "product",
+     "t": 4.887
+    },
+    {
+     "w": "truth",
+     "t": 5.217
+    },
+    {
+     "w": "all",
+     "t": 5.759
+    },
+    {
+     "w": "saying",
+     "t": 5.936
+    },
+    {
+     "w": "the",
+     "t": 6.231
+    },
+    {
+     "w": "same",
+     "t": 6.29
+    },
+    {
+     "w": "thing",
+     "t": 6.538
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Take KitKat. At three o'clock an office worker feels the drag. Everyone needs a break. That's the audience truth.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "r"
+    },
+    {
+     "id": "w",
+     "look": "worker",
+     "at": "c",
+     "v": 2,
+     "hold": "laptop",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "w",
+     "cue": "drag",
+     "expr": "dazed",
+     "at": 3.825
+    },
+    {
+     "who": "w",
+     "cue": "Everyone",
+     "pose": "none",
+     "expr": "pained",
+     "at": 4.627
+    },
+    {
+     "who": "host",
+     "cue": "audience",
+     "pose": "point",
+     "expr": "smile",
+     "at": 6.774
+    }
+   ],
+   "fx": [
+    {
+     "kind": "clock",
+     "who": "w",
+     "cue": "three",
+     "at": 1.927
+    },
+    {
+     "kind": "zzz",
+     "who": "w",
+     "cue": "drag",
+     "at": 3.825
+    },
+    {
+     "kind": "think",
+     "who": "w",
+     "cue": "Everyone",
+     "text": "I need a break.",
+     "at": 4.627
+    },
+    {
+     "kind": "tick",
+     "who": "host",
+     "cue": "audience",
+     "at": 6.774
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "drag",
+     "shot": "actor",
+     "who": "w",
+     "at": 3.825
+    },
+    {
+     "cue": "audience",
+     "shot": "two",
+     "who": "w",
+     "at": 6.774
+    }
+   ],
+   "audio": "audio/m-three-truths-01.mp3",
+   "leadIn": 0.45,
+   "seconds": 8.562,
+   "words": [
+    {
+     "w": "Take",
+     "t": 0.5
+    },
+    {
+     "w": "KitKat",
+     "t": 0.842
+    },
+    {
+     "w": "At",
+     "t": 1.726
+    },
+    {
+     "w": "three",
+     "t": 1.927
+    },
+    {
+     "w": "o'clock",
+     "t": 2.198
+    },
+    {
+     "w": "an",
+     "t": 2.481
+    },
+    {
+     "w": "office",
+     "t": 2.634
+    },
+    {
+     "w": "worker",
+     "t": 2.988
+    },
+    {
+     "w": "feels",
+     "t": 3.354
+    },
+    {
+     "w": "the",
+     "t": 3.755
+    },
+    {
+     "w": "drag",
+     "t": 3.825
+    },
+    {
+     "w": "Everyone",
+     "t": 4.627
+    },
+    {
+     "w": "needs",
+     "t": 5.134
+    },
+    {
+     "w": "a",
+     "t": 5.394
+    },
+    {
+     "w": "break",
+     "t": 5.441
+    },
+    {
+     "w": "That's",
+     "t": 6.208
+    },
+    {
+     "w": "the",
+     "t": 6.573
+    },
+    {
+     "w": "audience",
+     "t": 6.774
+    },
+    {
+     "w": "truth",
+     "t": 7.222
+    }
+   ]
+  },
+  {
+   "set": "plaza",
+   "say": "And the bar is made to be broken, two fingers that snap apart. The product proves the belief: breaks are good.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "c"
+    },
+    {
+     "id": "s1",
+     "look": "shopper",
+     "at": "shelf",
+     "v": 1,
+     "hold": "box",
+     "pose": "hold",
+     "holdCol": "#c8102e"
+    },
+    {
+     "id": "k",
+     "look": "kid",
+     "at": "l",
+     "v": 3
+    }
+   ],
+   "acts": [
+    {
+     "who": "s1",
+     "cue": "snap",
+     "pose": "cheer",
+     "expr": "laugh",
+     "at": 3.071
+    },
+    {
+     "who": "host",
+     "cue": "proves",
+     "pose": "up",
+     "expr": "grin",
+     "at": 4.651
+    },
+    {
+     "who": "k",
+     "cue": "good",
+     "expr": "grin",
+     "at": 6.196
+    }
+   ],
+   "fx": [
+    {
+     "kind": "burst",
+     "who": "s1",
+     "cue": "snap",
+     "at": 3.071
+    },
+    {
+     "kind": "bulb",
+     "who": "host",
+     "cue": "proves",
+     "at": 4.651
+    },
+    {
+     "kind": "heart",
+     "who": "k",
+     "cue": "good",
+     "at": 6.196
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "snap",
+     "shot": "actor",
+     "who": "s1",
+     "at": 3.071
+    },
+    {
+     "cue": "proves",
+     "shot": "close",
+     "at": 4.651
+    }
+   ],
+   "audio": "audio/m-three-truths-02.mp3",
+   "leadIn": 0.45,
+   "seconds": 7.554,
+   "words": [
+    {
+     "w": "And",
+     "t": 0.5
+    },
+    {
+     "w": "the",
+     "t": 0.689
+    },
+    {
+     "w": "bar",
+     "t": 0.759
+    },
+    {
+     "w": "is",
+     "t": 1.078
+    },
+    {
+     "w": "made",
+     "t": 1.208
+    },
+    {
+     "w": "to",
+     "t": 1.384
+    },
+    {
+     "w": "be",
+     "t": 1.443
+    },
+    {
+     "w": "broken",
+     "t": 1.55
+    },
+    {
+     "w": "two",
+     "t": 2.328
+    },
+    {
+     "w": "fingers",
+     "t": 2.517
+    },
+    {
+     "w": "that",
+     "t": 2.929
+    },
+    {
+     "w": "snap",
+     "t": 3.071
+    },
+    {
+     "w": "apart",
+     "t": 3.342
+    },
+    {
+     "w": "The",
+     "t": 4.12
+    },
+    {
+     "w": "product",
+     "t": 4.274
+    },
+    {
+     "w": "proves",
+     "t": 4.651
+    },
+    {
+     "w": "the",
+     "t": 4.981
+    },
+    {
+     "w": "belief",
+     "t": 5.052
+    },
+    {
+     "w": "breaks",
+     "t": 5.842
+    },
+    {
+     "w": "are",
+     "t": 6.16
+    },
+    {
+     "w": "good",
+     "t": 6.196
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Have a break, have a KitKat says all three at once. So find each truth, and fix whichever one is missing.",
+   "board": {
+    "title": "Have a break, **have a KitKat**",
+    "lines": [
+     {
+      "text": "Belief, need, product: **aligned**",
+      "cue": "all",
+      "at": 2.399
+     },
+     {
+      "text": "One missing? **Fix it**",
+      "cue": "missing",
+      "at": 6.373
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "e1",
+     "look": "exec",
+     "at": "table",
+     "v": 3,
+     "hold": "clipboard",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "e1",
+     "cue": "missing",
+     "expr": "smile",
+     "at": 6.373
+    }
+   ],
+   "fx": [
+    {
+     "kind": "tick",
+     "who": "e1",
+     "cue": "missing",
+     "at": 6.373
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "find",
+     "shot": "two",
+     "who": "e1",
+     "at": 4.038
+    },
+    {
+     "cue": "missing",
+     "shot": "close",
+     "at": 6.373
+    }
+   ],
+   "hold": 1.0,
+   "audio": "audio/m-three-truths-03.mp3",
+   "leadIn": 0.45,
+   "seconds": 8.122,
+   "words": [
+    {
+     "w": "Have",
+     "t": 0.5
+    },
+    {
+     "w": "a",
+     "t": 0.724
+    },
+    {
+     "w": "break",
+     "t": 0.771
+    },
+    {
+     "w": "have",
+     "t": 1.455
+    },
+    {
+     "w": "a",
+     "t": 1.62
+    },
+    {
+     "w": "KitKat",
+     "t": 1.679
+    },
+    {
+     "w": "says",
+     "t": 2.116
+    },
+    {
+     "w": "all",
+     "t": 2.399
+    },
+    {
+     "w": "three",
+     "t": 2.623
+    },
+    {
+     "w": "at",
+     "t": 2.894
+    },
+    {
+     "w": "once",
+     "t": 2.941
+    },
+    {
+     "w": "So",
+     "t": 3.696
+    },
+    {
+     "w": "find",
+     "t": 4.038
+    },
+    {
+     "w": "each",
+     "t": 4.368
+    },
+    {
+     "w": "truth",
+     "t": 4.58
+    },
+    {
+     "w": "and",
+     "t": 5.264
+    },
+    {
+     "w": "fix",
+     "t": 5.417
+    },
+    {
+     "w": "whichever",
+     "t": 5.7
+    },
+    {
+     "w": "one",
+     "t": 6.101
+    },
+    {
+     "w": "is",
+     "t": 6.278
+    },
+    {
+     "w": "missing",
+     "t": 6.373
+    }
+   ]
+  }
+ ],
+ "id": "m-three-truths",
+ "total": 32.1
+}

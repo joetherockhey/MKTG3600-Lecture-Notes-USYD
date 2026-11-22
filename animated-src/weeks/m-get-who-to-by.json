@@ -1,0 +1,275 @@
+{
+ "week": 0,
+ "title": "GET / WHO / TO / BY brief",
+ "speaker": "Tim Collier, Cummins & Partners, Week 7",
+ "beats": [
+  {
+   "set": "office",
+   "say": "Get, who, to, by squeezes a brief into one sentence. Get the audience, who face a problem, to change something, by one proposition.",
+   "board": {
+    "title": "Get / Who / To / **By**",
+    "steps": [
+     {
+      "text": "**Get**: the audience",
+      "cue": "Get the"
+     },
+     {
+      "text": "**Who**: their problem",
+      "cue": "who face"
+     },
+     {
+      "text": "**To**: the change wanted",
+      "cue": "to change"
+     },
+     {
+      "text": "**By**: the proposition",
+      "cue": "by one"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "e1",
+     "look": "exec",
+     "at": "table",
+     "v": 5
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "squeezes",
+     "pose": "point"
+    },
+    {
+     "who": "e1",
+     "cue": "proposition",
+     "pose": "chin",
+     "expr": "smile"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "face",
+     "shot": "two",
+     "who": "e1"
+    },
+    {
+     "cue": "proposition",
+     "shot": "board"
+    }
+   ]
+  },
+  {
+   "set": "street",
+   "say": "Picture business travellers who switched to a rival airline on price. Qantas wants them back.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "front"
+    },
+    {
+     "id": "p1",
+     "look": "exec",
+     "at": "bus",
+     "v": 2,
+     "hold": "laptop",
+     "pose": "hold"
+    },
+    {
+     "id": "p2",
+     "look": "exec_f",
+     "at": "r",
+     "v": 3,
+     "hold": "coffee",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "p2",
+     "cue": "switched",
+     "expr": "smile_closed"
+    },
+    {
+     "who": "p1",
+     "cue": "price",
+     "pose": "chin",
+     "expr": "neutral"
+    },
+    {
+     "who": "host",
+     "cue": "back",
+     "pose": "point",
+     "expr": "grin"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "think",
+     "who": "p2",
+     "cue": "switched",
+     "text": "Cheaper fare..."
+    },
+    {
+     "kind": "money",
+     "who": "p1",
+     "cue": "price"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "switched",
+     "shot": "actor",
+     "who": "p2"
+    },
+    {
+     "cue": "Qantas",
+     "shot": "close"
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "So the brief reads: get lapsed business travellers, who chose on price, to choose Qantas again, by reminding them every flight comes home.",
+   "board": {
+    "title": "The **Qantas** brief",
+    "steps": [
+     {
+      "text": "**Get** lapsed business travellers",
+      "cue": "get"
+     },
+     {
+      "text": "**Who** chose on price",
+      "cue": "who"
+     },
+     {
+      "text": "**To** choose Qantas again",
+      "cue": "to choose"
+     },
+     {
+      "text": "**By** reminding them they're home",
+      "cue": "by"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "point"
+    },
+    {
+     "id": "e1",
+     "look": "exec_f",
+     "at": "table",
+     "v": 1,
+     "hold": "clipboard",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "e1",
+     "cue": "home",
+     "expr": "grin"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "tick",
+     "who": "e1",
+     "cue": "home"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "reminding",
+     "shot": "two",
+     "who": "e1"
+    },
+    {
+     "cue": "home",
+     "shot": "board"
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "So fill all four slots, and keep the by single-minded.",
+   "board": {
+    "title": "Use it **like this**",
+    "lines": [
+     {
+      "text": "Fill all **four** slots",
+      "cue": "four"
+     },
+     {
+      "text": "Keep the By **single-minded**",
+      "cue": "single"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "e1",
+     "look": "exec",
+     "at": "table",
+     "v": 5
+    }
+   ],
+   "acts": [
+    {
+     "who": "e1",
+     "cue": "single",
+     "expr": "smile"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "tick",
+     "who": "e1",
+     "cue": "single"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "single",
+     "shot": "two",
+     "who": "e1"
+    }
+   ],
+   "hold": 1.0
+  }
+ ]
+}

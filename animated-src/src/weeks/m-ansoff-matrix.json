@@ -1,0 +1,685 @@
+{
+ "week": 0,
+ "title": "Ansoff matrix",
+ "speaker": "Igor Ansoff, Harvard Business Review, 1957",
+ "beats": [
+  {
+   "set": "office",
+   "say": "The Ansoff matrix maps four ways to grow. Penetration sells more to the same market. Market development finds new markets, product development makes new products, and diversification does both.",
+   "board": {
+    "title": "**Ansoff** matrix",
+    "steps": [
+     {
+      "text": "**Penetration** same product, same market",
+      "cue": "Penetration",
+      "at": 3.283
+     },
+     {
+      "text": "**Market development** new markets",
+      "cue": "finds",
+      "at": 6.75
+     },
+     {
+      "text": "**Product development** new products",
+      "cue": "makes",
+      "at": 8.884
+     },
+     {
+      "text": "**Diversification** both new, riskiest",
+      "cue": "diversification",
+      "at": 10.099
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "e1",
+     "look": "exec_f",
+     "v": 3,
+     "at": "table"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "grow",
+     "pose": "up",
+     "expr": "grin",
+     "at": 2.528
+    },
+    {
+     "who": "e1",
+     "cue": "diversification",
+     "pose": "chin",
+     "expr": "nervous",
+     "at": 10.099
+    }
+   ],
+   "fx": [
+    {
+     "kind": "exclaim",
+     "who": "e1",
+     "cue": "both",
+     "at": 11.16
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "grow",
+     "shot": "close",
+     "at": 2.528
+    },
+    {
+     "cue": "finds",
+     "shot": "board",
+     "at": 6.75
+    }
+   ],
+   "audio": "audio/m-ansoff-matrix-00.mp3",
+   "leadIn": 0.45,
+   "seconds": 12.498,
+   "words": [
+    {
+     "w": "The",
+     "t": 0.5
+    },
+    {
+     "w": "Ansoff",
+     "t": 0.736
+    },
+    {
+     "w": "matrix",
+     "t": 1.196
+    },
+    {
+     "w": "maps",
+     "t": 1.656
+    },
+    {
+     "w": "four",
+     "t": 1.939
+    },
+    {
+     "w": "ways",
+     "t": 2.198
+    },
+    {
+     "w": "to",
+     "t": 2.458
+    },
+    {
+     "w": "grow",
+     "t": 2.528
+    },
+    {
+     "w": "Penetration",
+     "t": 3.283
+    },
+    {
+     "w": "sells",
+     "t": 4.026
+    },
+    {
+     "w": "more",
+     "t": 4.344
+    },
+    {
+     "w": "to",
+     "t": 4.604
+    },
+    {
+     "w": "the",
+     "t": 4.71
+    },
+    {
+     "w": "same",
+     "t": 4.792
+    },
+    {
+     "w": "market",
+     "t": 5.052
+    },
+    {
+     "w": "Market",
+     "t": 5.854
+    },
+    {
+     "w": "development",
+     "t": 6.278
+    },
+    {
+     "w": "finds",
+     "t": 6.75
+    },
+    {
+     "w": "new",
+     "t": 7.104
+    },
+    {
+     "w": "markets",
+     "t": 7.245
+    },
+    {
+     "w": "product",
+     "t": 8.083
+    },
+    {
+     "w": "development",
+     "t": 8.401
+    },
+    {
+     "w": "makes",
+     "t": 8.884
+    },
+    {
+     "w": "new",
+     "t": 9.132
+    },
+    {
+     "w": "products",
+     "t": 9.25
+    },
+    {
+     "w": "and",
+     "t": 9.969
+    },
+    {
+     "w": "diversification",
+     "t": 10.099
+    },
+    {
+     "w": "does",
+     "t": 10.995
+    },
+    {
+     "w": "both",
+     "t": 11.16
+    }
+   ]
+  },
+  {
+   "set": "plaza",
+   "say": "Picture Allen's lollies. Penetration means more of the lolly aisle. Selling nostalgia to adults is market development. Intense flavours for Gen Z is product development.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "front"
+    },
+    {
+     "id": "s1",
+     "look": "elder",
+     "v": 2,
+     "at": "shelf",
+     "hold": "bag",
+     "pose": "hold"
+    },
+    {
+     "id": "s2",
+     "look": "student",
+     "v": 4,
+     "at": "shelf2"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "aisle",
+     "pose": "point",
+     "at": 3.991
+    },
+    {
+     "who": "s1",
+     "cue": "nostalgia",
+     "expr": "smile_closed",
+     "at": 5.146
+    },
+    {
+     "who": "s2",
+     "cue": "Intense",
+     "pose": "cheer",
+     "expr": "laugh",
+     "at": 7.752
+    }
+   ],
+   "fx": [
+    {
+     "kind": "heart",
+     "who": "s1",
+     "cue": "nostalgia",
+     "at": 5.146
+    },
+    {
+     "kind": "burst",
+     "who": "s2",
+     "cue": "Intense",
+     "at": 7.752
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "nostalgia",
+     "shot": "actor",
+     "who": "s1",
+     "at": 5.146
+    },
+    {
+     "cue": "Intense",
+     "shot": "actor",
+     "who": "s2",
+     "at": 7.752
+    }
+   ],
+   "audio": "audio/m-ansoff-matrix-01.mp3",
+   "leadIn": 0.45,
+   "seconds": 11.442,
+   "words": [
+    {
+     "w": "Picture",
+     "t": 0.5
+    },
+    {
+     "w": "Allen's",
+     "t": 1.007
+    },
+    {
+     "w": "lollies",
+     "t": 1.408
+    },
+    {
+     "w": "Penetration",
+     "t": 2.234
+    },
+    {
+     "w": "means",
+     "t": 2.953
+    },
+    {
+     "w": "more",
+     "t": 3.224
+    },
+    {
+     "w": "of",
+     "t": 3.495
+    },
+    {
+     "w": "the",
+     "t": 3.601
+    },
+    {
+     "w": "lolly",
+     "t": 3.672
+    },
+    {
+     "w": "aisle",
+     "t": 3.991
+    },
+    {
+     "w": "Selling",
+     "t": 4.722
+    },
+    {
+     "w": "nostalgia",
+     "t": 5.146
+    },
+    {
+     "w": "to",
+     "t": 5.677
+    },
+    {
+     "w": "adults",
+     "t": 5.83
+    },
+    {
+     "w": "is",
+     "t": 6.278
+    },
+    {
+     "w": "market",
+     "t": 6.467
+    },
+    {
+     "w": "development",
+     "t": 6.856
+    },
+    {
+     "w": "Intense",
+     "t": 7.752
+    },
+    {
+     "w": "flavours",
+     "t": 8.2
+    },
+    {
+     "w": "for",
+     "t": 8.66
+    },
+    {
+     "w": "Gen",
+     "t": 8.778
+    },
+    {
+     "w": "Z",
+     "t": 9.05
+    },
+    {
+     "w": "is",
+     "t": 9.368
+    },
+    {
+     "w": "product",
+     "t": 9.533
+    },
+    {
+     "w": "development",
+     "t": 9.922
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Drinks would be diversification, the riskiest corner. So test it cheaply first, with a collaboration.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "l"
+    },
+    {
+     "id": "e1",
+     "look": "exec_f",
+     "v": 3,
+     "at": "table"
+    },
+    {
+     "id": "e2",
+     "look": "exec",
+     "v": 5,
+     "at": "table2"
+    }
+   ],
+   "acts": [
+    {
+     "who": "e2",
+     "cue": "riskiest",
+     "pose": "none",
+     "expr": "shock",
+     "at": 2.505
+    },
+    {
+     "who": "e1",
+     "cue": "collaboration",
+     "pose": "up",
+     "expr": "grin",
+     "at": 5.783
+    }
+   ],
+   "fx": [
+    {
+     "kind": "exclaim",
+     "who": "e2",
+     "cue": "riskiest",
+     "at": 2.505
+    },
+    {
+     "kind": "bulb",
+     "who": "e1",
+     "cue": "collaboration",
+     "at": 5.783
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "riskiest",
+     "shot": "actor",
+     "who": "e2",
+     "at": 2.505
+    },
+    {
+     "cue": "collaboration",
+     "shot": "two",
+     "who": "e1",
+     "at": 5.783
+    }
+   ],
+   "audio": "audio/m-ansoff-matrix-02.mp3",
+   "leadIn": 0.45,
+   "seconds": 7.482,
+   "words": [
+    {
+     "w": "Drinks",
+     "t": 0.5
+    },
+    {
+     "w": "would",
+     "t": 0.854
+    },
+    {
+     "w": "be",
+     "t": 0.995
+    },
+    {
+     "w": "diversification",
+     "t": 1.113
+    },
+    {
+     "w": "the",
+     "t": 2.375
+    },
+    {
+     "w": "riskiest",
+     "t": 2.505
+    },
+    {
+     "w": "corner",
+     "t": 2.988
+    },
+    {
+     "w": "So",
+     "t": 3.743
+    },
+    {
+     "w": "test",
+     "t": 4.085
+    },
+    {
+     "w": "it",
+     "t": 4.38
+    },
+    {
+     "w": "cheaply",
+     "t": 4.498
+    },
+    {
+     "w": "first",
+     "t": 4.851
+    },
+    {
+     "w": "with",
+     "t": 5.571
+    },
+    {
+     "w": "a",
+     "t": 5.736
+    },
+    {
+     "w": "collaboration",
+     "t": 5.783
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Use it like this: put an option in each box, weigh the risk against the brand's strengths, and recommend one.",
+   "board": {
+    "title": "Use it **like this**",
+    "lines": [
+     {
+      "text": "An **option** in each box",
+      "cue": "option",
+      "at": 2.009
+     },
+     {
+      "text": "Weigh **risk** against strengths",
+      "cue": "risk",
+      "at": 3.708
+     },
+     {
+      "text": "**Recommend** one",
+      "cue": "recommend",
+      "at": 5.37
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "e1",
+     "look": "exec_f",
+     "v": 3,
+     "at": "table"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "risk",
+     "pose": "point",
+     "at": 3.708
+    },
+    {
+     "who": "e1",
+     "cue": "recommend",
+     "expr": "smile",
+     "at": 5.37
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "recommend",
+     "shot": "close",
+     "at": 5.37
+    }
+   ],
+   "hold": 1.0,
+   "audio": "audio/m-ansoff-matrix-03.mp3",
+   "leadIn": 0.45,
+   "seconds": 7.45,
+   "words": [
+    {
+     "w": "Use",
+     "t": 0.5
+    },
+    {
+     "w": "it",
+     "t": 0.842
+    },
+    {
+     "w": "like",
+     "t": 0.913
+    },
+    {
+     "w": "this",
+     "t": 1.125
+    },
+    {
+     "w": "put",
+     "t": 1.762
+    },
+    {
+     "w": "an",
+     "t": 1.903
+    },
+    {
+     "w": "option",
+     "t": 2.009
+    },
+    {
+     "w": "in",
+     "t": 2.34
+    },
+    {
+     "w": "each",
+     "t": 2.54
+    },
+    {
+     "w": "box",
+     "t": 2.741
+    },
+    {
+     "w": "weigh",
+     "t": 3.389
+    },
+    {
+     "w": "the",
+     "t": 3.613
+    },
+    {
+     "w": "risk",
+     "t": 3.708
+    },
+    {
+     "w": "against",
+     "t": 3.967
+    },
+    {
+     "w": "the",
+     "t": 4.226
+    },
+    {
+     "w": "brand's",
+     "t": 4.297
+    },
+    {
+     "w": "strengths",
+     "t": 4.616
+    },
+    {
+     "w": "and",
+     "t": 5.217
+    },
+    {
+     "w": "recommend",
+     "t": 5.37
+    },
+    {
+     "w": "one",
+     "t": 5.783
+    }
+   ]
+  }
+ ],
+ "id": "m-ansoff-matrix",
+ "total": 38.87
+}

@@ -1,0 +1,282 @@
+{
+ "week": 0,
+ "title": "Last-touch attribution and its fallacy",
+ "speaker": "Nicky Barton, Mutinex, Week 12",
+ "beats": [
+  {
+   "set": "office",
+   "say": "Last touch attribution gives the final click all the credit for a sale. So budgets drift to the bottom of the funnel, the brand starves, and privacy rules are breaking the tracking anyway.",
+   "board": {
+    "title": "**Last-touch** attribution",
+    "steps": [
+     {
+      "text": "**Final click** gets 100% credit",
+      "cue": "final"
+     },
+     {
+      "text": "Budgets **drift** down the funnel",
+      "cue": "drift"
+     },
+     {
+      "text": "Brand **starves**",
+      "cue": "starves"
+     },
+     {
+      "text": "**Privacy** breaks tracking",
+      "cue": "privacy"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "e",
+     "look": "exec_f",
+     "v": 1,
+     "at": "table"
+    }
+   ],
+   "acts": [
+    {
+     "who": "e",
+     "cue": "starves",
+     "expr": "shock"
+    },
+    {
+     "who": "host",
+     "cue": "privacy",
+     "pose": "shrug"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "cross",
+     "who": "e",
+     "cue": "starves"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "starves",
+     "shot": "actor",
+     "who": "e"
+    },
+    {
+     "cue": "privacy",
+     "shot": "board"
+    }
+   ]
+  },
+  {
+   "set": "stage",
+   "say": "It's like a group assignment where whoever hits submit gets the whole mark.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "aisle",
+     "pose": "none"
+    },
+    {
+     "id": "a",
+     "look": "student",
+     "v": 1,
+     "at": "l"
+    },
+    {
+     "id": "b",
+     "look": "student",
+     "v": 2,
+     "at": "front"
+    },
+    {
+     "id": "c",
+     "look": "student",
+     "v": 5,
+     "at": "r",
+     "hold": "laptop",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "c",
+     "cue": "submit",
+     "pose": "cheer",
+     "expr": "grin"
+    },
+    {
+     "who": "b",
+     "cue": "whole",
+     "expr": "shock"
+    },
+    {
+     "who": "a",
+     "cue": "mark",
+     "pose": "shrug",
+     "expr": "stern"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "tick",
+     "who": "c",
+     "cue": "submit"
+    },
+    {
+     "kind": "say",
+     "who": "a",
+     "cue": "mark",
+     "text": "We did the work!"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "submit",
+     "shot": "actor",
+     "who": "c"
+    },
+    {
+     "cue": "mark",
+     "shot": "actor",
+     "who": "a"
+    }
+   ]
+  },
+  {
+   "set": "home",
+   "say": "Nike moved spend to the bottom of the funnel. People stopped seeing its ads, and the brand faded from memory.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "r",
+     "pose": "none"
+    },
+    {
+     "id": "p",
+     "look": "student",
+     "v": 3,
+     "at": "sofa",
+     "mode": "sit"
+    },
+    {
+     "id": "q",
+     "look": "shopper",
+     "v": 4,
+     "at": "sofa2",
+     "mode": "sit"
+    }
+   ],
+   "acts": [
+    {
+     "who": "p",
+     "cue": "stopped",
+     "expr": "dazed"
+    },
+    {
+     "who": "host",
+     "cue": "faded",
+     "pose": "shrug",
+     "expr": "pained"
+    },
+    {
+     "who": "q",
+     "cue": "memory",
+     "expr": "neutral"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "zzz",
+     "who": "p",
+     "cue": "stopped"
+    },
+    {
+     "kind": "question",
+     "who": "q",
+     "cue": "memory"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "stopped",
+     "shot": "actor",
+     "who": "p"
+    },
+    {
+     "cue": "faded",
+     "shot": "close"
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Use it like this: credit the ads people saw but never clicked, and measure the whole market.",
+   "board": {
+    "title": "Use it like **this**",
+    "lines": [
+     {
+      "text": "Credit what was **seen**",
+      "cue": "saw"
+     },
+     {
+      "text": "Measure the **whole market**",
+      "cue": "whole"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "point"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "market",
+     "pose": "cheer",
+     "expr": "grin"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "tick",
+     "who": "host",
+     "cue": "market"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "market",
+     "shot": "close"
+    }
+   ],
+   "hold": 1.0
+  }
+ ]
+}

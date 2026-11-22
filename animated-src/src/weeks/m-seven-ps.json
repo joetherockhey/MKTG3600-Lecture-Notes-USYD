@@ -1,0 +1,670 @@
+{
+ "week": 0,
+ "title": "The 7Ps (extended marketing mix)",
+ "speaker": "Bernard Booms and Mary Jo Bitner, 1981",
+ "beats": [
+  {
+   "set": "office",
+   "say": "The seven Ps take the classic four, product, price, place and promotion, and add three for services: people, process and physical evidence.",
+   "board": {
+    "title": "The **7Ps**",
+    "steps": [
+     {
+      "text": "**4Ps** product, price, place, promotion",
+      "cue": "product",
+      "at": 2.564
+     },
+     {
+      "text": "**People** staff and customers",
+      "cue": "people",
+      "at": 6.88
+     },
+     {
+      "text": "**Process** how it's delivered",
+      "cue": "process",
+      "at": 7.446
+     },
+     {
+      "text": "**Physical evidence** tangible cues",
+      "cue": "physical",
+      "at": 8.248
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "e1",
+     "look": "exec_f",
+     "v": 6,
+     "at": "table"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "services",
+     "pose": "up",
+     "expr": "grin",
+     "at": 5.96
+    },
+    {
+     "who": "e1",
+     "cue": "physical",
+     "expr": "smile",
+     "at": 8.248
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "services",
+     "shot": "close",
+     "at": 5.96
+    },
+    {
+     "cue": "people",
+     "shot": "board",
+     "at": 6.88
+    }
+   ],
+   "audio": "audio/m-seven-ps-00.mp3",
+   "leadIn": 0.45,
+   "seconds": 10.026,
+   "words": [
+    {
+     "w": "The",
+     "t": 0.5
+    },
+    {
+     "w": "seven",
+     "t": 0.641
+    },
+    {
+     "w": "Ps",
+     "t": 0.96
+    },
+    {
+     "w": "take",
+     "t": 1.361
+    },
+    {
+     "w": "the",
+     "t": 1.561
+    },
+    {
+     "w": "classic",
+     "t": 1.632
+    },
+    {
+     "w": "four",
+     "t": 1.986
+    },
+    {
+     "w": "product",
+     "t": 2.564
+    },
+    {
+     "w": "price",
+     "t": 3.224
+    },
+    {
+     "w": "place",
+     "t": 3.908
+    },
+    {
+     "w": "and",
+     "t": 4.238
+    },
+    {
+     "w": "promotion",
+     "t": 4.38
+    },
+    {
+     "w": "and",
+     "t": 5.17
+    },
+    {
+     "w": "add",
+     "t": 5.347
+    },
+    {
+     "w": "three",
+     "t": 5.571
+    },
+    {
+     "w": "for",
+     "t": 5.854
+    },
+    {
+     "w": "services",
+     "t": 5.96
+    },
+    {
+     "w": "people",
+     "t": 6.88
+    },
+    {
+     "w": "process",
+     "t": 7.446
+    },
+    {
+     "w": "and",
+     "t": 8.106
+    },
+    {
+     "w": "physical",
+     "t": 8.248
+    },
+    {
+     "w": "evidence",
+     "t": 8.625
+    }
+   ]
+  },
+  {
+   "set": "plaza",
+   "say": "Qantas promises the Spirit of Australia. Friendly crew are the people. Smooth check-in is the process. Lounges and uniforms are the physical evidence.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "far"
+    },
+    {
+     "id": "w1",
+     "look": "worker",
+     "v": 4,
+     "at": "l"
+    },
+    {
+     "id": "s1",
+     "look": "shopper",
+     "v": 3,
+     "at": "c",
+     "hold": "bag",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "w1",
+     "cue": "Friendly",
+     "pose": "present",
+     "expr": "grin",
+     "at": 3.13
+    },
+    {
+     "who": "s1",
+     "cue": "Smooth",
+     "expr": "relief",
+     "at": 5.075
+    },
+    {
+     "who": "s1",
+     "cue": "Lounges",
+     "expr": "grin",
+     "at": 7.068
+    }
+   ],
+   "fx": [
+    {
+     "kind": "heart",
+     "who": "w1",
+     "cue": "Friendly",
+     "at": 3.13
+    },
+    {
+     "kind": "tick",
+     "who": "s1",
+     "cue": "Smooth",
+     "at": 5.075
+    },
+    {
+     "kind": "sparkle",
+     "who": "s1",
+     "cue": "Lounges",
+     "at": 7.068
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "Friendly",
+     "shot": "actor",
+     "who": "w1",
+     "at": 3.13
+    },
+    {
+     "cue": "Smooth",
+     "shot": "actor",
+     "who": "s1",
+     "at": 5.075
+    },
+    {
+     "cue": "evidence",
+     "shot": "two",
+     "who": "s1",
+     "at": 8.991
+    }
+   ],
+   "audio": "audio/m-seven-ps-01.mp3",
+   "leadIn": 0.45,
+   "seconds": 10.434,
+   "words": [
+    {
+     "w": "Qantas",
+     "t": 0.5
+    },
+    {
+     "w": "promises",
+     "t": 1.042
+    },
+    {
+     "w": "the",
+     "t": 1.585
+    },
+    {
+     "w": "Spirit",
+     "t": 1.667
+    },
+    {
+     "w": "of",
+     "t": 2.08
+    },
+    {
+     "w": "Australia",
+     "t": 2.21
+    },
+    {
+     "w": "Friendly",
+     "t": 3.13
+    },
+    {
+     "w": "crew",
+     "t": 3.625
+    },
+    {
+     "w": "are",
+     "t": 4.026
+    },
+    {
+     "w": "the",
+     "t": 4.156
+    },
+    {
+     "w": "people",
+     "t": 4.262
+    },
+    {
+     "w": "Smooth",
+     "t": 5.075
+    },
+    {
+     "w": "check-in",
+     "t": 5.512
+    },
+    {
+     "w": "is",
+     "t": 5.913
+    },
+    {
+     "w": "the",
+     "t": 6.054
+    },
+    {
+     "w": "process",
+     "t": 6.137
+    },
+    {
+     "w": "Lounges",
+     "t": 7.068
+    },
+    {
+     "w": "and",
+     "t": 7.623
+    },
+    {
+     "w": "uniforms",
+     "t": 7.764
+    },
+    {
+     "w": "are",
+     "t": 8.377
+    },
+    {
+     "w": "the",
+     "t": 8.46
+    },
+    {
+     "w": "physical",
+     "t": 8.566
+    },
+    {
+     "w": "evidence",
+     "t": 8.991
+    }
+   ]
+  },
+  {
+   "set": "plaza",
+   "say": "But if the app is clunky and flights run late, no advertising can hold that promise up.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "far"
+    },
+    {
+     "id": "w1",
+     "look": "worker",
+     "v": 4,
+     "at": "l"
+    },
+    {
+     "id": "s1",
+     "look": "shopper",
+     "v": 3,
+     "at": "c",
+     "hold": "phone",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "s1",
+     "cue": "clunky",
+     "expr": "pained",
+     "at": 1.16
+    },
+    {
+     "who": "s1",
+     "cue": "late",
+     "pose": "hips",
+     "expr": "stern",
+     "at": 2.292
+    },
+    {
+     "who": "host",
+     "cue": "promise",
+     "pose": "shrug",
+     "expr": "nervous",
+     "at": 4.333
+    }
+   ],
+   "fx": [
+    {
+     "kind": "cross",
+     "who": "s1",
+     "cue": "clunky",
+     "at": 1.16
+    },
+    {
+     "kind": "clock",
+     "who": "s1",
+     "cue": "late",
+     "at": 2.292
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "clunky",
+     "shot": "actor",
+     "who": "s1",
+     "at": 1.16
+    },
+    {
+     "cue": "promise",
+     "shot": "host",
+     "at": 4.333
+    }
+   ],
+   "audio": "audio/m-seven-ps-02.mp3",
+   "leadIn": 0.45,
+   "seconds": 5.85,
+   "words": [
+    {
+     "w": "But",
+     "t": 0.5
+    },
+    {
+     "w": "if",
+     "t": 0.641
+    },
+    {
+     "w": "the",
+     "t": 0.748
+    },
+    {
+     "w": "app",
+     "t": 0.889
+    },
+    {
+     "w": "is",
+     "t": 1.054
+    },
+    {
+     "w": "clunky",
+     "t": 1.16
+    },
+    {
+     "w": "and",
+     "t": 1.609
+    },
+    {
+     "w": "flights",
+     "t": 1.75
+    },
+    {
+     "w": "run",
+     "t": 2.127
+    },
+    {
+     "w": "late",
+     "t": 2.292
+    },
+    {
+     "w": "no",
+     "t": 2.929
+    },
+    {
+     "w": "advertising",
+     "t": 3.189
+    },
+    {
+     "w": "can",
+     "t": 3.825
+    },
+    {
+     "w": "hold",
+     "t": 3.943
+    },
+    {
+     "w": "that",
+     "t": 4.203
+    },
+    {
+     "w": "promise",
+     "t": 4.333
+    },
+    {
+     "w": "up",
+     "t": 4.627
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Use it like this: for a service brand cover all seven, but spend most time on the three that prove the promise.",
+   "board": {
+    "title": "Use it **like this**",
+    "lines": [
+     {
+      "text": "Cover **all seven**",
+      "cue": "cover",
+      "at": 2.575
+     },
+     {
+      "text": "Focus on the **three** that prove it",
+      "cue": "three",
+      "at": 4.816
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "e1",
+     "look": "exec_f",
+     "v": 6,
+     "at": "table"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "three",
+     "pose": "point",
+     "at": 4.816
+    },
+    {
+     "who": "e1",
+     "cue": "prove",
+     "expr": "smile",
+     "at": 5.3
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "prove",
+     "shot": "close",
+     "at": 5.3
+    }
+   ],
+   "hold": 1.0,
+   "audio": "audio/m-seven-ps-03.mp3",
+   "leadIn": 0.45,
+   "seconds": 7.474,
+   "words": [
+    {
+     "w": "Use",
+     "t": 0.5
+    },
+    {
+     "w": "it",
+     "t": 0.807
+    },
+    {
+     "w": "like",
+     "t": 0.877
+    },
+    {
+     "w": "this",
+     "t": 1.066
+    },
+    {
+     "w": "for",
+     "t": 1.679
+    },
+    {
+     "w": "a",
+     "t": 1.856
+    },
+    {
+     "w": "service",
+     "t": 1.891
+    },
+    {
+     "w": "brand",
+     "t": 2.257
+    },
+    {
+     "w": "cover",
+     "t": 2.575
+    },
+    {
+     "w": "all",
+     "t": 2.835
+    },
+    {
+     "w": "seven",
+     "t": 3.035
+    },
+    {
+     "w": "but",
+     "t": 3.767
+    },
+    {
+     "w": "spend",
+     "t": 3.884
+    },
+    {
+     "w": "most",
+     "t": 4.179
+    },
+    {
+     "w": "time",
+     "t": 4.45
+    },
+    {
+     "w": "on",
+     "t": 4.675
+    },
+    {
+     "w": "the",
+     "t": 4.757
+    },
+    {
+     "w": "three",
+     "t": 4.816
+    },
+    {
+     "w": "that",
+     "t": 5.158
+    },
+    {
+     "w": "prove",
+     "t": 5.3
+    },
+    {
+     "w": "the",
+     "t": 5.571
+    },
+    {
+     "w": "promise",
+     "t": 5.63
+    }
+   ]
+  }
+ ],
+ "id": "m-seven-ps",
+ "total": 33.8
+}

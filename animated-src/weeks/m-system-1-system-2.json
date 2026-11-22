@@ -1,0 +1,284 @@
+{
+ "week": 0,
+ "title": "System 1 and System 2 thinking",
+ "speaker": "Justin Papps, Week 3; Andrew Baxter, Week 8; Estelle Gohil, Week 2; from Daniel Kahneman",
+ "beats": [
+  {
+   "set": "stage",
+   "say": "System one is fast and intuitive, about ninety-five percent of our thinking. System two is slow and logical, only five percent. Brands work as mental shortcuts.",
+   "board": {
+    "title": "System 1 and **System 2**",
+    "steps": [
+     {
+      "text": "**System 1**: fast, intuitive, ~95%",
+      "cue": "fast"
+     },
+     {
+      "text": "**System 2**: slow, logical, ~5%",
+      "cue": "slow"
+     },
+     {
+      "text": "**Brands**: mental shortcuts",
+      "cue": "shortcuts"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "a",
+     "look": "student",
+     "at": "front",
+     "v": 4
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "slow",
+     "pose": "chin"
+    },
+    {
+     "who": "host",
+     "cue": "shortcuts",
+     "pose": "up",
+     "expr": "grin"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "brain",
+     "who": "a",
+     "cue": "shortcuts"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "shortcuts",
+     "shot": "close"
+    }
+   ]
+  },
+  {
+   "set": "plaza",
+   "say": "In the drinks aisle, nobody weighs every can on sugar and price. System one just reaches for the familiar red one.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "front"
+    },
+    {
+     "id": "s2",
+     "look": "elder",
+     "at": "shelf2",
+     "v": 2
+    },
+    {
+     "id": "s1",
+     "look": "shopper",
+     "at": "walkR",
+     "v": 3,
+     "to": "shelf",
+     "walkCue": "System"
+    }
+   ],
+   "acts": [
+    {
+     "who": "s2",
+     "cue": "weighs",
+     "pose": "chin",
+     "expr": "dazed"
+    },
+    {
+     "who": "s1",
+     "cue": "red",
+     "pose": "cheer",
+     "expr": "grin"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "think",
+     "who": "s2",
+     "cue": "sugar",
+     "text": "Sugar? Price?"
+    },
+    {
+     "kind": "heart",
+     "who": "s1",
+     "cue": "red"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "weighs",
+     "shot": "actor",
+     "who": "s2"
+    },
+    {
+     "cue": "System",
+     "shot": "actor",
+     "who": "s1"
+    },
+    {
+     "cue": "red",
+     "shot": "close",
+     "who": "s1"
+    }
+   ]
+  },
+  {
+   "set": "street",
+   "say": "That's why emotional advertising works best. People buy on intuition, then post-rationalise with the facts.",
+   "board": {
+    "title": "Feel first, **reason later**",
+    "lines": [
+     {
+      "text": "Buy on **intuition**",
+      "cue": "intuition"
+     },
+     {
+      "text": "Then **justify** it",
+      "cue": "post"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "front"
+    },
+    {
+     "id": "p1",
+     "look": "exec",
+     "at": "kerb",
+     "v": 2,
+     "hold": "coffee",
+     "pose": "hold"
+    },
+    {
+     "id": "p2",
+     "look": "shopper",
+     "at": "r",
+     "v": 5
+    }
+   ],
+   "acts": [
+    {
+     "who": "p1",
+     "cue": "emotional",
+     "expr": "smile"
+    },
+    {
+     "who": "p2",
+     "cue": "post",
+     "pose": "chin"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "heart",
+     "who": "p1",
+     "cue": "emotional"
+    },
+    {
+     "kind": "brain",
+     "who": "p2",
+     "cue": "post"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "emotional",
+     "shot": "actor",
+     "who": "p1"
+    },
+    {
+     "cue": "post",
+     "shot": "actor",
+     "who": "p2"
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Use it like this: aim brand building at system one, with familiar, distinctive cues that make choosing effortless.",
+   "board": {
+    "title": "Use it like **this**",
+    "lines": [
+     {
+      "text": "Aim at **System 1**",
+      "cue": "aim"
+     },
+     {
+      "text": "Familiar, **distinctive** cues",
+      "cue": "familiar"
+     },
+     {
+      "text": "Make choosing **effortless**",
+      "cue": "effortless"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "e1",
+     "look": "exec",
+     "at": "table",
+     "v": 1
+    }
+   ],
+   "acts": [
+    {
+     "who": "e1",
+     "cue": "effortless",
+     "expr": "smile"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "tick",
+     "who": "e1",
+     "cue": "effortless"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "effortless",
+     "shot": "two",
+     "who": "e1"
+    }
+   ],
+   "hold": 1.0
+  }
+ ]
+}

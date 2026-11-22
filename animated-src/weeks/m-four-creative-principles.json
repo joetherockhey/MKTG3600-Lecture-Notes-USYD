@@ -1,0 +1,295 @@
+{
+ "week": 0,
+ "title": "Four creative principles (Rexona, Extra, Kia, V Energy)",
+ "speaker": "Brendan Willenberg, Executive Creative Director, Week 9",
+ "beats": [
+  {
+   "set": "office",
+   "say": "Four creative principles, each matched to a problem. Constraint sparks ideas. A new idea in a familiar context breaks habits. Lean into the uncomfortable truth. And call out the category.",
+   "board": {
+    "title": "Four **creative principles**",
+    "steps": [
+     {
+      "text": "**Constraint** sparks ideas (Rexona)",
+      "cue": "Constraint"
+     },
+     {
+      "text": "**Familiar context**, new idea (Extra)",
+      "cue": "familiar"
+     },
+     {
+      "text": "**Uncomfortable truth** (Kia)",
+      "cue": "uncomfortable"
+     },
+     {
+      "text": "**Call out** the category (V)",
+      "cue": "category"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "e",
+     "look": "exec_f",
+     "v": 1,
+     "at": "table"
+    }
+   ],
+   "acts": [
+    {
+     "who": "e",
+     "cue": "uncomfortable",
+     "expr": "nervous"
+    },
+    {
+     "who": "host",
+     "cue": "category",
+     "pose": "up",
+     "expr": "grin"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "exclaim",
+     "who": "e",
+     "cue": "uncomfortable"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "uncomfortable",
+     "shot": "actor",
+     "who": "e"
+    },
+    {
+     "cue": "category",
+     "shot": "board"
+    }
+   ]
+  },
+  {
+   "set": "street",
+   "say": "Rexona had a tiny budget, so it earned media with Pitvertising. Kia's hybrid had nothing new, so it said nothing, brilliantly.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "front",
+     "pose": "none"
+    },
+    {
+     "id": "p1",
+     "look": "exec",
+     "v": 4,
+     "at": "kerb"
+    },
+    {
+     "id": "p2",
+     "look": "shopper",
+     "v": 2,
+     "at": "bus"
+    }
+   ],
+   "acts": [
+    {
+     "who": "p1",
+     "cue": "budget",
+     "pose": "shrug",
+     "expr": "nervous"
+    },
+    {
+     "who": "p1",
+     "cue": "Pitvertising",
+     "pose": "cheer",
+     "expr": "grin"
+    },
+    {
+     "who": "p2",
+     "cue": "nothing",
+     "expr": "dazed"
+    },
+    {
+     "who": "host",
+     "cue": "brilliantly",
+     "pose": "cheer",
+     "expr": "grin"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "money",
+     "who": "p1",
+     "cue": "budget"
+    },
+    {
+     "kind": "burst",
+     "who": "p1",
+     "cue": "Pitvertising"
+    },
+    {
+     "kind": "question",
+     "who": "p2",
+     "cue": "nothing"
+    },
+    {
+     "kind": "stars",
+     "who": "host",
+     "cue": "brilliantly"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "budget",
+     "shot": "actor",
+     "who": "p1"
+    },
+    {
+     "cue": "Kia's",
+     "shot": "actor",
+     "who": "p2"
+    },
+    {
+     "cue": "brilliantly",
+     "shot": "close"
+    }
+   ]
+  },
+  {
+   "set": "home",
+   "say": "V Energy couldn't beat Red Bull at its own game. So it called out the whole category, and said one thing over and over.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "l",
+     "pose": "none"
+    },
+    {
+     "id": "a",
+     "look": "student",
+     "v": 2,
+     "at": "sofa",
+     "mode": "sit"
+    },
+    {
+     "id": "b",
+     "look": "student",
+     "v": 7,
+     "at": "sofa2",
+     "mode": "sit"
+    }
+   ],
+   "acts": [
+    {
+     "who": "a",
+     "cue": "couldn't",
+     "expr": "nervous"
+    },
+    {
+     "who": "b",
+     "cue": "called",
+     "pose": "point",
+     "expr": "laugh"
+    },
+    {
+     "who": "host",
+     "cue": "over",
+     "pose": "up",
+     "expr": "grin"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "exclaim",
+     "who": "b",
+     "cue": "called"
+    },
+    {
+     "kind": "stars",
+     "who": "host",
+     "cue": "over"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "called",
+     "shot": "actor",
+     "who": "b"
+    },
+    {
+     "cue": "over",
+     "shot": "close"
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Use it like this: name the shape of the problem, then pick the matching principle.",
+   "board": {
+    "title": "Use it like **this**",
+    "lines": [
+     {
+      "text": "Name the **problem**",
+      "cue": "problem"
+     },
+     {
+      "text": "Pick the **principle**",
+      "cue": "principle"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "point"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "principle",
+     "pose": "cheer",
+     "expr": "grin"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "tick",
+     "who": "host",
+     "cue": "principle"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "principle",
+     "shot": "close"
+    }
+   ],
+   "hold": 1.0
+  }
+ ]
+}

@@ -1,0 +1,1340 @@
+{
+ "week": 8,
+ "title": "Creating advertising that works",
+ "speaker": "Andrew Baxter",
+ "beats": [
+  {
+   "set": "stage",
+   "say": "Week eight. Creating advertising that works, with Andrew Baxter, chair of Australian Pork, after twenty six years in agencies. His opener? Advertising is like selling fresh air.",
+   "board": {
+    "photo": "photos/w8.jpg",
+    "title": "Creating advertising **that works**",
+    "name": "Andrew Baxter",
+    "org": "Chair, Australian Pork Limited"
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "s1",
+     "look": "student",
+     "v": 1,
+     "at": "aisle"
+    },
+    {
+     "id": "s2",
+     "look": "student",
+     "v": 4,
+     "at": "aisle2"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "fresh",
+     "pose": "shrug",
+     "expr": "grin"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "question",
+     "who": "s1",
+     "cue": "fresh"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "Andrew",
+     "shot": "board"
+    },
+    {
+     "cue": "opener",
+     "shot": "close"
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "He ran Ogilvy and Publicis. His advice: pick your side. Agency life jumps around, marketing management goes deep, and consulting sits in between.",
+   "board": {
+    "title": "Pick your **side**",
+    "steps": [
+     {
+      "text": "**Agency** never the same day",
+      "cue": "Agency"
+     },
+     {
+      "text": "**Marketing** deep, big impact",
+      "cue": "marketing"
+     },
+     {
+      "text": "**Consulting** six-week deep dives",
+      "cue": "consulting"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "point",
+     "mirror": true
+    },
+    {
+     "id": "a",
+     "look": "exec",
+     "v": 2,
+     "at": "table"
+    },
+    {
+     "id": "b",
+     "look": "worker",
+     "v": 3,
+     "at": "walkR",
+     "to": "r",
+     "walkCue": "jumps"
+    }
+   ],
+   "acts": [
+    {
+     "who": "a",
+     "cue": "deep",
+     "pose": "chin"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "exclaim",
+     "who": "b",
+     "cue": "jumps"
+    },
+    {
+     "kind": "brain",
+     "who": "a",
+     "cue": "deep"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "Agency",
+     "shot": "actor",
+     "who": "b"
+    },
+    {
+     "cue": "consulting",
+     "shot": "board"
+    }
+   ]
+  },
+  {
+   "set": "street",
+   "say": "Ad vertere is Latin for turn the mind toward. Posters go back to Pompeii. Since then, the town crier, newspapers, radio, TV, the internet and social.",
+   "board": {
+    "title": "Ad vertere: **turn the mind**",
+    "lines": [
+     {
+      "text": "Pompeii posters, 1st century",
+      "cue": "Pompeii"
+     },
+     {
+      "text": "Crier, papers, radio, TV",
+      "cue": "crier"
+     },
+     {
+      "text": "Internet, then **social**",
+      "cue": "internet"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "e",
+     "look": "elder",
+     "v": 2,
+     "at": "bus"
+    },
+    {
+     "id": "k",
+     "look": "student",
+     "v": 5,
+     "at": "walkL",
+     "to": "l",
+     "hold": "phone",
+     "pose": "hold",
+     "walkCue": "internet"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "say",
+     "who": "host",
+     "text": "Hear ye!",
+     "cue": "crier"
+    },
+    {
+     "kind": "sparkle",
+     "who": "k",
+     "cue": "social"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "crier",
+     "shot": "wide"
+    },
+    {
+     "cue": "social",
+     "shot": "actor",
+     "who": "k"
+    }
+   ]
+  },
+  {
+   "set": "plaza",
+   "say": "Go where the eyeballs are. It used to be TV. Now it's the phone. And today it's about eighty percent science, twenty percent art.",
+   "board": {
+    "title": "Science or **art**?",
+    "bars": [
+     {
+      "label": "Science",
+      "value": 80,
+      "display": "80%",
+      "cue": "eighty"
+     },
+     {
+      "label": "Art",
+      "value": 20,
+      "display": "20%",
+      "cue": "twenty"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "c",
+     "pose": "point"
+    },
+    {
+     "id": "p1",
+     "look": "shopper",
+     "v": 1,
+     "at": "l",
+     "hold": "phone",
+     "pose": "hold"
+    },
+    {
+     "id": "p2",
+     "look": "student",
+     "v": 2,
+     "at": "r",
+     "hold": "phone",
+     "pose": "hold"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "eye",
+     "who": "p1",
+     "cue": "eyeballs"
+    },
+    {
+     "kind": "eye",
+     "who": "p2",
+     "cue": "phone"
+    },
+    {
+     "kind": "chart",
+     "who": "host",
+     "cue": "eighty"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "phone",
+     "shot": "actor",
+     "who": "p2"
+    },
+    {
+     "cue": "today",
+     "shot": "board"
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Ads in Australia must be truthful. Fines run past a million dollars, so bring the receipts. Oddly, politics is exempt, because a court ruled there must be a financial outcome.",
+   "board": {
+    "title": "Ads must be **truthful**",
+    "big": "$1m+",
+    "caption": "fines for **false** advertising",
+    "cue": "million"
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "hips",
+     "expr": "stern"
+    },
+    {
+     "id": "c",
+     "look": "exec_f",
+     "v": 3,
+     "at": "desk",
+     "hold": "clipboard",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "c",
+     "cue": "receipts",
+     "expr": "nervous"
+    },
+    {
+     "who": "host",
+     "cue": "politics",
+     "pose": "shrug",
+     "expr": "dazed"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "money",
+     "who": "host",
+     "cue": "million"
+    },
+    {
+     "kind": "think",
+     "who": "c",
+     "text": "Where's our research?",
+     "cue": "receipts"
+    },
+    {
+     "kind": "exclaim",
+     "who": "host",
+     "cue": "politics"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "receipts",
+     "shot": "actor",
+     "who": "c"
+    },
+    {
+     "cue": "politics",
+     "shot": "close"
+    }
+   ]
+  },
+  {
+   "set": "plaza",
+   "say": "Daniel Kahneman showed about ninety five percent of purchases are intuitive. We buy first, then post rationalise, and rational ads mostly help us do that.",
+   "board": {
+    "big": "95%",
+    "caption": "of purchases are **intuitive**",
+    "cue": "ninety"
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "l",
+     "pose": "present"
+    },
+    {
+     "id": "s",
+     "look": "shopper",
+     "v": 3,
+     "at": "walkR",
+     "to": "shelf",
+     "hold": "bag"
+    }
+   ],
+   "acts": [
+    {
+     "who": "s",
+     "cue": "intuitive",
+     "pose": "cheer",
+     "expr": "grin"
+    },
+    {
+     "who": "s",
+     "cue": "post",
+     "pose": "chin",
+     "expr": "smile_closed"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "heart",
+     "who": "s",
+     "cue": "intuitive"
+    },
+    {
+     "kind": "think",
+     "who": "s",
+     "text": "It was on sale, really",
+     "cue": "post"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "ninety",
+     "shot": "board"
+    },
+    {
+     "cue": "post",
+     "shot": "close",
+     "who": "s"
+    }
+   ]
+  },
+  {
+   "set": "home",
+   "say": "The Effie awards link ads to sales. But success can backfire. Lamb ads worked so well that people think lamb is only for Australia Day.",
+   "board": {
+    "title": "Lamb is for **Australia Day**",
+    "lines": [
+     {
+      "text": "Effies: ads linked to **sales**",
+      "cue": "Effie"
+     },
+     {
+      "text": "Lamb sales spike once",
+      "cue": "Lamb"
+     },
+     {
+      "text": "Then **drop** all year",
+      "cue": "Day"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "l",
+     "pose": "point"
+    },
+    {
+     "id": "d",
+     "look": "worker",
+     "v": 1,
+     "at": "sofa",
+     "mode": "sit"
+    },
+    {
+     "id": "m",
+     "look": "shopper",
+     "v": 5,
+     "at": "sofa2",
+     "mode": "sit"
+    }
+   ],
+   "acts": [
+    {
+     "who": "d",
+     "cue": "Lamb",
+     "expr": "grin"
+    },
+    {
+     "who": "m",
+     "cue": "Day",
+     "expr": "dazed"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "think",
+     "who": "d",
+     "text": "Lamb? Only in January",
+     "cue": "only"
+    },
+    {
+     "kind": "cross",
+     "who": "m",
+     "cue": "Day"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "backfire",
+     "shot": "board"
+    },
+    {
+     "cue": "only",
+     "shot": "actor",
+     "who": "d"
+    }
+   ]
+  },
+  {
+   "set": "plaza",
+   "say": "Advertising is simple: right message, right person, right place, right time. KFC and McDonald's switch screens by the hour, tradies at three, families at six.",
+   "board": {
+    "title": "Advertising is **simple**",
+    "steps": [
+     {
+      "text": "Right **message**",
+      "cue": "message"
+     },
+     {
+      "text": "Right **person**",
+      "cue": "person"
+     },
+     {
+      "text": "Right **place**",
+      "cue": "place"
+     },
+     {
+      "text": "Right **time**",
+      "cue": "time"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "c",
+     "pose": "present"
+    },
+    {
+     "id": "t",
+     "look": "worker",
+     "v": 4,
+     "at": "walkL",
+     "to": "shop",
+     "walkCue": "tradies"
+    },
+    {
+     "id": "f",
+     "look": "shopper",
+     "v": 7,
+     "at": "walkR",
+     "to": "shop2",
+     "walkCue": "famil"
+    },
+    {
+     "id": "kid",
+     "look": "kid",
+     "v": 2,
+     "at": "walkR",
+     "to": "r",
+     "walkCue": "famil"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "clock",
+     "who": "t",
+     "cue": "three"
+    },
+    {
+     "kind": "heart",
+     "who": "kid",
+     "cue": "six"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "KFC",
+     "shot": "wide"
+    },
+    {
+     "cue": "famil",
+     "shot": "actor",
+     "who": "f"
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Making an ad takes four steps. Strategy, the idea, making it, which doesn't always work out, and placing it. Strategy is just ten percent of an agency, yet everyone wants in.",
+   "board": {
+    "title": "Four **steps**",
+    "steps": [
+     {
+      "text": "**Strategy** the message",
+      "cue": "Strategy"
+     },
+     {
+      "text": "**Idea** about 30% of staff",
+      "cue": "idea"
+     },
+     {
+      "text": "**Make it** often goes wrong",
+      "cue": "making"
+     },
+     {
+      "text": "**Place it** media and timing",
+      "cue": "placing"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "point",
+     "mirror": true
+    },
+    {
+     "id": "a",
+     "look": "exec",
+     "v": 5,
+     "at": "table"
+    },
+    {
+     "id": "b",
+     "look": "student",
+     "v": 6,
+     "at": "table2"
+    },
+    {
+     "id": "c",
+     "look": "exec_f",
+     "v": 1,
+     "at": "desk2",
+     "hold": "laptop",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "a",
+     "cue": "doesn't",
+     "pose": "shrug",
+     "expr": "nervous"
+    },
+    {
+     "who": "b",
+     "cue": "everyone",
+     "pose": "up",
+     "expr": "grin"
+    },
+    {
+     "who": "c",
+     "cue": "wants",
+     "pose": "up",
+     "expr": "grin"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "bulb",
+     "who": "b",
+     "cue": "idea"
+    },
+    {
+     "kind": "cross",
+     "who": "a",
+     "cue": "doesn't"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "making it",
+     "shot": "actor",
+     "who": "a"
+    },
+    {
+     "cue": "everyone",
+     "shot": "wide"
+    }
+   ]
+  },
+  {
+   "set": "street",
+   "say": "You get fifteen words or less. A billboard gets a two second glance. And use one message per ad, like powerful wash in cold water. Don't get too clever.",
+   "board": {
+    "title": "Powerful wash in **cold water**",
+    "lines": [
+     {
+      "text": "Best billboards: **six** words",
+      "cue": "billboard"
+     },
+     {
+      "text": "**One** message per ad",
+      "cue": "message"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "kerb",
+     "pose": "point"
+    },
+    {
+     "id": "w",
+     "look": "worker",
+     "v": 2,
+     "at": "walkL",
+     "to": "walkR",
+     "walkCue": "billboard"
+    },
+    {
+     "id": "g",
+     "look": "shopper",
+     "v": 9,
+     "at": "bus"
+    }
+   ],
+   "acts": [
+    {
+     "who": "g",
+     "cue": "powerful",
+     "pose": "chin",
+     "expr": "smile"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "clock",
+     "who": "w",
+     "cue": "two"
+    },
+    {
+     "kind": "tick",
+     "who": "g",
+     "cue": "powerful"
+    },
+    {
+     "kind": "cross",
+     "who": "host",
+     "cue": "clever"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "message",
+     "shot": "board"
+    },
+    {
+     "cue": "clever",
+     "shot": "close"
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Ads move people down a funnel: awareness, liking, preference, conviction, purchase. Aim to reach about sixty five percent of your audience at least three times.",
+   "board": {
+    "title": "The **funnel**",
+    "steps": [
+     {
+      "text": "**Awareness** know it",
+      "cue": "awareness"
+     },
+     {
+      "text": "**Liking** like it",
+      "cue": "liking"
+     },
+     {
+      "text": "**Preference** over the rest",
+      "cue": "preference"
+     },
+     {
+      "text": "**Conviction** then purchase",
+      "cue": "conviction"
+     },
+     {
+      "text": "Reach **65%**, three times",
+      "cue": "sixty"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "a",
+     "look": "exec_f",
+     "v": 4,
+     "at": "r",
+     "hold": "clipboard",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "a",
+     "cue": "three",
+     "pose": "up",
+     "expr": "smile"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "chart",
+     "who": "a",
+     "cue": "reach"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "Aim",
+     "shot": "actor",
+     "who": "a"
+    }
+   ]
+  },
+  {
+   "set": "home",
+   "say": "Kraft Easy Mac sold to mums, for teenage boys who get home hungry. The message: fills them up, fast to make. Kill hunger fast became the hunger blaster when the client balked.",
+   "board": {
+    "title": "Easy Mac: **kill hunger fast**",
+    "lines": [
+     {
+      "text": "Fills them up, **fast**",
+      "cue": "fills"
+     },
+     {
+      "text": "Now: the hunger blaster",
+      "cue": "blaster"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "l",
+     "pose": "present"
+    },
+    {
+     "id": "boy",
+     "look": "kid",
+     "v": 3,
+     "at": "door",
+     "to": "c",
+     "walkCue": "teenage",
+     "expr": "pained"
+    },
+    {
+     "id": "mum",
+     "look": "shopper",
+     "v": 1,
+     "at": "sofa",
+     "mode": "sit"
+    }
+   ],
+   "acts": [
+    {
+     "who": "boy",
+     "cue": "fills",
+     "expr": "grin",
+     "pose": "cheer"
+    },
+    {
+     "who": "host",
+     "cue": "balked",
+     "pose": "shrug",
+     "expr": "nervous"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "say",
+     "who": "boy",
+     "text": "I'm starving!",
+     "cue": "hungry"
+    },
+    {
+     "kind": "tick",
+     "who": "mum",
+     "cue": "fast"
+    },
+    {
+     "kind": "cross",
+     "who": "host",
+     "cue": "balked"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "hungry",
+     "shot": "actor",
+     "who": "boy"
+    },
+    {
+     "cue": "Kill",
+     "shot": "board"
+    },
+    {
+     "cue": "balked",
+     "shot": "close"
+    }
+   ]
+  },
+  {
+   "set": "stage",
+   "say": "The most effective ads are famous, with seventy two percent outselling rivals. Emotional, successful sixty two percent of the time. And single minded and memorable.",
+   "board": {
+    "title": "Most **effective** ads",
+    "bars": [
+     {
+      "label": "Famous",
+      "value": 72,
+      "display": "72%",
+      "cue": "famous"
+     },
+     {
+      "label": "Emotional",
+      "value": 62,
+      "display": "62%",
+      "cue": "emotional"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "s1",
+     "look": "student",
+     "v": 7,
+     "at": "aisle"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "single",
+     "pose": "up",
+     "expr": "grin"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "stars",
+     "who": "host",
+     "cue": "famous"
+    },
+    {
+     "kind": "heart",
+     "who": "s1",
+     "cue": "emotional"
+    },
+    {
+     "kind": "bulb",
+     "who": "s1",
+     "cue": "memorable"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "emotional",
+     "shot": "actor",
+     "who": "s1"
+    },
+    {
+     "cue": "single",
+     "shot": "host"
+    }
+   ]
+  },
+  {
+   "set": "home",
+   "say": "Differentiation matters most. While Christmas ads all looked alike, John Lewis made Monty the Penguin, pure emotion. A hundred and thirty two million pounds in extra sales, and eight to one ROI.",
+   "board": {
+    "title": "Monty the **Penguin**",
+    "big": "8:1",
+    "caption": "ROI, **£132m** extra sales",
+    "cue": "hundred"
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "l",
+     "pose": "point"
+    },
+    {
+     "id": "g",
+     "look": "elder",
+     "v": 3,
+     "at": "sofa",
+     "mode": "sit"
+    },
+    {
+     "id": "k",
+     "look": "kid",
+     "v": 5,
+     "at": "sofa2",
+     "mode": "sit"
+    }
+   ],
+   "acts": [
+    {
+     "who": "g",
+     "cue": "Monty",
+     "expr": "relief_open"
+    },
+    {
+     "who": "k",
+     "cue": "emotion",
+     "expr": "grin"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "heart",
+     "who": "g",
+     "cue": "Monty"
+    },
+    {
+     "kind": "heart",
+     "who": "k",
+     "cue": "emotion"
+    },
+    {
+     "kind": "money",
+     "who": "host",
+     "cue": "hundred"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "host"
+    },
+    {
+     "cue": "Monty",
+     "shot": "wide"
+    },
+    {
+     "cue": "hundred",
+     "shot": "board"
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "AI now helps with research, synthetic audiences, and many versions of content to test. Nine in ten marketing teams already use it.",
+   "board": {
+    "title": "AI in **advertising**",
+    "lines": [
+     {
+      "text": "Research and market context",
+      "cue": "research"
+     },
+     {
+      "text": "**Synthetic** audiences",
+      "cue": "synthetic"
+     },
+     {
+      "text": "Many versions, test and learn",
+      "cue": "versions"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "a",
+     "look": "student",
+     "v": 8,
+     "at": "desk",
+     "hold": "laptop",
+     "pose": "hold"
+    },
+    {
+     "id": "b",
+     "look": "exec",
+     "v": 1,
+     "at": "desk2",
+     "hold": "laptop",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "a",
+     "cue": "Nine",
+     "pose": "cheer",
+     "expr": "grin"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "brain",
+     "who": "a",
+     "cue": "synthetic"
+    },
+    {
+     "kind": "sparkle",
+     "who": "b",
+     "cue": "versions"
+    },
+    {
+     "kind": "tick",
+     "who": "a",
+     "cue": "Nine"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "versions",
+     "shot": "wide"
+    },
+    {
+     "cue": "Nine",
+     "shot": "actor",
+     "who": "a"
+    }
+   ]
+  },
+  {
+   "set": "street",
+   "say": "Marketing mix models show which channels worked together. Winning campaigns average ten point two. Digital now takes about sixty percent of media spend, led by Google, Meta and Amazon.",
+   "board": {
+    "title": "Where the **money** goes",
+    "bars": [
+     {
+      "label": "Digital",
+      "value": 60,
+      "display": "60%",
+      "cue": "Digital"
+     },
+     {
+      "label": "Older media",
+      "value": 40,
+      "display": "40%",
+      "cue": "sixty"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "point"
+    },
+    {
+     "id": "e",
+     "look": "exec_f",
+     "v": 6,
+     "at": "r",
+     "hold": "phone",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "e",
+     "cue": "ten",
+     "pose": "chin"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "chart",
+     "who": "e",
+     "cue": "mix"
+    },
+    {
+     "kind": "think",
+     "who": "e",
+     "text": "Ten point two channels",
+     "cue": "ten"
+    },
+    {
+     "kind": "money",
+     "who": "host",
+     "cue": "Google"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "ten",
+     "shot": "actor",
+     "who": "e"
+    },
+    {
+     "cue": "Digital",
+     "shot": "board"
+    }
+   ]
+  },
+  {
+   "set": "stage",
+   "say": "John Singleton said advertising exists to sell. Mostly, but sometimes it's to change behaviour. So keep it simple, emotional and single minded. Make famous work that works. That's week eight.",
+   "board": {
+    "title": "Week 8 **takeaways**",
+    "lines": [
+     {
+      "text": "Right message, person, place, time",
+      "cue": "simple"
+     },
+     {
+      "text": "We buy on **emotion**",
+      "cue": "emotional"
+     },
+     {
+      "text": "**One** message per ad",
+      "cue": "single"
+     },
+     {
+      "text": "Famous work **that works**",
+      "cue": "famous"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "s1",
+     "look": "student",
+     "v": 1,
+     "at": "aisle"
+    },
+    {
+     "id": "s2",
+     "look": "student",
+     "v": 2,
+     "at": "aisle2"
+    }
+   ],
+   "acts": [
+    {
+     "who": "s1",
+     "cue": "famous",
+     "pose": "cheer",
+     "expr": "grin"
+    },
+    {
+     "who": "host",
+     "cue": "week",
+     "pose": "cheer",
+     "expr": "grin"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "bulb",
+     "who": "s2",
+     "cue": "behaviour"
+    },
+    {
+     "kind": "stars",
+     "who": "host",
+     "cue": "week"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "close"
+    },
+    {
+     "cue": "keep",
+     "shot": "board"
+    },
+    {
+     "cue": "week",
+     "shot": "wide"
+    }
+   ]
+  }
+ ]
+}

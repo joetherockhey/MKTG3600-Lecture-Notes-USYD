@@ -1,0 +1,290 @@
+{
+ "week": 0,
+ "title": "SWOT analysis",
+ "speaker": "Albert Humphrey and colleagues, Stanford Research Institute, 1960s",
+ "beats": [
+  {
+   "set": "office",
+   "say": "SWOT analysis audits a brand's situation before you set strategy. Strengths and weaknesses are internal, things you control. Opportunities and threats are external, out in the market.",
+   "board": {
+    "title": "**SWOT** analysis",
+    "steps": [
+     {
+      "text": "**Strengths** internal advantages",
+      "cue": "Strengths"
+     },
+     {
+      "text": "**Weaknesses** internal limits",
+      "cue": "weaknesses"
+     },
+     {
+      "text": "**Opportunities** external openings",
+      "cue": "Opportunities"
+     },
+     {
+      "text": "**Threats** external risks",
+      "cue": "threats"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "e1",
+     "look": "exec_f",
+     "v": 2,
+     "at": "table"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "internal",
+     "pose": "point"
+    },
+    {
+     "who": "e1",
+     "cue": "market",
+     "pose": "chin"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "internal",
+     "shot": "close"
+    },
+    {
+     "cue": "Opportunities",
+     "shot": "board"
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Take Telstra. Strength: the biggest network. Weakness: a reputation barely above the tax office. Opportunity: the Olympics. Threat: cheaper rivals winning on price.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "l"
+    },
+    {
+     "id": "e1",
+     "look": "exec_f",
+     "v": 2,
+     "at": "table"
+    },
+    {
+     "id": "e2",
+     "look": "exec",
+     "v": 3,
+     "at": "table2"
+    }
+   ],
+   "acts": [
+    {
+     "who": "e1",
+     "cue": "network",
+     "pose": "cheer",
+     "expr": "grin"
+    },
+    {
+     "who": "e2",
+     "cue": "reputation",
+     "pose": "shrug",
+     "expr": "pained"
+    },
+    {
+     "who": "e1",
+     "cue": "Olympics",
+     "pose": "up",
+     "expr": "grin"
+    },
+    {
+     "who": "e2",
+     "cue": "cheaper",
+     "pose": "none",
+     "expr": "shock"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "tick",
+     "who": "e1",
+     "cue": "network"
+    },
+    {
+     "kind": "cross",
+     "who": "e2",
+     "cue": "reputation"
+    },
+    {
+     "kind": "bulb",
+     "who": "e1",
+     "cue": "Olympics"
+    },
+    {
+     "kind": "money",
+     "who": "e2",
+     "cue": "cheaper"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "network",
+     "shot": "actor",
+     "who": "e1"
+    },
+    {
+     "cue": "reputation",
+     "shot": "actor",
+     "who": "e2"
+    },
+    {
+     "cue": "cheaper",
+     "shot": "two",
+     "who": "e2"
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "The value is in the links. Use the network strength to seize the Olympics, and fix the dull ads before rivals exploit them.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "l"
+    },
+    {
+     "id": "e1",
+     "look": "exec_f",
+     "v": 2,
+     "at": "table"
+    },
+    {
+     "id": "e2",
+     "look": "exec",
+     "v": 3,
+     "at": "table2"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "links",
+     "pose": "up",
+     "expr": "grin"
+    },
+    {
+     "who": "e1",
+     "cue": "seize",
+     "pose": "cheer",
+     "expr": "laugh"
+    },
+    {
+     "who": "e2",
+     "cue": "fix",
+     "pose": "point",
+     "expr": "relief"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "think",
+     "who": "e1",
+     "text": "Network plus Olympics!",
+     "cue": "seize"
+    },
+    {
+     "kind": "tick",
+     "who": "e2",
+     "cue": "fix"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "host"
+    },
+    {
+     "cue": "seize",
+     "shot": "actor",
+     "who": "e1"
+    },
+    {
+     "cue": "fix",
+     "shot": "two",
+     "who": "e2"
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Use it like this: two or three specific, evidenced points per box, then the strategic moves they point to.",
+   "board": {
+    "title": "Use it **like this**",
+    "lines": [
+     {
+      "text": "Two or three **specific** points per box",
+      "cue": "specific"
+     },
+     {
+      "text": "Then the **strategic moves**",
+      "cue": "moves"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "e1",
+     "look": "exec_f",
+     "v": 2,
+     "at": "table"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "evidenced",
+     "pose": "point"
+    },
+    {
+     "who": "e1",
+     "cue": "moves",
+     "expr": "smile"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "moves",
+     "shot": "close"
+    }
+   ],
+   "hold": 1.0
+  }
+ ]
+}

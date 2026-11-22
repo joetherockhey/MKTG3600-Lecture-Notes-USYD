@@ -1,0 +1,3385 @@
+{
+ "week": 10,
+ "title": "Inside the world of influencer marketing",
+ "speaker": "Bryce Coombe",
+ "beats": [
+  {
+   "set": "stage",
+   "say": "Week ten. Inside the world of influencer marketing, with Bryce Coombe, managing director of Hypetap. His message: influencer is no longer a side channel.",
+   "board": {
+    "photo": "photos/w10.png",
+    "title": "Inside the world of **influencer marketing**",
+    "name": "Bryce Coombe",
+    "org": "Managing Director, Hypetap"
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "s1",
+     "look": "student",
+     "v": 3,
+     "at": "aisle",
+     "hold": "phone",
+     "pose": "hold"
+    },
+    {
+     "id": "s2",
+     "look": "student",
+     "v": 6,
+     "at": "aisle2"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "side",
+     "pose": "point",
+     "expr": "grin",
+     "at": 9.203
+    }
+   ],
+   "fx": [
+    {
+     "kind": "heart",
+     "who": "s1",
+     "cue": "influencer is",
+     "at": 7.847
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "Bryce",
+     "shot": "board",
+     "at": 3.979
+    },
+    {
+     "cue": "message",
+     "shot": "close",
+     "at": 7.033
+    }
+   ],
+   "audio": "audio/w10-00.mp3",
+   "leadIn": 0.45,
+   "seconds": 10.818,
+   "words": [
+    {
+     "w": "Week",
+     "t": 0.5
+    },
+    {
+     "w": "ten",
+     "t": 0.854
+    },
+    {
+     "w": "Inside",
+     "t": 1.609
+    },
+    {
+     "w": "the",
+     "t": 2.116
+    },
+    {
+     "w": "world",
+     "t": 2.186
+    },
+    {
+     "w": "of",
+     "t": 2.458
+    },
+    {
+     "w": "influencer",
+     "t": 2.528
+    },
+    {
+     "w": "marketing",
+     "t": 3.059
+    },
+    {
+     "w": "with",
+     "t": 3.79
+    },
+    {
+     "w": "Bryce",
+     "t": 3.979
+    },
+    {
+     "w": "Coombe",
+     "t": 4.285
+    },
+    {
+     "w": "managing",
+     "t": 4.851
+    },
+    {
+     "w": "director",
+     "t": 5.323
+    },
+    {
+     "w": "of",
+     "t": 5.795
+    },
+    {
+     "w": "Hypetap",
+     "t": 5.901
+    },
+    {
+     "w": "His",
+     "t": 6.797
+    },
+    {
+     "w": "message",
+     "t": 7.033
+    },
+    {
+     "w": "influencer",
+     "t": 7.847
+    },
+    {
+     "w": "is",
+     "t": 8.495
+    },
+    {
+     "w": "no",
+     "t": 8.66
+    },
+    {
+     "w": "longer",
+     "t": 8.849
+    },
+    {
+     "w": "a",
+     "t": 9.167
+    },
+    {
+     "w": "side",
+     "t": 9.203
+    },
+    {
+     "w": "channel",
+     "t": 9.486
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Hypetap is a full service influencer agency, founded in twenty fourteen. It calls itself more than a platform, running on people, process and product.",
+   "board": {
+    "title": "More than a **platform**",
+    "steps": [
+     {
+      "text": "**People**",
+      "cue": "people",
+      "at": 7.446
+     },
+     {
+      "text": "**Process**",
+      "cue": "process",
+      "at": 8.083
+     },
+     {
+      "text": "**Product**",
+      "cue": "product",
+      "at": 8.755
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "point",
+     "mirror": true
+    },
+    {
+     "id": "a",
+     "look": "exec_f",
+     "v": 2,
+     "at": "desk",
+     "hold": "laptop",
+     "pose": "hold"
+    },
+    {
+     "id": "b",
+     "look": "student",
+     "v": 4,
+     "at": "table",
+     "hold": "phone",
+     "pose": "hold"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "tick",
+     "who": "a",
+     "cue": "platform",
+     "at": 6.149
+    },
+    {
+     "kind": "sparkle",
+     "who": "b",
+     "cue": "product",
+     "at": 8.755
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "platform",
+     "shot": "board",
+     "at": 6.149
+    }
+   ],
+   "audio": "audio/w10-01.mp3",
+   "leadIn": 0.45,
+   "seconds": 10.194,
+   "words": [
+    {
+     "w": "Hypetap",
+     "t": 0.5
+    },
+    {
+     "w": "is",
+     "t": 1.054
+    },
+    {
+     "w": "a",
+     "t": 1.208
+    },
+    {
+     "w": "full",
+     "t": 1.255
+    },
+    {
+     "w": "service",
+     "t": 1.514
+    },
+    {
+     "w": "influencer",
+     "t": 1.903
+    },
+    {
+     "w": "agency",
+     "t": 2.434
+    },
+    {
+     "w": "founded",
+     "t": 3.212
+    },
+    {
+     "w": "in",
+     "t": 3.649
+    },
+    {
+     "w": "twenty",
+     "t": 3.814
+    },
+    {
+     "w": "fourteen",
+     "t": 4.038
+    },
+    {
+     "w": "It",
+     "t": 4.981
+    },
+    {
+     "w": "calls",
+     "t": 5.182
+    },
+    {
+     "w": "itself",
+     "t": 5.429
+    },
+    {
+     "w": "more",
+     "t": 5.818
+    },
+    {
+     "w": "than",
+     "t": 6.007
+    },
+    {
+     "w": "a",
+     "t": 6.113
+    },
+    {
+     "w": "platform",
+     "t": 6.149
+    },
+    {
+     "w": "running",
+     "t": 7.009
+    },
+    {
+     "w": "on",
+     "t": 7.316
+    },
+    {
+     "w": "people",
+     "t": 7.446
+    },
+    {
+     "w": "process",
+     "t": 8.083
+    },
+    {
+     "w": "and",
+     "t": 8.59
+    },
+    {
+     "w": "product",
+     "t": 8.755
+    }
+   ]
+  },
+  {
+   "set": "home",
+   "say": "Australia has twenty one point three million social media users, each on six or more platforms a month. And TikTok time is up six hours on last year.",
+   "board": {
+    "title": "Hours a month on **TikTok**",
+    "big": "29.5",
+    "caption": "up **6 hours** year on year",
+    "cue": "TikTok",
+    "at": 6.314
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "l",
+     "pose": "present"
+    },
+    {
+     "id": "a",
+     "look": "student",
+     "v": 5,
+     "at": "sofa",
+     "mode": "sit",
+     "hold": "phone",
+     "pose": "hold"
+    },
+    {
+     "id": "b",
+     "look": "worker",
+     "v": 2,
+     "at": "sofa2",
+     "mode": "sit",
+     "hold": "phone",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "b",
+     "cue": "six or",
+     "expr": "grin",
+     "at": 4.285
+    }
+   ],
+   "fx": [
+    {
+     "kind": "chart",
+     "who": "host",
+     "cue": "million",
+     "at": 2.222
+    },
+    {
+     "kind": "eye",
+     "who": "a",
+     "cue": "platforms",
+     "at": 4.84
+    },
+    {
+     "kind": "clock",
+     "who": "b",
+     "cue": "hours",
+     "at": 7.623
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "platforms",
+     "shot": "actor",
+     "who": "a",
+     "at": 4.84
+    },
+    {
+     "cue": "TikTok",
+     "shot": "board",
+     "at": 6.314
+    }
+   ],
+   "audio": "audio/w10-02.mp3",
+   "leadIn": 0.45,
+   "seconds": 9.69,
+   "words": [
+    {
+     "w": "Australia",
+     "t": 0.5
+    },
+    {
+     "w": "has",
+     "t": 1.078
+    },
+    {
+     "w": "twenty",
+     "t": 1.29
+    },
+    {
+     "w": "one",
+     "t": 1.538
+    },
+    {
+     "w": "point",
+     "t": 1.726
+    },
+    {
+     "w": "three",
+     "t": 1.95
+    },
+    {
+     "w": "million",
+     "t": 2.222
+    },
+    {
+     "w": "social",
+     "t": 2.564
+    },
+    {
+     "w": "media",
+     "t": 2.882
+    },
+    {
+     "w": "users",
+     "t": 3.177
+    },
+    {
+     "w": "each",
+     "t": 3.932
+    },
+    {
+     "w": "on",
+     "t": 4.156
+    },
+    {
+     "w": "six",
+     "t": 4.285
+    },
+    {
+     "w": "or",
+     "t": 4.592
+    },
+    {
+     "w": "more",
+     "t": 4.651
+    },
+    {
+     "w": "platforms",
+     "t": 4.84
+    },
+    {
+     "w": "a",
+     "t": 5.359
+    },
+    {
+     "w": "month",
+     "t": 5.382
+    },
+    {
+     "w": "And",
+     "t": 6.09
+    },
+    {
+     "w": "TikTok",
+     "t": 6.314
+    },
+    {
+     "w": "time",
+     "t": 6.703
+    },
+    {
+     "w": "is",
+     "t": 7.009
+    },
+    {
+     "w": "up",
+     "t": 7.175
+    },
+    {
+     "w": "six",
+     "t": 7.316
+    },
+    {
+     "w": "hours",
+     "t": 7.623
+    },
+    {
+     "w": "on",
+     "t": 7.965
+    },
+    {
+     "w": "last",
+     "t": 8.118
+    },
+    {
+     "w": "year",
+     "t": 8.425
+    }
+   ]
+  },
+  {
+   "set": "home",
+   "say": "Guess the average Australian TikTok user. She's a thirty nine year old woman, watching a movie's worth, about ninety minutes, every single night.",
+   "board": {
+    "title": "The average **TikToker**",
+    "big": "39",
+    "caption": "female, **90 min** a night",
+    "cue": "thirty",
+    "at": 3.495
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "l",
+     "pose": "chin"
+    },
+    {
+     "id": "w",
+     "look": "shopper",
+     "v": 3,
+     "at": "sofa",
+     "mode": "sit",
+     "hold": "phone",
+     "pose": "hold",
+     "expr": "smile"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "thirty",
+     "pose": "point",
+     "expr": "shock",
+     "at": 3.495
+    },
+    {
+     "who": "w",
+     "cue": "night",
+     "expr": "laugh",
+     "at": 7.988
+    }
+   ],
+   "fx": [
+    {
+     "kind": "question",
+     "who": "host",
+     "cue": "Guess",
+     "at": 0.5
+    },
+    {
+     "kind": "clock",
+     "who": "w",
+     "cue": "ninety",
+     "at": 6.55
+    },
+    {
+     "kind": "heart",
+     "who": "w",
+     "cue": "night",
+     "at": 7.988
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "host",
+     "at": 0.2
+    },
+    {
+     "cue": "thirty",
+     "shot": "actor",
+     "who": "w",
+     "at": 3.495
+    },
+    {
+     "cue": "ninety",
+     "shot": "board",
+     "at": 6.55
+    }
+   ],
+   "audio": "audio/w10-03.mp3",
+   "leadIn": 0.45,
+   "seconds": 9.306,
+   "words": [
+    {
+     "w": "Guess",
+     "t": 0.5
+    },
+    {
+     "w": "the",
+     "t": 0.795
+    },
+    {
+     "w": "average",
+     "t": 0.972
+    },
+    {
+     "w": "Australian",
+     "t": 1.373
+    },
+    {
+     "w": "TikTok",
+     "t": 1.974
+    },
+    {
+     "w": "user",
+     "t": 2.399
+    },
+    {
+     "w": "She's",
+     "t": 3.153
+    },
+    {
+     "w": "a",
+     "t": 3.448
+    },
+    {
+     "w": "thirty",
+     "t": 3.495
+    },
+    {
+     "w": "nine",
+     "t": 3.802
+    },
+    {
+     "w": "year",
+     "t": 4.014
+    },
+    {
+     "w": "old",
+     "t": 4.132
+    },
+    {
+     "w": "woman",
+     "t": 4.285
+    },
+    {
+     "w": "watching",
+     "t": 4.887
+    },
+    {
+     "w": "a",
+     "t": 5.252
+    },
+    {
+     "w": "movie's",
+     "t": 5.288
+    },
+    {
+     "w": "worth",
+     "t": 5.653
+    },
+    {
+     "w": "about",
+     "t": 6.266
+    },
+    {
+     "w": "ninety",
+     "t": 6.55
+    },
+    {
+     "w": "minutes",
+     "t": 6.868
+    },
+    {
+     "w": "every",
+     "t": 7.434
+    },
+    {
+     "w": "single",
+     "t": 7.705
+    },
+    {
+     "w": "night",
+     "t": 7.988
+    }
+   ]
+  },
+  {
+   "set": "plaza",
+   "say": "Why does it work? Eighty percent are on TikTok mainly for creators. Seventy five percent have acted on a product in their feed. And twenty percent use social for inspiration while buying.",
+   "board": {
+    "title": "Expect, **trust**, buy",
+    "bars": [
+     {
+      "label": "I expect it",
+      "value": 80,
+      "display": "80%",
+      "cue": "Eighty",
+      "at": 1.903
+     },
+     {
+      "label": "I trust it",
+      "value": 75,
+      "display": "75%",
+      "cue": "Seventy",
+      "at": 4.863
+     },
+     {
+      "label": "I buy on it",
+      "value": 20,
+      "display": "20%",
+      "cue": "twenty",
+      "at": 8.342
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "c",
+     "pose": "present"
+    },
+    {
+     "id": "s",
+     "look": "shopper",
+     "v": 1,
+     "at": "walkR",
+     "to": "shelf",
+     "hold": "phone",
+     "pose": "hold"
+    },
+    {
+     "id": "t",
+     "look": "student",
+     "v": 2,
+     "at": "l",
+     "hold": "phone",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "s",
+     "cue": "acted",
+     "pose": "point",
+     "expr": "grin",
+     "at": 6.054
+    },
+    {
+     "who": "t",
+     "cue": "buying",
+     "pose": "cheer",
+     "expr": "smile",
+     "at": 10.7
+    }
+   ],
+   "fx": [
+    {
+     "kind": "heart",
+     "who": "t",
+     "cue": "creators",
+     "at": 3.908
+    },
+    {
+     "kind": "think",
+     "who": "s",
+     "text": "Saw this on TikTok!",
+     "cue": "feed",
+     "at": 7.304
+    },
+    {
+     "kind": "money",
+     "who": "t",
+     "cue": "buying",
+     "at": 10.7
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "acted",
+     "shot": "actor",
+     "who": "s",
+     "at": 6.054
+    },
+    {
+     "cue": "buying",
+     "shot": "wide",
+     "at": 10.7
+    }
+   ],
+   "audio": "audio/w10-04.mp3",
+   "leadIn": 0.45,
+   "seconds": 12.114,
+   "words": [
+    {
+     "w": "Why",
+     "t": 0.5
+    },
+    {
+     "w": "does",
+     "t": 0.854
+    },
+    {
+     "w": "it",
+     "t": 1.054
+    },
+    {
+     "w": "work",
+     "t": 1.137
+    },
+    {
+     "w": "Eighty",
+     "t": 1.903
+    },
+    {
+     "w": "percent",
+     "t": 2.175
+    },
+    {
+     "w": "are",
+     "t": 2.658
+    },
+    {
+     "w": "on",
+     "t": 2.8
+    },
+    {
+     "w": "TikTok",
+     "t": 2.941
+    },
+    {
+     "w": "mainly",
+     "t": 3.401
+    },
+    {
+     "w": "for",
+     "t": 3.778
+    },
+    {
+     "w": "creators",
+     "t": 3.908
+    },
+    {
+     "w": "Seventy",
+     "t": 4.863
+    },
+    {
+     "w": "five",
+     "t": 5.3
+    },
+    {
+     "w": "percent",
+     "t": 5.535
+    },
+    {
+     "w": "have",
+     "t": 5.913
+    },
+    {
+     "w": "acted",
+     "t": 6.054
+    },
+    {
+     "w": "on",
+     "t": 6.467
+    },
+    {
+     "w": "a",
+     "t": 6.609
+    },
+    {
+     "w": "product",
+     "t": 6.656
+    },
+    {
+     "w": "in",
+     "t": 7.068
+    },
+    {
+     "w": "their",
+     "t": 7.21
+    },
+    {
+     "w": "feed",
+     "t": 7.304
+    },
+    {
+     "w": "And",
+     "t": 8.13
+    },
+    {
+     "w": "twenty",
+     "t": 8.342
+    },
+    {
+     "w": "percent",
+     "t": 8.578
+    },
+    {
+     "w": "use",
+     "t": 8.991
+    },
+    {
+     "w": "social",
+     "t": 9.215
+    },
+    {
+     "w": "for",
+     "t": 9.686
+    },
+    {
+     "w": "inspiration",
+     "t": 9.851
+    },
+    {
+     "w": "while",
+     "t": 10.488
+    },
+    {
+     "w": "buying",
+     "t": 10.7
+    }
+   ]
+  },
+  {
+   "set": "home",
+   "say": "But value is different here. A creator's recipe showing cookware in real life gets positive sentiment. Strict brand instructions get neutral sentiment at best.",
+   "board": {
+    "title": "Value is **different** here",
+    "vs": {
+     "left": "Influencer-led",
+     "right": "Brand-led",
+     "leftItems": [
+      "Recipe in real life",
+      "**Positive** sentiment"
+     ],
+     "rightItems": [
+      "Strict instructions",
+      "Neutral at best"
+     ],
+     "cue": "recipe",
+     "at": 2.941
+    }
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "l",
+     "pose": "present"
+    },
+    {
+     "id": "c",
+     "look": "chef",
+     "v": 2,
+     "at": "c",
+     "hold": "box",
+     "pose": "hold"
+    },
+    {
+     "id": "v",
+     "look": "elder",
+     "v": 4,
+     "at": "sofa",
+     "mode": "sit"
+    }
+   ],
+   "acts": [
+    {
+     "who": "v",
+     "cue": "positive",
+     "expr": "grin",
+     "at": 5.111
+    },
+    {
+     "who": "v",
+     "cue": "neutral",
+     "expr": "dazed",
+     "at": 7.882
+    }
+   ],
+   "fx": [
+    {
+     "kind": "heart",
+     "who": "v",
+     "cue": "positive",
+     "at": 5.111
+    },
+    {
+     "kind": "zzz",
+     "who": "v",
+     "cue": "neutral",
+     "at": 7.882
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "recipe",
+     "shot": "actor",
+     "who": "c",
+     "at": 2.941
+    },
+    {
+     "cue": "Strict",
+     "shot": "board",
+     "at": 6.361
+    }
+   ],
+   "audio": "audio/w10-05.mp3",
+   "leadIn": 0.45,
+   "seconds": 10.266,
+   "words": [
+    {
+     "w": "But",
+     "t": 0.5
+    },
+    {
+     "w": "value",
+     "t": 0.712
+    },
+    {
+     "w": "is",
+     "t": 1.125
+    },
+    {
+     "w": "different",
+     "t": 1.325
+    },
+    {
+     "w": "here",
+     "t": 1.656
+    },
+    {
+     "w": "A",
+     "t": 2.375
+    },
+    {
+     "w": "creator's",
+     "t": 2.505
+    },
+    {
+     "w": "recipe",
+     "t": 2.941
+    },
+    {
+     "w": "showing",
+     "t": 3.366
+    },
+    {
+     "w": "cookware",
+     "t": 3.684
+    },
+    {
+     "w": "in",
+     "t": 4.167
+    },
+    {
+     "w": "real",
+     "t": 4.333
+    },
+    {
+     "w": "life",
+     "t": 4.568
+    },
+    {
+     "w": "gets",
+     "t": 4.91
+    },
+    {
+     "w": "positive",
+     "t": 5.111
+    },
+    {
+     "w": "sentiment",
+     "t": 5.535
+    },
+    {
+     "w": "Strict",
+     "t": 6.361
+    },
+    {
+     "w": "brand",
+     "t": 6.785
+    },
+    {
+     "w": "instructions",
+     "t": 7.057
+    },
+    {
+     "w": "get",
+     "t": 7.682
+    },
+    {
+     "w": "neutral",
+     "t": 7.882
+    },
+    {
+     "w": "sentiment",
+     "t": 8.248
+    },
+    {
+     "w": "at",
+     "t": 8.719
+    },
+    {
+     "w": "best",
+     "t": 8.896
+    }
+   ]
+  },
+  {
+   "set": "street",
+   "say": "Social is now search. Nearly half of US consumers use TikTok as a search engine. Google indexes creator content, and AI models learn about brands from it.",
+   "board": {
+    "title": "Social is now **search**",
+    "lines": [
+     {
+      "text": "~50% search on **TikTok**",
+      "cue": "half",
+      "at": 2.658
+     },
+     {
+      "text": "Google indexes creators",
+      "cue": "Google",
+      "at": 5.877
+     },
+     {
+      "text": "AI learns from **creators**",
+      "cue": "AI",
+      "at": 8.165
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "a",
+     "look": "student",
+     "v": 7,
+     "at": "bus",
+     "hold": "phone",
+     "pose": "hold"
+    },
+    {
+     "id": "b",
+     "look": "exec",
+     "v": 3,
+     "at": "walkR",
+     "to": "r",
+     "hold": "phone",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "a",
+     "cue": "search engine",
+     "pose": "chin",
+     "at": 4.816
+    }
+   ],
+   "fx": [
+    {
+     "kind": "think",
+     "who": "a",
+     "text": "Best brunch near me?",
+     "cue": "search engine",
+     "at": 4.816
+    },
+    {
+     "kind": "brain",
+     "who": "b",
+     "cue": "AI",
+     "at": 8.165
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "search engine",
+     "shot": "actor",
+     "who": "a",
+     "at": 4.816
+    },
+    {
+     "cue": "AI",
+     "shot": "wide",
+     "at": 8.165
+    }
+   ],
+   "audio": "audio/w10-06.mp3",
+   "leadIn": 0.45,
+   "seconds": 10.938,
+   "words": [
+    {
+     "w": "Social",
+     "t": 0.5
+    },
+    {
+     "w": "is",
+     "t": 1.078
+    },
+    {
+     "w": "now",
+     "t": 1.255
+    },
+    {
+     "w": "search",
+     "t": 1.443
+    },
+    {
+     "w": "Nearly",
+     "t": 2.281
+    },
+    {
+     "w": "half",
+     "t": 2.658
+    },
+    {
+     "w": "of",
+     "t": 2.953
+    },
+    {
+     "w": "US",
+     "t": 3.047
+    },
+    {
+     "w": "consumers",
+     "t": 3.342
+    },
+    {
+     "w": "use",
+     "t": 3.896
+    },
+    {
+     "w": "TikTok",
+     "t": 4.179
+    },
+    {
+     "w": "as",
+     "t": 4.627
+    },
+    {
+     "w": "a",
+     "t": 4.781
+    },
+    {
+     "w": "search",
+     "t": 4.816
+    },
+    {
+     "w": "engine",
+     "t": 5.146
+    },
+    {
+     "w": "Google",
+     "t": 5.877
+    },
+    {
+     "w": "indexes",
+     "t": 6.243
+    },
+    {
+     "w": "creator",
+     "t": 6.715
+    },
+    {
+     "w": "content",
+     "t": 7.104
+    },
+    {
+     "w": "and",
+     "t": 7.906
+    },
+    {
+     "w": "AI",
+     "t": 8.165
+    },
+    {
+     "w": "models",
+     "t": 8.436
+    },
+    {
+     "w": "learn",
+     "t": 8.873
+    },
+    {
+     "w": "about",
+     "t": 9.097
+    },
+    {
+     "w": "brands",
+     "t": 9.344
+    },
+    {
+     "w": "from",
+     "t": 9.651
+    },
+    {
+     "w": "it",
+     "t": 9.816
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "So it's not just another channel that interrupts the broadcast. It works through peer validation, algorithmic trust and cultural resonance, which beats standard attention by two hundred and forty six percent.",
+   "board": {
+    "title": "Why influencer **works**",
+    "steps": [
+     {
+      "text": "**Peer validation** someone like me",
+      "cue": "peer",
+      "at": 4.415
+     },
+     {
+      "text": "**Algorithmic trust** what others say",
+      "cue": "algorithmic",
+      "at": 5.547
+     },
+     {
+      "text": "**Cultural resonance** +246%",
+      "cue": "cultural",
+      "at": 6.774
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "point",
+     "mirror": true
+    },
+    {
+     "id": "a",
+     "look": "exec_f",
+     "v": 6,
+     "at": "table"
+    },
+    {
+     "id": "b",
+     "look": "exec",
+     "v": 2,
+     "at": "table2"
+    }
+   ],
+   "acts": [
+    {
+     "who": "b",
+     "cue": "interrupts",
+     "pose": "shrug",
+     "expr": "nervous",
+     "at": 2.186
+    },
+    {
+     "who": "a",
+     "cue": "two",
+     "pose": "cheer",
+     "expr": "shock",
+     "at": 9.391
+    }
+   ],
+   "fx": [
+    {
+     "kind": "cross",
+     "who": "b",
+     "cue": "interrupts",
+     "at": 2.186
+    },
+    {
+     "kind": "exclaim",
+     "who": "a",
+     "cue": "two",
+     "at": 9.391
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "peer",
+     "shot": "board",
+     "at": 4.415
+    },
+    {
+     "cue": "two",
+     "shot": "actor",
+     "who": "a",
+     "at": 9.391
+    }
+   ],
+   "audio": "audio/w10-07.mp3",
+   "leadIn": 0.45,
+   "seconds": 11.682,
+   "words": [
+    {
+     "w": "So",
+     "t": 0.5
+    },
+    {
+     "w": "it's",
+     "t": 0.783
+    },
+    {
+     "w": "not",
+     "t": 0.913
+    },
+    {
+     "w": "just",
+     "t": 1.113
+    },
+    {
+     "w": "another",
+     "t": 1.373
+    },
+    {
+     "w": "channel",
+     "t": 1.667
+    },
+    {
+     "w": "that",
+     "t": 2.033
+    },
+    {
+     "w": "interrupts",
+     "t": 2.186
+    },
+    {
+     "w": "the",
+     "t": 2.705
+    },
+    {
+     "w": "broadcast",
+     "t": 2.788
+    },
+    {
+     "w": "It",
+     "t": 3.778
+    },
+    {
+     "w": "works",
+     "t": 3.943
+    },
+    {
+     "w": "through",
+     "t": 4.226
+    },
+    {
+     "w": "peer",
+     "t": 4.415
+    },
+    {
+     "w": "validation",
+     "t": 4.686
+    },
+    {
+     "w": "algorithmic",
+     "t": 5.547
+    },
+    {
+     "w": "trust",
+     "t": 6.09
+    },
+    {
+     "w": "and",
+     "t": 6.62
+    },
+    {
+     "w": "cultural",
+     "t": 6.774
+    },
+    {
+     "w": "resonance",
+     "t": 7.163
+    },
+    {
+     "w": "which",
+     "t": 7.965
+    },
+    {
+     "w": "beats",
+     "t": 8.165
+    },
+    {
+     "w": "standard",
+     "t": 8.425
+    },
+    {
+     "w": "attention",
+     "t": 8.778
+    },
+    {
+     "w": "by",
+     "t": 9.238
+    },
+    {
+     "w": "two",
+     "t": 9.391
+    },
+    {
+     "w": "hundred",
+     "t": 9.616
+    },
+    {
+     "w": "and",
+     "t": 9.804
+    },
+    {
+     "w": "forty",
+     "t": 9.84
+    },
+    {
+     "w": "six",
+     "t": 10.075
+    },
+    {
+     "w": "percent",
+     "t": 10.276
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Know your brand's eye level. Leader brands use experts. Eye to eye brands use just like you creators. Subservient brands do the work for people.",
+   "board": {
+    "title": "Your brand's **eye level**",
+    "steps": [
+     {
+      "text": "**Leader** experts",
+      "cue": "Leader",
+      "at": 2.257
+     },
+     {
+      "text": "**Eye to eye** just like you",
+      "cue": "Eye to eye",
+      "at": 4.321
+     },
+     {
+      "text": "**Subservient** do the work",
+      "cue": "Subservient",
+      "at": 7.057
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "x",
+     "look": "exec",
+     "v": 9,
+     "at": "l",
+     "hold": "clipboard",
+     "pose": "hold"
+    },
+    {
+     "id": "y",
+     "look": "student",
+     "v": 1,
+     "at": "c",
+     "hold": "phone",
+     "pose": "hold"
+    },
+    {
+     "id": "z",
+     "look": "chef",
+     "v": 1,
+     "at": "r"
+    }
+   ],
+   "acts": [
+    {
+     "who": "x",
+     "cue": "experts",
+     "pose": "up",
+     "expr": "stern",
+     "at": 3.401
+    },
+    {
+     "who": "y",
+     "cue": "like",
+     "expr": "grin",
+     "at": 5.807
+    },
+    {
+     "who": "z",
+     "cue": "work",
+     "pose": "present",
+     "expr": "smile",
+     "at": 8.519
+    }
+   ],
+   "fx": [
+    {
+     "kind": "brain",
+     "who": "x",
+     "cue": "experts",
+     "at": 3.401
+    },
+    {
+     "kind": "heart",
+     "who": "y",
+     "cue": "like",
+     "at": 5.807
+    },
+    {
+     "kind": "tick",
+     "who": "z",
+     "cue": "work",
+     "at": 8.519
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "experts",
+     "shot": "wide",
+     "at": 3.401
+    },
+    {
+     "cue": "work",
+     "shot": "close",
+     "at": 8.519
+    }
+   ],
+   "audio": "audio/w10-08.mp3",
+   "leadIn": 0.45,
+   "seconds": 10.266,
+   "words": [
+    {
+     "w": "Know",
+     "t": 0.5
+    },
+    {
+     "w": "your",
+     "t": 0.795
+    },
+    {
+     "w": "brand's",
+     "t": 1.007
+    },
+    {
+     "w": "eye",
+     "t": 1.408
+    },
+    {
+     "w": "level",
+     "t": 1.502
+    },
+    {
+     "w": "Leader",
+     "t": 2.257
+    },
+    {
+     "w": "brands",
+     "t": 2.693
+    },
+    {
+     "w": "use",
+     "t": 3.13
+    },
+    {
+     "w": "experts",
+     "t": 3.401
+    },
+    {
+     "w": "Eye",
+     "t": 4.321
+    },
+    {
+     "w": "to",
+     "t": 4.592
+    },
+    {
+     "w": "eye",
+     "t": 4.769
+    },
+    {
+     "w": "brands",
+     "t": 4.863
+    },
+    {
+     "w": "use",
+     "t": 5.229
+    },
+    {
+     "w": "just",
+     "t": 5.524
+    },
+    {
+     "w": "like",
+     "t": 5.807
+    },
+    {
+     "w": "you",
+     "t": 6.007
+    },
+    {
+     "w": "creators",
+     "t": 6.09
+    },
+    {
+     "w": "Subservient",
+     "t": 7.057
+    },
+    {
+     "w": "brands",
+     "t": 7.859
+    },
+    {
+     "w": "do",
+     "t": 8.283
+    },
+    {
+     "w": "the",
+     "t": 8.436
+    },
+    {
+     "w": "work",
+     "t": 8.519
+    },
+    {
+     "w": "for",
+     "t": 8.778
+    },
+    {
+     "w": "people",
+     "t": 8.896
+    }
+   ]
+  },
+  {
+   "set": "street",
+   "say": "Fast growth attracts opportunists. Brands that treat creators transactionally, influencers who fake their reach, and agency cowboys. His rule: never trust a screen grab.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "c",
+     "pose": "hips",
+     "expr": "stern"
+    },
+    {
+     "id": "f",
+     "look": "student",
+     "v": 9,
+     "at": "walkL",
+     "to": "l",
+     "hold": "phone",
+     "pose": "hold",
+     "expr": "whistle"
+    },
+    {
+     "id": "g",
+     "look": "exec",
+     "v": 5,
+     "at": "r"
+    }
+   ],
+   "acts": [
+    {
+     "who": "f",
+     "cue": "fake",
+     "pose": "point",
+     "expr": "grin",
+     "at": 5.842
+    },
+    {
+     "who": "g",
+     "cue": "cowboys",
+     "pose": "shrug",
+     "expr": "whistle",
+     "at": 7.422
+    },
+    {
+     "who": "host",
+     "cue": "never",
+     "pose": "point",
+     "expr": "stern",
+     "at": 9.356
+    }
+   ],
+   "fx": [
+    {
+     "kind": "say",
+     "who": "f",
+     "text": "Two million followers!",
+     "cue": "fake",
+     "at": 5.842
+    },
+    {
+     "kind": "money",
+     "who": "g",
+     "cue": "cowboys",
+     "at": 7.422
+    },
+    {
+     "kind": "cross",
+     "who": "host",
+     "cue": "screen",
+     "at": 10.075
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "fake",
+     "shot": "actor",
+     "who": "f",
+     "at": 5.842
+    },
+    {
+     "cue": "never",
+     "shot": "close",
+     "at": 9.356
+    }
+   ],
+   "audio": "audio/w10-09.mp3",
+   "leadIn": 0.45,
+   "seconds": 11.778,
+   "words": [
+    {
+     "w": "Fast",
+     "t": 0.5
+    },
+    {
+     "w": "growth",
+     "t": 0.925
+    },
+    {
+     "w": "attracts",
+     "t": 1.302
+    },
+    {
+     "w": "opportunists",
+     "t": 1.726
+    },
+    {
+     "w": "Brands",
+     "t": 2.823
+    },
+    {
+     "w": "that",
+     "t": 3.212
+    },
+    {
+     "w": "treat",
+     "t": 3.354
+    },
+    {
+     "w": "creators",
+     "t": 3.613
+    },
+    {
+     "w": "transactionally",
+     "t": 4.073
+    },
+    {
+     "w": "influencers",
+     "t": 5.158
+    },
+    {
+     "w": "who",
+     "t": 5.759
+    },
+    {
+     "w": "fake",
+     "t": 5.842
+    },
+    {
+     "w": "their",
+     "t": 6.09
+    },
+    {
+     "w": "reach",
+     "t": 6.196
+    },
+    {
+     "w": "and",
+     "t": 6.774
+    },
+    {
+     "w": "agency",
+     "t": 7.033
+    },
+    {
+     "w": "cowboys",
+     "t": 7.422
+    },
+    {
+     "w": "His",
+     "t": 8.389
+    },
+    {
+     "w": "rule",
+     "t": 8.66
+    },
+    {
+     "w": "never",
+     "t": 9.356
+    },
+    {
+     "w": "trust",
+     "t": 9.722
+    },
+    {
+     "w": "a",
+     "t": 10.04
+    },
+    {
+     "w": "screen",
+     "t": 10.075
+    },
+    {
+     "w": "grab",
+     "t": 10.406
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "The big one: the brand is liable, not the influencer. A free product counts as paid advertising, so it must be disclosed. Infringement notices for a listed company reach a hundred and thirty three thousand dollars.",
+   "board": {
+    "title": "The **brand** is liable",
+    "big": "$133,200",
+    "caption": "max notice, **listed** company",
+    "cue": "hundred",
+    "at": 10.476
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present",
+     "expr": "stern"
+    },
+    {
+     "id": "m",
+     "look": "exec_f",
+     "v": 8,
+     "at": "desk",
+     "hold": "box",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "m",
+     "cue": "liable",
+     "expr": "shock",
+     "at": 2.021
+    },
+    {
+     "who": "m",
+     "cue": "disclosed",
+     "pose": "chin",
+     "expr": "nervous",
+     "at": 7.222
+    }
+   ],
+   "fx": [
+    {
+     "kind": "exclaim",
+     "who": "m",
+     "cue": "liable",
+     "at": 2.021
+    },
+    {
+     "kind": "say",
+     "who": "host",
+     "text": "#ad",
+     "cue": "disclosed",
+     "at": 7.222
+    },
+    {
+     "kind": "money",
+     "who": "host",
+     "cue": "hundred",
+     "at": 10.476
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "host",
+     "at": 0.2
+    },
+    {
+     "cue": "liable",
+     "shot": "actor",
+     "who": "m",
+     "at": 2.021
+    },
+    {
+     "cue": "Infringement",
+     "shot": "board",
+     "at": 8.212
+    }
+   ],
+   "audio": "audio/w10-10.mp3",
+   "leadIn": 0.45,
+   "seconds": 13.074,
+   "words": [
+    {
+     "w": "The",
+     "t": 0.5
+    },
+    {
+     "w": "big",
+     "t": 0.641
+    },
+    {
+     "w": "one",
+     "t": 0.854
+    },
+    {
+     "w": "the",
+     "t": 1.443
+    },
+    {
+     "w": "brand",
+     "t": 1.538
+    },
+    {
+     "w": "is",
+     "t": 1.891
+    },
+    {
+     "w": "liable",
+     "t": 2.021
+    },
+    {
+     "w": "not",
+     "t": 2.693
+    },
+    {
+     "w": "the",
+     "t": 2.976
+    },
+    {
+     "w": "influencer",
+     "t": 3.165
+    },
+    {
+     "w": "A",
+     "t": 4.097
+    },
+    {
+     "w": "free",
+     "t": 4.215
+    },
+    {
+     "w": "product",
+     "t": 4.486
+    },
+    {
+     "w": "counts",
+     "t": 4.84
+    },
+    {
+     "w": "as",
+     "t": 5.182
+    },
+    {
+     "w": "paid",
+     "t": 5.288
+    },
+    {
+     "w": "advertising",
+     "t": 5.571
+    },
+    {
+     "w": "so",
+     "t": 6.573
+    },
+    {
+     "w": "it",
+     "t": 6.797
+    },
+    {
+     "w": "must",
+     "t": 6.856
+    },
+    {
+     "w": "be",
+     "t": 7.116
+    },
+    {
+     "w": "disclosed",
+     "t": 7.222
+    },
+    {
+     "w": "Infringement",
+     "t": 8.212
+    },
+    {
+     "w": "notices",
+     "t": 8.778
+    },
+    {
+     "w": "for",
+     "t": 9.262
+    },
+    {
+     "w": "a",
+     "t": 9.38
+    },
+    {
+     "w": "listed",
+     "t": 9.427
+    },
+    {
+     "w": "company",
+     "t": 9.757
+    },
+    {
+     "w": "reach",
+     "t": 10.182
+    },
+    {
+     "w": "a",
+     "t": 10.429
+    },
+    {
+     "w": "hundred",
+     "t": 10.476
+    },
+    {
+     "w": "and",
+     "t": 10.795
+    },
+    {
+     "w": "thirty",
+     "t": 10.866
+    },
+    {
+     "w": "three",
+     "t": 11.137
+    },
+    {
+     "w": "thousand",
+     "t": 11.337
+    },
+    {
+     "w": "dollars",
+     "t": 11.691
+    }
+   ]
+  },
+  {
+   "set": "home",
+   "say": "Assets count too. Music, clips, even a reposted meme can breach copyright. Warner Music is suing Crumbl Cookies. Rights owners wait for many breaches, then sue big.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "tv",
+     "pose": "point"
+    },
+    {
+     "id": "k",
+     "look": "kid",
+     "v": 4,
+     "at": "sofa",
+     "mode": "sit",
+     "hold": "phone",
+     "pose": "hold"
+    },
+    {
+     "id": "e",
+     "look": "exec",
+     "v": 1,
+     "at": "door",
+     "to": "r",
+     "walkCue": "Rights",
+     "hold": "clipboard",
+     "pose": "hold",
+     "walkAt": 8.389
+    }
+   ],
+   "acts": [
+    {
+     "who": "k",
+     "cue": "meme",
+     "expr": "laugh",
+     "at": 4.262
+    },
+    {
+     "who": "k",
+     "cue": "sue",
+     "expr": "shock",
+     "at": 10.724
+    }
+   ],
+   "fx": [
+    {
+     "kind": "sparkle",
+     "who": "k",
+     "cue": "meme",
+     "at": 4.262
+    },
+    {
+     "kind": "money",
+     "who": "e",
+     "cue": "sue",
+     "at": 10.724
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "meme",
+     "shot": "actor",
+     "who": "k",
+     "at": 4.262
+    },
+    {
+     "cue": "Rights",
+     "shot": "actor",
+     "who": "e",
+     "at": 8.389
+    }
+   ],
+   "audio": "audio/w10-11.mp3",
+   "leadIn": 0.45,
+   "seconds": 12.354,
+   "words": [
+    {
+     "w": "Assets",
+     "t": 0.5
+    },
+    {
+     "w": "count",
+     "t": 0.948
+    },
+    {
+     "w": "too",
+     "t": 1.231
+    },
+    {
+     "w": "Music",
+     "t": 1.95
+    },
+    {
+     "w": "clips",
+     "t": 2.682
+    },
+    {
+     "w": "even",
+     "t": 3.413
+    },
+    {
+     "w": "a",
+     "t": 3.66
+    },
+    {
+     "w": "reposted",
+     "t": 3.708
+    },
+    {
+     "w": "meme",
+     "t": 4.262
+    },
+    {
+     "w": "can",
+     "t": 4.557
+    },
+    {
+     "w": "breach",
+     "t": 4.722
+    },
+    {
+     "w": "copyright",
+     "t": 5.005
+    },
+    {
+     "w": "Warner",
+     "t": 5.901
+    },
+    {
+     "w": "Music",
+     "t": 6.266
+    },
+    {
+     "w": "is",
+     "t": 6.703
+    },
+    {
+     "w": "suing",
+     "t": 6.833
+    },
+    {
+     "w": "Crumbl",
+     "t": 7.198
+    },
+    {
+     "w": "Cookies",
+     "t": 7.516
+    },
+    {
+     "w": "Rights",
+     "t": 8.389
+    },
+    {
+     "w": "owners",
+     "t": 8.79
+    },
+    {
+     "w": "wait",
+     "t": 9.038
+    },
+    {
+     "w": "for",
+     "t": 9.344
+    },
+    {
+     "w": "many",
+     "t": 9.462
+    },
+    {
+     "w": "breaches",
+     "t": 9.698
+    },
+    {
+     "w": "then",
+     "t": 10.488
+    },
+    {
+     "w": "sue",
+     "t": 10.724
+    },
+    {
+     "w": "big",
+     "t": 10.983
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "AIMCO's Code of Practice cuts legal risk and wasted spend, with clear rules for contracts and reporting. For consumers, it means choice, protection and trust.",
+   "board": {
+    "title": "AIMCO **Code of Practice**",
+    "lines": [
+     {
+      "text": "Less legal risk",
+      "cue": "legal",
+      "at": 2.328
+     },
+     {
+      "text": "Less **wasted** spend",
+      "cue": "wasted",
+      "at": 3.071
+     },
+     {
+      "text": "Clear contracts, reporting",
+      "cue": "contracts",
+      "at": 5.075
+     },
+     {
+      "text": "Choice, protection, **trust**",
+      "cue": "choice",
+      "at": 8.236
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "a",
+     "look": "exec",
+     "v": 4,
+     "at": "table",
+     "hold": "clipboard",
+     "pose": "hold"
+    },
+    {
+     "id": "b",
+     "look": "shopper",
+     "v": 9,
+     "at": "door"
+    }
+   ],
+   "acts": [
+    {
+     "who": "a",
+     "cue": "rules",
+     "expr": "smile",
+     "at": 4.686
+    },
+    {
+     "who": "b",
+     "cue": "trust",
+     "pose": "cheer",
+     "expr": "relief_open",
+     "at": 9.698
+    }
+   ],
+   "fx": [
+    {
+     "kind": "tick",
+     "who": "a",
+     "cue": "rules",
+     "at": 4.686
+    },
+    {
+     "kind": "heart",
+     "who": "b",
+     "cue": "trust",
+     "at": 9.698
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "consumers",
+     "shot": "actor",
+     "who": "b",
+     "at": 6.927
+    }
+   ],
+   "audio": "audio/w10-12.mp3",
+   "leadIn": 0.45,
+   "seconds": 11.106,
+   "words": [
+    {
+     "w": "AIMCO's",
+     "t": 0.5
+    },
+    {
+     "w": "Code",
+     "t": 1.349
+    },
+    {
+     "w": "of",
+     "t": 1.609
+    },
+    {
+     "w": "Practice",
+     "t": 1.691
+    },
+    {
+     "w": "cuts",
+     "t": 2.068
+    },
+    {
+     "w": "legal",
+     "t": 2.328
+    },
+    {
+     "w": "risk",
+     "t": 2.634
+    },
+    {
+     "w": "and",
+     "t": 2.906
+    },
+    {
+     "w": "wasted",
+     "t": 3.071
+    },
+    {
+     "w": "spend",
+     "t": 3.46
+    },
+    {
+     "w": "with",
+     "t": 4.238
+    },
+    {
+     "w": "clear",
+     "t": 4.415
+    },
+    {
+     "w": "rules",
+     "t": 4.686
+    },
+    {
+     "w": "for",
+     "t": 4.981
+    },
+    {
+     "w": "contracts",
+     "t": 5.075
+    },
+    {
+     "w": "and",
+     "t": 5.571
+    },
+    {
+     "w": "reporting",
+     "t": 5.724
+    },
+    {
+     "w": "For",
+     "t": 6.632
+    },
+    {
+     "w": "consumers",
+     "t": 6.927
+    },
+    {
+     "w": "it",
+     "t": 7.823
+    },
+    {
+     "w": "means",
+     "t": 7.965
+    },
+    {
+     "w": "choice",
+     "t": 8.236
+    },
+    {
+     "w": "protection",
+     "t": 8.861
+    },
+    {
+     "w": "and",
+     "t": 9.545
+    },
+    {
+     "w": "trust",
+     "t": 9.698
+    }
+   ]
+  },
+  {
+   "set": "plaza",
+   "say": "Brand safety is deeper than a few thumb scrolls. Check deleted posts, fit, swearing and politics. Kmart's celebrity pair looked good on paper, but audiences said, these two don't shop at Kmart.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "l",
+     "pose": "present"
+    },
+    {
+     "id": "c1",
+     "look": "exec_f",
+     "v": 1,
+     "at": "shop",
+     "pose": "hips",
+     "expr": "grin"
+    },
+    {
+     "id": "c2",
+     "look": "exec_f",
+     "v": 4,
+     "at": "shop2",
+     "pose": "hips",
+     "expr": "grin"
+    },
+    {
+     "id": "p",
+     "look": "shopper",
+     "v": 6,
+     "at": "r",
+     "hold": "bag",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "deleted",
+     "pose": "chin",
+     "at": 3.755
+    },
+    {
+     "who": "p",
+     "cue": "audiences",
+     "pose": "shrug",
+     "expr": "stern",
+     "at": 9.604
+    }
+   ],
+   "fx": [
+    {
+     "kind": "eye",
+     "who": "host",
+     "cue": "deleted",
+     "at": 3.755
+    },
+    {
+     "kind": "stars",
+     "who": "c1",
+     "cue": "celebrity",
+     "at": 7.54
+    },
+    {
+     "kind": "say",
+     "who": "p",
+     "text": "They don't shop here!",
+     "cue": "these",
+     "at": 10.677
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "host",
+     "at": 0.2
+    },
+    {
+     "cue": "Kmart",
+     "shot": "wide",
+     "at": 7.104
+    },
+    {
+     "cue": "these",
+     "shot": "actor",
+     "who": "p",
+     "at": 10.677
+    }
+   ],
+   "audio": "audio/w10-13.mp3",
+   "leadIn": 0.45,
+   "seconds": 13.146,
+   "words": [
+    {
+     "w": "Brand",
+     "t": 0.5
+    },
+    {
+     "w": "safety",
+     "t": 0.807
+    },
+    {
+     "w": "is",
+     "t": 1.302
+    },
+    {
+     "w": "deeper",
+     "t": 1.467
+    },
+    {
+     "w": "than",
+     "t": 1.833
+    },
+    {
+     "w": "a",
+     "t": 1.962
+    },
+    {
+     "w": "few",
+     "t": 2.009
+    },
+    {
+     "w": "thumb",
+     "t": 2.281
+    },
+    {
+     "w": "scrolls",
+     "t": 2.505
+    },
+    {
+     "w": "Check",
+     "t": 3.425
+    },
+    {
+     "w": "deleted",
+     "t": 3.755
+    },
+    {
+     "w": "posts",
+     "t": 4.132
+    },
+    {
+     "w": "fit",
+     "t": 4.863
+    },
+    {
+     "w": "swearing",
+     "t": 5.453
+    },
+    {
+     "w": "and",
+     "t": 6.019
+    },
+    {
+     "w": "politics",
+     "t": 6.16
+    },
+    {
+     "w": "Kmart's",
+     "t": 7.104
+    },
+    {
+     "w": "celebrity",
+     "t": 7.54
+    },
+    {
+     "w": "pair",
+     "t": 7.917
+    },
+    {
+     "w": "looked",
+     "t": 8.2
+    },
+    {
+     "w": "good",
+     "t": 8.472
+    },
+    {
+     "w": "on",
+     "t": 8.613
+    },
+    {
+     "w": "paper",
+     "t": 8.731
+    },
+    {
+     "w": "but",
+     "t": 9.439
+    },
+    {
+     "w": "audiences",
+     "t": 9.604
+    },
+    {
+     "w": "said",
+     "t": 10.099
+    },
+    {
+     "w": "these",
+     "t": 10.677
+    },
+    {
+     "w": "two",
+     "t": 10.913
+    },
+    {
+     "w": "don't",
+     "t": 11.125
+    },
+    {
+     "w": "shop",
+     "t": 11.314
+    },
+    {
+     "w": "at",
+     "t": 11.597
+    },
+    {
+     "w": "Kmart",
+     "t": 11.679
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Finally, measure growth, not just attention. Views and engagement explain attention. Growth comes from visibility, mental availability, share of voice, brand perception and behaviour change.",
+   "board": {
+    "title": "Measure **growth**",
+    "vs": {
+     "left": "Industry counts",
+     "right": "Drives growth",
+     "leftItems": [
+      "Views, likes",
+      "CPM, clicks"
+     ],
+     "rightItems": [
+      "Mental availability",
+      "**Behaviour** change"
+     ],
+     "cue": "Views",
+     "at": 3.814
+    }
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "point",
+     "mirror": true
+    },
+    {
+     "id": "a",
+     "look": "exec_f",
+     "v": 3,
+     "at": "desk",
+     "hold": "laptop",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "a",
+     "cue": "mental",
+     "pose": "up",
+     "expr": "grin",
+     "at": 7.953
+    }
+   ],
+   "fx": [
+    {
+     "kind": "eye",
+     "who": "a",
+     "cue": "Views",
+     "at": 3.814
+    },
+    {
+     "kind": "brain",
+     "who": "a",
+     "cue": "mental",
+     "at": 7.953
+    },
+    {
+     "kind": "chart",
+     "who": "host",
+     "cue": "behaviour",
+     "at": 11.349
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "close",
+     "at": 0.2
+    },
+    {
+     "cue": "Views",
+     "shot": "board",
+     "at": 3.814
+    },
+    {
+     "cue": "mental",
+     "shot": "actor",
+     "who": "a",
+     "at": 7.953
+    }
+   ],
+   "audio": "audio/w10-14.mp3",
+   "leadIn": 0.45,
+   "seconds": 13.17,
+   "words": [
+    {
+     "w": "Finally",
+     "t": 0.5
+    },
+    {
+     "w": "measure",
+     "t": 1.396
+    },
+    {
+     "w": "growth",
+     "t": 1.738
+    },
+    {
+     "w": "not",
+     "t": 2.446
+    },
+    {
+     "w": "just",
+     "t": 2.705
+    },
+    {
+     "w": "attention",
+     "t": 2.953
+    },
+    {
+     "w": "Views",
+     "t": 3.814
+    },
+    {
+     "w": "and",
+     "t": 4.274
+    },
+    {
+     "w": "engagement",
+     "t": 4.474
+    },
+    {
+     "w": "explain",
+     "t": 5.099
+    },
+    {
+     "w": "attention",
+     "t": 5.535
+    },
+    {
+     "w": "Growth",
+     "t": 6.408
+    },
+    {
+     "w": "comes",
+     "t": 6.75
+    },
+    {
+     "w": "from",
+     "t": 7.021
+    },
+    {
+     "w": "visibility",
+     "t": 7.163
+    },
+    {
+     "w": "mental",
+     "t": 7.953
+    },
+    {
+     "w": "availability",
+     "t": 8.318
+    },
+    {
+     "w": "share",
+     "t": 9.226
+    },
+    {
+     "w": "of",
+     "t": 9.557
+    },
+    {
+     "w": "voice",
+     "t": 9.627
+    },
+    {
+     "w": "brand",
+     "t": 10.323
+    },
+    {
+     "w": "perception",
+     "t": 10.559
+    },
+    {
+     "w": "and",
+     "t": 11.219
+    },
+    {
+     "w": "behaviour",
+     "t": 11.349
+    },
+    {
+     "w": "change",
+     "t": 11.75
+    }
+   ]
+  },
+  {
+   "set": "stage",
+   "say": "Want in? Account management is a good entry point, because it covers everything. And bring something extra, or you're lost in a sea of sameness.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "c",
+     "pose": "present"
+    },
+    {
+     "id": "s1",
+     "look": "student",
+     "v": 1,
+     "at": "l"
+    },
+    {
+     "id": "s2",
+     "look": "student",
+     "v": 6,
+     "at": "r"
+    },
+    {
+     "id": "s3",
+     "look": "student",
+     "v": 4,
+     "at": "walkR",
+     "to": "aisle",
+     "walkCue": "extra",
+     "hold": "laptop",
+     "pose": "hold",
+     "walkAt": 6.101
+    }
+   ],
+   "acts": [
+    {
+     "who": "s3",
+     "cue": "sameness",
+     "pose": "cheer",
+     "expr": "grin",
+     "at": 7.988
+    }
+   ],
+   "fx": [
+    {
+     "kind": "tick",
+     "who": "host",
+     "cue": "Account",
+     "at": 1.561
+    },
+    {
+     "kind": "stars",
+     "who": "s3",
+     "cue": "sameness",
+     "at": 7.988
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "extra",
+     "shot": "actor",
+     "who": "s3",
+     "at": 6.101
+    }
+   ],
+   "audio": "audio/w10-15.mp3",
+   "leadIn": 0.45,
+   "seconds": 9.498,
+   "words": [
+    {
+     "w": "Want",
+     "t": 0.5
+    },
+    {
+     "w": "in",
+     "t": 0.901
+    },
+    {
+     "w": "Account",
+     "t": 1.561
+    },
+    {
+     "w": "management",
+     "t": 1.95
+    },
+    {
+     "w": "is",
+     "t": 2.434
+    },
+    {
+     "w": "a",
+     "t": 2.552
+    },
+    {
+     "w": "good",
+     "t": 2.599
+    },
+    {
+     "w": "entry",
+     "t": 2.87
+    },
+    {
+     "w": "point",
+     "t": 3.094
+    },
+    {
+     "w": "because",
+     "t": 3.719
+    },
+    {
+     "w": "it",
+     "t": 3.979
+    },
+    {
+     "w": "covers",
+     "t": 4.061
+    },
+    {
+     "w": "everything",
+     "t": 4.45
+    },
+    {
+     "w": "And",
+     "t": 5.323
+    },
+    {
+     "w": "bring",
+     "t": 5.524
+    },
+    {
+     "w": "something",
+     "t": 5.771
+    },
+    {
+     "w": "extra",
+     "t": 6.101
+    },
+    {
+     "w": "or",
+     "t": 6.797
+    },
+    {
+     "w": "you're",
+     "t": 6.903
+    },
+    {
+     "w": "lost",
+     "t": 7.068
+    },
+    {
+     "w": "in",
+     "t": 7.469
+    },
+    {
+     "w": "a",
+     "t": 7.599
+    },
+    {
+     "w": "sea",
+     "t": 7.634
+    },
+    {
+     "w": "of",
+     "t": 7.917
+    },
+    {
+     "w": "sameness",
+     "t": 7.988
+    }
+   ]
+  },
+  {
+   "set": "stage",
+   "say": "So treat influencer as a specialist discipline. Know the brand carries the legal risk. And measure growth, not just attention. That's week ten.",
+   "board": {
+    "title": "Week 10 **takeaways**",
+    "lines": [
+     {
+      "text": "Creators are where **audiences** are",
+      "cue": "influencer",
+      "at": 1.113
+     },
+     {
+      "text": "A **specialist** discipline",
+      "cue": "specialist",
+      "at": 1.962
+     },
+     {
+      "text": "The brand carries the risk",
+      "cue": "brand",
+      "at": 3.743
+     },
+     {
+      "text": "Measure **growth**",
+      "cue": "growth",
+      "at": 6.314
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "s1",
+     "look": "student",
+     "v": 2,
+     "at": "aisle"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "week",
+     "pose": "cheer",
+     "expr": "grin",
+     "at": 8.743
+    }
+   ],
+   "fx": [
+    {
+     "kind": "bulb",
+     "who": "s1",
+     "cue": "growth",
+     "at": 6.314
+    },
+    {
+     "kind": "stars",
+     "who": "host",
+     "cue": "week",
+     "at": 8.743
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "week",
+     "shot": "close",
+     "at": 8.743
+    }
+   ],
+   "audio": "audio/w10-16.mp3",
+   "leadIn": 0.45,
+   "seconds": 10.314,
+   "words": [
+    {
+     "w": "So",
+     "t": 0.5
+    },
+    {
+     "w": "treat",
+     "t": 0.83
+    },
+    {
+     "w": "influencer",
+     "t": 1.113
+    },
+    {
+     "w": "as",
+     "t": 1.762
+    },
+    {
+     "w": "a",
+     "t": 1.915
+    },
+    {
+     "w": "specialist",
+     "t": 1.962
+    },
+    {
+     "w": "discipline",
+     "t": 2.493
+    },
+    {
+     "w": "Know",
+     "t": 3.342
+    },
+    {
+     "w": "the",
+     "t": 3.649
+    },
+    {
+     "w": "brand",
+     "t": 3.743
+    },
+    {
+     "w": "carries",
+     "t": 4.191
+    },
+    {
+     "w": "the",
+     "t": 4.627
+    },
+    {
+     "w": "legal",
+     "t": 4.71
+    },
+    {
+     "w": "risk",
+     "t": 5.075
+    },
+    {
+     "w": "And",
+     "t": 5.795
+    },
+    {
+     "w": "measure",
+     "t": 6.019
+    },
+    {
+     "w": "growth",
+     "t": 6.314
+    },
+    {
+     "w": "not",
+     "t": 7.009
+    },
+    {
+     "w": "just",
+     "t": 7.269
+    },
+    {
+     "w": "attention",
+     "t": 7.528
+    },
+    {
+     "w": "That's",
+     "t": 8.389
+    },
+    {
+     "w": "week",
+     "t": 8.743
+    },
+    {
+     "w": "ten",
+     "t": 8.967
+    }
+   ]
+  }
+ ],
+ "id": "w10",
+ "total": 189.67
+}

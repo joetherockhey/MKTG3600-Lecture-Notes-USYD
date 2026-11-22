@@ -1,0 +1,1304 @@
+{
+ "week": 9,
+ "title": "Creativity: the last remaining commercial superpower",
+ "speaker": "Brendan Willenberg",
+ "beats": [
+  {
+   "set": "stage",
+   "say": "Week nine. Creativity, the last remaining commercial superpower, with Brendan Willenberg, an executive creative director. As automation flattens everything, creativity is what sets a company apart.",
+   "board": {
+    "photo": "photos/w9.jpg",
+    "title": "Creativity: the last commercial **superpower**",
+    "name": "Brendan Willenberg",
+    "org": "Executive Creative Director"
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "s1",
+     "look": "student",
+     "v": 2,
+     "at": "aisle"
+    },
+    {
+     "id": "s2",
+     "look": "student",
+     "v": 5,
+     "at": "aisle2"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "creativity is",
+     "pose": "cheer",
+     "expr": "grin"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "sparkle",
+     "who": "host",
+     "cue": "creativity is"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "Brendan",
+     "shot": "board"
+    },
+    {
+     "cue": "automation",
+     "shot": "host"
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "His big claim: commercial creativity is cheating. Same inputs as everyone, but an unfair advantage. Good creative thinking is distinct, simple, unexpected and obvious, often by trimming things away.",
+   "board": {
+    "title": "Creativity of **thought**",
+    "steps": [
+     {
+      "text": "**Distinct**",
+      "cue": "distinct"
+     },
+     {
+      "text": "**Simple**",
+      "cue": "simple"
+     },
+     {
+      "text": "**Unexpected**",
+      "cue": "unexpected"
+     },
+     {
+      "text": "**Obvious**",
+      "cue": "obvious"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "point",
+     "mirror": true
+    },
+    {
+     "id": "a",
+     "look": "exec",
+     "v": 3,
+     "at": "table"
+    },
+    {
+     "id": "b",
+     "look": "exec_f",
+     "v": 2,
+     "at": "table2"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "cheating",
+     "pose": "hips",
+     "expr": "whistle"
+    },
+    {
+     "who": "a",
+     "cue": "unfair",
+     "pose": "chin",
+     "expr": "shock"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "exclaim",
+     "who": "a",
+     "cue": "cheating"
+    },
+    {
+     "kind": "think",
+     "who": "b",
+     "text": "Same inputs as us?",
+     "cue": "inputs"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "host"
+    },
+    {
+     "cue": "unfair",
+     "shot": "actor",
+     "who": "a"
+    },
+    {
+     "cue": "Good",
+     "shot": "board"
+    }
+   ]
+  },
+  {
+   "set": "street",
+   "say": "He learned from Edward de Bono's lateral thinking. Vertical thinking plays with the pieces you have. Lateral thinking changes the pieces, redefining the problem so a whole new solution is possible.",
+   "board": {
+    "title": "Lateral **thinking**",
+    "vs": {
+     "left": "Vertical",
+     "right": "Lateral",
+     "leftItems": [
+      "Point A to B",
+      "Play with the pieces"
+     ],
+     "rightItems": [
+      "Change the assumption",
+      "Change the **pieces**"
+     ],
+     "cue": "Vertical"
+    }
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "w",
+     "look": "worker",
+     "v": 5,
+     "at": "walkL",
+     "to": "l",
+     "hold": "box",
+     "pose": "hold",
+     "walkCue": "Vertical"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "changes",
+     "pose": "up",
+     "expr": "grin"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "brain",
+     "who": "host",
+     "cue": "lateral"
+    },
+    {
+     "kind": "bulb",
+     "who": "host",
+     "cue": "redefining"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "Vertical",
+     "shot": "board"
+    },
+    {
+     "cue": "redefining",
+     "shot": "close"
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Creativity is fancy problem solving, so first find the real problem. It's usually buried beneath what you're told. So go from the brief, past the expected response, to the real problem, and the solution.",
+   "board": {
+    "title": "Find the **real** problem",
+    "steps": [
+     {
+      "text": "**The brief**",
+      "cue": "brief"
+     },
+     {
+      "text": "**Expected** response",
+      "cue": "expected"
+     },
+     {
+      "text": "**Real** problem",
+      "cue": "real problem and"
+     },
+     {
+      "text": "**Solution**",
+      "cue": "solution"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "point",
+     "mirror": true
+    },
+    {
+     "id": "c",
+     "look": "exec",
+     "v": 6,
+     "at": "door",
+     "to": "table",
+     "hold": "clipboard",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "buried",
+     "pose": "chin",
+     "expr": "nervous"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "question",
+     "who": "host",
+     "cue": "buried"
+    },
+    {
+     "kind": "bulb",
+     "who": "host",
+     "cue": "solution"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "buried",
+     "shot": "close"
+    },
+    {
+     "cue": "brief",
+     "shot": "board"
+    }
+   ]
+  },
+  {
+   "set": "home",
+   "say": "Rexona wanted to own summer and sport on a small budget, but sponsorship is cluttered and expensive. If you can't buy media, earn it. Pitvertising had fans guessing where the Rexona was hiding.",
+   "board": {
+    "title": "**Pitvertising**",
+    "lines": [
+     {
+      "text": "Can't buy media? **Earn it**",
+      "cue": "earn"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "l",
+     "pose": "present"
+    },
+    {
+     "id": "f1",
+     "look": "worker",
+     "v": 6,
+     "at": "sofa",
+     "mode": "sit"
+    },
+    {
+     "id": "f2",
+     "look": "shopper",
+     "v": 3,
+     "at": "sofa2",
+     "mode": "sit"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "expensive",
+     "pose": "shrug",
+     "expr": "nervous"
+    },
+    {
+     "who": "f1",
+     "cue": "guessing",
+     "pose": "point",
+     "expr": "laugh"
+    },
+    {
+     "who": "f2",
+     "cue": "hiding",
+     "pose": "chin",
+     "expr": "grin"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "money",
+     "who": "host",
+     "cue": "budget"
+    },
+    {
+     "kind": "say",
+     "who": "f1",
+     "text": "There! Under the arm!",
+     "cue": "guessing"
+    },
+    {
+     "kind": "eye",
+     "who": "f2",
+     "cue": "hiding"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "earn",
+     "shot": "board"
+    },
+    {
+     "cue": "guessing",
+     "shot": "actor",
+     "who": "f1"
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "The lesson: creativity thrives on constraint. Blue sky thinking rarely works. If the problem is wide open, tighten it yourself.",
+   "board": {
+    "title": "Creativity thrives on **constraint**",
+    "lines": [
+     {
+      "text": "Blue sky rarely works",
+      "cue": "Blue"
+     },
+     {
+      "text": "**Impose** your own limits",
+      "cue": "tighten"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "a",
+     "look": "student",
+     "v": 3,
+     "at": "window",
+     "pose": "chin",
+     "expr": "dazed"
+    },
+    {
+     "id": "b",
+     "look": "exec_f",
+     "v": 5,
+     "at": "desk",
+     "hold": "laptop",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "b",
+     "cue": "tighten",
+     "pose": "cheer",
+     "expr": "grin"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "zzz",
+     "who": "a",
+     "cue": "Blue"
+    },
+    {
+     "kind": "bulb",
+     "who": "b",
+     "cue": "tighten"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "Blue",
+     "shot": "actor",
+     "who": "a"
+    },
+    {
+     "cue": "tighten",
+     "shot": "actor",
+     "who": "b"
+    }
+   ]
+  },
+  {
+   "set": "plaza",
+   "say": "Extra gum sales were falling, because at the checkout people are on their phones. So the Bad Breath Index suggested gum as strong food was scanned. A new idea in a familiar context.",
+   "board": {
+    "title": "The Bad Breath **Index**",
+    "lines": [
+     {
+      "text": "Gum + a **scanner**",
+      "cue": "scanned"
+     },
+     {
+      "text": "New idea, familiar place",
+      "cue": "familiar"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "c",
+     "pose": "present"
+    },
+    {
+     "id": "s",
+     "look": "shopper",
+     "v": 5,
+     "at": "shop",
+     "hold": "phone",
+     "pose": "hold"
+    },
+    {
+     "id": "t",
+     "look": "student",
+     "v": 4,
+     "at": "shop2",
+     "hold": "phone",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "s",
+     "cue": "scanned",
+     "pose": "none",
+     "expr": "shock"
+    },
+    {
+     "who": "s",
+     "cue": "familiar",
+     "pose": "cheer",
+     "expr": "grin"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "cross",
+     "who": "host",
+     "cue": "falling"
+    },
+    {
+     "kind": "zzz",
+     "who": "t",
+     "cue": "phones"
+    },
+    {
+     "kind": "exclaim",
+     "who": "s",
+     "cue": "scanned"
+    },
+    {
+     "kind": "think",
+     "who": "s",
+     "text": "Garlic bread... gum!",
+     "cue": "familiar"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "phones",
+     "shot": "actor",
+     "who": "t"
+    },
+    {
+     "cue": "Bad",
+     "shot": "board"
+    },
+    {
+     "cue": "familiar",
+     "shot": "close",
+     "who": "s"
+    }
+   ]
+  },
+  {
+   "set": "street",
+   "say": "Kia's hybrids had nothing different to say. So they said nothing in the most interesting way possible. Lean into the uncomfortable truth, with the solution in your pocket.",
+   "board": {
+    "title": "A new breed of **hybrid**",
+    "lines": [
+     {
+      "text": "Lean into the **uncomfortable** truth",
+      "cue": "Lean"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "kerb",
+     "pose": "point"
+    },
+    {
+     "id": "d",
+     "look": "exec",
+     "v": 4,
+     "at": "bus"
+    }
+   ],
+   "acts": [
+    {
+     "who": "d",
+     "cue": "nothing different",
+     "pose": "shrug",
+     "expr": "dazed"
+    },
+    {
+     "who": "host",
+     "cue": "pocket",
+     "pose": "hips",
+     "expr": "smile"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "question",
+     "who": "d",
+     "cue": "nothing different"
+    },
+    {
+     "kind": "sparkle",
+     "who": "host",
+     "cue": "interesting"
+    },
+    {
+     "kind": "tick",
+     "who": "host",
+     "cue": "pocket"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "said",
+     "shot": "board"
+    },
+    {
+     "cue": "pocket",
+     "shot": "close"
+    }
+   ]
+  },
+  {
+   "set": "plaza",
+   "say": "V Energy can't out Red Bull Red Bull. So instead of copying, it called bull on the whole category. Say one thing over and over, until it becomes your distinction.",
+   "board": {
+    "title": "Say **one thing**, over and over",
+    "lines": [
+     {
+      "text": "Don't copy the leader",
+      "cue": "copying"
+     },
+     {
+      "text": "Repeat until it's **yours**",
+      "cue": "over"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "c",
+     "pose": "present"
+    },
+    {
+     "id": "k",
+     "look": "student",
+     "v": 7,
+     "at": "shelf",
+     "hold": "box",
+     "pose": "hold",
+     "holdCol": "#2fae4f"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "called",
+     "pose": "point",
+     "expr": "stern"
+    },
+    {
+     "who": "k",
+     "cue": "distinction",
+     "pose": "cheer",
+     "expr": "grin"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "cross",
+     "who": "host",
+     "cue": "copying"
+    },
+    {
+     "kind": "burst",
+     "who": "host",
+     "cue": "called"
+    },
+    {
+     "kind": "stars",
+     "who": "k",
+     "cue": "distinction"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "called",
+     "shot": "close"
+    },
+    {
+     "cue": "Say",
+     "shot": "board"
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "There are three types of agency: media, creative and integrated. All of them overcomplicate things, partly to look smart. The real intelligence is untangling it back to a single line.",
+   "board": {
+    "title": "Three **agencies**",
+    "steps": [
+     {
+      "text": "**Media**",
+      "cue": "media"
+     },
+     {
+      "text": "**Creative**",
+      "cue": "creative"
+     },
+     {
+      "text": "**Integrated** does both",
+      "cue": "integrated"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "a",
+     "look": "exec",
+     "v": 7,
+     "at": "table",
+     "pose": "shrug"
+    },
+    {
+     "id": "b",
+     "look": "exec_f",
+     "v": 7,
+     "at": "table2"
+    }
+   ],
+   "acts": [
+    {
+     "who": "a",
+     "cue": "overcomplicate",
+     "pose": "shrug",
+     "expr": "dazed"
+    },
+    {
+     "who": "host",
+     "cue": "untangling",
+     "pose": "up",
+     "expr": "relief"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "question",
+     "who": "a",
+     "cue": "overcomplicate"
+    },
+    {
+     "kind": "say",
+     "who": "b",
+     "text": "Forty slides, minimum",
+     "cue": "smart"
+    },
+    {
+     "kind": "tick",
+     "who": "host",
+     "cue": "single"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "overcomplicate",
+     "shot": "wide"
+    },
+    {
+     "cue": "untangling",
+     "shot": "close"
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "The creative method runs from the brief, problem and strategy, through creative territories and the brand platform, to roll out, production and optimisation. It's stressful. You fret in the unknown.",
+   "board": {
+    "title": "The creative **method**",
+    "steps": [
+     {
+      "text": "**Brief** and problem",
+      "cue": "brief"
+     },
+     {
+      "text": "**Strategy**",
+      "cue": "strategy"
+     },
+     {
+      "text": "**Territories** and platform",
+      "cue": "territories"
+     },
+     {
+      "text": "**Roll-out** and production",
+      "cue": "roll"
+     },
+     {
+      "text": "**Optimise**",
+      "cue": "optimisation"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "point",
+     "mirror": true
+    },
+    {
+     "id": "ad",
+     "look": "student",
+     "v": 1,
+     "at": "desk",
+     "hold": "laptop",
+     "pose": "hold"
+    },
+    {
+     "id": "cw",
+     "look": "worker",
+     "v": 8,
+     "at": "desk2",
+     "pose": "chin"
+    }
+   ],
+   "acts": [
+    {
+     "who": "cw",
+     "cue": "fret",
+     "pose": "chin",
+     "expr": "pained"
+    },
+    {
+     "who": "ad",
+     "cue": "unknown",
+     "expr": "nervous"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "clock",
+     "who": "cw",
+     "cue": "stressful"
+    },
+    {
+     "kind": "question",
+     "who": "ad",
+     "cue": "unknown"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "stressful",
+     "shot": "wide"
+    },
+    {
+     "cue": "fret",
+     "shot": "actor",
+     "who": "cw"
+    }
+   ]
+  },
+  {
+   "set": "stage",
+   "say": "Creative people aren't special. They're just comfortable in the unknown. An idea is a new combination of existing things. Gum plus a scanner. A logo plus an armpit.",
+   "board": {
+    "title": "What an **idea** is",
+    "lines": [
+     {
+      "text": "A **new combination** of old things",
+      "cue": "combination"
+     },
+     {
+      "text": "Gum + a scanner",
+      "cue": "Gum"
+     },
+     {
+      "text": "A logo + an **armpit**",
+      "cue": "logo"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "s",
+     "look": "student",
+     "v": 6,
+     "at": "aisle"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "comfortable",
+     "pose": "shrug",
+     "expr": "smile"
+    },
+    {
+     "who": "s",
+     "cue": "armpit",
+     "pose": "cheer",
+     "expr": "laugh"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "bulb",
+     "who": "s",
+     "cue": "combination"
+    },
+    {
+     "kind": "sparkle",
+     "who": "host",
+     "cue": "armpit"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "host"
+    },
+    {
+     "cue": "idea",
+     "shot": "board"
+    },
+    {
+     "cue": "armpit",
+     "shot": "actor",
+     "who": "s"
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Gather insights and lots of what ifs. Be okay with bad ideas, and cross them out. When you run out of bad ideas, you take a leap.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "l",
+     "pose": "present"
+    },
+    {
+     "id": "w",
+     "look": "exec_f",
+     "v": 9,
+     "at": "board",
+     "hold": "clipboard",
+     "pose": "hold"
+    },
+    {
+     "id": "x",
+     "look": "student",
+     "v": 9,
+     "at": "table"
+    }
+   ],
+   "acts": [
+    {
+     "who": "x",
+     "cue": "cross",
+     "pose": "shrug",
+     "expr": "nervous"
+    },
+    {
+     "who": "w",
+     "cue": "leap",
+     "pose": "cheer",
+     "expr": "grin"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "think",
+     "who": "x",
+     "text": "What if...?",
+     "cue": "what"
+    },
+    {
+     "kind": "cross",
+     "who": "x",
+     "cue": "cross"
+    },
+    {
+     "kind": "bulb",
+     "who": "w",
+     "cue": "leap",
+     "size": 1.3
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "bad",
+     "shot": "actor",
+     "who": "x"
+    },
+    {
+     "cue": "leap",
+     "shot": "actor",
+     "who": "w"
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "So be a better client. Brief the problem, not what you want to say. Punters don't think like you do. Be simple, not just smart. It's not creative if it's not commercial.",
+   "board": {
+    "title": "Be a better **client**",
+    "lines": [
+     {
+      "text": "Brief the **problem**",
+      "cue": "Brief"
+     },
+     {
+      "text": "Punters think differently",
+      "cue": "Punters"
+     },
+     {
+      "text": "**Simple**, not just smart",
+      "cue": "simple"
+     },
+     {
+      "text": "Creative must be **commercial**",
+      "cue": "creative"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "point",
+     "mirror": true
+    },
+    {
+     "id": "c",
+     "look": "exec",
+     "v": 8,
+     "at": "table",
+     "hold": "clipboard",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "c",
+     "cue": "Punters",
+     "pose": "chin",
+     "expr": "nervous"
+    },
+    {
+     "who": "c",
+     "cue": "commercial",
+     "pose": "up",
+     "expr": "smile"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "think",
+     "who": "c",
+     "text": "Twelve key messages?",
+     "cue": "want"
+    },
+    {
+     "kind": "money",
+     "who": "host",
+     "cue": "commercial"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "Punters",
+     "shot": "actor",
+     "who": "c"
+    },
+    {
+     "cue": "simple",
+     "shot": "close"
+    }
+   ]
+  },
+  {
+   "set": "home",
+   "say": "And AI? It can speed run the process. No ego, never tired. But alone it gives similar, cheap ideas. Use it as your antagonist, not your assistant.",
+   "board": {
+    "title": "AI as **antagonist**",
+    "vs": {
+     "left": "Brilliant at",
+     "right": "Falls short",
+     "leftItems": [
+      "Speed-running",
+      "No ego, never tired"
+     ],
+     "rightItems": [
+      "Similar ideas",
+      "**Cheap** ideas"
+     ],
+     "cue": "speed"
+    }
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "l",
+     "pose": "present"
+    },
+    {
+     "id": "u",
+     "look": "student",
+     "v": 8,
+     "at": "sofa",
+     "mode": "sit",
+     "hold": "laptop",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "u",
+     "cue": "similar",
+     "expr": "dazed"
+    },
+    {
+     "who": "host",
+     "cue": "antagonist",
+     "pose": "point",
+     "expr": "grin"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "clock",
+     "who": "u",
+     "cue": "speed"
+    },
+    {
+     "kind": "zzz",
+     "who": "u",
+     "cue": "cheap"
+    },
+    {
+     "kind": "burst",
+     "who": "host",
+     "cue": "antagonist"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "speed",
+     "shot": "board"
+    },
+    {
+     "cue": "antagonist",
+     "shot": "close"
+    }
+   ]
+  },
+  {
+   "set": "stage",
+   "say": "Getting in? Bring an open heart and a curious mind. Find the real problem, embrace constraint, and say one thing well. Creativity is still the superpower. That's week nine.",
+   "board": {
+    "title": "Week 9 **takeaways**",
+    "lines": [
+     {
+      "text": "Find the **real** problem",
+      "cue": "real"
+     },
+     {
+      "text": "Constraint feeds creativity",
+      "cue": "constraint"
+     },
+     {
+      "text": "Say **one thing** well",
+      "cue": "one"
+     },
+     {
+      "text": "Creativity is the **superpower**",
+      "cue": "superpower"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "s1",
+     "look": "student",
+     "v": 3,
+     "at": "aisle"
+    },
+    {
+     "id": "s2",
+     "look": "student",
+     "v": 8,
+     "at": "aisle2"
+    }
+   ],
+   "acts": [
+    {
+     "who": "s1",
+     "cue": "heart",
+     "pose": "cheer",
+     "expr": "grin"
+    },
+    {
+     "who": "host",
+     "cue": "week",
+     "pose": "cheer",
+     "expr": "grin"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "heart",
+     "who": "s1",
+     "cue": "heart"
+    },
+    {
+     "kind": "question",
+     "who": "s2",
+     "cue": "curious"
+    },
+    {
+     "kind": "stars",
+     "who": "host",
+     "cue": "week"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "Find",
+     "shot": "board"
+    },
+    {
+     "cue": "week",
+     "shot": "close"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,292 @@
+{
+ "week": 0,
+ "title": "Current demand vs future demand (15/85)",
+ "speaker": "Brent Smart, B.Smart (formerly Telstra and IAG), Week 4",
+ "beats": [
+  {
+   "set": "stage",
+   "say": "Current versus future demand. Only about fifteen percent of buyers are in market right now. The other eighty-five percent are future buyers.",
+   "board": {
+    "title": "Current vs **future** demand",
+    "vs": {
+     "left": "~15% in market",
+     "right": "~85% not yet",
+     "leftItems": [
+      "Activation",
+      "Converts now"
+     ],
+     "rightItems": [
+      "Brand building",
+      "Memories for later"
+     ],
+     "cue": "fifteen"
+    }
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "a",
+     "look": "student",
+     "at": "front",
+     "v": 4
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "eighty",
+     "pose": "point"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "clock",
+     "who": "a",
+     "cue": "future buyers"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "eighty",
+     "shot": "close"
+    }
+   ]
+  },
+  {
+   "set": "stage",
+   "say": "Don't just talk to the four hands that are up right now. That student buying a phone in three years is worth reaching today.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "lectern"
+    },
+    {
+     "id": "a",
+     "look": "student",
+     "at": "l",
+     "v": 1
+    },
+    {
+     "id": "b",
+     "look": "student",
+     "at": "front",
+     "v": 2
+    },
+    {
+     "id": "c",
+     "look": "student",
+     "at": "r",
+     "v": 5,
+     "hold": "phone",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "a",
+     "cue": "hands",
+     "pose": "up",
+     "expr": "grin"
+    },
+    {
+     "who": "b",
+     "cue": "up",
+     "pose": "up",
+     "expr": "smile"
+    },
+    {
+     "who": "host",
+     "cue": "student",
+     "pose": "point"
+    },
+    {
+     "who": "c",
+     "cue": "today",
+     "expr": "smile"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "exclaim",
+     "who": "a",
+     "cue": "hands"
+    },
+    {
+     "kind": "think",
+     "who": "c",
+     "cue": "phone",
+     "text": "Maybe in three years..."
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "student",
+     "shot": "actor",
+     "who": "c"
+    },
+    {
+     "cue": "today",
+     "shot": "close"
+    }
+   ]
+  },
+  {
+   "set": "home",
+   "say": "So Telstra swapped dry, rational offers for emotional brand building, so people would remember it when their contract ran out.",
+   "board": {
+    "title": "Memories for **later**",
+    "lines": [
+     {
+      "text": "**Emotional** brand building",
+      "cue": "emotional"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "l"
+    },
+    {
+     "id": "a",
+     "look": "shopper",
+     "at": "sofa",
+     "v": 2,
+     "mode": "sit"
+    },
+    {
+     "id": "b",
+     "look": "elder",
+     "at": "sofa2",
+     "v": 3,
+     "mode": "sit",
+     "hold": "phone",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "a",
+     "cue": "dry",
+     "expr": "dazed"
+    },
+    {
+     "who": "a",
+     "cue": "emotional",
+     "expr": "smile"
+    },
+    {
+     "who": "b",
+     "cue": "contract",
+     "expr": "grin"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "zzz",
+     "who": "a",
+     "cue": "dry"
+    },
+    {
+     "kind": "heart",
+     "who": "a",
+     "cue": "emotional"
+    },
+    {
+     "kind": "brain",
+     "who": "b",
+     "cue": "remember"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "emotional",
+     "shot": "board"
+    },
+    {
+     "cue": "remember",
+     "shot": "actor",
+     "who": "b"
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Use it like this: split your plan into converting today's buyers and building memories for tomorrow's.",
+   "board": {
+    "title": "Use it like **this**",
+    "lines": [
+     {
+      "text": "**Convert** the 15%",
+      "cue": "converting"
+     },
+     {
+      "text": "**Build** memory in the 85%",
+      "cue": "building"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "e1",
+     "look": "exec_f",
+     "at": "table",
+     "v": 5,
+     "hold": "clipboard",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "e1",
+     "cue": "tomorrow",
+     "expr": "smile"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "tick",
+     "who": "e1",
+     "cue": "tomorrow"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "tomorrow",
+     "shot": "two",
+     "who": "e1"
+    }
+   ],
+   "hold": 1.0
+  }
+ ]
+}

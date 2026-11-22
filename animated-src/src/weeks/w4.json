@@ -1,0 +1,3556 @@
+{
+ "week": 4,
+ "title": "Managing brands with creativity and humanity",
+ "speaker": "Brent Smart",
+ "beats": [
+  {
+   "set": "stage",
+   "say": "Week four, with Brent Smart, former CMO of Telstra and IAG. Marketing is a battle for memory, and the biggest risk is taking no risk.",
+   "board": {
+    "photo": "photos/w4.jpg",
+    "title": "Managing brands with **creativity and humanity**",
+    "name": "Brent Smart",
+    "org": "Founder, B.Smart; formerly CMO of Telstra and IAG"
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "a",
+     "look": "student",
+     "v": 3,
+     "at": "front"
+    },
+    {
+     "id": "b",
+     "look": "student",
+     "v": 6,
+     "at": "r"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "memory",
+     "pose": "up",
+     "expr": "grin",
+     "at": 6.443
+    },
+    {
+     "who": "a",
+     "cue": "risk",
+     "pose": "chin",
+     "at": 7.776
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "Brent",
+     "shot": "board",
+     "at": 1.561
+    },
+    {
+     "cue": "biggest",
+     "shot": "close",
+     "at": 7.41
+    }
+   ],
+   "audio": "audio/w4-00.mp3",
+   "leadIn": 0.45,
+   "seconds": 10.05,
+   "words": [
+    {
+     "w": "Week",
+     "t": 0.5
+    },
+    {
+     "w": "four",
+     "t": 0.818
+    },
+    {
+     "w": "with",
+     "t": 1.384
+    },
+    {
+     "w": "Brent",
+     "t": 1.561
+    },
+    {
+     "w": "Smart",
+     "t": 1.797
+    },
+    {
+     "w": "former",
+     "t": 2.505
+    },
+    {
+     "w": "CMO",
+     "t": 2.87
+    },
+    {
+     "w": "of",
+     "t": 3.401
+    },
+    {
+     "w": "Telstra",
+     "t": 3.495
+    },
+    {
+     "w": "and",
+     "t": 3.967
+    },
+    {
+     "w": "IAG",
+     "t": 4.226
+    },
+    {
+     "w": "Marketing",
+     "t": 5.252
+    },
+    {
+     "w": "is",
+     "t": 5.842
+    },
+    {
+     "w": "a",
+     "t": 5.948
+    },
+    {
+     "w": "battle",
+     "t": 5.995
+    },
+    {
+     "w": "for",
+     "t": 6.349
+    },
+    {
+     "w": "memory",
+     "t": 6.443
+    },
+    {
+     "w": "and",
+     "t": 7.21
+    },
+    {
+     "w": "the",
+     "t": 7.34
+    },
+    {
+     "w": "biggest",
+     "t": 7.41
+    },
+    {
+     "w": "risk",
+     "t": 7.776
+    },
+    {
+     "w": "is",
+     "t": 8.035
+    },
+    {
+     "w": "taking",
+     "t": 8.189
+    },
+    {
+     "w": "no",
+     "t": 8.531
+    },
+    {
+     "w": "risk",
+     "t": 8.708
+    }
+   ]
+  },
+  {
+   "set": "home",
+   "say": "You're competing with how people spend their time. And categories look identical: bottled water is always an alpine stream.",
+   "board": {
+    "title": "Pure. **Alpine.** Clear.",
+    "lines": [
+     {
+      "text": "Every water ad, **ever**",
+      "cue": "bottled",
+      "at": 5.111
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "l"
+    },
+    {
+     "id": "a",
+     "look": "student",
+     "v": 1,
+     "at": "sofa",
+     "mode": "sit",
+     "hold": "phone",
+     "pose": "hold"
+    },
+    {
+     "id": "b",
+     "look": "elder",
+     "v": 2,
+     "at": "sofa2",
+     "mode": "sit"
+    }
+   ],
+   "acts": [
+    {
+     "who": "a",
+     "cue": "time",
+     "expr": "grin",
+     "at": 2.493
+    },
+    {
+     "who": "b",
+     "cue": "identical",
+     "expr": "dazed",
+     "at": 4.203
+    },
+    {
+     "who": "host",
+     "cue": "alpine",
+     "pose": "shrug",
+     "expr": "nervous",
+     "at": 6.502
+    }
+   ],
+   "fx": [
+    {
+     "kind": "clock",
+     "who": "a",
+     "cue": "time",
+     "at": 2.493
+    },
+    {
+     "kind": "zzz",
+     "who": "b",
+     "cue": "bottled",
+     "at": 5.111
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "time",
+     "shot": "actor",
+     "who": "a",
+     "at": 2.493
+    },
+    {
+     "cue": "bottled",
+     "shot": "board",
+     "at": 5.111
+    }
+   ],
+   "audio": "audio/w4-01.mp3",
+   "leadIn": 0.45,
+   "seconds": 8.37,
+   "words": [
+    {
+     "w": "You're",
+     "t": 0.5
+    },
+    {
+     "w": "competing",
+     "t": 0.783
+    },
+    {
+     "w": "with",
+     "t": 1.349
+    },
+    {
+     "w": "how",
+     "t": 1.479
+    },
+    {
+     "w": "people",
+     "t": 1.715
+    },
+    {
+     "w": "spend",
+     "t": 2.057
+    },
+    {
+     "w": "their",
+     "t": 2.387
+    },
+    {
+     "w": "time",
+     "t": 2.493
+    },
+    {
+     "w": "And",
+     "t": 3.283
+    },
+    {
+     "w": "categories",
+     "t": 3.484
+    },
+    {
+     "w": "look",
+     "t": 4.038
+    },
+    {
+     "w": "identical",
+     "t": 4.203
+    },
+    {
+     "w": "bottled",
+     "t": 5.111
+    },
+    {
+     "w": "water",
+     "t": 5.406
+    },
+    {
+     "w": "is",
+     "t": 5.783
+    },
+    {
+     "w": "always",
+     "t": 5.936
+    },
+    {
+     "w": "an",
+     "t": 6.408
+    },
+    {
+     "w": "alpine",
+     "t": 6.502
+    },
+    {
+     "w": "stream",
+     "t": 6.962
+    }
+   ]
+  },
+  {
+   "set": "plaza",
+   "say": "Liquid Death broke every code and became the fastest-growing water brand in the world. Great ideas often sound stupid at first. That's the signal.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "c"
+    },
+    {
+     "id": "s1",
+     "look": "student",
+     "v": 4,
+     "at": "walkR",
+     "to": "shelf",
+     "hold": "box",
+     "pose": "hold",
+     "holdCol": "#222222"
+    },
+    {
+     "id": "s2",
+     "look": "exec",
+     "v": 1,
+     "at": "l"
+    }
+   ],
+   "acts": [
+    {
+     "who": "s1",
+     "cue": "fastest",
+     "pose": "cheer",
+     "expr": "grin",
+     "at": 2.741
+    },
+    {
+     "who": "s2",
+     "cue": "stupid",
+     "pose": "shrug",
+     "expr": "stern",
+     "at": 6.337
+    },
+    {
+     "who": "host",
+     "cue": "signal",
+     "pose": "up",
+     "expr": "grin",
+     "at": 8.165
+    }
+   ],
+   "fx": [
+    {
+     "kind": "stars",
+     "who": "s1",
+     "cue": "fastest",
+     "at": 2.741
+    },
+    {
+     "kind": "say",
+     "who": "s2",
+     "text": "Sounds stupid.",
+     "cue": "stupid",
+     "at": 6.337
+    },
+    {
+     "kind": "bulb",
+     "who": "host",
+     "cue": "signal",
+     "at": 8.165
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "fastest",
+     "shot": "actor",
+     "who": "s1",
+     "at": 2.741
+    },
+    {
+     "cue": "stupid",
+     "shot": "actor",
+     "who": "s2",
+     "at": 6.337
+    },
+    {
+     "cue": "signal",
+     "shot": "close",
+     "at": 8.165
+    }
+   ],
+   "audio": "audio/w4-02.mp3",
+   "leadIn": 0.45,
+   "seconds": 9.642,
+   "words": [
+    {
+     "w": "Liquid",
+     "t": 0.5
+    },
+    {
+     "w": "Death",
+     "t": 0.96
+    },
+    {
+     "w": "broke",
+     "t": 1.255
+    },
+    {
+     "w": "every",
+     "t": 1.561
+    },
+    {
+     "w": "code",
+     "t": 1.797
+    },
+    {
+     "w": "and",
+     "t": 2.175
+    },
+    {
+     "w": "became",
+     "t": 2.34
+    },
+    {
+     "w": "the",
+     "t": 2.67
+    },
+    {
+     "w": "fastest-growing",
+     "t": 2.741
+    },
+    {
+     "w": "water",
+     "t": 3.507
+    },
+    {
+     "w": "brand",
+     "t": 3.743
+    },
+    {
+     "w": "in",
+     "t": 4.026
+    },
+    {
+     "w": "the",
+     "t": 4.097
+    },
+    {
+     "w": "world",
+     "t": 4.144
+    },
+    {
+     "w": "Great",
+     "t": 4.922
+    },
+    {
+     "w": "ideas",
+     "t": 5.205
+    },
+    {
+     "w": "often",
+     "t": 5.736
+    },
+    {
+     "w": "sound",
+     "t": 6.042
+    },
+    {
+     "w": "stupid",
+     "t": 6.337
+    },
+    {
+     "w": "at",
+     "t": 6.726
+    },
+    {
+     "w": "first",
+     "t": 6.821
+    },
+    {
+     "w": "That's",
+     "t": 7.646
+    },
+    {
+     "w": "the",
+     "t": 8.071
+    },
+    {
+     "w": "signal",
+     "t": 8.165
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Creative work returns two and a half times the revenue growth and four times the profit of the average ad. Dull costs twenty and a half million extra.",
+   "board": {
+    "title": "Creative vs **average** ad",
+    "bars": [
+     {
+      "label": "Revenue growth",
+      "value": 2.5,
+      "display": "2.5x",
+      "cue": "revenue",
+      "at": 2.705
+     },
+     {
+      "label": "Profit",
+      "value": 4,
+      "display": "4x",
+      "cue": "profit",
+      "at": 4.179
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "point"
+    },
+    {
+     "id": "e1",
+     "look": "exec_f",
+     "v": 2,
+     "at": "table",
+     "hold": "laptop",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "e1",
+     "cue": "profit",
+     "pose": "cheer",
+     "expr": "grin",
+     "at": 4.179
+    },
+    {
+     "who": "e1",
+     "cue": "dull",
+     "pose": "none",
+     "expr": "shock",
+     "at": 5.771
+    }
+   ],
+   "fx": [
+    {
+     "kind": "chart",
+     "who": "e1",
+     "cue": "revenue",
+     "at": 2.705
+    },
+    {
+     "kind": "money",
+     "who": "e1",
+     "cue": "dull",
+     "at": 5.771
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "profit",
+     "shot": "two",
+     "who": "e1",
+     "at": 4.179
+    },
+    {
+     "cue": "dull",
+     "shot": "close",
+     "who": "e1",
+     "at": 5.771
+    }
+   ],
+   "audio": "audio/w4-03.mp3",
+   "leadIn": 0.45,
+   "seconds": 8.946,
+   "words": [
+    {
+     "w": "Creative",
+     "t": 0.5
+    },
+    {
+     "w": "work",
+     "t": 1.007
+    },
+    {
+     "w": "returns",
+     "t": 1.314
+    },
+    {
+     "w": "two",
+     "t": 1.726
+    },
+    {
+     "w": "and",
+     "t": 1.962
+    },
+    {
+     "w": "a",
+     "t": 2.009
+    },
+    {
+     "w": "half",
+     "t": 2.057
+    },
+    {
+     "w": "times",
+     "t": 2.281
+    },
+    {
+     "w": "the",
+     "t": 2.623
+    },
+    {
+     "w": "revenue",
+     "t": 2.705
+    },
+    {
+     "w": "growth",
+     "t": 3.035
+    },
+    {
+     "w": "and",
+     "t": 3.342
+    },
+    {
+     "w": "four",
+     "t": 3.519
+    },
+    {
+     "w": "times",
+     "t": 3.743
+    },
+    {
+     "w": "the",
+     "t": 4.097
+    },
+    {
+     "w": "profit",
+     "t": 4.179
+    },
+    {
+     "w": "of",
+     "t": 4.557
+    },
+    {
+     "w": "the",
+     "t": 4.686
+    },
+    {
+     "w": "average",
+     "t": 4.804
+    },
+    {
+     "w": "ad",
+     "t": 5.075
+    },
+    {
+     "w": "Dull",
+     "t": 5.771
+    },
+    {
+     "w": "costs",
+     "t": 6.054
+    },
+    {
+     "w": "twenty",
+     "t": 6.502
+    },
+    {
+     "w": "and",
+     "t": 6.833
+    },
+    {
+     "w": "a",
+     "t": 6.915
+    },
+    {
+     "w": "half",
+     "t": 6.974
+    },
+    {
+     "w": "million",
+     "t": 7.269
+    },
+    {
+     "w": "extra",
+     "t": 7.564
+    }
+   ]
+  },
+  {
+   "set": "street",
+   "say": "He's proved it three times. Yellow Pages' treehouse used zero paid media. Cheerios rode out a backlash. NRMA's koalas went from thirty-sixth to fifth.",
+   "board": {
+    "title": "Three **proofs**",
+    "lines": [
+     {
+      "text": "**Yellow Pages**: $0 paid, 3 Cannes Lions",
+      "cue": "Yellow",
+      "at": 2.363
+     },
+     {
+      "text": "**Cheerios**: growth after 13 quarters",
+      "cue": "Cheerios",
+      "at": 5.417
+     },
+     {
+      "text": "**NRMA koalas**: 36th to 5th",
+      "cue": "koalas",
+      "at": 8.094
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "front"
+    },
+    {
+     "id": "p1",
+     "look": "shopper",
+     "v": 1,
+     "at": "l"
+    },
+    {
+     "id": "p2",
+     "look": "kid",
+     "v": 2,
+     "at": "r"
+    }
+   ],
+   "acts": [
+    {
+     "who": "p1",
+     "cue": "backlash",
+     "expr": "shock",
+     "at": 6.561
+    },
+    {
+     "who": "p2",
+     "cue": "koalas",
+     "pose": "cheer",
+     "expr": "laugh",
+     "at": 8.094
+    },
+    {
+     "who": "host",
+     "cue": "fifth",
+     "pose": "up",
+     "expr": "grin",
+     "at": 9.675
+    }
+   ],
+   "fx": [
+    {
+     "kind": "burst",
+     "who": "p1",
+     "cue": "backlash",
+     "at": 6.561
+    },
+    {
+     "kind": "heart",
+     "who": "p2",
+     "cue": "koalas",
+     "at": 8.094
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "Cheerios",
+     "shot": "wide",
+     "at": 5.417
+    },
+    {
+     "cue": "koalas",
+     "shot": "board",
+     "at": 8.094
+    }
+   ],
+   "audio": "audio/w4-04.mp3",
+   "leadIn": 0.45,
+   "seconds": 11.034,
+   "words": [
+    {
+     "w": "He's",
+     "t": 0.5
+    },
+    {
+     "w": "proved",
+     "t": 0.748
+    },
+    {
+     "w": "it",
+     "t": 1.113
+    },
+    {
+     "w": "three",
+     "t": 1.231
+    },
+    {
+     "w": "times",
+     "t": 1.479
+    },
+    {
+     "w": "Yellow",
+     "t": 2.363
+    },
+    {
+     "w": "Pages'",
+     "t": 2.764
+    },
+    {
+     "w": "treehouse",
+     "t": 3.189
+    },
+    {
+     "w": "used",
+     "t": 3.696
+    },
+    {
+     "w": "zero",
+     "t": 4.002
+    },
+    {
+     "w": "paid",
+     "t": 4.356
+    },
+    {
+     "w": "media",
+     "t": 4.627
+    },
+    {
+     "w": "Cheerios",
+     "t": 5.417
+    },
+    {
+     "w": "rode",
+     "t": 6.125
+    },
+    {
+     "w": "out",
+     "t": 6.384
+    },
+    {
+     "w": "a",
+     "t": 6.526
+    },
+    {
+     "w": "backlash",
+     "t": 6.561
+    },
+    {
+     "w": "NRMA's",
+     "t": 7.505
+    },
+    {
+     "w": "koalas",
+     "t": 8.094
+    },
+    {
+     "w": "went",
+     "t": 8.601
+    },
+    {
+     "w": "from",
+     "t": 8.802
+    },
+    {
+     "w": "thirty-sixth",
+     "t": 8.991
+    },
+    {
+     "w": "to",
+     "t": 9.604
+    },
+    {
+     "w": "fifth",
+     "t": 9.675
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "If it's not bold, it's dumb. Bad ideas are safe and comfortable. Good ones feel uncomfortable, and with no data, conviction does the work.",
+   "board": {
+    "title": "If it's not bold, **it's dumb**",
+    "vs": {
+     "left": "Bad idea",
+     "right": "Good idea",
+     "leftItems": [
+      "Safe",
+      "Boring",
+      "Comfortable"
+     ],
+     "rightItems": [
+      "Uncomfortable",
+      "Unpredictable",
+      "Different"
+     ],
+     "cue": "bad",
+     "at": 2.587
+    }
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "e1",
+     "look": "exec",
+     "v": 3,
+     "at": "table",
+     "pose": "hips"
+    }
+   ],
+   "acts": [
+    {
+     "who": "e1",
+     "cue": "uncomfortable",
+     "pose": "none",
+     "expr": "nervous",
+     "at": 5.63
+    },
+    {
+     "who": "host",
+     "cue": "conviction",
+     "pose": "cheer",
+     "expr": "grin",
+     "at": 7.611
+    }
+   ],
+   "fx": [
+    {
+     "kind": "exclaim",
+     "who": "e1",
+     "cue": "uncomfortable",
+     "at": 5.63
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "close",
+     "at": 0.2
+    },
+    {
+     "cue": "bad",
+     "shot": "board",
+     "at": 2.587
+    },
+    {
+     "cue": "conviction",
+     "shot": "two",
+     "who": "e1",
+     "at": 7.611
+    }
+   ],
+   "audio": "audio/w4-05.mp3",
+   "leadIn": 0.45,
+   "seconds": 9.714,
+   "words": [
+    {
+     "w": "If",
+     "t": 0.5
+    },
+    {
+     "w": "it's",
+     "t": 0.665
+    },
+    {
+     "w": "not",
+     "t": 0.818
+    },
+    {
+     "w": "bold",
+     "t": 1.042
+    },
+    {
+     "w": "it's",
+     "t": 1.656
+    },
+    {
+     "w": "dumb",
+     "t": 1.856
+    },
+    {
+     "w": "Bad",
+     "t": 2.587
+    },
+    {
+     "w": "ideas",
+     "t": 2.835
+    },
+    {
+     "w": "are",
+     "t": 3.342
+    },
+    {
+     "w": "safe",
+     "t": 3.46
+    },
+    {
+     "w": "and",
+     "t": 3.861
+    },
+    {
+     "w": "comfortable",
+     "t": 4.014
+    },
+    {
+     "w": "Good",
+     "t": 4.887
+    },
+    {
+     "w": "ones",
+     "t": 5.099
+    },
+    {
+     "w": "feel",
+     "t": 5.37
+    },
+    {
+     "w": "uncomfortable",
+     "t": 5.63
+    },
+    {
+     "w": "and",
+     "t": 6.514
+    },
+    {
+     "w": "with",
+     "t": 6.667
+    },
+    {
+     "w": "no",
+     "t": 6.809
+    },
+    {
+     "w": "data",
+     "t": 6.998
+    },
+    {
+     "w": "conviction",
+     "t": 7.611
+    },
+    {
+     "w": "does",
+     "t": 8.165
+    },
+    {
+     "w": "the",
+     "t": 8.33
+    },
+    {
+     "w": "work",
+     "t": 8.401
+    }
+   ]
+  },
+  {
+   "set": "home",
+   "say": "Telstra's reputation sat barely above the tax office. Asked to draw the brand, people drew a suit, the Monopoly man, a bully.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "r"
+    },
+    {
+     "id": "a",
+     "look": "shopper",
+     "v": 3,
+     "at": "sofa",
+     "mode": "sit",
+     "hold": "clipboard",
+     "pose": "hold"
+    },
+    {
+     "id": "b",
+     "look": "worker",
+     "v": 1,
+     "at": "l",
+     "hold": "clipboard",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "barely",
+     "pose": "shrug",
+     "expr": "pained",
+     "at": 1.891
+    },
+    {
+     "who": "a",
+     "cue": "bully",
+     "expr": "stern",
+     "at": 7.422
+    }
+   ],
+   "fx": [
+    {
+     "kind": "say",
+     "who": "b",
+     "text": "The Monopoly man.",
+     "cue": "Monopoly",
+     "at": 6.408
+    },
+    {
+     "kind": "say",
+     "who": "a",
+     "text": "A bully.",
+     "cue": "bully",
+     "at": 7.422
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "draw",
+     "shot": "actor",
+     "who": "b",
+     "at": 4.097
+    },
+    {
+     "cue": "bully",
+     "shot": "close",
+     "who": "a",
+     "at": 7.422
+    }
+   ],
+   "audio": "audio/w4-06.mp3",
+   "leadIn": 0.45,
+   "seconds": 8.826,
+   "words": [
+    {
+     "w": "Telstra's",
+     "t": 0.5
+    },
+    {
+     "w": "reputation",
+     "t": 0.995
+    },
+    {
+     "w": "sat",
+     "t": 1.644
+    },
+    {
+     "w": "barely",
+     "t": 1.891
+    },
+    {
+     "w": "above",
+     "t": 2.292
+    },
+    {
+     "w": "the",
+     "t": 2.552
+    },
+    {
+     "w": "tax",
+     "t": 2.646
+    },
+    {
+     "w": "office",
+     "t": 2.917
+    },
+    {
+     "w": "Asked",
+     "t": 3.66
+    },
+    {
+     "w": "to",
+     "t": 4.026
+    },
+    {
+     "w": "draw",
+     "t": 4.097
+    },
+    {
+     "w": "the",
+     "t": 4.297
+    },
+    {
+     "w": "brand",
+     "t": 4.368
+    },
+    {
+     "w": "people",
+     "t": 5.087
+    },
+    {
+     "w": "drew",
+     "t": 5.406
+    },
+    {
+     "w": "a",
+     "t": 5.618
+    },
+    {
+     "w": "suit",
+     "t": 5.653
+    },
+    {
+     "w": "the",
+     "t": 6.325
+    },
+    {
+     "w": "Monopoly",
+     "t": 6.408
+    },
+    {
+     "w": "man",
+     "t": 6.821
+    },
+    {
+     "w": "a",
+     "t": 7.328
+    },
+    {
+     "w": "bully",
+     "t": 7.422
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Only fifteen percent of buyers are in market now, ready for logic and offers. The other eighty-five percent need emotion, memories for later.",
+   "board": {
+    "title": "Current vs **future** demand",
+    "vs": {
+     "left": "~15% in market",
+     "right": "~85% not in market",
+     "leftItems": [
+      "Logic, offers",
+      "Performance",
+      "Converts now"
+     ],
+     "rightItems": [
+      "Emotion",
+      "Brand building",
+      "Memory for later"
+     ],
+     "cue": "fifteen",
+     "at": 0.807
+    }
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "point"
+    },
+    {
+     "id": "e1",
+     "look": "exec_f",
+     "v": 4,
+     "at": "table"
+    }
+   ],
+   "acts": [
+    {
+     "who": "e1",
+     "cue": "eighty",
+     "pose": "chin",
+     "expr": "nervous",
+     "at": 5.429
+    },
+    {
+     "who": "host",
+     "cue": "emotion",
+     "pose": "present",
+     "expr": "smile",
+     "at": 6.455
+    }
+   ],
+   "fx": [
+    {
+     "kind": "brain",
+     "who": "e1",
+     "cue": "memories",
+     "at": 7.222
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "eighty",
+     "shot": "actor",
+     "who": "e1",
+     "at": 5.429
+    },
+    {
+     "cue": "memories",
+     "shot": "board",
+     "at": 7.222
+    }
+   ],
+   "audio": "audio/w4-07.mp3",
+   "leadIn": 0.45,
+   "seconds": 9.186,
+   "words": [
+    {
+     "w": "Only",
+     "t": 0.5
+    },
+    {
+     "w": "fifteen",
+     "t": 0.807
+    },
+    {
+     "w": "percent",
+     "t": 1.231
+    },
+    {
+     "w": "of",
+     "t": 1.526
+    },
+    {
+     "w": "buyers",
+     "t": 1.609
+    },
+    {
+     "w": "are",
+     "t": 2.009
+    },
+    {
+     "w": "in",
+     "t": 2.151
+    },
+    {
+     "w": "market",
+     "t": 2.222
+    },
+    {
+     "w": "now",
+     "t": 2.552
+    },
+    {
+     "w": "ready",
+     "t": 3.2
+    },
+    {
+     "w": "for",
+     "t": 3.484
+    },
+    {
+     "w": "logic",
+     "t": 3.59
+    },
+    {
+     "w": "and",
+     "t": 3.979
+    },
+    {
+     "w": "offers",
+     "t": 4.12
+    },
+    {
+     "w": "The",
+     "t": 4.922
+    },
+    {
+     "w": "other",
+     "t": 5.146
+    },
+    {
+     "w": "eighty-five",
+     "t": 5.429
+    },
+    {
+     "w": "percent",
+     "t": 5.866
+    },
+    {
+     "w": "need",
+     "t": 6.278
+    },
+    {
+     "w": "emotion",
+     "t": 6.455
+    },
+    {
+     "w": "memories",
+     "t": 7.222
+    },
+    {
+     "w": "for",
+     "t": 7.729
+    },
+    {
+     "w": "later",
+     "t": 7.811
+    }
+   ]
+  },
+  {
+   "set": "stage",
+   "say": "Don't just talk to the four hands that are up right now. Someone buying a phone in three years is worth reaching today.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "lectern"
+    },
+    {
+     "id": "a",
+     "look": "student",
+     "v": 1,
+     "at": "l"
+    },
+    {
+     "id": "b",
+     "look": "student",
+     "v": 2,
+     "at": "front"
+    },
+    {
+     "id": "c",
+     "look": "student",
+     "v": 5,
+     "at": "r",
+     "hold": "phone",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "a",
+     "cue": "hands",
+     "pose": "up",
+     "expr": "grin",
+     "at": 1.667
+    },
+    {
+     "who": "b",
+     "cue": "up",
+     "pose": "up",
+     "expr": "smile",
+     "at": 2.328
+    },
+    {
+     "who": "host",
+     "cue": "Someone",
+     "pose": "point",
+     "at": 3.307
+    },
+    {
+     "who": "c",
+     "cue": "today",
+     "expr": "smile",
+     "at": 5.925
+    }
+   ],
+   "fx": [
+    {
+     "kind": "exclaim",
+     "who": "a",
+     "cue": "hands",
+     "at": 1.667
+    },
+    {
+     "kind": "think",
+     "who": "c",
+     "text": "Maybe in three years...",
+     "cue": "phone",
+     "at": 4.038
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "Someone",
+     "shot": "actor",
+     "who": "c",
+     "at": 3.307
+    },
+    {
+     "cue": "today",
+     "shot": "close",
+     "at": 5.925
+    }
+   ],
+   "audio": "audio/w4-08.mp3",
+   "leadIn": 0.45,
+   "seconds": 7.29,
+   "words": [
+    {
+     "w": "Don't",
+     "t": 0.5
+    },
+    {
+     "w": "just",
+     "t": 0.759
+    },
+    {
+     "w": "talk",
+     "t": 0.984
+    },
+    {
+     "w": "to",
+     "t": 1.243
+    },
+    {
+     "w": "the",
+     "t": 1.325
+    },
+    {
+     "w": "four",
+     "t": 1.408
+    },
+    {
+     "w": "hands",
+     "t": 1.667
+    },
+    {
+     "w": "that",
+     "t": 2.033
+    },
+    {
+     "w": "are",
+     "t": 2.151
+    },
+    {
+     "w": "up",
+     "t": 2.328
+    },
+    {
+     "w": "right",
+     "t": 2.458
+    },
+    {
+     "w": "now",
+     "t": 2.646
+    },
+    {
+     "w": "Someone",
+     "t": 3.307
+    },
+    {
+     "w": "buying",
+     "t": 3.743
+    },
+    {
+     "w": "a",
+     "t": 4.002
+    },
+    {
+     "w": "phone",
+     "t": 4.038
+    },
+    {
+     "w": "in",
+     "t": 4.368
+    },
+    {
+     "w": "three",
+     "t": 4.509
+    },
+    {
+     "w": "years",
+     "t": 4.757
+    },
+    {
+     "w": "is",
+     "t": 5.134
+    },
+    {
+     "w": "worth",
+     "t": 5.288
+    },
+    {
+     "w": "reaching",
+     "t": 5.606
+    },
+    {
+     "w": "today",
+     "t": 5.925
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Activation spikes, then drops when you stop. Brand building rises slowly. The benchmark is sixty percent brand. Telstra was at twenty, so he went to fifty first.",
+   "board": {
+    "title": "Brand share of spend",
+    "bars": [
+     {
+      "label": "Benchmark",
+      "value": 60,
+      "display": "60%",
+      "cue": "sixty",
+      "at": 6.314
+     },
+     {
+      "label": "Telstra before",
+      "value": 20,
+      "display": "20%",
+      "cue": "twenty",
+      "at": 8.554
+     },
+     {
+      "label": "First move",
+      "value": 50,
+      "display": "50%",
+      "cue": "fifty",
+      "at": 9.84
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "point"
+    },
+    {
+     "id": "e1",
+     "look": "exec",
+     "v": 5,
+     "at": "desk",
+     "hold": "laptop",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "e1",
+     "cue": "drops",
+     "pose": "none",
+     "expr": "shock",
+     "at": 2.033
+    },
+    {
+     "who": "e1",
+     "cue": "rises",
+     "expr": "relief",
+     "at": 4.179
+    }
+   ],
+   "fx": [
+    {
+     "kind": "chart",
+     "who": "e1",
+     "cue": "rises",
+     "at": 4.179
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "drops",
+     "shot": "actor",
+     "who": "e1",
+     "at": 2.033
+    },
+    {
+     "cue": "benchmark",
+     "shot": "board",
+     "at": 5.594
+    }
+   ],
+   "audio": "audio/w4-09.mp3",
+   "leadIn": 0.45,
+   "seconds": 11.538,
+   "words": [
+    {
+     "w": "Activation",
+     "t": 0.5
+    },
+    {
+     "w": "spikes",
+     "t": 1.137
+    },
+    {
+     "w": "then",
+     "t": 1.844
+    },
+    {
+     "w": "drops",
+     "t": 2.033
+    },
+    {
+     "w": "when",
+     "t": 2.387
+    },
+    {
+     "w": "you",
+     "t": 2.505
+    },
+    {
+     "w": "stop",
+     "t": 2.575
+    },
+    {
+     "w": "Brand",
+     "t": 3.318
+    },
+    {
+     "w": "building",
+     "t": 3.731
+    },
+    {
+     "w": "rises",
+     "t": 4.179
+    },
+    {
+     "w": "slowly",
+     "t": 4.592
+    },
+    {
+     "w": "The",
+     "t": 5.453
+    },
+    {
+     "w": "benchmark",
+     "t": 5.594
+    },
+    {
+     "w": "is",
+     "t": 6.16
+    },
+    {
+     "w": "sixty",
+     "t": 6.314
+    },
+    {
+     "w": "percent",
+     "t": 6.679
+    },
+    {
+     "w": "brand",
+     "t": 6.998
+    },
+    {
+     "w": "Telstra",
+     "t": 7.811
+    },
+    {
+     "w": "was",
+     "t": 8.283
+    },
+    {
+     "w": "at",
+     "t": 8.46
+    },
+    {
+     "w": "twenty",
+     "t": 8.554
+    },
+    {
+     "w": "so",
+     "t": 9.203
+    },
+    {
+     "w": "he",
+     "t": 9.415
+    },
+    {
+     "w": "went",
+     "t": 9.545
+    },
+    {
+     "w": "to",
+     "t": 9.757
+    },
+    {
+     "w": "fifty",
+     "t": 9.84
+    },
+    {
+     "w": "first",
+     "t": 10.123
+    }
+   ]
+  },
+  {
+   "set": "street",
+   "say": "Be a magnet, not a mirror. Put a still from your ad, logo removed, beside three rivals. If nobody can tell which is yours, it's a mirror.",
+   "board": {
+    "title": "A **magnet**, not a mirror",
+    "lines": [
+     {
+      "text": "Take a still, **remove the logo**",
+      "cue": "still",
+      "at": 2.741
+     },
+     {
+      "text": "Beside **three** rivals",
+      "cue": "three",
+      "at": 5.571
+     },
+     {
+      "text": "Can't tell? It's a **mirror**",
+      "cue": "nobody",
+      "at": 6.939
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "front"
+    },
+    {
+     "id": "p1",
+     "look": "elder",
+     "v": 3,
+     "at": "bus"
+    },
+    {
+     "id": "p2",
+     "look": "shopper",
+     "v": 5,
+     "at": "r"
+    }
+   ],
+   "acts": [
+    {
+     "who": "p1",
+     "cue": "nobody",
+     "pose": "shrug",
+     "expr": "dazed",
+     "at": 6.939
+    },
+    {
+     "who": "p2",
+     "cue": "mirror",
+     "pose": "shrug",
+     "expr": "nervous",
+     "at": 9.014
+    }
+   ],
+   "fx": [
+    {
+     "kind": "question",
+     "who": "p1",
+     "cue": "nobody",
+     "at": 6.939
+    },
+    {
+     "kind": "question",
+     "who": "p2",
+     "cue": "mirror",
+     "at": 9.014
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "close",
+     "at": 0.2
+    },
+    {
+     "cue": "Put",
+     "shot": "board",
+     "at": 2.517
+    },
+    {
+     "cue": "nobody",
+     "shot": "wide",
+     "at": 6.939
+    }
+   ],
+   "audio": "audio/w4-10.mp3",
+   "leadIn": 0.45,
+   "seconds": 10.386,
+   "words": [
+    {
+     "w": "Be",
+     "t": 0.5
+    },
+    {
+     "w": "a",
+     "t": 0.7
+    },
+    {
+     "w": "magnet",
+     "t": 0.736
+    },
+    {
+     "w": "not",
+     "t": 1.455
+    },
+    {
+     "w": "a",
+     "t": 1.715
+    },
+    {
+     "w": "mirror",
+     "t": 1.762
+    },
+    {
+     "w": "Put",
+     "t": 2.517
+    },
+    {
+     "w": "a",
+     "t": 2.705
+    },
+    {
+     "w": "still",
+     "t": 2.741
+    },
+    {
+     "w": "from",
+     "t": 3.106
+    },
+    {
+     "w": "your",
+     "t": 3.271
+    },
+    {
+     "w": "ad",
+     "t": 3.413
+    },
+    {
+     "w": "logo",
+     "t": 4.05
+    },
+    {
+     "w": "removed",
+     "t": 4.439
+    },
+    {
+     "w": "beside",
+     "t": 5.182
+    },
+    {
+     "w": "three",
+     "t": 5.571
+    },
+    {
+     "w": "rivals",
+     "t": 5.854
+    },
+    {
+     "w": "If",
+     "t": 6.738
+    },
+    {
+     "w": "nobody",
+     "t": 6.939
+    },
+    {
+     "w": "can",
+     "t": 7.34
+    },
+    {
+     "w": "tell",
+     "t": 7.505
+    },
+    {
+     "w": "which",
+     "t": 7.788
+    },
+    {
+     "w": "is",
+     "t": 7.976
+    },
+    {
+     "w": "yours",
+     "t": 8.094
+    },
+    {
+     "w": "it's",
+     "t": 8.814
+    },
+    {
+     "w": "a",
+     "t": 8.979
+    },
+    {
+     "w": "mirror",
+     "t": 9.014
+    }
+   ]
+  },
+  {
+   "set": "home",
+   "say": "Telstra made twenty-six stop-motion ads, each an Australian animal in a real place, with forty-two local voices and handmade puppets. It won a Grand Prix.",
+   "board": {
+    "title": "26 spots, **42 real voices**",
+    "lines": [
+     {
+      "text": "**Handmade** stop-motion puppets",
+      "cue": "handmade",
+      "at": 6.679
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "l"
+    },
+    {
+     "id": "a",
+     "look": "kid",
+     "v": 4,
+     "at": "sofa",
+     "mode": "sit"
+    },
+    {
+     "id": "b",
+     "look": "shopper",
+     "v": 2,
+     "at": "sofa2",
+     "mode": "sit"
+    }
+   ],
+   "acts": [
+    {
+     "who": "a",
+     "cue": "animal",
+     "pose": "cheer",
+     "expr": "laugh",
+     "at": 3.531
+    },
+    {
+     "who": "b",
+     "cue": "voices",
+     "expr": "smile",
+     "at": 6.066
+    },
+    {
+     "who": "host",
+     "cue": "Grand",
+     "pose": "cheer",
+     "expr": "grin",
+     "at": 8.531
+    }
+   ],
+   "fx": [
+    {
+     "kind": "heart",
+     "who": "a",
+     "cue": "animal",
+     "at": 3.531
+    },
+    {
+     "kind": "stars",
+     "who": "host",
+     "cue": "Grand",
+     "at": 8.531
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "animal",
+     "shot": "actor",
+     "who": "a",
+     "at": 3.531
+    },
+    {
+     "cue": "Grand",
+     "shot": "board",
+     "at": 8.531
+    }
+   ],
+   "audio": "audio/w4-11.mp3",
+   "leadIn": 0.45,
+   "seconds": 10.242,
+   "words": [
+    {
+     "w": "Telstra",
+     "t": 0.5
+    },
+    {
+     "w": "made",
+     "t": 0.913
+    },
+    {
+     "w": "twenty-six",
+     "t": 1.16
+    },
+    {
+     "w": "stop-motion",
+     "t": 1.632
+    },
+    {
+     "w": "ads",
+     "t": 2.092
+    },
+    {
+     "w": "each",
+     "t": 2.752
+    },
+    {
+     "w": "an",
+     "t": 2.976
+    },
+    {
+     "w": "Australian",
+     "t": 3.035
+    },
+    {
+     "w": "animal",
+     "t": 3.531
+    },
+    {
+     "w": "in",
+     "t": 3.92
+    },
+    {
+     "w": "a",
+     "t": 4.026
+    },
+    {
+     "w": "real",
+     "t": 4.085
+    },
+    {
+     "w": "place",
+     "t": 4.321
+    },
+    {
+     "w": "with",
+     "t": 5.087
+    },
+    {
+     "w": "forty-two",
+     "t": 5.241
+    },
+    {
+     "w": "local",
+     "t": 5.759
+    },
+    {
+     "w": "voices",
+     "t": 6.066
+    },
+    {
+     "w": "and",
+     "t": 6.526
+    },
+    {
+     "w": "handmade",
+     "t": 6.679
+    },
+    {
+     "w": "puppets",
+     "t": 7.151
+    },
+    {
+     "w": "It",
+     "t": 7.976
+    },
+    {
+     "w": "won",
+     "t": 8.165
+    },
+    {
+     "w": "a",
+     "t": 8.436
+    },
+    {
+     "w": "Grand",
+     "t": 8.531
+    },
+    {
+     "w": "Prix",
+     "t": 8.849
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "The brand on one page: a connected future for everyone. Positioning, engineering possibility. The platform, wherever we go. Always crafted with a human hand.",
+   "board": {
+    "title": "Telstra on **one page**",
+    "steps": [
+     {
+      "text": "**Purpose**: a connected future",
+      "cue": "connected",
+      "at": 2.163
+     },
+     {
+      "text": "**Positioning**: engineering possibility",
+      "cue": "positioning",
+      "at": 4.038
+     },
+     {
+      "text": "**Platform**: wherever we go",
+      "cue": "platform",
+      "at": 6.774
+     },
+     {
+      "text": "Crafted with a **human hand**",
+      "cue": "crafted",
+      "at": 9.344
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "point"
+    },
+    {
+     "id": "e1",
+     "look": "exec_f",
+     "v": 6,
+     "at": "table",
+     "hold": "clipboard",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "e1",
+     "cue": "human",
+     "expr": "smile",
+     "at": 10.016
+    }
+   ],
+   "fx": [
+    {
+     "kind": "tick",
+     "who": "e1",
+     "cue": "human",
+     "at": 10.016
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "crafted",
+     "shot": "two",
+     "who": "e1",
+     "at": 9.344
+    }
+   ],
+   "audio": "audio/w4-12.mp3",
+   "leadIn": 0.45,
+   "seconds": 11.778,
+   "words": [
+    {
+     "w": "The",
+     "t": 0.5
+    },
+    {
+     "w": "brand",
+     "t": 0.641
+    },
+    {
+     "w": "on",
+     "t": 0.972
+    },
+    {
+     "w": "one",
+     "t": 1.113
+    },
+    {
+     "w": "page",
+     "t": 1.314
+    },
+    {
+     "w": "a",
+     "t": 2.08
+    },
+    {
+     "w": "connected",
+     "t": 2.163
+    },
+    {
+     "w": "future",
+     "t": 2.599
+    },
+    {
+     "w": "for",
+     "t": 2.976
+    },
+    {
+     "w": "everyone",
+     "t": 3.189
+    },
+    {
+     "w": "Positioning",
+     "t": 4.038
+    },
+    {
+     "w": "engineering",
+     "t": 5.005
+    },
+    {
+     "w": "possibility",
+     "t": 5.606
+    },
+    {
+     "w": "The",
+     "t": 6.62
+    },
+    {
+     "w": "platform",
+     "t": 6.774
+    },
+    {
+     "w": "wherever",
+     "t": 7.575
+    },
+    {
+     "w": "we",
+     "t": 8.012
+    },
+    {
+     "w": "go",
+     "t": 8.141
+    },
+    {
+     "w": "Always",
+     "t": 8.861
+    },
+    {
+     "w": "crafted",
+     "t": 9.344
+    },
+    {
+     "w": "with",
+     "t": 9.816
+    },
+    {
+     "w": "a",
+     "t": 9.981
+    },
+    {
+     "w": "human",
+     "t": 10.016
+    },
+    {
+     "w": "hand",
+     "t": 10.358
+    }
+   ]
+  },
+  {
+   "set": "home",
+   "say": "The whistling ad used animation, no phones and metaphor. At launch, people hated it. But being noticed beats being liked, so he held his nerve.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "r"
+    },
+    {
+     "id": "a",
+     "look": "elder",
+     "v": 5,
+     "at": "sofa",
+     "mode": "sit"
+    },
+    {
+     "id": "b",
+     "look": "student",
+     "v": 7,
+     "at": "sofa2",
+     "mode": "sit",
+     "hold": "phone",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "whistling",
+     "expr": "whistle",
+     "at": 0.665
+    },
+    {
+     "who": "a",
+     "cue": "hated",
+     "pose": "point",
+     "expr": "stern",
+     "at": 5.453
+    },
+    {
+     "who": "b",
+     "cue": "noticed",
+     "expr": "pained",
+     "at": 6.738
+    },
+    {
+     "who": "host",
+     "cue": "held",
+     "pose": "hips",
+     "expr": "smile_closed",
+     "at": 8.625
+    }
+   ],
+   "fx": [
+    {
+     "kind": "sparkle",
+     "who": "host",
+     "cue": "whistling",
+     "at": 0.665
+    },
+    {
+     "kind": "say",
+     "who": "b",
+     "text": "Not this ad again!",
+     "cue": "launch",
+     "at": 4.38
+    },
+    {
+     "kind": "cross",
+     "who": "a",
+     "cue": "hated",
+     "at": 5.453
+    },
+    {
+     "kind": "eye",
+     "who": "host",
+     "cue": "noticed",
+     "at": 6.738
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "launch",
+     "shot": "two",
+     "who": "b",
+     "at": 4.38
+    },
+    {
+     "cue": "noticed",
+     "shot": "close",
+     "at": 6.738
+    }
+   ],
+   "audio": "audio/w4-13.mp3",
+   "leadIn": 0.45,
+   "seconds": 10.386,
+   "words": [
+    {
+     "w": "The",
+     "t": 0.5
+    },
+    {
+     "w": "whistling",
+     "t": 0.665
+    },
+    {
+     "w": "ad",
+     "t": 1.16
+    },
+    {
+     "w": "used",
+     "t": 1.349
+    },
+    {
+     "w": "animation",
+     "t": 1.62
+    },
+    {
+     "w": "no",
+     "t": 2.481
+    },
+    {
+     "w": "phones",
+     "t": 2.729
+    },
+    {
+     "w": "and",
+     "t": 3.13
+    },
+    {
+     "w": "metaphor",
+     "t": 3.295
+    },
+    {
+     "w": "At",
+     "t": 4.179
+    },
+    {
+     "w": "launch",
+     "t": 4.38
+    },
+    {
+     "w": "people",
+     "t": 5.123
+    },
+    {
+     "w": "hated",
+     "t": 5.453
+    },
+    {
+     "w": "it",
+     "t": 5.736
+    },
+    {
+     "w": "But",
+     "t": 6.302
+    },
+    {
+     "w": "being",
+     "t": 6.502
+    },
+    {
+     "w": "noticed",
+     "t": 6.738
+    },
+    {
+     "w": "beats",
+     "t": 7.151
+    },
+    {
+     "w": "being",
+     "t": 7.434
+    },
+    {
+     "w": "liked",
+     "t": 7.634
+    },
+    {
+     "w": "so",
+     "t": 8.259
+    },
+    {
+     "w": "he",
+     "t": 8.483
+    },
+    {
+     "w": "held",
+     "t": 8.625
+    },
+    {
+     "w": "his",
+     "t": 8.849
+    },
+    {
+     "w": "nerve",
+     "t": 8.991
+    }
+   ]
+  },
+  {
+   "set": "plaza",
+   "say": "Then people started copying the walk. Thirty million organic TikTok views, zero paid spend, and Telstra credited the people who made them.",
+   "board": {
+    "big": "30M",
+    "caption": "organic TikTok views, **$0** paid",
+    "cue": "Thirty",
+    "at": 2.8
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "front"
+    },
+    {
+     "id": "p1",
+     "look": "student",
+     "v": 2,
+     "at": "walkL",
+     "to": "l",
+     "walkCue": "copying",
+     "walkAt": 1.644
+    },
+    {
+     "id": "p2",
+     "look": "student",
+     "v": 3,
+     "at": "r",
+     "hold": "phone",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "p1",
+     "cue": "walk",
+     "pose": "cheer",
+     "expr": "whistle",
+     "at": 2.068
+    },
+    {
+     "who": "p2",
+     "cue": "Thirty",
+     "expr": "laugh",
+     "at": 2.8
+    },
+    {
+     "who": "host",
+     "cue": "credited",
+     "pose": "present",
+     "expr": "grin",
+     "at": 6.903
+    }
+   ],
+   "fx": [
+    {
+     "kind": "sparkle",
+     "who": "p1",
+     "cue": "walk",
+     "at": 2.068
+    },
+    {
+     "kind": "heart",
+     "who": "p2",
+     "cue": "Thirty",
+     "at": 2.8
+    },
+    {
+     "kind": "tick",
+     "who": "host",
+     "cue": "credited",
+     "at": 6.903
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "walk",
+     "shot": "actor",
+     "who": "p1",
+     "at": 2.068
+    },
+    {
+     "cue": "Thirty",
+     "shot": "board",
+     "at": 2.8
+    },
+    {
+     "cue": "credited",
+     "shot": "host",
+     "at": 6.903
+    }
+   ],
+   "audio": "audio/w4-14.mp3",
+   "leadIn": 0.45,
+   "seconds": 9.258,
+   "words": [
+    {
+     "w": "Then",
+     "t": 0.5
+    },
+    {
+     "w": "people",
+     "t": 0.818
+    },
+    {
+     "w": "started",
+     "t": 1.137
+    },
+    {
+     "w": "copying",
+     "t": 1.644
+    },
+    {
+     "w": "the",
+     "t": 2.021
+    },
+    {
+     "w": "walk",
+     "t": 2.068
+    },
+    {
+     "w": "Thirty",
+     "t": 2.8
+    },
+    {
+     "w": "million",
+     "t": 3.165
+    },
+    {
+     "w": "organic",
+     "t": 3.472
+    },
+    {
+     "w": "TikTok",
+     "t": 3.873
+    },
+    {
+     "w": "views",
+     "t": 4.262
+    },
+    {
+     "w": "zero",
+     "t": 5.005
+    },
+    {
+     "w": "paid",
+     "t": 5.37
+    },
+    {
+     "w": "spend",
+     "t": 5.641
+    },
+    {
+     "w": "and",
+     "t": 6.337
+    },
+    {
+     "w": "Telstra",
+     "t": 6.491
+    },
+    {
+     "w": "credited",
+     "t": 6.903
+    },
+    {
+     "w": "the",
+     "t": 7.34
+    },
+    {
+     "w": "people",
+     "t": 7.399
+    },
+    {
+     "w": "who",
+     "t": 7.752
+    },
+    {
+     "w": "made",
+     "t": 7.847
+    },
+    {
+     "w": "them",
+     "t": 8.059
+    }
+   ]
+  },
+  {
+   "set": "street",
+   "say": "Even the posters were handmade. People can tell made from generated, and read effort as care. Craft is a strategic choice.",
+   "board": {
+    "title": "Craft is **strategy**",
+    "lines": [
+     {
+      "text": "Made, not **generated**",
+      "cue": "generated",
+      "at": 3.731
+     },
+     {
+      "text": "Effort reads as **care**",
+      "cue": "care",
+      "at": 5.524
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "front"
+    },
+    {
+     "id": "p1",
+     "look": "exec_f",
+     "v": 5,
+     "at": "kerb",
+     "hold": "coffee",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "p1",
+     "cue": "care",
+     "expr": "smile",
+     "at": 5.524
+    },
+    {
+     "who": "host",
+     "cue": "strategic",
+     "pose": "point",
+     "at": 6.974
+    }
+   ],
+   "fx": [
+    {
+     "kind": "eye",
+     "who": "p1",
+     "cue": "tell",
+     "at": 3.059
+    },
+    {
+     "kind": "heart",
+     "who": "p1",
+     "cue": "care",
+     "at": 5.524
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "tell",
+     "shot": "actor",
+     "who": "p1",
+     "at": 3.059
+    },
+    {
+     "cue": "Craft",
+     "shot": "close",
+     "at": 6.278
+    }
+   ],
+   "audio": "audio/w4-15.mp3",
+   "leadIn": 0.45,
+   "seconds": 8.97,
+   "words": [
+    {
+     "w": "Even",
+     "t": 0.5
+    },
+    {
+     "w": "the",
+     "t": 0.818
+    },
+    {
+     "w": "posters",
+     "t": 0.889
+    },
+    {
+     "w": "were",
+     "t": 1.42
+    },
+    {
+     "w": "handmade",
+     "t": 1.526
+    },
+    {
+     "w": "People",
+     "t": 2.564
+    },
+    {
+     "w": "can",
+     "t": 2.906
+    },
+    {
+     "w": "tell",
+     "t": 3.059
+    },
+    {
+     "w": "made",
+     "t": 3.283
+    },
+    {
+     "w": "from",
+     "t": 3.554
+    },
+    {
+     "w": "generated",
+     "t": 3.731
+    },
+    {
+     "w": "and",
+     "t": 4.557
+    },
+    {
+     "w": "read",
+     "t": 4.734
+    },
+    {
+     "w": "effort",
+     "t": 5.111
+    },
+    {
+     "w": "as",
+     "t": 5.382
+    },
+    {
+     "w": "care",
+     "t": 5.524
+    },
+    {
+     "w": "Craft",
+     "t": 6.278
+    },
+    {
+     "w": "is",
+     "t": 6.762
+    },
+    {
+     "w": "a",
+     "t": 6.915
+    },
+    {
+     "w": "strategic",
+     "t": 6.974
+    },
+    {
+     "w": "choice",
+     "t": 7.564
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Marketing ROI rose from six point one to ten point four in four years, on lower spend. Even performance marketing converted better, thanks to a stronger brand.",
+   "board": {
+    "title": "Marketing **ROI**",
+    "big": "6.10 to 10.40",
+    "caption": "over four years, on **lower spend**",
+    "cue": "six",
+    "at": 2.127
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "e1",
+     "look": "exec",
+     "v": 2,
+     "at": "table",
+     "hold": "laptop",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "e1",
+     "cue": "ten",
+     "pose": "cheer",
+     "expr": "laugh",
+     "at": 2.917
+    },
+    {
+     "who": "host",
+     "cue": "stronger",
+     "pose": "up",
+     "expr": "grin",
+     "at": 8.66
+    }
+   ],
+   "fx": [
+    {
+     "kind": "chart",
+     "who": "e1",
+     "cue": "rose",
+     "at": 1.62
+    },
+    {
+     "kind": "money",
+     "who": "e1",
+     "cue": "lower",
+     "at": 4.828
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "ten",
+     "shot": "actor",
+     "who": "e1",
+     "at": 2.917
+    },
+    {
+     "cue": "performance",
+     "shot": "close",
+     "at": 6.243
+    }
+   ],
+   "audio": "audio/w4-16.mp3",
+   "leadIn": 0.45,
+   "seconds": 10.458,
+   "words": [
+    {
+     "w": "Marketing",
+     "t": 0.5
+    },
+    {
+     "w": "ROI",
+     "t": 1.101
+    },
+    {
+     "w": "rose",
+     "t": 1.62
+    },
+    {
+     "w": "from",
+     "t": 1.962
+    },
+    {
+     "w": "six",
+     "t": 2.127
+    },
+    {
+     "w": "point",
+     "t": 2.363
+    },
+    {
+     "w": "one",
+     "t": 2.564
+    },
+    {
+     "w": "to",
+     "t": 2.811
+    },
+    {
+     "w": "ten",
+     "t": 2.917
+    },
+    {
+     "w": "point",
+     "t": 3.13
+    },
+    {
+     "w": "four",
+     "t": 3.342
+    },
+    {
+     "w": "in",
+     "t": 3.649
+    },
+    {
+     "w": "four",
+     "t": 3.79
+    },
+    {
+     "w": "years",
+     "t": 4.014
+    },
+    {
+     "w": "on",
+     "t": 4.663
+    },
+    {
+     "w": "lower",
+     "t": 4.828
+    },
+    {
+     "w": "spend",
+     "t": 5.087
+    },
+    {
+     "w": "Even",
+     "t": 5.913
+    },
+    {
+     "w": "performance",
+     "t": 6.243
+    },
+    {
+     "w": "marketing",
+     "t": 6.726
+    },
+    {
+     "w": "converted",
+     "t": 7.104
+    },
+    {
+     "w": "better",
+     "t": 7.54
+    },
+    {
+     "w": "thanks",
+     "t": 8.165
+    },
+    {
+     "w": "to",
+     "t": 8.483
+    },
+    {
+     "w": "a",
+     "t": 8.625
+    },
+    {
+     "w": "stronger",
+     "t": 8.66
+    },
+    {
+     "w": "brand",
+     "t": 9.038
+    }
+   ]
+  },
+  {
+   "set": "home",
+   "say": "With AI, content is either slop or irreplaceably human. Telstra's AI Santa took eight hundred thousand calls. But you need an idea first.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "l"
+    },
+    {
+     "id": "k",
+     "look": "kid",
+     "v": 1,
+     "at": "c",
+     "hold": "phone",
+     "pose": "hold"
+    },
+    {
+     "id": "a",
+     "look": "shopper",
+     "v": 7,
+     "at": "sofa",
+     "mode": "sit"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "slop",
+     "pose": "shrug",
+     "at": 2.41
+    },
+    {
+     "who": "k",
+     "cue": "Santa",
+     "expr": "laugh",
+     "at": 5.311
+    },
+    {
+     "who": "host",
+     "cue": "idea",
+     "pose": "up",
+     "expr": "grin",
+     "at": 8.519
+    }
+   ],
+   "fx": [
+    {
+     "kind": "say",
+     "who": "k",
+     "text": "Hi Santa!",
+     "cue": "Santa",
+     "at": 5.311
+    },
+    {
+     "kind": "bulb",
+     "who": "host",
+     "cue": "first",
+     "at": 8.908
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "Santa",
+     "shot": "actor",
+     "who": "k",
+     "at": 5.311
+    },
+    {
+     "cue": "idea",
+     "shot": "close",
+     "at": 8.519
+    }
+   ],
+   "audio": "audio/w4-17.mp3",
+   "leadIn": 0.45,
+   "seconds": 10.362,
+   "words": [
+    {
+     "w": "With",
+     "t": 0.5
+    },
+    {
+     "w": "AI",
+     "t": 0.807
+    },
+    {
+     "w": "content",
+     "t": 1.62
+    },
+    {
+     "w": "is",
+     "t": 2.08
+    },
+    {
+     "w": "either",
+     "t": 2.222
+    },
+    {
+     "w": "slop",
+     "t": 2.41
+    },
+    {
+     "w": "or",
+     "t": 2.788
+    },
+    {
+     "w": "irreplaceably",
+     "t": 3.035
+    },
+    {
+     "w": "human",
+     "t": 3.767
+    },
+    {
+     "w": "Telstra's",
+     "t": 4.521
+    },
+    {
+     "w": "AI",
+     "t": 5.099
+    },
+    {
+     "w": "Santa",
+     "t": 5.311
+    },
+    {
+     "w": "took",
+     "t": 5.759
+    },
+    {
+     "w": "eight",
+     "t": 6.042
+    },
+    {
+     "w": "hundred",
+     "t": 6.208
+    },
+    {
+     "w": "thousand",
+     "t": 6.502
+    },
+    {
+     "w": "calls",
+     "t": 6.868
+    },
+    {
+     "w": "But",
+     "t": 7.705
+    },
+    {
+     "w": "you",
+     "t": 7.917
+    },
+    {
+     "w": "need",
+     "t": 8.071
+    },
+    {
+     "w": "an",
+     "t": 8.354
+    },
+    {
+     "w": "idea",
+     "t": 8.519
+    },
+    {
+     "w": "first",
+     "t": 8.908
+    }
+   ]
+  },
+  {
+   "set": "stage",
+   "say": "So make the brand memorable, build future demand, and craft it with a human hand. Creativity thrives on kindness, so be kind. That's week four.",
+   "board": {
+    "title": "Week 4 **takeaways**",
+    "lines": [
+     {
+      "text": "Make the brand **memorable**",
+      "cue": "memorable",
+      "at": 1.396
+     },
+     {
+      "text": "Build **future** demand",
+      "cue": "future",
+      "at": 2.328
+     },
+     {
+      "text": "**Craft** elevates premium brands",
+      "cue": "craft",
+      "at": 3.531
+     },
+     {
+      "text": "Be **kind**",
+      "cue": "kind",
+      "at": 6.514
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "a",
+     "look": "student",
+     "v": 4,
+     "at": "front"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "kindness",
+     "pose": "present",
+     "expr": "smile",
+     "at": 6.514
+    },
+    {
+     "who": "host",
+     "cue": "That's",
+     "pose": "cheer",
+     "expr": "grin",
+     "at": 8.436
+    }
+   ],
+   "fx": [
+    {
+     "kind": "heart",
+     "who": "a",
+     "cue": "kindness",
+     "at": 6.514
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "kindness",
+     "shot": "close",
+     "at": 6.514
+    },
+    {
+     "cue": "That's",
+     "shot": "wide",
+     "glide": true,
+     "at": 8.436
+    }
+   ],
+   "hold": 1.2,
+   "audio": "audio/w4-18.mp3",
+   "leadIn": 0.45,
+   "seconds": 10.962,
+   "words": [
+    {
+     "w": "So",
+     "t": 0.5
+    },
+    {
+     "w": "make",
+     "t": 0.795
+    },
+    {
+     "w": "the",
+     "t": 1.019
+    },
+    {
+     "w": "brand",
+     "t": 1.09
+    },
+    {
+     "w": "memorable",
+     "t": 1.396
+    },
+    {
+     "w": "build",
+     "t": 2.08
+    },
+    {
+     "w": "future",
+     "t": 2.328
+    },
+    {
+     "w": "demand",
+     "t": 2.658
+    },
+    {
+     "w": "and",
+     "t": 3.377
+    },
+    {
+     "w": "craft",
+     "t": 3.531
+    },
+    {
+     "w": "it",
+     "t": 3.884
+    },
+    {
+     "w": "with",
+     "t": 4.002
+    },
+    {
+     "w": "a",
+     "t": 4.144
+    },
+    {
+     "w": "human",
+     "t": 4.179
+    },
+    {
+     "w": "hand",
+     "t": 4.486
+    },
+    {
+     "w": "Creativity",
+     "t": 5.276
+    },
+    {
+     "w": "thrives",
+     "t": 5.995
+    },
+    {
+     "w": "on",
+     "t": 6.408
+    },
+    {
+     "w": "kindness",
+     "t": 6.514
+    },
+    {
+     "w": "so",
+     "t": 7.245
+    },
+    {
+     "w": "be",
+     "t": 7.481
+    },
+    {
+     "w": "kind",
+     "t": 7.587
+    },
+    {
+     "w": "That's",
+     "t": 8.436
+    },
+    {
+     "w": "week",
+     "t": 8.802
+    },
+    {
+     "w": "four",
+     "t": 9.026
+    }
+   ]
+  }
+ ],
+ "id": "w4",
+ "total": 187.43
+}

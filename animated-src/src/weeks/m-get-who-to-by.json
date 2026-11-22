@@ -1,0 +1,613 @@
+{
+ "week": 0,
+ "title": "GET / WHO / TO / BY brief",
+ "speaker": "Tim Collier, Cummins & Partners, Week 7",
+ "beats": [
+  {
+   "set": "office",
+   "say": "Get, who, to, by squeezes a brief into one sentence. Get the audience, who face a problem, to change something, by one proposition.",
+   "board": {
+    "title": "Get / Who / To / **By**",
+    "steps": [
+     {
+      "text": "**Get**: the audience",
+      "cue": "Get the",
+      "at": 4.486
+     },
+     {
+      "text": "**Who**: their problem",
+      "cue": "who face",
+      "at": 5.488
+     },
+     {
+      "text": "**To**: the change wanted",
+      "cue": "to change",
+      "at": 6.656
+     },
+     {
+      "text": "**By**: the proposition",
+      "cue": "by one",
+      "at": 7.717
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "e1",
+     "look": "exec",
+     "at": "table",
+     "v": 5
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "squeezes",
+     "pose": "point",
+     "at": 2.245
+    },
+    {
+     "who": "e1",
+     "cue": "proposition",
+     "pose": "chin",
+     "expr": "smile",
+     "at": 8.141
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "face",
+     "shot": "two",
+     "who": "e1",
+     "at": 5.63
+    },
+    {
+     "cue": "proposition",
+     "shot": "board",
+     "at": 8.141
+    }
+   ],
+   "audio": "audio/m-get-who-to-by-00.mp3",
+   "leadIn": 0.45,
+   "seconds": 9.738,
+   "words": [
+    {
+     "w": "Get",
+     "t": 0.5
+    },
+    {
+     "w": "who",
+     "t": 1.031
+    },
+    {
+     "w": "to",
+     "t": 1.538
+    },
+    {
+     "w": "by",
+     "t": 2.116
+    },
+    {
+     "w": "squeezes",
+     "t": 2.245
+    },
+    {
+     "w": "a",
+     "t": 2.741
+    },
+    {
+     "w": "brief",
+     "t": 2.776
+    },
+    {
+     "w": "into",
+     "t": 3.177
+    },
+    {
+     "w": "one",
+     "t": 3.413
+    },
+    {
+     "w": "sentence",
+     "t": 3.625
+    },
+    {
+     "w": "Get",
+     "t": 4.486
+    },
+    {
+     "w": "the",
+     "t": 4.698
+    },
+    {
+     "w": "audience",
+     "t": 4.84
+    },
+    {
+     "w": "who",
+     "t": 5.488
+    },
+    {
+     "w": "face",
+     "t": 5.63
+    },
+    {
+     "w": "a",
+     "t": 5.901
+    },
+    {
+     "w": "problem",
+     "t": 5.948
+    },
+    {
+     "w": "to",
+     "t": 6.656
+    },
+    {
+     "w": "change",
+     "t": 6.774
+    },
+    {
+     "w": "something",
+     "t": 7.08
+    },
+    {
+     "w": "by",
+     "t": 7.717
+    },
+    {
+     "w": "one",
+     "t": 7.859
+    },
+    {
+     "w": "proposition",
+     "t": 8.141
+    }
+   ]
+  },
+  {
+   "set": "street",
+   "say": "Picture business travellers who switched to a rival airline on price. Qantas wants them back.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "front"
+    },
+    {
+     "id": "p1",
+     "look": "exec",
+     "at": "bus",
+     "v": 2,
+     "hold": "laptop",
+     "pose": "hold"
+    },
+    {
+     "id": "p2",
+     "look": "exec_f",
+     "at": "r",
+     "v": 3,
+     "hold": "coffee",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "p2",
+     "cue": "switched",
+     "expr": "smile_closed",
+     "at": 1.715
+    },
+    {
+     "who": "p1",
+     "cue": "price",
+     "pose": "chin",
+     "expr": "neutral",
+     "at": 3.271
+    },
+    {
+     "who": "host",
+     "cue": "back",
+     "pose": "point",
+     "expr": "grin",
+     "at": 5.04
+    }
+   ],
+   "fx": [
+    {
+     "kind": "think",
+     "who": "p2",
+     "cue": "switched",
+     "text": "Cheaper fare...",
+     "at": 1.715
+    },
+    {
+     "kind": "money",
+     "who": "p1",
+     "cue": "price",
+     "at": 3.271
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "switched",
+     "shot": "actor",
+     "who": "p2",
+     "at": 1.715
+    },
+    {
+     "cue": "Qantas",
+     "shot": "close",
+     "at": 4.109
+    }
+   ],
+   "audio": "audio/m-get-who-to-by-01.mp3",
+   "leadIn": 0.45,
+   "seconds": 6.378,
+   "words": [
+    {
+     "w": "Picture",
+     "t": 0.5
+    },
+    {
+     "w": "business",
+     "t": 0.818
+    },
+    {
+     "w": "travellers",
+     "t": 1.149
+    },
+    {
+     "w": "who",
+     "t": 1.62
+    },
+    {
+     "w": "switched",
+     "t": 1.715
+    },
+    {
+     "w": "to",
+     "t": 2.116
+    },
+    {
+     "w": "a",
+     "t": 2.21
+    },
+    {
+     "w": "rival",
+     "t": 2.281
+    },
+    {
+     "w": "airline",
+     "t": 2.752
+    },
+    {
+     "w": "on",
+     "t": 3.106
+    },
+    {
+     "w": "price",
+     "t": 3.271
+    },
+    {
+     "w": "Qantas",
+     "t": 4.109
+    },
+    {
+     "w": "wants",
+     "t": 4.651
+    },
+    {
+     "w": "them",
+     "t": 4.91
+    },
+    {
+     "w": "back",
+     "t": 5.04
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "So the brief reads: get lapsed business travellers, who chose on price, to choose Qantas again, by reminding them every flight comes home.",
+   "board": {
+    "title": "The **Qantas** brief",
+    "steps": [
+     {
+      "text": "**Get** lapsed business travellers",
+      "cue": "get",
+      "at": 1.856
+     },
+     {
+      "text": "**Who** chose on price",
+      "cue": "who",
+      "at": 3.318
+     },
+     {
+      "text": "**To** choose Qantas again",
+      "cue": "to choose",
+      "at": 4.521
+     },
+     {
+      "text": "**By** reminding them they're home",
+      "cue": "by",
+      "at": 5.925
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "point"
+    },
+    {
+     "id": "e1",
+     "look": "exec_f",
+     "at": "table",
+     "v": 1,
+     "hold": "clipboard",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "e1",
+     "cue": "home",
+     "expr": "grin",
+     "at": 7.528
+    }
+   ],
+   "fx": [
+    {
+     "kind": "tick",
+     "who": "e1",
+     "cue": "home",
+     "at": 7.528
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "reminding",
+     "shot": "two",
+     "who": "e1",
+     "at": 6.078
+    },
+    {
+     "cue": "home",
+     "shot": "board",
+     "at": 7.528
+    }
+   ],
+   "audio": "audio/m-get-who-to-by-02.mp3",
+   "leadIn": 0.45,
+   "seconds": 8.85,
+   "words": [
+    {
+     "w": "So",
+     "t": 0.5
+    },
+    {
+     "w": "the",
+     "t": 0.736
+    },
+    {
+     "w": "brief",
+     "t": 0.818
+    },
+    {
+     "w": "reads",
+     "t": 1.125
+    },
+    {
+     "w": "get",
+     "t": 1.856
+    },
+    {
+     "w": "lapsed",
+     "t": 2.033
+    },
+    {
+     "w": "business",
+     "t": 2.351
+    },
+    {
+     "w": "travellers",
+     "t": 2.646
+    },
+    {
+     "w": "who",
+     "t": 3.318
+    },
+    {
+     "w": "chose",
+     "t": 3.46
+    },
+    {
+     "w": "on",
+     "t": 3.743
+    },
+    {
+     "w": "price",
+     "t": 3.849
+    },
+    {
+     "w": "to",
+     "t": 4.521
+    },
+    {
+     "w": "choose",
+     "t": 4.639
+    },
+    {
+     "w": "Qantas",
+     "t": 4.899
+    },
+    {
+     "w": "again",
+     "t": 5.252
+    },
+    {
+     "w": "by",
+     "t": 5.925
+    },
+    {
+     "w": "reminding",
+     "t": 6.078
+    },
+    {
+     "w": "them",
+     "t": 6.514
+    },
+    {
+     "w": "every",
+     "t": 6.715
+    },
+    {
+     "w": "flight",
+     "t": 6.974
+    },
+    {
+     "w": "comes",
+     "t": 7.316
+    },
+    {
+     "w": "home",
+     "t": 7.528
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "So fill all four slots, and keep the by single-minded.",
+   "board": {
+    "title": "Use it **like this**",
+    "lines": [
+     {
+      "text": "Fill all **four** slots",
+      "cue": "four",
+      "at": 1.373
+     },
+     {
+      "text": "Keep the By **single-minded**",
+      "cue": "single",
+      "at": 3.024
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "e1",
+     "look": "exec",
+     "at": "table",
+     "v": 5
+    }
+   ],
+   "acts": [
+    {
+     "who": "e1",
+     "cue": "single",
+     "expr": "smile",
+     "at": 3.024
+    }
+   ],
+   "fx": [
+    {
+     "kind": "tick",
+     "who": "e1",
+     "cue": "single",
+     "at": 3.024
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "single",
+     "shot": "two",
+     "who": "e1",
+     "at": 3.024
+    }
+   ],
+   "hold": 1.0,
+   "audio": "audio/m-get-who-to-by-03.mp3",
+   "leadIn": 0.45,
+   "seconds": 5.122,
+   "words": [
+    {
+     "w": "So",
+     "t": 0.5
+    },
+    {
+     "w": "fill",
+     "t": 0.83
+    },
+    {
+     "w": "all",
+     "t": 1.16
+    },
+    {
+     "w": "four",
+     "t": 1.373
+    },
+    {
+     "w": "slots",
+     "t": 1.585
+    },
+    {
+     "w": "and",
+     "t": 2.316
+    },
+    {
+     "w": "keep",
+     "t": 2.481
+    },
+    {
+     "w": "the",
+     "t": 2.741
+    },
+    {
+     "w": "by",
+     "t": 2.811
+    },
+    {
+     "w": "single-minded",
+     "t": 3.024
+    }
+   ]
+  }
+ ],
+ "id": "m-get-who-to-by",
+ "total": 30.1
+}

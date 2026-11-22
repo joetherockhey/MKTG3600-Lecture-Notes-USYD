@@ -1,0 +1,278 @@
+{
+ "week": 0,
+ "title": "The logic flow in media decision-making (and eight channel inputs)",
+ "speaker": "Ali Coysh, Initiative, Week 11",
+ "beats": [
+  {
+   "set": "office",
+   "say": "Media decisions follow a logic flow. Start with the journey stage. Find the bond or barrier. Set the media role. Then narrow down channel, platform and environment, guided by eight inputs.",
+   "board": {
+    "title": "The media **logic flow**",
+    "steps": [
+     {
+      "text": "**Journey stage**: where they are",
+      "cue": "journey"
+     },
+     {
+      "text": "**Bond or barrier**",
+      "cue": "barrier"
+     },
+     {
+      "text": "**Media role**: what media must do",
+      "cue": "role"
+     },
+     {
+      "text": "**Channel**, platform, environment",
+      "cue": "channel"
+     },
+     {
+      "text": "**Eight inputs** guide it",
+      "cue": "eight"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "e",
+     "look": "exec_f",
+     "v": 5,
+     "at": "table"
+    }
+   ],
+   "acts": [
+    {
+     "who": "e",
+     "cue": "barrier",
+     "pose": "chin"
+    },
+    {
+     "who": "host",
+     "cue": "narrow",
+     "pose": "point"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "brain",
+     "who": "e",
+     "cue": "barrier"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "barrier",
+     "shot": "actor",
+     "who": "e"
+    },
+    {
+     "cue": "narrow",
+     "shot": "board"
+    }
+   ]
+  },
+  {
+   "set": "street",
+   "say": "NRMA Insurance in Queensland had a barrier: locals saw it as an outsider. So media's role was building local credibility.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "front",
+     "pose": "none"
+    },
+    {
+     "id": "p1",
+     "look": "elder",
+     "v": 3,
+     "at": "bus"
+    },
+    {
+     "id": "p2",
+     "look": "shopper",
+     "v": 4,
+     "at": "kerb"
+    }
+   ],
+   "acts": [
+    {
+     "who": "p1",
+     "cue": "outsider",
+     "pose": "shrug",
+     "expr": "stern"
+    },
+    {
+     "who": "host",
+     "cue": "credibility",
+     "pose": "up",
+     "expr": "grin"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "think",
+     "who": "p1",
+     "cue": "outsider",
+     "text": "Not from here."
+    },
+    {
+     "kind": "tick",
+     "who": "host",
+     "cue": "credibility"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "outsider",
+     "shot": "actor",
+     "who": "p1"
+    },
+    {
+     "cue": "credibility",
+     "shot": "host"
+    }
+   ]
+  },
+  {
+   "set": "home",
+   "say": "The environment was The Courier Mail. A Help Our Highway partnership pushed to fix the Bruce Highway, and the government committed four hundred and sixty-seven million dollars.",
+   "board": {
+    "big": "$467m",
+    "caption": "committed to the **Bruce Highway**",
+    "cue": "committed"
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "l",
+     "pose": "none"
+    },
+    {
+     "id": "p",
+     "look": "elder",
+     "v": 5,
+     "at": "sofa",
+     "mode": "sit",
+     "hold": "phone",
+     "pose": "hold"
+    },
+    {
+     "id": "q",
+     "look": "shopper",
+     "v": 2,
+     "at": "sofa2",
+     "mode": "sit"
+    }
+   ],
+   "acts": [
+    {
+     "who": "p",
+     "cue": "Highway",
+     "expr": "smile"
+    },
+    {
+     "who": "q",
+     "cue": "committed",
+     "pose": "cheer",
+     "expr": "laugh"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "heart",
+     "who": "p",
+     "cue": "Highway"
+    },
+    {
+     "kind": "money",
+     "who": "q",
+     "cue": "committed"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "Highway",
+     "shot": "actor",
+     "who": "p"
+    },
+    {
+     "cue": "committed",
+     "shot": "board"
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Use it like this: name the barrier first, make the media role answer it, then pick the place.",
+   "board": {
+    "title": "Use it like **this**",
+    "lines": [
+     {
+      "text": "Name the **barrier**",
+      "cue": "barrier"
+     },
+     {
+      "text": "Role **answers** it",
+      "cue": "answer"
+     },
+     {
+      "text": "Then the **place**",
+      "cue": "place"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "point"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "place",
+     "pose": "cheer",
+     "expr": "grin"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "tick",
+     "who": "host",
+     "cue": "place"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "place",
+     "shot": "close"
+    }
+   ],
+   "hold": 1.0
+  }
+ ]
+}

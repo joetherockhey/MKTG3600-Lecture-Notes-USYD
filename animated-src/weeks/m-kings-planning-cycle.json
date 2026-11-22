@@ -1,0 +1,290 @@
+{
+ "week": 0,
+ "title": "Stephen King's planning cycle and four rules of planning",
+ "speaker": "Tim Collier, Cummins & Partners, Week 7; from Stephen King's JWT Planning Guide (1974)",
+ "beats": [
+  {
+   "set": "office",
+   "say": "Stephen King's planning cycle asks five questions. Where are we? Why are we there? Where could we be? How could we get there? Are we getting there?",
+   "board": {
+    "title": "King's **planning cycle**",
+    "steps": [
+     {
+      "text": "**Where are we?**",
+      "cue": "Where"
+     },
+     {
+      "text": "**Why** are we there?",
+      "cue": "Why"
+     },
+     {
+      "text": "**Where could** we be?",
+      "cue": "Where"
+     },
+     {
+      "text": "**How** could we get there?",
+      "cue": "How"
+     },
+     {
+      "text": "**Are we** getting there?",
+      "cue": "Are"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "e1",
+     "look": "exec",
+     "at": "table",
+     "v": 4
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "Where",
+     "pose": "point"
+    },
+    {
+     "who": "e1",
+     "cue": "getting",
+     "pose": "chin",
+     "expr": "smile"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "How",
+     "shot": "two",
+     "who": "e1"
+    },
+    {
+     "cue": "Are",
+     "shot": "board"
+    }
+   ]
+  },
+  {
+   "set": "home",
+   "say": "Telstra started as a national punchline, barely above the tax office. Why? Boring, transactional ads.",
+   "board": {
+    "title": "Telstra **reputation**",
+    "lines": [
+     {
+      "text": "Just above the **tax office**",
+      "cue": "tax"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "r"
+    },
+    {
+     "id": "a",
+     "look": "student",
+     "at": "sofa",
+     "v": 3,
+     "mode": "sit"
+    },
+    {
+     "id": "b",
+     "look": "elder",
+     "at": "sofa2",
+     "v": 1,
+     "mode": "sit"
+    }
+   ],
+   "acts": [
+    {
+     "who": "a",
+     "cue": "punchline",
+     "expr": "laugh"
+    },
+    {
+     "who": "b",
+     "cue": "Boring",
+     "expr": "dazed"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "say",
+     "who": "a",
+     "cue": "punchline",
+     "text": "Not them again."
+    },
+    {
+     "kind": "zzz",
+     "who": "b",
+     "cue": "Boring"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "punchline",
+     "shot": "actor",
+     "who": "a"
+    },
+    {
+     "cue": "Boring",
+     "shot": "actor",
+     "who": "b"
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Where could it be? A loved brand. How? Emotional, crafted brand building. Then track brand health, and the loop starts again.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "c"
+    },
+    {
+     "id": "e1",
+     "look": "exec_f",
+     "at": "table",
+     "v": 2
+    },
+    {
+     "id": "e2",
+     "look": "exec",
+     "at": "table2",
+     "v": 3,
+     "hold": "laptop",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "e1",
+     "cue": "loved",
+     "pose": "cheer",
+     "expr": "grin"
+    },
+    {
+     "who": "e2",
+     "cue": "track",
+     "expr": "smile"
+    },
+    {
+     "who": "host",
+     "cue": "loop",
+     "pose": "point"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "heart",
+     "who": "e1",
+     "cue": "loved"
+    },
+    {
+     "kind": "chart",
+     "who": "e2",
+     "cue": "track"
+    },
+    {
+     "kind": "sparkle",
+     "who": "host",
+     "cue": "again"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "loved",
+     "shot": "actor",
+     "who": "e1"
+    },
+    {
+     "cue": "track",
+     "shot": "actor",
+     "who": "e2"
+    },
+    {
+     "cue": "loop",
+     "shot": "close"
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "So walk the brand through every stage honestly. Evaluation is never the end, it's the next starting point.",
+   "board": {
+    "title": "Use it **like this**",
+    "lines": [
+     {
+      "text": "Every stage, **honestly**",
+      "cue": "honestly"
+     },
+     {
+      "text": "Evaluation **restarts** the loop",
+      "cue": "Evaluation"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "point"
+    },
+    {
+     "id": "e1",
+     "look": "exec",
+     "at": "table",
+     "v": 4
+    }
+   ],
+   "acts": [
+    {
+     "who": "e1",
+     "cue": "starting",
+     "expr": "smile"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "tick",
+     "who": "e1",
+     "cue": "starting"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "Evaluation",
+     "shot": "two",
+     "who": "e1"
+    }
+   ],
+   "hold": 1.0
+  }
+ ]
+}

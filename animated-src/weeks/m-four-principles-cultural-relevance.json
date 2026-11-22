@@ -1,0 +1,281 @@
+{
+ "week": 0,
+ "title": "Four principles for brand conversations (cultural relevance)",
+ "speaker": "Shannon Wright, Nestle Oceania, Week 5",
+ "beats": [
+  {
+   "set": "office",
+   "say": "To join culture, follow four principles. Meet people where they are, nail tone and timing, know the brand's role, and subvert your own equity.",
+   "board": {
+    "title": "Four principles for **cultural relevance**",
+    "steps": [
+     {
+      "text": "**Meet them** where they are",
+      "cue": "Meet"
+     },
+     {
+      "text": "**Tone and timing** are everything",
+      "cue": "tone"
+     },
+     {
+      "text": "**Role** and point of view",
+      "cue": "role"
+     },
+     {
+      "text": "**Subvert** your equity",
+      "cue": "subvert"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "e1",
+     "look": "exec_f",
+     "at": "table",
+     "v": 3
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "Meet",
+     "pose": "point"
+    },
+    {
+     "who": "e1",
+     "cue": "subvert",
+     "pose": "chin",
+     "expr": "grin"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "role",
+     "shot": "two",
+     "who": "e1"
+    },
+    {
+     "cue": "subvert",
+     "shot": "board"
+    }
+   ]
+  },
+  {
+   "set": "home",
+   "say": "People argued online about how to eat a KitKat. Snap the fingers, or bite straight in? Twenty-seven million engagements.",
+   "board": {
+    "title": "The KitKat **debate**",
+    "big": "27M",
+    "caption": "social **engagements**",
+    "cue": "Twenty"
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "l"
+    },
+    {
+     "id": "a",
+     "look": "student",
+     "at": "sofa",
+     "v": 2,
+     "mode": "sit",
+     "hold": "phone",
+     "pose": "hold"
+    },
+    {
+     "id": "b",
+     "look": "shopper",
+     "at": "sofa2",
+     "v": 5,
+     "mode": "sit"
+    }
+   ],
+   "acts": [
+    {
+     "who": "a",
+     "cue": "argued",
+     "expr": "stern"
+    },
+    {
+     "who": "b",
+     "cue": "bite",
+     "expr": "laugh"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "say",
+     "who": "a",
+     "cue": "Snap",
+     "text": "Snap it first!"
+    },
+    {
+     "kind": "say",
+     "who": "b",
+     "cue": "bite",
+     "text": "Just bite it!"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "Snap",
+     "shot": "actor",
+     "who": "a"
+    },
+    {
+     "cue": "bite",
+     "shot": "actor",
+     "who": "b"
+    },
+    {
+     "cue": "Twenty",
+     "shot": "board"
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "A debate about your brand is a jackpot. KitKat fanned the flames instead of settling it.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "c"
+    },
+    {
+     "id": "e1",
+     "look": "exec",
+     "at": "table",
+     "v": 1
+    },
+    {
+     "id": "e2",
+     "look": "exec_f",
+     "at": "table2",
+     "v": 4,
+     "hold": "laptop",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "e1",
+     "cue": "jackpot",
+     "pose": "cheer",
+     "expr": "grin"
+    },
+    {
+     "who": "host",
+     "cue": "fanned",
+     "pose": "up",
+     "expr": "grin"
+    },
+    {
+     "who": "e2",
+     "cue": "settling",
+     "expr": "laugh"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "money",
+     "who": "e1",
+     "cue": "jackpot"
+    },
+    {
+     "kind": "burst",
+     "who": "host",
+     "cue": "flames"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "jackpot",
+     "shot": "actor",
+     "who": "e1"
+    },
+    {
+     "cue": "fanned",
+     "shot": "close"
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "So only join a conversation when the brand has a real reason to be there, with the right tone at the right moment.",
+   "board": {
+    "title": "Join culture **with a reason**",
+    "lines": [
+     {
+      "text": "A **real reason** to be there",
+      "cue": "reason"
+     },
+     {
+      "text": "Right **tone**, right **moment**",
+      "cue": "moment"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "e1",
+     "look": "exec_f",
+     "at": "table",
+     "v": 3
+    }
+   ],
+   "acts": [
+    {
+     "who": "e1",
+     "cue": "reason",
+     "expr": "smile"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "tick",
+     "who": "e1",
+     "cue": "moment"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "reason",
+     "shot": "two",
+     "who": "e1"
+    }
+   ],
+   "hold": 1.0
+  }
+ ]
+}

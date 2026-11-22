@@ -1,0 +1,290 @@
+{
+ "week": 0,
+ "title": "Research-led positioning with proof points",
+ "speaker": "Libby Hogson, UNICEF Australia, Week 6",
+ "beats": [
+  {
+   "set": "office",
+   "say": "Research-led positioning has four steps. Plot the facts, write the positioning, back it with proof points, then repeat a single message.",
+   "board": {
+    "title": "Research-led **positioning**",
+    "steps": [
+     {
+      "text": "**Plot facts**: opinion lift vs known",
+      "cue": "Plot"
+     },
+     {
+      "text": "**Positioning** fitted to the moment",
+      "cue": "write"
+     },
+     {
+      "text": "**Proof points** that make it credible",
+      "cue": "proof"
+     },
+     {
+      "text": "**One message**, repeated",
+      "cue": "single"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "e1",
+     "look": "exec_f",
+     "at": "table",
+     "v": 2
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "Plot",
+     "pose": "point"
+    },
+    {
+     "who": "e1",
+     "cue": "single",
+     "pose": "chin",
+     "expr": "smile"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "proof",
+     "shot": "two",
+     "who": "e1"
+    },
+    {
+     "cue": "single",
+     "shot": "board"
+    }
+   ]
+  },
+  {
+   "set": "street",
+   "say": "UNICEF's research found most people didn't know it was a hundred percent donor funded. Hearing that lifted opinion. Little known, big lift: back that fact.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "front"
+    },
+    {
+     "id": "w",
+     "look": "worker",
+     "at": "kerb",
+     "v": 2,
+     "hold": "clipboard",
+     "pose": "hold"
+    },
+    {
+     "id": "p1",
+     "look": "shopper",
+     "at": "r",
+     "v": 7
+    }
+   ],
+   "acts": [
+    {
+     "who": "p1",
+     "cue": "funded",
+     "pose": "none",
+     "expr": "shock"
+    },
+    {
+     "who": "p1",
+     "cue": "lifted",
+     "expr": "grin"
+    },
+    {
+     "who": "host",
+     "cue": "back",
+     "pose": "point",
+     "expr": "smile"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "say",
+     "who": "p1",
+     "cue": "funded",
+     "text": "Wait, really?"
+    },
+    {
+     "kind": "heart",
+     "who": "p1",
+     "cue": "lifted"
+    },
+    {
+     "kind": "bulb",
+     "who": "host",
+     "cue": "fact"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "funded",
+     "shot": "actor",
+     "who": "p1"
+    },
+    {
+     "cue": "Little",
+     "shot": "close"
+    }
+   ]
+  },
+  {
+   "set": "home",
+   "say": "So the proof points went on air: there in over a hundred and ninety countries, help within forty-eight hours. One message: Always there.",
+   "board": {
+    "title": "UNICEF: **Always there**",
+    "lines": [
+     {
+      "text": "In **190+** countries",
+      "cue": "countries"
+     },
+     {
+      "text": "Help within **48 hours**",
+      "cue": "forty"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "l"
+    },
+    {
+     "id": "a",
+     "look": "shopper",
+     "at": "sofa",
+     "v": 3,
+     "mode": "sit"
+    },
+    {
+     "id": "b",
+     "look": "kid",
+     "at": "sofa2",
+     "v": 2,
+     "mode": "sit"
+    }
+   ],
+   "acts": [
+    {
+     "who": "a",
+     "cue": "countries",
+     "expr": "smile"
+    },
+    {
+     "who": "b",
+     "cue": "Always",
+     "pose": "cheer",
+     "expr": "grin"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "tick",
+     "who": "a",
+     "cue": "countries"
+    },
+    {
+     "kind": "heart",
+     "who": "b",
+     "cue": "Always"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "countries",
+     "shot": "board"
+    },
+    {
+     "cue": "Always",
+     "shot": "actor",
+     "who": "b"
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "So research, position, prove, then say one thing again and again.",
+   "board": {
+    "title": "Use it **like this**",
+    "lines": [
+     {
+      "text": "**Research** the facts",
+      "cue": "research"
+     },
+     {
+      "text": "**Position** and **prove**",
+      "cue": "prove"
+     },
+     {
+      "text": "Say **one thing**, again",
+      "cue": "one"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "point"
+    },
+    {
+     "id": "e1",
+     "look": "exec",
+     "at": "table",
+     "v": 5
+    }
+   ],
+   "acts": [
+    {
+     "who": "e1",
+     "cue": "again",
+     "expr": "smile"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "tick",
+     "who": "e1",
+     "cue": "again"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "again",
+     "shot": "two",
+     "who": "e1"
+    }
+   ],
+   "hold": 1.0
+  }
+ ]
+}

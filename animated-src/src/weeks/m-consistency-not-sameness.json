@@ -1,0 +1,683 @@
+{
+ "week": 0,
+ "title": "Consistency, not sameness",
+ "speaker": "Shannon Wright, Week 5; Brent Smart, Week 4; Libby Hogson, Week 6; Nicky Barton, Week 12",
+ "beats": [
+  {
+   "set": "stage",
+   "say": "Consistency, not sameness. Keep the core idea, voice and assets. Update the executions, tension and channels. And never let a bored brand manager change everything.",
+   "board": {
+    "title": "Consistency, **not sameness**",
+    "steps": [
+     {
+      "text": "**Keep**: idea, voice, assets",
+      "cue": "Keep",
+      "at": 2.835
+     },
+     {
+      "text": "**Update**: executions, channels",
+      "cue": "Update",
+      "at": 5.925
+     },
+     {
+      "text": "**Avoid**: the bored brand manager",
+      "cue": "bored",
+      "at": 9.816
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "a",
+     "look": "student",
+     "at": "front",
+     "v": 6
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "bored",
+     "pose": "shrug",
+     "expr": "stern",
+     "at": 9.816
+    }
+   ],
+   "fx": [
+    {
+     "kind": "zzz",
+     "who": "a",
+     "cue": "bored",
+     "at": 9.816
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "bored",
+     "shot": "close",
+     "at": 9.816
+    }
+   ],
+   "audio": "audio/m-consistency-not-sameness-00.mp3",
+   "leadIn": 0.45,
+   "seconds": 12.594,
+   "words": [
+    {
+     "w": "Consistency",
+     "t": 0.5
+    },
+    {
+     "w": "not",
+     "t": 1.62
+    },
+    {
+     "w": "sameness",
+     "t": 1.891
+    },
+    {
+     "w": "Keep",
+     "t": 2.835
+    },
+    {
+     "w": "the",
+     "t": 3.118
+    },
+    {
+     "w": "core",
+     "t": 3.2
+    },
+    {
+     "w": "idea",
+     "t": 3.484
+    },
+    {
+     "w": "voice",
+     "t": 4.238
+    },
+    {
+     "w": "and",
+     "t": 4.851
+    },
+    {
+     "w": "assets",
+     "t": 5.052
+    },
+    {
+     "w": "Update",
+     "t": 5.925
+    },
+    {
+     "w": "the",
+     "t": 6.373
+    },
+    {
+     "w": "executions",
+     "t": 6.502
+    },
+    {
+     "w": "tension",
+     "t": 7.481
+    },
+    {
+     "w": "and",
+     "t": 8.071
+    },
+    {
+     "w": "channels",
+     "t": 8.224
+    },
+    {
+     "w": "And",
+     "t": 9.108
+    },
+    {
+     "w": "never",
+     "t": 9.297
+    },
+    {
+     "w": "let",
+     "t": 9.568
+    },
+    {
+     "w": "a",
+     "t": 9.769
+    },
+    {
+     "w": "bored",
+     "t": 9.816
+    },
+    {
+     "w": "brand",
+     "t": 10.158
+    },
+    {
+     "w": "manager",
+     "t": 10.429
+    },
+    {
+     "w": "change",
+     "t": 10.795
+    },
+    {
+     "w": "everything",
+     "t": 11.125
+    }
+   ]
+  },
+  {
+   "set": "home",
+   "say": "KitKat still says have a break. But Gen Z can't switch off, so the break is now for the mind, not just the body.",
+   "board": {
+    "title": "Have a **break**",
+    "lines": [
+     {
+      "text": "A break **for the mind**",
+      "cue": "mind",
+      "at": 5.311
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "l"
+    },
+    {
+     "id": "a",
+     "look": "student",
+     "at": "sofa",
+     "v": 2,
+     "mode": "sit",
+     "hold": "phone",
+     "pose": "hold"
+    },
+    {
+     "id": "b",
+     "look": "student",
+     "at": "sofa2",
+     "v": 5,
+     "mode": "sit"
+    }
+   ],
+   "acts": [
+    {
+     "who": "a",
+     "cue": "switch",
+     "expr": "nervous",
+     "at": 3.484
+    },
+    {
+     "who": "b",
+     "cue": "mind",
+     "expr": "relief",
+     "at": 5.311
+    }
+   ],
+   "fx": [
+    {
+     "kind": "exclaim",
+     "who": "a",
+     "cue": "switch",
+     "at": 3.484
+    },
+    {
+     "kind": "brain",
+     "who": "b",
+     "cue": "mind",
+     "at": 5.311
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "Gen",
+     "shot": "actor",
+     "who": "a",
+     "at": 2.717
+    },
+    {
+     "cue": "mind",
+     "shot": "board",
+     "at": 5.311
+    }
+   ],
+   "audio": "audio/m-consistency-not-sameness-01.mp3",
+   "leadIn": 0.45,
+   "seconds": 7.77,
+   "words": [
+    {
+     "w": "KitKat",
+     "t": 0.5
+    },
+    {
+     "w": "still",
+     "t": 0.984
+    },
+    {
+     "w": "says",
+     "t": 1.302
+    },
+    {
+     "w": "have",
+     "t": 1.585
+    },
+    {
+     "w": "a",
+     "t": 1.715
+    },
+    {
+     "w": "break",
+     "t": 1.762
+    },
+    {
+     "w": "But",
+     "t": 2.505
+    },
+    {
+     "w": "Gen",
+     "t": 2.717
+    },
+    {
+     "w": "Z",
+     "t": 2.976
+    },
+    {
+     "w": "can't",
+     "t": 3.236
+    },
+    {
+     "w": "switch",
+     "t": 3.484
+    },
+    {
+     "w": "off",
+     "t": 3.731
+    },
+    {
+     "w": "so",
+     "t": 4.309
+    },
+    {
+     "w": "the",
+     "t": 4.486
+    },
+    {
+     "w": "break",
+     "t": 4.557
+    },
+    {
+     "w": "is",
+     "t": 4.851
+    },
+    {
+     "w": "now",
+     "t": 4.958
+    },
+    {
+     "w": "for",
+     "t": 5.146
+    },
+    {
+     "w": "the",
+     "t": 5.252
+    },
+    {
+     "w": "mind",
+     "t": 5.311
+    },
+    {
+     "w": "not",
+     "t": 5.936
+    },
+    {
+     "w": "just",
+     "t": 6.172
+    },
+    {
+     "w": "the",
+     "t": 6.384
+    },
+    {
+     "w": "body",
+     "t": 6.443
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Meanwhile a new manager, bored of the old ads, wants to scrap it all. That throws away years of built memory.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "r"
+    },
+    {
+     "id": "e1",
+     "look": "exec",
+     "at": "l",
+     "v": 4
+    },
+    {
+     "id": "e2",
+     "look": "exec_f",
+     "at": "table",
+     "v": 1
+    }
+   ],
+   "acts": [
+    {
+     "who": "e1",
+     "cue": "bored",
+     "expr": "dazed",
+     "at": 2.021
+    },
+    {
+     "who": "e1",
+     "cue": "scrap",
+     "pose": "point",
+     "expr": "grin",
+     "at": 3.59
+    },
+    {
+     "who": "host",
+     "cue": "throws",
+     "pose": "shrug",
+     "expr": "pained",
+     "at": 4.922
+    },
+    {
+     "who": "e2",
+     "cue": "memory",
+     "expr": "shock",
+     "at": 6.266
+    }
+   ],
+   "fx": [
+    {
+     "kind": "zzz",
+     "who": "e1",
+     "cue": "bored",
+     "at": 2.021
+    },
+    {
+     "kind": "say",
+     "who": "e1",
+     "cue": "scrap",
+     "text": "Let's change everything!",
+     "at": 3.59
+    },
+    {
+     "kind": "cross",
+     "who": "host",
+     "cue": "throws",
+     "at": 4.922
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "bored",
+     "shot": "actor",
+     "who": "e1",
+     "at": 2.021
+    },
+    {
+     "cue": "throws",
+     "shot": "close",
+     "at": 4.922
+    }
+   ],
+   "audio": "audio/m-consistency-not-sameness-02.mp3",
+   "leadIn": 0.45,
+   "seconds": 7.602,
+   "words": [
+    {
+     "w": "Meanwhile",
+     "t": 0.5
+    },
+    {
+     "w": "a",
+     "t": 1.078
+    },
+    {
+     "w": "new",
+     "t": 1.125
+    },
+    {
+     "w": "manager",
+     "t": 1.325
+    },
+    {
+     "w": "bored",
+     "t": 2.021
+    },
+    {
+     "w": "of",
+     "t": 2.257
+    },
+    {
+     "w": "the",
+     "t": 2.34
+    },
+    {
+     "w": "old",
+     "t": 2.469
+    },
+    {
+     "w": "ads",
+     "t": 2.646
+    },
+    {
+     "w": "wants",
+     "t": 3.259
+    },
+    {
+     "w": "to",
+     "t": 3.507
+    },
+    {
+     "w": "scrap",
+     "t": 3.59
+    },
+    {
+     "w": "it",
+     "t": 3.873
+    },
+    {
+     "w": "all",
+     "t": 3.932
+    },
+    {
+     "w": "That",
+     "t": 4.639
+    },
+    {
+     "w": "throws",
+     "t": 4.922
+    },
+    {
+     "w": "away",
+     "t": 5.264
+    },
+    {
+     "w": "years",
+     "t": 5.535
+    },
+    {
+     "w": "of",
+     "t": 5.901
+    },
+    {
+     "w": "built",
+     "t": 6.019
+    },
+    {
+     "w": "memory",
+     "t": 6.266
+    }
+   ]
+  },
+  {
+   "set": "stage",
+   "say": "Use it like this: turn up differently each time, but keep the idea, voice and craft the same.",
+   "board": {
+    "title": "Use it like **this**",
+    "lines": [
+     {
+      "text": "Turn up **differently**",
+      "cue": "differently",
+      "at": 2.127
+     },
+     {
+      "text": "Same **idea, voice, craft**",
+      "cue": "same",
+      "at": 5.535
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "a",
+     "look": "student",
+     "at": "front",
+     "v": 3
+    }
+   ],
+   "acts": [
+    {
+     "who": "a",
+     "cue": "same",
+     "expr": "smile",
+     "at": 5.535
+    }
+   ],
+   "fx": [
+    {
+     "kind": "tick",
+     "who": "a",
+     "cue": "same",
+     "at": 5.535
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "same",
+     "shot": "close",
+     "at": 5.535
+    }
+   ],
+   "hold": 1.0,
+   "audio": "audio/m-consistency-not-sameness-03.mp3",
+   "leadIn": 0.45,
+   "seconds": 7.33,
+   "words": [
+    {
+     "w": "Use",
+     "t": 0.5
+    },
+    {
+     "w": "it",
+     "t": 0.83
+    },
+    {
+     "w": "like",
+     "t": 0.901
+    },
+    {
+     "w": "this",
+     "t": 1.113
+    },
+    {
+     "w": "turn",
+     "t": 1.75
+    },
+    {
+     "w": "up",
+     "t": 1.986
+    },
+    {
+     "w": "differently",
+     "t": 2.127
+    },
+    {
+     "w": "each",
+     "t": 2.552
+    },
+    {
+     "w": "time",
+     "t": 2.729
+    },
+    {
+     "w": "but",
+     "t": 3.366
+    },
+    {
+     "w": "keep",
+     "t": 3.507
+    },
+    {
+     "w": "the",
+     "t": 3.719
+    },
+    {
+     "w": "idea",
+     "t": 3.825
+    },
+    {
+     "w": "voice",
+     "t": 4.415
+    },
+    {
+     "w": "and",
+     "t": 4.981
+    },
+    {
+     "w": "craft",
+     "t": 5.123
+    },
+    {
+     "w": "the",
+     "t": 5.476
+    },
+    {
+     "w": "same",
+     "t": 5.535
+    }
+   ]
+  }
+ ],
+ "id": "m-consistency-not-sameness",
+ "total": 35.3
+}

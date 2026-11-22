@@ -1,0 +1,648 @@
+{
+ "week": 0,
+ "title": "Mental and physical availability",
+ "speaker": "Justin Papps, Week 3; Brent Smart, Week 4; Libby Hogson, Week 6; Bryce Coombe, Week 10; Nicky Barton, Week 12; from Byron Sharp, How Brands Grow",
+ "beats": [
+  {
+   "set": "stage",
+   "say": "Brands grow by being easy to think of and easy to buy. That's mental and physical availability, built through reach and distinctive assets.",
+   "board": {
+    "title": "Mental and **physical** availability",
+    "steps": [
+     {
+      "text": "**Mental**: comes to mind",
+      "cue": "think",
+      "at": 2.021
+     },
+     {
+      "text": "**Physical**: easy to buy",
+      "cue": "buy",
+      "at": 3.059
+     },
+     {
+      "text": "**Memory**: reach + assets",
+      "cue": "reach",
+      "at": 6.526
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "a",
+     "look": "student",
+     "at": "front",
+     "v": 3
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "reach",
+     "pose": "point",
+     "at": 6.526
+    }
+   ],
+   "fx": [
+    {
+     "kind": "brain",
+     "who": "a",
+     "cue": "mental",
+     "at": 4.12
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "mental",
+     "shot": "close",
+     "at": 4.12
+    },
+    {
+     "cue": "reach",
+     "shot": "board",
+     "at": 6.526
+    }
+   ],
+   "audio": "audio/m-mental-and-physical-availability-00.mp3",
+   "leadIn": 0.45,
+   "seconds": 8.922,
+   "words": [
+    {
+     "w": "Brands",
+     "t": 0.5
+    },
+    {
+     "w": "grow",
+     "t": 0.866
+    },
+    {
+     "w": "by",
+     "t": 1.172
+    },
+    {
+     "w": "being",
+     "t": 1.349
+    },
+    {
+     "w": "easy",
+     "t": 1.667
+    },
+    {
+     "w": "to",
+     "t": 1.927
+    },
+    {
+     "w": "think",
+     "t": 2.021
+    },
+    {
+     "w": "of",
+     "t": 2.269
+    },
+    {
+     "w": "and",
+     "t": 2.446
+    },
+    {
+     "w": "easy",
+     "t": 2.729
+    },
+    {
+     "w": "to",
+     "t": 2.976
+    },
+    {
+     "w": "buy",
+     "t": 3.059
+    },
+    {
+     "w": "That's",
+     "t": 3.814
+    },
+    {
+     "w": "mental",
+     "t": 4.12
+    },
+    {
+     "w": "and",
+     "t": 4.498
+    },
+    {
+     "w": "physical",
+     "t": 4.639
+    },
+    {
+     "w": "availability",
+     "t": 5.04
+    },
+    {
+     "w": "built",
+     "t": 6.078
+    },
+    {
+     "w": "through",
+     "t": 6.29
+    },
+    {
+     "w": "reach",
+     "t": 6.526
+    },
+    {
+     "w": "and",
+     "t": 6.856
+    },
+    {
+     "w": "distinctive",
+     "t": 6.998
+    },
+    {
+     "w": "assets",
+     "t": 7.469
+    }
+   ]
+  },
+  {
+   "set": "plaza",
+   "say": "A shopper wants a snack. Crumb and Co pops into her head, and it's right there on the shelf. Sale made.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "l"
+    },
+    {
+     "id": "s1",
+     "look": "shopper",
+     "at": "walkR",
+     "v": 1,
+     "to": "shelf",
+     "walkCue": "snack",
+     "walkAt": 1.361
+    }
+   ],
+   "acts": [
+    {
+     "who": "s1",
+     "cue": "head",
+     "expr": "smile",
+     "at": 3.59
+    },
+    {
+     "who": "s1",
+     "cue": "Sale",
+     "pose": "cheer",
+     "expr": "grin",
+     "at": 5.842
+    }
+   ],
+   "fx": [
+    {
+     "kind": "think",
+     "who": "s1",
+     "cue": "head",
+     "text": "Crumb & Co!",
+     "at": 3.59
+    },
+    {
+     "kind": "tick",
+     "who": "s1",
+     "cue": "Sale",
+     "at": 5.842
+    },
+    {
+     "kind": "money",
+     "who": "host",
+     "cue": "made",
+     "at": 6.266
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "head",
+     "shot": "actor",
+     "who": "s1",
+     "at": 3.59
+    },
+    {
+     "cue": "Sale",
+     "shot": "close",
+     "who": "s1",
+     "at": 5.842
+    }
+   ],
+   "audio": "audio/m-mental-and-physical-availability-01.mp3",
+   "leadIn": 0.45,
+   "seconds": 7.674,
+   "words": [
+    {
+     "w": "A",
+     "t": 0.5
+    },
+    {
+     "w": "shopper",
+     "t": 0.606
+    },
+    {
+     "w": "wants",
+     "t": 1.042
+    },
+    {
+     "w": "a",
+     "t": 1.314
+    },
+    {
+     "w": "snack",
+     "t": 1.361
+    },
+    {
+     "w": "Crumb",
+     "t": 2.163
+    },
+    {
+     "w": "and",
+     "t": 2.505
+    },
+    {
+     "w": "Co",
+     "t": 2.67
+    },
+    {
+     "w": "pops",
+     "t": 2.976
+    },
+    {
+     "w": "into",
+     "t": 3.307
+    },
+    {
+     "w": "her",
+     "t": 3.484
+    },
+    {
+     "w": "head",
+     "t": 3.59
+    },
+    {
+     "w": "and",
+     "t": 4.238
+    },
+    {
+     "w": "it's",
+     "t": 4.368
+    },
+    {
+     "w": "right",
+     "t": 4.498
+    },
+    {
+     "w": "there",
+     "t": 4.769
+    },
+    {
+     "w": "on",
+     "t": 4.946
+    },
+    {
+     "w": "the",
+     "t": 5.028
+    },
+    {
+     "w": "shelf",
+     "t": 5.064
+    },
+    {
+     "w": "Sale",
+     "t": 5.842
+    },
+    {
+     "w": "made",
+     "t": 6.266
+    }
+   ]
+  },
+  {
+   "set": "street",
+   "say": "Now the opposite. Nike pulled back from stores and chased only the last click. Fewer people saw it, and awareness faded.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "front"
+    },
+    {
+     "id": "p1",
+     "look": "student",
+     "at": "r",
+     "v": 3
+    },
+    {
+     "id": "p2",
+     "look": "shopper",
+     "at": "kerb",
+     "v": 6
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "opposite",
+     "pose": "shrug",
+     "expr": "nervous",
+     "at": 1.042
+    },
+    {
+     "who": "p1",
+     "cue": "Fewer",
+     "expr": "dazed",
+     "at": 5.217
+    },
+    {
+     "who": "p2",
+     "cue": "faded",
+     "pose": "shrug",
+     "at": 7.186
+    }
+   ],
+   "fx": [
+    {
+     "kind": "question",
+     "who": "p1",
+     "cue": "Fewer",
+     "at": 5.217
+    },
+    {
+     "kind": "zzz",
+     "who": "p2",
+     "cue": "faded",
+     "at": 7.186
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "Nike",
+     "shot": "close",
+     "at": 1.88
+    },
+    {
+     "cue": "Fewer",
+     "shot": "actor",
+     "who": "p1",
+     "at": 5.217
+    },
+    {
+     "cue": "faded",
+     "shot": "actor",
+     "who": "p2",
+     "at": 7.186
+    }
+   ],
+   "audio": "audio/m-mental-and-physical-availability-02.mp3",
+   "leadIn": 0.45,
+   "seconds": 8.586,
+   "words": [
+    {
+     "w": "Now",
+     "t": 0.5
+    },
+    {
+     "w": "the",
+     "t": 0.877
+    },
+    {
+     "w": "opposite",
+     "t": 1.042
+    },
+    {
+     "w": "Nike",
+     "t": 1.88
+    },
+    {
+     "w": "pulled",
+     "t": 2.292
+    },
+    {
+     "w": "back",
+     "t": 2.552
+    },
+    {
+     "w": "from",
+     "t": 2.741
+    },
+    {
+     "w": "stores",
+     "t": 2.894
+    },
+    {
+     "w": "and",
+     "t": 3.366
+    },
+    {
+     "w": "chased",
+     "t": 3.531
+    },
+    {
+     "w": "only",
+     "t": 3.884
+    },
+    {
+     "w": "the",
+     "t": 4.144
+    },
+    {
+     "w": "last",
+     "t": 4.215
+    },
+    {
+     "w": "click",
+     "t": 4.509
+    },
+    {
+     "w": "Fewer",
+     "t": 5.217
+    },
+    {
+     "w": "people",
+     "t": 5.571
+    },
+    {
+     "w": "saw",
+     "t": 5.854
+    },
+    {
+     "w": "it",
+     "t": 6.149
+    },
+    {
+     "w": "and",
+     "t": 6.573
+    },
+    {
+     "w": "awareness",
+     "t": 6.703
+    },
+    {
+     "w": "faded",
+     "t": 7.186
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Use it like this: check both. Will buyers think of you, and can they find you easily?",
+   "board": {
+    "title": "Use it like **this**",
+    "lines": [
+     {
+      "text": "Will they **think** of you?",
+      "cue": "think",
+      "at": 3.425
+     },
+     {
+      "text": "Can they **find** you?",
+      "cue": "find",
+      "at": 4.675
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "e1",
+     "look": "exec",
+     "at": "table",
+     "v": 2
+    }
+   ],
+   "acts": [
+    {
+     "who": "e1",
+     "cue": "find",
+     "expr": "smile",
+     "at": 4.675
+    }
+   ],
+   "fx": [
+    {
+     "kind": "tick",
+     "who": "e1",
+     "cue": "easily",
+     "at": 5.099
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "find",
+     "shot": "two",
+     "who": "e1",
+     "at": 4.675
+    }
+   ],
+   "hold": 1.0,
+   "audio": "audio/m-mental-and-physical-availability-03.mp3",
+   "leadIn": 0.45,
+   "seconds": 6.97,
+   "words": [
+    {
+     "w": "Use",
+     "t": 0.5
+    },
+    {
+     "w": "it",
+     "t": 0.83
+    },
+    {
+     "w": "like",
+     "t": 0.913
+    },
+    {
+     "w": "this",
+     "t": 1.137
+    },
+    {
+     "w": "check",
+     "t": 1.75
+    },
+    {
+     "w": "both",
+     "t": 2.009
+    },
+    {
+     "w": "Will",
+     "t": 2.776
+    },
+    {
+     "w": "buyers",
+     "t": 3.035
+    },
+    {
+     "w": "think",
+     "t": 3.425
+    },
+    {
+     "w": "of",
+     "t": 3.601
+    },
+    {
+     "w": "you",
+     "t": 3.684
+    },
+    {
+     "w": "and",
+     "t": 4.226
+    },
+    {
+     "w": "can",
+     "t": 4.38
+    },
+    {
+     "w": "they",
+     "t": 4.545
+    },
+    {
+     "w": "find",
+     "t": 4.675
+    },
+    {
+     "w": "you",
+     "t": 4.958
+    },
+    {
+     "w": "easily",
+     "t": 5.099
+    }
+   ]
+  }
+ ],
+ "id": "m-mental-and-physical-availability",
+ "total": 32.17
+}

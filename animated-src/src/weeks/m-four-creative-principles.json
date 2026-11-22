@@ -1,0 +1,713 @@
+{
+ "week": 0,
+ "title": "Four creative principles (Rexona, Extra, Kia, V Energy)",
+ "speaker": "Brendan Willenberg, Executive Creative Director, Week 9",
+ "beats": [
+  {
+   "set": "office",
+   "say": "Four creative principles, each matched to a problem. Constraint sparks ideas. A new idea in a familiar context breaks habits. Lean into the uncomfortable truth. And call out the category.",
+   "board": {
+    "title": "Four **creative principles**",
+    "steps": [
+     {
+      "text": "**Constraint** sparks ideas (Rexona)",
+      "cue": "Constraint",
+      "at": 3.672
+     },
+     {
+      "text": "**Familiar context**, new idea (Extra)",
+      "cue": "familiar",
+      "at": 6.632
+     },
+     {
+      "text": "**Uncomfortable truth** (Kia)",
+      "cue": "uncomfortable",
+      "at": 9.521
+     },
+     {
+      "text": "**Call out** the category (V)",
+      "cue": "category",
+      "at": 11.726
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "e",
+     "look": "exec_f",
+     "v": 1,
+     "at": "table"
+    }
+   ],
+   "acts": [
+    {
+     "who": "e",
+     "cue": "uncomfortable",
+     "expr": "nervous",
+     "at": 9.521
+    },
+    {
+     "who": "host",
+     "cue": "category",
+     "pose": "up",
+     "expr": "grin",
+     "at": 11.726
+    }
+   ],
+   "fx": [
+    {
+     "kind": "exclaim",
+     "who": "e",
+     "cue": "uncomfortable",
+     "at": 9.521
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "uncomfortable",
+     "shot": "actor",
+     "who": "e",
+     "at": 9.521
+    },
+    {
+     "cue": "category",
+     "shot": "board",
+     "at": 11.726
+    }
+   ],
+   "audio": "audio/m-four-creative-principles-00.mp3",
+   "leadIn": 0.45,
+   "seconds": 13.242,
+   "words": [
+    {
+     "w": "Four",
+     "t": 0.5
+    },
+    {
+     "w": "creative",
+     "t": 0.771
+    },
+    {
+     "w": "principles",
+     "t": 1.243
+    },
+    {
+     "w": "each",
+     "t": 2.151
+    },
+    {
+     "w": "matched",
+     "t": 2.387
+    },
+    {
+     "w": "to",
+     "t": 2.693
+    },
+    {
+     "w": "a",
+     "t": 2.8
+    },
+    {
+     "w": "problem",
+     "t": 2.835
+    },
+    {
+     "w": "Constraint",
+     "t": 3.672
+    },
+    {
+     "w": "sparks",
+     "t": 4.274
+    },
+    {
+     "w": "ideas",
+     "t": 4.686
+    },
+    {
+     "w": "A",
+     "t": 5.606
+    },
+    {
+     "w": "new",
+     "t": 5.724
+    },
+    {
+     "w": "idea",
+     "t": 5.984
+    },
+    {
+     "w": "in",
+     "t": 6.455
+    },
+    {
+     "w": "a",
+     "t": 6.585
+    },
+    {
+     "w": "familiar",
+     "t": 6.632
+    },
+    {
+     "w": "context",
+     "t": 7.08
+    },
+    {
+     "w": "breaks",
+     "t": 7.564
+    },
+    {
+     "w": "habits",
+     "t": 7.847
+    },
+    {
+     "w": "Lean",
+     "t": 8.637
+    },
+    {
+     "w": "into",
+     "t": 9.073
+    },
+    {
+     "w": "the",
+     "t": 9.368
+    },
+    {
+     "w": "uncomfortable",
+     "t": 9.521
+    },
+    {
+     "w": "truth",
+     "t": 10.182
+    },
+    {
+     "w": "And",
+     "t": 10.972
+    },
+    {
+     "w": "call",
+     "t": 11.196
+    },
+    {
+     "w": "out",
+     "t": 11.467
+    },
+    {
+     "w": "the",
+     "t": 11.656
+    },
+    {
+     "w": "category",
+     "t": 11.726
+    }
+   ]
+  },
+  {
+   "set": "street",
+   "say": "Rexona had a tiny budget, so it earned media with Pitvertising. Kia's hybrid had nothing new, so it said nothing, brilliantly.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "front",
+     "pose": "none"
+    },
+    {
+     "id": "p1",
+     "look": "exec",
+     "v": 4,
+     "at": "kerb"
+    },
+    {
+     "id": "p2",
+     "look": "shopper",
+     "v": 2,
+     "at": "bus"
+    }
+   ],
+   "acts": [
+    {
+     "who": "p1",
+     "cue": "budget",
+     "pose": "shrug",
+     "expr": "nervous",
+     "at": 1.644
+    },
+    {
+     "who": "p1",
+     "cue": "Pitvertising",
+     "pose": "cheer",
+     "expr": "grin",
+     "at": 3.436
+    },
+    {
+     "who": "p2",
+     "cue": "nothing",
+     "expr": "dazed",
+     "at": 5.571
+    },
+    {
+     "who": "host",
+     "cue": "brilliantly",
+     "pose": "cheer",
+     "expr": "grin",
+     "at": 7.682
+    }
+   ],
+   "fx": [
+    {
+     "kind": "money",
+     "who": "p1",
+     "cue": "budget",
+     "at": 1.644
+    },
+    {
+     "kind": "burst",
+     "who": "p1",
+     "cue": "Pitvertising",
+     "at": 3.436
+    },
+    {
+     "kind": "question",
+     "who": "p2",
+     "cue": "nothing",
+     "at": 5.571
+    },
+    {
+     "kind": "stars",
+     "who": "host",
+     "cue": "brilliantly",
+     "at": 7.682
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "budget",
+     "shot": "actor",
+     "who": "p1",
+     "at": 1.644
+    },
+    {
+     "cue": "Kia's",
+     "shot": "actor",
+     "who": "p2",
+     "at": 4.604
+    },
+    {
+     "cue": "brilliantly",
+     "shot": "close",
+     "at": 7.682
+    }
+   ],
+   "audio": "audio/m-four-creative-principles-01.mp3",
+   "leadIn": 0.45,
+   "seconds": 9.258,
+   "words": [
+    {
+     "w": "Rexona",
+     "t": 0.5
+    },
+    {
+     "w": "had",
+     "t": 1.125
+    },
+    {
+     "w": "a",
+     "t": 1.278
+    },
+    {
+     "w": "tiny",
+     "t": 1.337
+    },
+    {
+     "w": "budget",
+     "t": 1.644
+    },
+    {
+     "w": "so",
+     "t": 2.363
+    },
+    {
+     "w": "it",
+     "t": 2.599
+    },
+    {
+     "w": "earned",
+     "t": 2.729
+    },
+    {
+     "w": "media",
+     "t": 2.917
+    },
+    {
+     "w": "with",
+     "t": 3.295
+    },
+    {
+     "w": "Pitvertising",
+     "t": 3.436
+    },
+    {
+     "w": "Kia's",
+     "t": 4.604
+    },
+    {
+     "w": "hybrid",
+     "t": 4.946
+    },
+    {
+     "w": "had",
+     "t": 5.37
+    },
+    {
+     "w": "nothing",
+     "t": 5.571
+    },
+    {
+     "w": "new",
+     "t": 5.877
+    },
+    {
+     "w": "so",
+     "t": 6.502
+    },
+    {
+     "w": "it",
+     "t": 6.738
+    },
+    {
+     "w": "said",
+     "t": 6.809
+    },
+    {
+     "w": "nothing",
+     "t": 7.045
+    },
+    {
+     "w": "brilliantly",
+     "t": 7.682
+    }
+   ]
+  },
+  {
+   "set": "home",
+   "say": "V Energy couldn't beat Red Bull at its own game. So it called out the whole category, and said one thing over and over.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "l",
+     "pose": "none"
+    },
+    {
+     "id": "a",
+     "look": "student",
+     "v": 2,
+     "at": "sofa",
+     "mode": "sit"
+    },
+    {
+     "id": "b",
+     "look": "student",
+     "v": 7,
+     "at": "sofa2",
+     "mode": "sit"
+    }
+   ],
+   "acts": [
+    {
+     "who": "a",
+     "cue": "couldn't",
+     "expr": "nervous",
+     "at": 1.266
+    },
+    {
+     "who": "b",
+     "cue": "called",
+     "pose": "point",
+     "expr": "laugh",
+     "at": 3.814
+    },
+    {
+     "who": "host",
+     "cue": "over",
+     "pose": "up",
+     "expr": "grin",
+     "at": 6.208
+    }
+   ],
+   "fx": [
+    {
+     "kind": "exclaim",
+     "who": "b",
+     "cue": "called",
+     "at": 3.814
+    },
+    {
+     "kind": "stars",
+     "who": "host",
+     "cue": "over",
+     "at": 6.208
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "called",
+     "shot": "actor",
+     "who": "b",
+     "at": 3.814
+    },
+    {
+     "cue": "over",
+     "shot": "close",
+     "at": 6.208
+    }
+   ],
+   "audio": "audio/m-four-creative-principles-02.mp3",
+   "leadIn": 0.45,
+   "seconds": 7.866,
+   "words": [
+    {
+     "w": "V",
+     "t": 0.5
+    },
+    {
+     "w": "Energy",
+     "t": 0.877
+    },
+    {
+     "w": "couldn't",
+     "t": 1.266
+    },
+    {
+     "w": "beat",
+     "t": 1.585
+    },
+    {
+     "w": "Red",
+     "t": 1.785
+    },
+    {
+     "w": "Bull",
+     "t": 2.009
+    },
+    {
+     "w": "at",
+     "t": 2.304
+    },
+    {
+     "w": "its",
+     "t": 2.422
+    },
+    {
+     "w": "own",
+     "t": 2.575
+    },
+    {
+     "w": "game",
+     "t": 2.729
+    },
+    {
+     "w": "So",
+     "t": 3.484
+    },
+    {
+     "w": "it",
+     "t": 3.755
+    },
+    {
+     "w": "called",
+     "t": 3.814
+    },
+    {
+     "w": "out",
+     "t": 4.05
+    },
+    {
+     "w": "the",
+     "t": 4.226
+    },
+    {
+     "w": "whole",
+     "t": 4.297
+    },
+    {
+     "w": "category",
+     "t": 4.486
+    },
+    {
+     "w": "and",
+     "t": 5.3
+    },
+    {
+     "w": "said",
+     "t": 5.441
+    },
+    {
+     "w": "one",
+     "t": 5.653
+    },
+    {
+     "w": "thing",
+     "t": 5.913
+    },
+    {
+     "w": "over",
+     "t": 6.208
+    },
+    {
+     "w": "and",
+     "t": 6.467
+    },
+    {
+     "w": "over",
+     "t": 6.55
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Use it like this: name the shape of the problem, then pick the matching principle.",
+   "board": {
+    "title": "Use it like **this**",
+    "lines": [
+     {
+      "text": "Name the **problem**",
+      "cue": "problem",
+      "at": 2.564
+     },
+     {
+      "text": "Pick the **principle**",
+      "cue": "principle",
+      "at": 4.132
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "point"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "principle",
+     "pose": "cheer",
+     "expr": "grin",
+     "at": 4.132
+    }
+   ],
+   "fx": [
+    {
+     "kind": "tick",
+     "who": "host",
+     "cue": "principle",
+     "at": 4.132
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "principle",
+     "shot": "close",
+     "at": 4.132
+    }
+   ],
+   "hold": 1.0,
+   "audio": "audio/m-four-creative-principles-03.mp3",
+   "leadIn": 0.45,
+   "seconds": 6.01,
+   "words": [
+    {
+     "w": "Use",
+     "t": 0.5
+    },
+    {
+     "w": "it",
+     "t": 0.83
+    },
+    {
+     "w": "like",
+     "t": 0.901
+    },
+    {
+     "w": "this",
+     "t": 1.09
+    },
+    {
+     "w": "name",
+     "t": 1.738
+    },
+    {
+     "w": "the",
+     "t": 2.068
+    },
+    {
+     "w": "shape",
+     "t": 2.127
+    },
+    {
+     "w": "of",
+     "t": 2.422
+    },
+    {
+     "w": "the",
+     "t": 2.493
+    },
+    {
+     "w": "problem",
+     "t": 2.564
+    },
+    {
+     "w": "then",
+     "t": 3.259
+    },
+    {
+     "w": "pick",
+     "t": 3.472
+    },
+    {
+     "w": "the",
+     "t": 3.719
+    },
+    {
+     "w": "matching",
+     "t": 3.79
+    },
+    {
+     "w": "principle",
+     "t": 4.132
+    }
+   ]
+  }
+ ],
+ "id": "m-four-creative-principles",
+ "total": 36.37
+}

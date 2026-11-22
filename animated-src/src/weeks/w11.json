@@ -1,0 +1,3439 @@
+{
+ "week": 11,
+ "title": "Inside a media agency: strategy, automation and AI",
+ "speaker": "Ali Coysh and Geoff Clarke",
+ "beats": [
+  {
+   "set": "stage",
+   "say": "Week eleven goes inside a media agency. First, Ali Coysh, National Head of Strategy at Initiative, on how media strategy works.",
+   "board": {
+    "photo": "photos/w11.png",
+    "title": "Inside a **media agency**",
+    "name": "Ali Coysh",
+    "org": "National Head of Strategy, Initiative"
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "s1",
+     "look": "student",
+     "v": 1,
+     "at": "aisle"
+    },
+    {
+     "id": "s2",
+     "look": "student",
+     "v": 2,
+     "at": "aisle2"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "Ali",
+     "shot": "board",
+     "at": 4.203
+    }
+   ],
+   "audio": "audio/w11-00.mp3",
+   "leadIn": 0.45,
+   "seconds": 9.786,
+   "words": [
+    {
+     "w": "Week",
+     "t": 0.5
+    },
+    {
+     "w": "eleven",
+     "t": 0.83
+    },
+    {
+     "w": "goes",
+     "t": 1.255
+    },
+    {
+     "w": "inside",
+     "t": 1.609
+    },
+    {
+     "w": "a",
+     "t": 2.057
+    },
+    {
+     "w": "media",
+     "t": 2.08
+    },
+    {
+     "w": "agency",
+     "t": 2.493
+    },
+    {
+     "w": "First",
+     "t": 3.377
+    },
+    {
+     "w": "Ali",
+     "t": 4.203
+    },
+    {
+     "w": "Coysh",
+     "t": 4.462
+    },
+    {
+     "w": "National",
+     "t": 5.241
+    },
+    {
+     "w": "Head",
+     "t": 5.677
+    },
+    {
+     "w": "of",
+     "t": 5.807
+    },
+    {
+     "w": "Strategy",
+     "t": 5.877
+    },
+    {
+     "w": "at",
+     "t": 6.396
+    },
+    {
+     "w": "Initiative",
+     "t": 6.502
+    },
+    {
+     "w": "on",
+     "t": 7.34
+    },
+    {
+     "w": "how",
+     "t": 7.493
+    },
+    {
+     "w": "media",
+     "t": 7.682
+    },
+    {
+     "w": "strategy",
+     "t": 8.024
+    },
+    {
+     "w": "works",
+     "t": 8.436
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Fifteen years ago, media, creative and PR agencies sat around the client. Now it's crowded with analytics and in-house teams too.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "front"
+    },
+    {
+     "id": "client",
+     "look": "exec_f",
+     "v": 1,
+     "at": "c",
+     "pose": "hips"
+    },
+    {
+     "id": "a1",
+     "look": "exec",
+     "v": 2,
+     "at": "l"
+    },
+    {
+     "id": "a2",
+     "look": "exec",
+     "v": 4,
+     "at": "r"
+    },
+    {
+     "id": "a3",
+     "look": "worker",
+     "v": 1,
+     "at": "walkL",
+     "to": "table",
+     "walkCue": "crowded",
+     "hold": "laptop",
+     "pose": "hold",
+     "walkAt": 5.641
+    },
+    {
+     "id": "a4",
+     "look": "exec_f",
+     "v": 3,
+     "at": "walkR",
+     "to": "table2",
+     "walkCue": "in-house",
+     "hold": "clipboard",
+     "pose": "hold",
+     "walkAt": 6.986
+    }
+   ],
+   "acts": [
+    {
+     "who": "a1",
+     "cue": "Media",
+     "pose": "point",
+     "at": 1.703
+    },
+    {
+     "who": "a2",
+     "cue": "PR",
+     "pose": "present",
+     "at": 3.142
+    },
+    {
+     "who": "client",
+     "cue": "crowded",
+     "pose": "shrug",
+     "expr": "nervous",
+     "at": 5.641
+    }
+   ],
+   "fx": [
+    {
+     "kind": "think",
+     "who": "client",
+     "text": "So many agencies!",
+     "cue": "crowded",
+     "at": 5.641
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "crowded",
+     "shot": "actor",
+     "who": "client",
+     "at": 5.641
+    },
+    {
+     "cue": "in-house",
+     "shot": "wide",
+     "at": 6.986
+    }
+   ],
+   "audio": "audio/w11-01.mp3",
+   "leadIn": 0.45,
+   "seconds": 9.066,
+   "words": [
+    {
+     "w": "Fifteen",
+     "t": 0.5
+    },
+    {
+     "w": "years",
+     "t": 0.972
+    },
+    {
+     "w": "ago",
+     "t": 1.16
+    },
+    {
+     "w": "media",
+     "t": 1.703
+    },
+    {
+     "w": "creative",
+     "t": 2.434
+    },
+    {
+     "w": "and",
+     "t": 2.965
+    },
+    {
+     "w": "PR",
+     "t": 3.142
+    },
+    {
+     "w": "agencies",
+     "t": 3.519
+    },
+    {
+     "w": "sat",
+     "t": 3.979
+    },
+    {
+     "w": "around",
+     "t": 4.191
+    },
+    {
+     "w": "the",
+     "t": 4.415
+    },
+    {
+     "w": "client",
+     "t": 4.45
+    },
+    {
+     "w": "Now",
+     "t": 5.229
+    },
+    {
+     "w": "it's",
+     "t": 5.559
+    },
+    {
+     "w": "crowded",
+     "t": 5.641
+    },
+    {
+     "w": "with",
+     "t": 6.054
+    },
+    {
+     "w": "analytics",
+     "t": 6.196
+    },
+    {
+     "w": "and",
+     "t": 6.774
+    },
+    {
+     "w": "in-house",
+     "t": 6.986
+    },
+    {
+     "w": "teams",
+     "t": 7.434
+    },
+    {
+     "w": "too",
+     "t": 7.741
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Four things drove that: more channels, the rise of specialists, economic pressure on budgets, and a data boom, along with privacy laws.",
+   "board": {
+    "title": "Why it **fragmented**",
+    "steps": [
+     {
+      "text": "**Channels** keep multiplying",
+      "cue": "channels",
+      "at": 2.139
+     },
+     {
+      "text": "**Specialists** beat generalists",
+      "cue": "specialists",
+      "at": 3.283
+     },
+     {
+      "text": "**Economics** squeeze budgets",
+      "cue": "economic",
+      "at": 4.156
+     },
+     {
+      "text": "**Data** boom, plus privacy laws",
+      "cue": "data",
+      "at": 5.83
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "point"
+    },
+    {
+     "id": "boss",
+     "look": "exec",
+     "v": 3,
+     "at": "table"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "money",
+     "who": "boss",
+     "cue": "budgets",
+     "at": 4.946
+    },
+    {
+     "kind": "chart",
+     "who": "host",
+     "cue": "data",
+     "at": 5.83
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "budgets",
+     "shot": "two",
+     "who": "boss",
+     "at": 4.946
+    },
+    {
+     "cue": "privacy",
+     "shot": "board",
+     "at": 7.092
+    }
+   ],
+   "audio": "audio/w11-02.mp3",
+   "leadIn": 0.45,
+   "seconds": 8.802,
+   "words": [
+    {
+     "w": "Four",
+     "t": 0.5
+    },
+    {
+     "w": "things",
+     "t": 0.818
+    },
+    {
+     "w": "drove",
+     "t": 1.09
+    },
+    {
+     "w": "that",
+     "t": 1.361
+    },
+    {
+     "w": "more",
+     "t": 1.903
+    },
+    {
+     "w": "channels",
+     "t": 2.139
+    },
+    {
+     "w": "the",
+     "t": 2.835
+    },
+    {
+     "w": "rise",
+     "t": 2.929
+    },
+    {
+     "w": "of",
+     "t": 3.224
+    },
+    {
+     "w": "specialists",
+     "t": 3.283
+    },
+    {
+     "w": "economic",
+     "t": 4.156
+    },
+    {
+     "w": "pressure",
+     "t": 4.557
+    },
+    {
+     "w": "on",
+     "t": 4.84
+    },
+    {
+     "w": "budgets",
+     "t": 4.946
+    },
+    {
+     "w": "and",
+     "t": 5.653
+    },
+    {
+     "w": "a",
+     "t": 5.795
+    },
+    {
+     "w": "data",
+     "t": 5.83
+    },
+    {
+     "w": "boom",
+     "t": 6.125
+    },
+    {
+     "w": "along",
+     "t": 6.656
+    },
+    {
+     "w": "with",
+     "t": 6.962
+    },
+    {
+     "w": "privacy",
+     "t": 7.092
+    },
+    {
+     "w": "laws",
+     "t": 7.434
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "So who owns strategy? Creative and media agencies used to work together. Now they compete for it, both pitching to the same client.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "front",
+     "pose": "chin"
+    },
+    {
+     "id": "cre",
+     "look": "exec_f",
+     "v": 5,
+     "at": "l"
+    },
+    {
+     "id": "med",
+     "look": "exec",
+     "v": 6,
+     "at": "r",
+     "mirror": true
+    },
+    {
+     "id": "client",
+     "look": "exec",
+     "v": 1,
+     "at": "c"
+    }
+   ],
+   "acts": [
+    {
+     "who": "cre",
+     "cue": "compete",
+     "pose": "point",
+     "expr": "stern",
+     "at": 5.748
+    },
+    {
+     "who": "med",
+     "cue": "both",
+     "pose": "point",
+     "expr": "stern",
+     "at": 6.738
+    },
+    {
+     "who": "client",
+     "cue": "pitching",
+     "pose": "shrug",
+     "expr": "dazed",
+     "at": 6.986
+    }
+   ],
+   "fx": [
+    {
+     "kind": "question",
+     "who": "host",
+     "cue": "owns",
+     "at": 1.172
+    },
+    {
+     "kind": "say",
+     "who": "cre",
+     "text": "Our strategy!",
+     "cue": "compete",
+     "at": 5.748
+    },
+    {
+     "kind": "say",
+     "who": "med",
+     "text": "No, ours!",
+     "cue": "both",
+     "at": 6.738
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "host",
+     "at": 0.2
+    },
+    {
+     "cue": "compete",
+     "shot": "wide",
+     "at": 5.748
+    },
+    {
+     "cue": "client",
+     "shot": "close",
+     "who": "client",
+     "at": 7.776
+    }
+   ],
+   "audio": "audio/w11-03.mp3",
+   "leadIn": 0.45,
+   "seconds": 9.186,
+   "words": [
+    {
+     "w": "So",
+     "t": 0.5
+    },
+    {
+     "w": "who",
+     "t": 0.925
+    },
+    {
+     "w": "owns",
+     "t": 1.172
+    },
+    {
+     "w": "strategy",
+     "t": 1.337
+    },
+    {
+     "w": "Creative",
+     "t": 2.304
+    },
+    {
+     "w": "and",
+     "t": 2.847
+    },
+    {
+     "w": "media",
+     "t": 3.0
+    },
+    {
+     "w": "agencies",
+     "t": 3.377
+    },
+    {
+     "w": "used",
+     "t": 3.908
+    },
+    {
+     "w": "to",
+     "t": 4.215
+    },
+    {
+     "w": "work",
+     "t": 4.285
+    },
+    {
+     "w": "together",
+     "t": 4.509
+    },
+    {
+     "w": "Now",
+     "t": 5.3
+    },
+    {
+     "w": "they",
+     "t": 5.606
+    },
+    {
+     "w": "compete",
+     "t": 5.748
+    },
+    {
+     "w": "for",
+     "t": 6.101
+    },
+    {
+     "w": "it",
+     "t": 6.302
+    },
+    {
+     "w": "both",
+     "t": 6.738
+    },
+    {
+     "w": "pitching",
+     "t": 6.986
+    },
+    {
+     "w": "to",
+     "t": 7.375
+    },
+    {
+     "w": "the",
+     "t": 7.446
+    },
+    {
+     "w": "same",
+     "t": 7.528
+    },
+    {
+     "w": "client",
+     "t": 7.776
+    }
+   ]
+  },
+  {
+   "set": "street",
+   "say": "Media's job has grown too. It used to be planning, buying and reporting on paid media. Now it orchestrates experiences across owned, earned, shared and paid.",
+   "board": {
+    "title": "Media's **bigger job**",
+    "vs": {
+     "left": "Then",
+     "right": "Now",
+     "leftItems": [
+      "Plan, buy, report",
+      "Paid media only"
+     ],
+     "rightItems": [
+      "Orchestrate experiences",
+      "Owned, earned, shared, paid"
+     ],
+     "cue": "used",
+     "at": 2.752
+    }
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "p1",
+     "look": "shopper",
+     "v": 3,
+     "at": "bus",
+     "hold": "phone",
+     "pose": "hold"
+    },
+    {
+     "id": "p2",
+     "look": "student",
+     "v": 4,
+     "at": "walkR",
+     "to": "kerb",
+     "walkCue": "orchestrates",
+     "walkAt": 6.55
+    }
+   ],
+   "acts": [
+    {
+     "who": "p1",
+     "cue": "orchestrates",
+     "pose": "none",
+     "expr": "smile",
+     "at": 6.55
+    }
+   ],
+   "fx": [
+    {
+     "kind": "sparkle",
+     "who": "p1",
+     "cue": "experiences",
+     "at": 7.08
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "orchestrates",
+     "shot": "wide",
+     "at": 6.55
+    }
+   ],
+   "audio": "audio/w11-04.mp3",
+   "leadIn": 0.45,
+   "seconds": 11.634,
+   "words": [
+    {
+     "w": "Media's",
+     "t": 0.5
+    },
+    {
+     "w": "job",
+     "t": 1.042
+    },
+    {
+     "w": "has",
+     "t": 1.373
+    },
+    {
+     "w": "grown",
+     "t": 1.561
+    },
+    {
+     "w": "too",
+     "t": 1.821
+    },
+    {
+     "w": "It",
+     "t": 2.564
+    },
+    {
+     "w": "used",
+     "t": 2.752
+    },
+    {
+     "w": "to",
+     "t": 3.0
+    },
+    {
+     "w": "be",
+     "t": 3.059
+    },
+    {
+     "w": "planning",
+     "t": 3.177
+    },
+    {
+     "w": "buying",
+     "t": 3.873
+    },
+    {
+     "w": "and",
+     "t": 4.262
+    },
+    {
+     "w": "reporting",
+     "t": 4.391
+    },
+    {
+     "w": "on",
+     "t": 4.899
+    },
+    {
+     "w": "paid",
+     "t": 5.064
+    },
+    {
+     "w": "media",
+     "t": 5.335
+    },
+    {
+     "w": "Now",
+     "t": 6.113
+    },
+    {
+     "w": "it",
+     "t": 6.443
+    },
+    {
+     "w": "orchestrates",
+     "t": 6.55
+    },
+    {
+     "w": "experiences",
+     "t": 7.08
+    },
+    {
+     "w": "across",
+     "t": 7.729
+    },
+    {
+     "w": "owned",
+     "t": 8.13
+    },
+    {
+     "w": "earned",
+     "t": 8.814
+    },
+    {
+     "w": "shared",
+     "t": 9.403
+    },
+    {
+     "w": "and",
+     "t": 10.04
+    },
+    {
+     "w": "paid",
+     "t": 10.193
+    }
+   ]
+  },
+  {
+   "set": "home",
+   "say": "To choose channels, strategists weigh eight inputs. Who's the audience, what do they watch, what's happening in culture, and where do they shop the category?",
+   "board": {
+    "title": "Eight **inputs**",
+    "lines": [
+     {
+      "text": "**Audience** insight",
+      "cue": "audience",
+      "at": 4.356
+     },
+     {
+      "text": "**Media** consumption",
+      "cue": "watch",
+      "at": 5.417
+     },
+     {
+      "text": "**Cultural** trends",
+      "cue": "culture",
+      "at": 6.679
+     },
+     {
+      "text": "**Category** context",
+      "cue": "category",
+      "at": 8.318
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "tv",
+     "pose": "point"
+    },
+    {
+     "id": "a",
+     "look": "student",
+     "v": 5,
+     "at": "sofa",
+     "mode": "sit",
+     "hold": "phone",
+     "pose": "hold"
+    },
+    {
+     "id": "b",
+     "look": "shopper",
+     "v": 1,
+     "at": "sofa2",
+     "mode": "sit"
+    }
+   ],
+   "acts": [
+    {
+     "who": "b",
+     "cue": "watch",
+     "expr": "smile",
+     "at": 5.417
+    }
+   ],
+   "fx": [
+    {
+     "kind": "eye",
+     "who": "b",
+     "cue": "watch",
+     "at": 5.417
+    },
+    {
+     "kind": "heart",
+     "who": "a",
+     "cue": "culture",
+     "at": 6.679
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "watch",
+     "shot": "actor",
+     "who": "b",
+     "at": 5.417
+    },
+    {
+     "cue": "category",
+     "shot": "board",
+     "at": 8.318
+    }
+   ],
+   "audio": "audio/w11-05.mp3",
+   "leadIn": 0.45,
+   "seconds": 9.786,
+   "words": [
+    {
+     "w": "To",
+     "t": 0.5
+    },
+    {
+     "w": "choose",
+     "t": 0.653
+    },
+    {
+     "w": "channels",
+     "t": 0.936
+    },
+    {
+     "w": "strategists",
+     "t": 1.691
+    },
+    {
+     "w": "weigh",
+     "t": 2.434
+    },
+    {
+     "w": "eight",
+     "t": 2.788
+    },
+    {
+     "w": "inputs",
+     "t": 3.012
+    },
+    {
+     "w": "Who's",
+     "t": 3.896
+    },
+    {
+     "w": "the",
+     "t": 4.203
+    },
+    {
+     "w": "audience",
+     "t": 4.356
+    },
+    {
+     "w": "what",
+     "t": 4.993
+    },
+    {
+     "w": "do",
+     "t": 5.217
+    },
+    {
+     "w": "they",
+     "t": 5.288
+    },
+    {
+     "w": "watch",
+     "t": 5.417
+    },
+    {
+     "w": "what's",
+     "t": 6.031
+    },
+    {
+     "w": "happening",
+     "t": 6.243
+    },
+    {
+     "w": "in",
+     "t": 6.597
+    },
+    {
+     "w": "culture",
+     "t": 6.679
+    },
+    {
+     "w": "and",
+     "t": 7.422
+    },
+    {
+     "w": "where",
+     "t": 7.599
+    },
+    {
+     "w": "do",
+     "t": 7.8
+    },
+    {
+     "w": "they",
+     "t": 7.87
+    },
+    {
+     "w": "shop",
+     "t": 8.0
+    },
+    {
+     "w": "the",
+     "t": 8.259
+    },
+    {
+     "w": "category",
+     "t": 8.318
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Then the hard numbers. Which channel works best? What does modelling say drives return? Which markets matter, and what creative assets are there?",
+   "board": {
+    "title": "And four **more**",
+    "lines": [
+     {
+      "text": "**Channel** effectiveness",
+      "cue": "channel",
+      "at": 2.434
+     },
+     {
+      "text": "**Modelling** for ROI",
+      "cue": "modelling",
+      "at": 4.321
+     },
+     {
+      "text": "**Market** nuance",
+      "cue": "markets",
+      "at": 6.585
+     },
+     {
+      "text": "**Creative** considerations",
+      "cue": "creative",
+      "at": 7.988
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "an",
+     "look": "worker",
+     "v": 2,
+     "at": "desk",
+     "hold": "laptop",
+     "pose": "hold"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "chart",
+     "who": "an",
+     "cue": "modelling",
+     "at": 4.321
+    },
+    {
+     "kind": "bulb",
+     "who": "host",
+     "cue": "creative",
+     "at": 7.988
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "modelling",
+     "shot": "actor",
+     "who": "an",
+     "at": 4.321
+    },
+    {
+     "cue": "markets",
+     "shot": "board",
+     "at": 6.585
+    }
+   ],
+   "audio": "audio/w11-06.mp3",
+   "leadIn": 0.45,
+   "seconds": 10.122,
+   "words": [
+    {
+     "w": "Then",
+     "t": 0.5
+    },
+    {
+     "w": "the",
+     "t": 0.818
+    },
+    {
+     "w": "hard",
+     "t": 0.925
+    },
+    {
+     "w": "numbers",
+     "t": 1.196
+    },
+    {
+     "w": "Which",
+     "t": 2.033
+    },
+    {
+     "w": "channel",
+     "t": 2.434
+    },
+    {
+     "w": "works",
+     "t": 2.776
+    },
+    {
+     "w": "best",
+     "t": 3.035
+    },
+    {
+     "w": "What",
+     "t": 3.814
+    },
+    {
+     "w": "does",
+     "t": 4.144
+    },
+    {
+     "w": "modelling",
+     "t": 4.321
+    },
+    {
+     "w": "say",
+     "t": 4.734
+    },
+    {
+     "w": "drives",
+     "t": 5.028
+    },
+    {
+     "w": "return",
+     "t": 5.417
+    },
+    {
+     "w": "Which",
+     "t": 6.255
+    },
+    {
+     "w": "markets",
+     "t": 6.585
+    },
+    {
+     "w": "matter",
+     "t": 6.986
+    },
+    {
+     "w": "and",
+     "t": 7.599
+    },
+    {
+     "w": "what",
+     "t": 7.764
+    },
+    {
+     "w": "creative",
+     "t": 7.988
+    },
+    {
+     "w": "assets",
+     "t": 8.436
+    },
+    {
+     "w": "are",
+     "t": 8.79
+    },
+    {
+     "w": "there",
+     "t": 8.825
+    }
+   ]
+  },
+  {
+   "set": "stage",
+   "say": "Every decision follows one logic flow. Journey stage, then the bond or barrier, the media role, and then channel, platform and the exact environment.",
+   "board": {
+    "title": "The **logic flow**",
+    "steps": [
+     {
+      "text": "**Journey** stage",
+      "cue": "journey",
+      "at": 3.071
+     },
+     {
+      "text": "**Bond** or barrier",
+      "cue": "bond",
+      "at": 4.391
+     },
+     {
+      "text": "**Media** role",
+      "cue": "role",
+      "at": 5.818
+     },
+     {
+      "text": "**Channel**, then platform",
+      "cue": "channel",
+      "at": 6.632
+     },
+     {
+      "text": "**Environment**",
+      "cue": "environment",
+      "at": 8.33
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "point"
+    },
+    {
+     "id": "s1",
+     "look": "student",
+     "v": 6,
+     "at": "aisle"
+    }
+   ],
+   "acts": [
+    {
+     "who": "s1",
+     "cue": "environment",
+     "pose": "up",
+     "expr": "grin",
+     "at": 8.33
+    }
+   ],
+   "fx": [
+    {
+     "kind": "bulb",
+     "who": "s1",
+     "cue": "environment",
+     "at": 8.33
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "environment",
+     "shot": "actor",
+     "who": "s1",
+     "at": 8.33
+    }
+   ],
+   "audio": "audio/w11-07.mp3",
+   "leadIn": 0.45,
+   "seconds": 9.81,
+   "words": [
+    {
+     "w": "Every",
+     "t": 0.5
+    },
+    {
+     "w": "decision",
+     "t": 0.818
+    },
+    {
+     "w": "follows",
+     "t": 1.337
+    },
+    {
+     "w": "one",
+     "t": 1.715
+    },
+    {
+     "w": "logic",
+     "t": 1.986
+    },
+    {
+     "w": "flow",
+     "t": 2.304
+    },
+    {
+     "w": "Journey",
+     "t": 3.071
+    },
+    {
+     "w": "stage",
+     "t": 3.413
+    },
+    {
+     "w": "then",
+     "t": 4.179
+    },
+    {
+     "w": "the",
+     "t": 4.333
+    },
+    {
+     "w": "bond",
+     "t": 4.391
+    },
+    {
+     "w": "or",
+     "t": 4.698
+    },
+    {
+     "w": "barrier",
+     "t": 4.757
+    },
+    {
+     "w": "the",
+     "t": 5.406
+    },
+    {
+     "w": "media",
+     "t": 5.476
+    },
+    {
+     "w": "role",
+     "t": 5.818
+    },
+    {
+     "w": "and",
+     "t": 6.314
+    },
+    {
+     "w": "then",
+     "t": 6.467
+    },
+    {
+     "w": "channel",
+     "t": 6.632
+    },
+    {
+     "w": "platform",
+     "t": 7.21
+    },
+    {
+     "w": "and",
+     "t": 7.764
+    },
+    {
+     "w": "the",
+     "t": 7.906
+    },
+    {
+     "w": "exact",
+     "t": 8.0
+    },
+    {
+     "w": "environment",
+     "t": 8.33
+    }
+   ]
+  },
+  {
+   "set": "plaza",
+   "say": "Take Lego City. Kids felt it was losing out to newer, cooler toys. So Lego partnered with Nitro Circus and reignited the love.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "r"
+    },
+    {
+     "id": "k1",
+     "look": "kid",
+     "v": 1,
+     "at": "l"
+    },
+    {
+     "id": "k2",
+     "look": "kid",
+     "v": 2,
+     "at": "c"
+    },
+    {
+     "id": "mum",
+     "look": "shopper",
+     "v": 3,
+     "at": "far",
+     "hold": "bag",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "k1",
+     "cue": "losing",
+     "pose": "shrug",
+     "expr": "dazed",
+     "at": 2.859
+    },
+    {
+     "who": "k2",
+     "cue": "cooler",
+     "expr": "neutral",
+     "at": 4.085
+    },
+    {
+     "who": "k1",
+     "cue": "Nitro",
+     "pose": "cheer",
+     "expr": "laugh",
+     "at": 6.479
+    },
+    {
+     "who": "k2",
+     "cue": "reignited",
+     "pose": "cheer",
+     "expr": "grin",
+     "at": 7.481
+    }
+   ],
+   "fx": [
+    {
+     "kind": "think",
+     "who": "k1",
+     "text": "Bit boring now",
+     "cue": "losing",
+     "at": 2.859
+    },
+    {
+     "kind": "burst",
+     "who": "k2",
+     "cue": "Nitro",
+     "at": 6.479
+    },
+    {
+     "kind": "heart",
+     "who": "k1",
+     "cue": "love",
+     "at": 8.141
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "losing",
+     "shot": "two",
+     "who": "k1",
+     "at": 2.859
+    },
+    {
+     "cue": "Nitro",
+     "shot": "wide",
+     "at": 6.479
+    },
+    {
+     "cue": "love",
+     "shot": "close",
+     "who": "k2",
+     "at": 8.141
+    }
+   ],
+   "audio": "audio/w11-08.mp3",
+   "leadIn": 0.45,
+   "seconds": 9.498,
+   "words": [
+    {
+     "w": "Take",
+     "t": 0.5
+    },
+    {
+     "w": "Lego",
+     "t": 0.866
+    },
+    {
+     "w": "City",
+     "t": 1.196
+    },
+    {
+     "w": "Kids",
+     "t": 1.962
+    },
+    {
+     "w": "felt",
+     "t": 2.269
+    },
+    {
+     "w": "it",
+     "t": 2.587
+    },
+    {
+     "w": "was",
+     "t": 2.705
+    },
+    {
+     "w": "losing",
+     "t": 2.859
+    },
+    {
+     "w": "out",
+     "t": 3.2
+    },
+    {
+     "w": "to",
+     "t": 3.366
+    },
+    {
+     "w": "newer",
+     "t": 3.46
+    },
+    {
+     "w": "cooler",
+     "t": 4.085
+    },
+    {
+     "w": "toys",
+     "t": 4.403
+    },
+    {
+     "w": "So",
+     "t": 5.264
+    },
+    {
+     "w": "Lego",
+     "t": 5.524
+    },
+    {
+     "w": "partnered",
+     "t": 5.901
+    },
+    {
+     "w": "with",
+     "t": 6.325
+    },
+    {
+     "w": "Nitro",
+     "t": 6.479
+    },
+    {
+     "w": "Circus",
+     "t": 6.833
+    },
+    {
+     "w": "and",
+     "t": 7.292
+    },
+    {
+     "w": "reignited",
+     "t": 7.481
+    },
+    {
+     "w": "the",
+     "t": 8.094
+    },
+    {
+     "w": "love",
+     "t": 8.141
+    }
+   ]
+  },
+  {
+   "set": "home",
+   "say": "Crown wasn't seen as a dining destination. So it sponsored MasterChef on TV, rebuilding its dining credentials where food lovers were watching.",
+   "board": {
+    "title": "Crown x **MasterChef**",
+    "lines": [
+     {
+      "text": "Barrier: not a **dining** spot",
+      "cue": "dining",
+      "at": 1.679
+     },
+     {
+      "text": "Role: rebuild **credentials**",
+      "cue": "credentials",
+      "at": 6.361
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "l",
+     "pose": "present"
+    },
+    {
+     "id": "a",
+     "look": "elder",
+     "v": 2,
+     "at": "sofa",
+     "mode": "sit"
+    },
+    {
+     "id": "b",
+     "look": "shopper",
+     "v": 5,
+     "at": "sofa2",
+     "mode": "sit"
+    }
+   ],
+   "acts": [
+    {
+     "who": "a",
+     "cue": "MasterChef",
+     "expr": "lick",
+     "at": 3.884
+    },
+    {
+     "who": "b",
+     "cue": "watching",
+     "expr": "smile",
+     "at": 7.658
+    }
+   ],
+   "fx": [
+    {
+     "kind": "think",
+     "who": "a",
+     "text": "Dinner at Crown?",
+     "cue": "credentials",
+     "at": 6.361
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "MasterChef",
+     "shot": "board",
+     "at": 3.884
+    },
+    {
+     "cue": "food",
+     "shot": "actor",
+     "who": "a",
+     "at": 6.998
+    }
+   ],
+   "audio": "audio/w11-09.mp3",
+   "leadIn": 0.45,
+   "seconds": 9.09,
+   "words": [
+    {
+     "w": "Crown",
+     "t": 0.5
+    },
+    {
+     "w": "wasn't",
+     "t": 0.889
+    },
+    {
+     "w": "seen",
+     "t": 1.16
+    },
+    {
+     "w": "as",
+     "t": 1.502
+    },
+    {
+     "w": "a",
+     "t": 1.62
+    },
+    {
+     "w": "dining",
+     "t": 1.679
+    },
+    {
+     "w": "destination",
+     "t": 2.08
+    },
+    {
+     "w": "So",
+     "t": 3.142
+    },
+    {
+     "w": "it",
+     "t": 3.413
+    },
+    {
+     "w": "sponsored",
+     "t": 3.472
+    },
+    {
+     "w": "MasterChef",
+     "t": 3.884
+    },
+    {
+     "w": "on",
+     "t": 4.427
+    },
+    {
+     "w": "TV",
+     "t": 4.545
+    },
+    {
+     "w": "rebuilding",
+     "t": 5.394
+    },
+    {
+     "w": "its",
+     "t": 5.901
+    },
+    {
+     "w": "dining",
+     "t": 6.031
+    },
+    {
+     "w": "credentials",
+     "t": 6.361
+    },
+    {
+     "w": "where",
+     "t": 6.88
+    },
+    {
+     "w": "food",
+     "t": 6.998
+    },
+    {
+     "w": "lovers",
+     "t": 7.304
+    },
+    {
+     "w": "were",
+     "t": 7.587
+    },
+    {
+     "w": "watching",
+     "t": 7.658
+    }
+   ]
+  },
+  {
+   "set": "street",
+   "say": "In Queensland, locals saw NRMA as an outsider. So it teamed up with the Courier Mail on Help our highway, campaigning to fix the Bruce Highway.",
+   "board": {
+    "title": "Help our **highway**",
+    "lines": [
+     {
+      "text": "NRMA x **Courier Mail**",
+      "cue": "Courier",
+      "at": 4.993
+     },
+     {
+      "text": "Articles, polls, editorial",
+      "cue": "campaigning",
+      "at": 6.974
+     },
+     {
+      "text": "Fix the **Bruce Highway**",
+      "cue": "Bruce",
+      "at": 7.941
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "point"
+    },
+    {
+     "id": "d",
+     "look": "worker",
+     "v": 3,
+     "at": "kerb",
+     "pose": "hips"
+    },
+    {
+     "id": "e",
+     "look": "elder",
+     "v": 1,
+     "at": "bus"
+    }
+   ],
+   "acts": [
+    {
+     "who": "d",
+     "cue": "outsider",
+     "pose": "none",
+     "expr": "stern",
+     "at": 3.118
+    },
+    {
+     "who": "d",
+     "cue": "Bruce",
+     "pose": "cheer",
+     "expr": "grin",
+     "at": 7.941
+    }
+   ],
+   "fx": [
+    {
+     "kind": "think",
+     "who": "d",
+     "text": "Not from here",
+     "cue": "outsider",
+     "at": 3.118
+    },
+    {
+     "kind": "exclaim",
+     "who": "e",
+     "cue": "fix",
+     "at": 7.587
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "outsider",
+     "shot": "close",
+     "who": "d",
+     "at": 3.118
+    },
+    {
+     "cue": "Help",
+     "shot": "board",
+     "at": 5.83
+    }
+   ],
+   "audio": "audio/w11-10.mp3",
+   "leadIn": 0.45,
+   "seconds": 9.618,
+   "words": [
+    {
+     "w": "In",
+     "t": 0.5
+    },
+    {
+     "w": "Queensland",
+     "t": 0.677
+    },
+    {
+     "w": "locals",
+     "t": 1.514
+    },
+    {
+     "w": "saw",
+     "t": 1.903
+    },
+    {
+     "w": "NRMA",
+     "t": 2.21
+    },
+    {
+     "w": "as",
+     "t": 2.882
+    },
+    {
+     "w": "an",
+     "t": 3.024
+    },
+    {
+     "w": "outsider",
+     "t": 3.118
+    },
+    {
+     "w": "So",
+     "t": 4.061
+    },
+    {
+     "w": "it",
+     "t": 4.333
+    },
+    {
+     "w": "teamed",
+     "t": 4.403
+    },
+    {
+     "w": "up",
+     "t": 4.651
+    },
+    {
+     "w": "with",
+     "t": 4.816
+    },
+    {
+     "w": "the",
+     "t": 4.922
+    },
+    {
+     "w": "Courier",
+     "t": 4.993
+    },
+    {
+     "w": "Mail",
+     "t": 5.3
+    },
+    {
+     "w": "on",
+     "t": 5.677
+    },
+    {
+     "w": "Help",
+     "t": 5.83
+    },
+    {
+     "w": "our",
+     "t": 6.066
+    },
+    {
+     "w": "highway",
+     "t": 6.172
+    },
+    {
+     "w": "campaigning",
+     "t": 6.974
+    },
+    {
+     "w": "to",
+     "t": 7.505
+    },
+    {
+     "w": "fix",
+     "t": 7.587
+    },
+    {
+     "w": "the",
+     "t": 7.859
+    },
+    {
+     "w": "Bruce",
+     "t": 7.941
+    },
+    {
+     "w": "Highway",
+     "t": 8.189
+    }
+   ]
+  },
+  {
+   "set": "street",
+   "say": "It worked. NRMA hit its best non-customer consideration in Queensland in six years, and the government committed four hundred and sixty-seven million dollars.",
+   "board": {
+    "title": "Print felt **real**",
+    "big": "$467m",
+    "caption": "committed to fix the **Bruce Highway**",
+    "cue": "four",
+    "at": 6.809
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "cheer",
+     "expr": "grin"
+    },
+    {
+     "id": "d",
+     "look": "worker",
+     "v": 3,
+     "at": "kerb"
+    }
+   ],
+   "acts": [
+    {
+     "who": "d",
+     "cue": "committed",
+     "pose": "cheer",
+     "expr": "laugh",
+     "at": 6.479
+    }
+   ],
+   "fx": [
+    {
+     "kind": "tick",
+     "who": "host",
+     "cue": "worked",
+     "at": 0.712
+    },
+    {
+     "kind": "money",
+     "who": "d",
+     "cue": "million",
+     "at": 7.882
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "host",
+     "at": 0.2
+    },
+    {
+     "cue": "government",
+     "shot": "board",
+     "at": 6.054
+    }
+   ],
+   "audio": "audio/w11-11.mp3",
+   "leadIn": 0.45,
+   "seconds": 9.57,
+   "words": [
+    {
+     "w": "It",
+     "t": 0.5
+    },
+    {
+     "w": "worked",
+     "t": 0.712
+    },
+    {
+     "w": "NRMA",
+     "t": 1.526
+    },
+    {
+     "w": "hit",
+     "t": 2.127
+    },
+    {
+     "w": "its",
+     "t": 2.281
+    },
+    {
+     "w": "best",
+     "t": 2.41
+    },
+    {
+     "w": "non-customer",
+     "t": 2.729
+    },
+    {
+     "w": "consideration",
+     "t": 3.354
+    },
+    {
+     "w": "in",
+     "t": 4.073
+    },
+    {
+     "w": "Queensland",
+     "t": 4.203
+    },
+    {
+     "w": "in",
+     "t": 4.745
+    },
+    {
+     "w": "six",
+     "t": 4.899
+    },
+    {
+     "w": "years",
+     "t": 5.158
+    },
+    {
+     "w": "and",
+     "t": 5.877
+    },
+    {
+     "w": "the",
+     "t": 6.007
+    },
+    {
+     "w": "government",
+     "t": 6.054
+    },
+    {
+     "w": "committed",
+     "t": 6.479
+    },
+    {
+     "w": "four",
+     "t": 6.809
+    },
+    {
+     "w": "hundred",
+     "t": 7.068
+    },
+    {
+     "w": "and",
+     "t": 7.281
+    },
+    {
+     "w": "sixty-seven",
+     "t": 7.316
+    },
+    {
+     "w": "million",
+     "t": 7.882
+    },
+    {
+     "w": "dollars",
+     "t": 8.189
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Ali's answer to creative versus media? Creative and media. Insight, creativity, collaboration, and human thinking plus AI.",
+   "board": {
+    "title": "Creative **AND** media",
+    "lines": [
+     {
+      "text": "**Insights** matter more",
+      "cue": "Insight",
+      "at": 4.863
+     },
+     {
+      "text": "**Creativity** cuts through",
+      "cue": "creativity",
+      "at": 5.618
+     },
+     {
+      "text": "**Collaboration** is critical",
+      "cue": "collaboration",
+      "at": 6.55
+     },
+     {
+      "text": "**Human thinking** plus AI",
+      "cue": "human",
+      "at": 7.646
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "cre",
+     "look": "exec_f",
+     "v": 5,
+     "at": "table"
+    },
+    {
+     "id": "med",
+     "look": "exec",
+     "v": 6,
+     "at": "table2"
+    }
+   ],
+   "acts": [
+    {
+     "who": "cre",
+     "cue": "collaboration",
+     "pose": "cheer",
+     "expr": "smile",
+     "at": 6.55
+    },
+    {
+     "who": "med",
+     "cue": "human",
+     "pose": "cheer",
+     "expr": "smile",
+     "at": 7.646
+    }
+   ],
+   "fx": [
+    {
+     "kind": "heart",
+     "who": "cre",
+     "cue": "collaboration",
+     "at": 6.55
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "collaboration",
+     "shot": "wide",
+     "at": 6.55
+    }
+   ],
+   "audio": "audio/w11-12.mp3",
+   "leadIn": 0.45,
+   "seconds": 10.122,
+   "words": [
+    {
+     "w": "Ali's",
+     "t": 0.5
+    },
+    {
+     "w": "answer",
+     "t": 1.019
+    },
+    {
+     "w": "to",
+     "t": 1.373
+    },
+    {
+     "w": "creative",
+     "t": 1.467
+    },
+    {
+     "w": "versus",
+     "t": 2.021
+    },
+    {
+     "w": "media",
+     "t": 2.446
+    },
+    {
+     "w": "Creative",
+     "t": 3.224
+    },
+    {
+     "w": "and",
+     "t": 3.837
+    },
+    {
+     "w": "media",
+     "t": 4.026
+    },
+    {
+     "w": "Insight",
+     "t": 4.863
+    },
+    {
+     "w": "creativity",
+     "t": 5.618
+    },
+    {
+     "w": "collaboration",
+     "t": 6.55
+    },
+    {
+     "w": "and",
+     "t": 7.493
+    },
+    {
+     "w": "human",
+     "t": 7.646
+    },
+    {
+     "w": "thinking",
+     "t": 8.012
+    },
+    {
+     "w": "plus",
+     "t": 8.377
+    },
+    {
+     "w": "AI",
+     "t": 8.684
+    }
+   ]
+  },
+  {
+   "set": "stage",
+   "say": "Then Geoff Clarke, Chief Operating Officer of IPG Mediabrands Australia. ChatGPT reached about seven hundred million users in under two years, so regulation, ethics and education are playing catch-up.",
+   "board": {
+    "photo": "photos/w11b.png",
+    "title": "Bots, AI and **people**",
+    "name": "Geoff Clarke",
+    "org": "Chief Operating Officer, IPG Mediabrands Australia"
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "c",
+     "pose": "present"
+    },
+    {
+     "id": "s1",
+     "look": "student",
+     "v": 3,
+     "at": "aisle",
+     "hold": "phone",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "seven",
+     "pose": "up",
+     "expr": "shock",
+     "at": 6.656
+    }
+   ],
+   "fx": [
+    {
+     "kind": "exclaim",
+     "who": "host",
+     "cue": "seven",
+     "at": 6.656
+    },
+    {
+     "kind": "clock",
+     "who": "s1",
+     "cue": "catch-up",
+     "at": 11.998
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide",
+     "at": 0.2
+    },
+    {
+     "cue": "Geoff",
+     "shot": "board",
+     "at": 0.854
+    },
+    {
+     "cue": "seven",
+     "shot": "close",
+     "at": 6.656
+    }
+   ],
+   "audio": "audio/w11-13.mp3",
+   "leadIn": 0.45,
+   "seconds": 13.41,
+   "words": [
+    {
+     "w": "Then",
+     "t": 0.5
+    },
+    {
+     "w": "Geoff",
+     "t": 0.854
+    },
+    {
+     "w": "Clarke",
+     "t": 1.054
+    },
+    {
+     "w": "Chief",
+     "t": 1.797
+    },
+    {
+     "w": "Operating",
+     "t": 2.068
+    },
+    {
+     "w": "Officer",
+     "t": 2.469
+    },
+    {
+     "w": "of",
+     "t": 2.906
+    },
+    {
+     "w": "IPG",
+     "t": 3.142
+    },
+    {
+     "w": "Mediabrands",
+     "t": 3.708
+    },
+    {
+     "w": "Australia",
+     "t": 4.321
+    },
+    {
+     "w": "ChatGPT",
+     "t": 5.205
+    },
+    {
+     "w": "reached",
+     "t": 6.125
+    },
+    {
+     "w": "about",
+     "t": 6.432
+    },
+    {
+     "w": "seven",
+     "t": 6.656
+    },
+    {
+     "w": "hundred",
+     "t": 6.962
+    },
+    {
+     "w": "million",
+     "t": 7.234
+    },
+    {
+     "w": "users",
+     "t": 7.54
+    },
+    {
+     "w": "in",
+     "t": 7.917
+    },
+    {
+     "w": "under",
+     "t": 8.047
+    },
+    {
+     "w": "two",
+     "t": 8.236
+    },
+    {
+     "w": "years",
+     "t": 8.425
+    },
+    {
+     "w": "so",
+     "t": 9.144
+    },
+    {
+     "w": "regulation",
+     "t": 9.344
+    },
+    {
+     "w": "ethics",
+     "t": 10.229
+    },
+    {
+     "w": "and",
+     "t": 10.759
+    },
+    {
+     "w": "education",
+     "t": 10.972
+    },
+    {
+     "w": "are",
+     "t": 11.608
+    },
+    {
+     "w": "playing",
+     "t": 11.679
+    },
+    {
+     "w": "catch-up",
+     "t": 11.998
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Here's the false economy. Upstream work is now heavily AI driven, but downstream, seventy percent of the workload, is still highly manual.",
+   "board": {
+    "title": "A **false economy**",
+    "bars": [
+     {
+      "label": "Upstream: AI driven",
+      "value": 30,
+      "display": "30%",
+      "cue": "Upstream",
+      "at": 2.21
+     },
+     {
+      "label": "Downstream: manual",
+      "value": 70,
+      "display": "70%",
+      "cue": "downstream",
+      "at": 4.934
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "point"
+    },
+    {
+     "id": "w",
+     "look": "worker",
+     "v": 4,
+     "at": "desk",
+     "hold": "clipboard",
+     "pose": "hold",
+     "expr": "dazed"
+    }
+   ],
+   "acts": [
+    {
+     "who": "w",
+     "cue": "manual",
+     "expr": "pained",
+     "at": 8.071
+    }
+   ],
+   "fx": [
+    {
+     "kind": "zzz",
+     "who": "w",
+     "cue": "manual",
+     "at": 8.071
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "manual",
+     "shot": "actor",
+     "who": "w",
+     "at": 8.071
+    }
+   ],
+   "audio": "audio/w11-14.mp3",
+   "leadIn": 0.45,
+   "seconds": 9.498,
+   "words": [
+    {
+     "w": "Here's",
+     "t": 0.5
+    },
+    {
+     "w": "the",
+     "t": 0.948
+    },
+    {
+     "w": "false",
+     "t": 1.066
+    },
+    {
+     "w": "economy",
+     "t": 1.373
+    },
+    {
+     "w": "Upstream",
+     "t": 2.21
+    },
+    {
+     "w": "work",
+     "t": 2.693
+    },
+    {
+     "w": "is",
+     "t": 3.0
+    },
+    {
+     "w": "now",
+     "t": 3.142
+    },
+    {
+     "w": "heavily",
+     "t": 3.342
+    },
+    {
+     "w": "AI",
+     "t": 3.778
+    },
+    {
+     "w": "driven",
+     "t": 4.05
+    },
+    {
+     "w": "but",
+     "t": 4.757
+    },
+    {
+     "w": "downstream",
+     "t": 4.934
+    },
+    {
+     "w": "seventy",
+     "t": 5.771
+    },
+    {
+     "w": "percent",
+     "t": 6.137
+    },
+    {
+     "w": "of",
+     "t": 6.443
+    },
+    {
+     "w": "the",
+     "t": 6.514
+    },
+    {
+     "w": "workload",
+     "t": 6.573
+    },
+    {
+     "w": "is",
+     "t": 7.316
+    },
+    {
+     "w": "still",
+     "t": 7.446
+    },
+    {
+     "w": "highly",
+     "t": 7.729
+    },
+    {
+     "w": "manual",
+     "t": 8.071
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "So agencies built bots. Trigger bots react to an email, automatic bots take over next, and schedule bots run at set times. Geoff calls them an invisible police force.",
+   "board": {
+    "title": "Three kinds of **bots**",
+    "steps": [
+     {
+      "text": "**Trigger** react to an input",
+      "cue": "Trigger",
+      "at": 2.505
+     },
+     {
+      "text": "**Automatic** take over next",
+      "cue": "automatic",
+      "at": 4.285
+     },
+     {
+      "text": "**Schedule** run at set times",
+      "cue": "schedule",
+      "at": 6.243
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "w",
+     "look": "worker",
+     "v": 4,
+     "at": "desk",
+     "hold": "laptop",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "w",
+     "cue": "police",
+     "expr": "relief_open",
+     "at": 9.887
+    }
+   ],
+   "fx": [
+    {
+     "kind": "eye",
+     "who": "host",
+     "cue": "invisible",
+     "at": 9.285
+    },
+    {
+     "kind": "tick",
+     "who": "w",
+     "cue": "force",
+     "at": 10.229
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "invisible",
+     "shot": "close",
+     "at": 9.285
+    },
+    {
+     "cue": "force",
+     "shot": "two",
+     "who": "w",
+     "at": 10.229
+    }
+   ],
+   "audio": "audio/w11-15.mp3",
+   "leadIn": 0.45,
+   "seconds": 11.586,
+   "words": [
+    {
+     "w": "So",
+     "t": 0.5
+    },
+    {
+     "w": "agencies",
+     "t": 0.913
+    },
+    {
+     "w": "built",
+     "t": 1.502
+    },
+    {
+     "w": "bots",
+     "t": 1.75
+    },
+    {
+     "w": "Trigger",
+     "t": 2.505
+    },
+    {
+     "w": "bots",
+     "t": 2.788
+    },
+    {
+     "w": "react",
+     "t": 3.059
+    },
+    {
+     "w": "to",
+     "t": 3.377
+    },
+    {
+     "w": "an",
+     "t": 3.484
+    },
+    {
+     "w": "email",
+     "t": 3.554
+    },
+    {
+     "w": "automatic",
+     "t": 4.285
+    },
+    {
+     "w": "bots",
+     "t": 4.757
+    },
+    {
+     "w": "take",
+     "t": 5.04
+    },
+    {
+     "w": "over",
+     "t": 5.264
+    },
+    {
+     "w": "next",
+     "t": 5.417
+    },
+    {
+     "w": "and",
+     "t": 6.113
+    },
+    {
+     "w": "schedule",
+     "t": 6.243
+    },
+    {
+     "w": "bots",
+     "t": 6.62
+    },
+    {
+     "w": "run",
+     "t": 6.915
+    },
+    {
+     "w": "at",
+     "t": 7.175
+    },
+    {
+     "w": "set",
+     "t": 7.316
+    },
+    {
+     "w": "times",
+     "t": 7.528
+    },
+    {
+     "w": "Geoff",
+     "t": 8.354
+    },
+    {
+     "w": "calls",
+     "t": 8.684
+    },
+    {
+     "w": "them",
+     "t": 8.991
+    },
+    {
+     "w": "an",
+     "t": 9.179
+    },
+    {
+     "w": "invisible",
+     "t": 9.285
+    },
+    {
+     "w": "police",
+     "t": 9.887
+    },
+    {
+     "w": "force",
+     "t": 10.229
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Bots now run TV setup, bookings and budget reconciliation. With offshoring, they saved about two hundred and seven thousand hours in five years, and clients became partners.",
+   "board": {
+    "title": "Five years of **bots**",
+    "big": "207k",
+    "caption": "**hours** saved with offshoring",
+    "cue": "two",
+    "at": 6.396
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "cheer"
+    },
+    {
+     "id": "w",
+     "look": "worker",
+     "v": 4,
+     "at": "desk",
+     "expr": "smile"
+    },
+    {
+     "id": "cl",
+     "look": "exec_f",
+     "v": 2,
+     "at": "walkR",
+     "to": "table",
+     "walkCue": "clients",
+     "walkAt": 8.943
+    }
+   ],
+   "acts": [
+    {
+     "who": "w",
+     "cue": "hours",
+     "pose": "cheer",
+     "expr": "laugh",
+     "at": 7.481
+    },
+    {
+     "who": "cl",
+     "cue": "partners",
+     "pose": "present",
+     "expr": "smile",
+     "at": 9.675
+    }
+   ],
+   "fx": [
+    {
+     "kind": "stars",
+     "who": "w",
+     "cue": "hours",
+     "at": 7.481
+    },
+    {
+     "kind": "heart",
+     "who": "cl",
+     "cue": "partners",
+     "at": 9.675
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "hours",
+     "shot": "actor",
+     "who": "w",
+     "at": 7.481
+    },
+    {
+     "cue": "clients",
+     "shot": "wide",
+     "at": 8.943
+    }
+   ],
+   "audio": "audio/w11-16.mp3",
+   "leadIn": 0.45,
+   "seconds": 11.178,
+   "words": [
+    {
+     "w": "Bots",
+     "t": 0.5
+    },
+    {
+     "w": "now",
+     "t": 0.807
+    },
+    {
+     "w": "run",
+     "t": 1.007
+    },
+    {
+     "w": "TV",
+     "t": 1.29
+    },
+    {
+     "w": "setup",
+     "t": 1.632
+    },
+    {
+     "w": "bookings",
+     "t": 2.316
+    },
+    {
+     "w": "and",
+     "t": 2.906
+    },
+    {
+     "w": "budget",
+     "t": 3.071
+    },
+    {
+     "w": "reconciliation",
+     "t": 3.472
+    },
+    {
+     "w": "With",
+     "t": 4.675
+    },
+    {
+     "w": "offshoring",
+     "t": 4.899
+    },
+    {
+     "w": "they",
+     "t": 5.7
+    },
+    {
+     "w": "saved",
+     "t": 5.83
+    },
+    {
+     "w": "about",
+     "t": 6.149
+    },
+    {
+     "w": "two",
+     "t": 6.396
+    },
+    {
+     "w": "hundred",
+     "t": 6.585
+    },
+    {
+     "w": "and",
+     "t": 6.785
+    },
+    {
+     "w": "seven",
+     "t": 6.833
+    },
+    {
+     "w": "thousand",
+     "t": 7.139
+    },
+    {
+     "w": "hours",
+     "t": 7.481
+    },
+    {
+     "w": "in",
+     "t": 7.8
+    },
+    {
+     "w": "five",
+     "t": 7.882
+    },
+    {
+     "w": "years",
+     "t": 8.165
+    },
+    {
+     "w": "and",
+     "t": 8.802
+    },
+    {
+     "w": "clients",
+     "t": 8.943
+    },
+    {
+     "w": "became",
+     "t": 9.368
+    },
+    {
+     "w": "partners",
+     "t": 9.675
+    }
+   ]
+  },
+  {
+   "set": "plaza",
+   "say": "So what skills matter? Data-driven thinking, creative and strategic thinking, and adaptability. The lasting edge is the craft of your people.",
+   "board": {
+    "title": "Skills that **last**",
+    "lines": [
+     {
+      "text": "**Data-driven** thinking",
+      "cue": "Data",
+      "at": 2.104
+     },
+     {
+      "text": "**Creative** and strategic thinking",
+      "cue": "creative",
+      "at": 3.318
+     },
+     {
+      "text": "**Adaptability**, lifelong learning",
+      "cue": "adaptability",
+      "at": 5.335
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "point"
+    },
+    {
+     "id": "s1",
+     "look": "student",
+     "v": 7,
+     "at": "walkR",
+     "to": "c",
+     "hold": "laptop",
+     "pose": "hold"
+    },
+    {
+     "id": "s2",
+     "look": "student",
+     "v": 8,
+     "at": "r"
+    }
+   ],
+   "acts": [
+    {
+     "who": "s2",
+     "cue": "craft",
+     "pose": "cheer",
+     "expr": "grin",
+     "at": 7.611
+    }
+   ],
+   "fx": [
+    {
+     "kind": "brain",
+     "who": "s1",
+     "cue": "strategic",
+     "at": 4.026
+    },
+    {
+     "kind": "bulb",
+     "who": "s2",
+     "cue": "craft",
+     "at": 7.611
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "adaptability",
+     "shot": "wide",
+     "at": 5.335
+    },
+    {
+     "cue": "craft",
+     "shot": "close",
+     "who": "s2",
+     "at": 7.611
+    }
+   ],
+   "audio": "audio/w11-17.mp3",
+   "leadIn": 0.45,
+   "seconds": 9.618,
+   "words": [
+    {
+     "w": "So",
+     "t": 0.5
+    },
+    {
+     "w": "what",
+     "t": 0.842
+    },
+    {
+     "w": "skills",
+     "t": 1.054
+    },
+    {
+     "w": "matter",
+     "t": 1.432
+    },
+    {
+     "w": "Data-driven",
+     "t": 2.104
+    },
+    {
+     "w": "thinking",
+     "t": 2.658
+    },
+    {
+     "w": "creative",
+     "t": 3.318
+    },
+    {
+     "w": "and",
+     "t": 3.861
+    },
+    {
+     "w": "strategic",
+     "t": 4.026
+    },
+    {
+     "w": "thinking",
+     "t": 4.557
+    },
+    {
+     "w": "and",
+     "t": 5.182
+    },
+    {
+     "w": "adaptability",
+     "t": 5.335
+    },
+    {
+     "w": "The",
+     "t": 6.467
+    },
+    {
+     "w": "lasting",
+     "t": 6.62
+    },
+    {
+     "w": "edge",
+     "t": 7.092
+    },
+    {
+     "w": "is",
+     "t": 7.375
+    },
+    {
+     "w": "the",
+     "t": 7.516
+    },
+    {
+     "w": "craft",
+     "t": 7.611
+    },
+    {
+     "w": "of",
+     "t": 8.035
+    },
+    {
+     "w": "your",
+     "t": 8.106
+    },
+    {
+     "w": "people",
+     "t": 8.2
+    }
+   ]
+  },
+  {
+   "set": "stage",
+   "say": "So: media orchestrates experiences, choices follow the logic flow, and bots take the grind. Use AI to free time for high-value work, and lead the change. That's week eleven.",
+   "board": {
+    "title": "Week 11 **takeaways**",
+    "lines": [
+     {
+      "text": "Media **orchestrates** experiences",
+      "cue": "orchestrates",
+      "at": 1.644
+     },
+     {
+      "text": "Follow the **logic flow**",
+      "cue": "logic",
+      "at": 4.014
+     },
+     {
+      "text": "**Bots** take the grind",
+      "cue": "bots",
+      "at": 5.146
+     },
+     {
+      "text": "**Lead** the change",
+      "cue": "lead",
+      "at": 9.462
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "s1",
+     "look": "student",
+     "v": 1,
+     "at": "aisle"
+    },
+    {
+     "id": "s2",
+     "look": "student",
+     "v": 2,
+     "at": "aisle2"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "That",
+     "pose": "cheer",
+     "expr": "grin",
+     "at": 10.653
+    },
+    {
+     "who": "s1",
+     "cue": "week",
+     "pose": "cheer",
+     "at": 11.019
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board",
+     "at": 0.2
+    },
+    {
+     "cue": "week",
+     "shot": "wide",
+     "at": 11.019
+    }
+   ],
+   "audio": "audio/w11-18.mp3",
+   "leadIn": 0.45,
+   "seconds": 12.642,
+   "words": [
+    {
+     "w": "So",
+     "t": 0.5
+    },
+    {
+     "w": "media",
+     "t": 1.196
+    },
+    {
+     "w": "orchestrates",
+     "t": 1.644
+    },
+    {
+     "w": "experiences",
+     "t": 2.186
+    },
+    {
+     "w": "choices",
+     "t": 3.212
+    },
+    {
+     "w": "follow",
+     "t": 3.696
+    },
+    {
+     "w": "the",
+     "t": 3.943
+    },
+    {
+     "w": "logic",
+     "t": 4.014
+    },
+    {
+     "w": "flow",
+     "t": 4.333
+    },
+    {
+     "w": "and",
+     "t": 4.981
+    },
+    {
+     "w": "bots",
+     "t": 5.146
+    },
+    {
+     "w": "take",
+     "t": 5.453
+    },
+    {
+     "w": "the",
+     "t": 5.665
+    },
+    {
+     "w": "grind",
+     "t": 5.724
+    },
+    {
+     "w": "Use",
+     "t": 6.55
+    },
+    {
+     "w": "AI",
+     "t": 7.021
+    },
+    {
+     "w": "to",
+     "t": 7.434
+    },
+    {
+     "w": "free",
+     "t": 7.564
+    },
+    {
+     "w": "time",
+     "t": 7.823
+    },
+    {
+     "w": "for",
+     "t": 8.141
+    },
+    {
+     "w": "high-value",
+     "t": 8.259
+    },
+    {
+     "w": "work",
+     "t": 8.719
+    },
+    {
+     "w": "and",
+     "t": 9.285
+    },
+    {
+     "w": "lead",
+     "t": 9.462
+    },
+    {
+     "w": "the",
+     "t": 9.733
+    },
+    {
+     "w": "change",
+     "t": 9.792
+    },
+    {
+     "w": "That's",
+     "t": 10.653
+    },
+    {
+     "w": "week",
+     "t": 11.019
+    },
+    {
+     "w": "eleven",
+     "t": 11.255
+    }
+   ]
+  }
+ ],
+ "id": "w11",
+ "total": 194.1
+}

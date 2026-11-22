@@ -1,0 +1,273 @@
+{
+ "week": 0,
+ "title": "Influencer risk and compliance (disclosure, AIMCO, brand safety)",
+ "speaker": "Bryce Coombe, Hypetap, Week 10",
+ "beats": [
+  {
+   "set": "office",
+   "say": "With influencers, the brand carries the legal risk, not the creator. A free product counts as paid advertising, so disclose it. Know the risk types, follow the industry code, and check brand safety properly.",
+   "board": {
+    "title": "Influencer **risk**",
+    "steps": [
+     {
+      "text": "**Disclose**: gifted means paid",
+      "cue": "disclose"
+     },
+     {
+      "text": "**Risk types**: legal, reputation, ROI, ops",
+      "cue": "types"
+     },
+     {
+      "text": "**AIMCO code**: governance",
+      "cue": "code"
+     },
+     {
+      "text": "**Brand safety**: dig deep",
+      "cue": "safety"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "present"
+    },
+    {
+     "id": "e",
+     "look": "exec_f",
+     "v": 3,
+     "at": "table"
+    }
+   ],
+   "acts": [
+    {
+     "who": "e",
+     "cue": "legal",
+     "expr": "nervous"
+    },
+    {
+     "who": "host",
+     "cue": "safety",
+     "pose": "point"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "exclaim",
+     "who": "e",
+     "cue": "legal"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "legal",
+     "shot": "actor",
+     "who": "e"
+    },
+    {
+     "cue": "disclose",
+     "shot": "board"
+    }
+   ]
+  },
+  {
+   "set": "home",
+   "say": "One washing powder brand signed a creator without checking her other content, and left the comments open. The brand, not the creator, wore it.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "l",
+     "pose": "none"
+    },
+    {
+     "id": "p",
+     "look": "student",
+     "v": 3,
+     "at": "sofa",
+     "mode": "sit",
+     "hold": "phone",
+     "pose": "hold"
+    },
+    {
+     "id": "q",
+     "look": "shopper",
+     "v": 6,
+     "at": "sofa2",
+     "mode": "sit"
+    }
+   ],
+   "acts": [
+    {
+     "who": "p",
+     "cue": "comments",
+     "expr": "shock"
+    },
+    {
+     "who": "q",
+     "cue": "creator",
+     "expr": "laugh"
+    },
+    {
+     "who": "host",
+     "cue": "wore",
+     "pose": "shrug",
+     "expr": "pained"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "exclaim",
+     "who": "p",
+     "cue": "comments"
+    },
+    {
+     "kind": "cross",
+     "who": "host",
+     "cue": "wore"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "comments",
+     "shot": "actor",
+     "who": "p"
+    },
+    {
+     "cue": "wore",
+     "shot": "close"
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Never trust a screen grab. Check deleted posts, fit, swearing and politics before you sign.",
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "l",
+     "pose": "none"
+    },
+    {
+     "id": "e",
+     "look": "exec_f",
+     "v": 4,
+     "at": "table",
+     "hold": "laptop",
+     "pose": "hold"
+    }
+   ],
+   "acts": [
+    {
+     "who": "e",
+     "cue": "grab",
+     "expr": "nervous"
+    },
+    {
+     "who": "e",
+     "cue": "deleted",
+     "pose": "chin"
+    },
+    {
+     "who": "host",
+     "cue": "sign",
+     "pose": "point",
+     "expr": "stern"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "eye",
+     "who": "e",
+     "cue": "deleted"
+    },
+    {
+     "kind": "tick",
+     "who": "host",
+     "cue": "sign"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "wide"
+    },
+    {
+     "cue": "deleted",
+     "shot": "actor",
+     "who": "e"
+    },
+    {
+     "cue": "sign",
+     "shot": "close"
+    }
+   ]
+  },
+  {
+   "set": "office",
+   "say": "Use it like this: disclose, vet, contract and measure, and name the risk each one cuts.",
+   "board": {
+    "title": "Use it like **this**",
+    "lines": [
+     {
+      "text": "**Disclose** and vet",
+      "cue": "disclose"
+     },
+     {
+      "text": "**Contract** and measure",
+      "cue": "contract"
+     },
+     {
+      "text": "Name the **risk** it cuts",
+      "cue": "risk"
+     }
+    ]
+   },
+   "cast": [
+    {
+     "id": "host",
+     "look": "host",
+     "at": "board",
+     "pose": "point"
+    }
+   ],
+   "acts": [
+    {
+     "who": "host",
+     "cue": "cuts",
+     "pose": "cheer",
+     "expr": "grin"
+    }
+   ],
+   "fx": [
+    {
+     "kind": "tick",
+     "who": "host",
+     "cue": "cuts"
+    }
+   ],
+   "shots": [
+    {
+     "cue": "start",
+     "shot": "board"
+    },
+    {
+     "cue": "cuts",
+     "shot": "close"
+    }
+   ],
+   "hold": 1.0
+  }
+ ]
+}
